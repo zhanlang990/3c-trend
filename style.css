@@ -202,14 +202,22 @@ a { color: inherit; text-decoration: none; }
   padding: 20px 24px;
   display: flex;
   flex-direction: column;
-  cursor: pointer;
   transition: all 0.2s ease;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
 .news-card:hover {
-  transform: translateY(-1px);
   box-shadow: 0 4px 16px rgba(0,0,0,0.06);
   border-color: #D5DBE5;
+}
+/* Title link: clickable, distinguishable, copy-friendly */
+.title-link {
+  color: #1F2937;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.title-link:hover {
+  color: #2C5282;
+  text-decoration: underline;
 }
 .news-meta {
   display: flex;

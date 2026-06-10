@@ -194,7 +194,7 @@
     }
 
     return (
-      '<a class="news-card" href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' +
+      '<div class="news-card">' +
         block("news-brief", "信息摘要", "📌", brief) +
         block("news-opportunity", "机会洞察", "🎯", opp) +
         block("news-insight", "操盘建议", "💡", insight) +
@@ -202,9 +202,9 @@
           '<div class="news-sources">' + sourceBadgesHtml(it) + "</div>" +
           '<span class="news-date">' + escapeHtml(it.publish_date || "") + "</span>" +
         "</div>" +
-        '<h3 class="news-title">' + escapeHtml(it.title || "") + "</h3>" +
+        '<h3 class="news-title"><a class="title-link" href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(it.title || "") + "</a></h3>" +
         (summary ? '<p class="news-summary">' + escapeHtml(summary) + "</p>" : "") +
-      "</a>"
+      "</div>"
     );
   }
 
