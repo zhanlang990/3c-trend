@@ -15,12 +15,31 @@
     "记者": 1, "报道": 1, "报告": 1, "消息": 1, "显示": 1, "表示": 1
   };
 
+  var FEEDBACK_KEY = "safebox_feedback_v1";
+
   var state = {
     all: [],
     source: "",
     keyword: "",
     query: "",
   };
+
+  // --- Feedback (good/bad) persistence ---
+  function loadFeedback() {
+    try { return JSON.parse(localStorage.getItem(FEEDBACK_KEY)) || {}; }
+    catch (e) { return {}; }
+  }
+  function saveFeedback(data) {
+    try { localStorage.setItem(FEEDBACK_KEY, JSON.stringify(data)); } catch (e) {}
+  }
+  function recordFeedback(url, type) {
+    var fb = loadFeedback();
+    fb[url] = type;   // "good" or "bad"
+    saveFeedback(fb);
+  }
+  function getFeedback(url) {
+    return loadFeedback()[url] || "";
+  }
 
   var $list = document.getElementById("news-list");
   var $empty = document.getElementById("empty-state");
@@ -194,16 +213,22 @@
     }
 
     return (
-      '<div class="news-card">' +
-        block("news-brief", "信息摘要", "📌", brief) +
-        block("news-opportunity", "机会洞察", "🎯", opp) +
-        block("news-insight", "操盘建议", "💡", insight) +
-        '<div class="news-meta">' +
-          '<div class="news-sources">' + sourceBadgesHtml(it) + "</div>" +
-          '<span class="news-date">' + escapeHtml(it.publish_date || "") + "</span>" +
+      '<div class="news-card" data-url="' + escapeHtml(url) + '">' +
+        '<div class="card-body">' +
+          block("news-brief", "信息摘要", "📌", brief) +
+          block("news-opportunity", "机会洞察", "🎯", opp) +
+          block("news-insight", "操盘建议", "💡", insight) +
+          '<div class="news-meta">' +
+            '<div class="news-sources">' + sourceBadgesHtml(it) + "</div>" +
+            '<span class="news-date">' + escapeHtml(it.publish_date || "") + "</span>" +
+          "</div>" +
+          '<h3 class="news-title"><a class="title-link" href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(it.title || "") + "</a></h3>" +
+          (summary ? '<p class="news-summary">' + escapeHtml(summary) + "</p>" : "") +
         "</div>" +
-        '<h3 class="news-title"><a class="title-link" href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(it.title || "") + "</a></h3>" +
-        (summary ? '<p class="news-summary">' + escapeHtml(summary) + "</p>" : "") +
+        '<div class="card-feedback">' +
+          '<button class="fb-btn fb-good' + (getFeedback(url) === "good" ? " fb-active" : "") + '" data-url="' + escapeHtml(url) + '" data-type="good" title="有价值，多抓此类资讯">👍 有用</button>' +
+          '<button class="fb-btn fb-bad' + (getFeedback(url) === "bad" ? " fb-active" : "") + '" data-url="' + escapeHtml(url) + '" data-type="bad" title="不相关，减少此类资讯">👎 不相关</button>' +
+        "</div>" +
       "</div>"
     );
   }
@@ -216,6 +241,28 @@
     }
     $empty.hidden = true;
     $list.innerHTML = items.map(cardHtml).join("");
+    // Bind feedback buttons
+    $list.querySelectorAll(".fb-btn").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        e.preventDefault();
+        var url = btn.getAttribute("data-url");
+        var type = btn.getAttribute("data-type");
+        var prev = getFeedback(url);
+        // Toggle: click same button again = cancel
+        if (prev === type) {
+          recordFeedback(url, "");
+          btn.classList.remove("fb-active");
+        } else {
+          recordFeedback(url, type);
+          // Update UI: activate this, deactivate sibling
+          var card = btn.closest(".news-card");
+          card.querySelectorAll(".fb-btn").forEach(function (b) {
+            b.classList.toggle("fb-active", b.getAttribute("data-type") === type);
+          });
+        }
+      });
+    });
   }
 
   function sortByDateDesc(items) {
@@ -284,5 +331,30 @@
         $empty.querySelector("p").textContent = "新闻数据加载失败 😢";
         $empty.querySelector(".empty-tip").textContent = "请检查 data/news.json 是否存在或网络是否通畅：" + err.message;
       });
+  }
+
+  // --- Export feedback button ---
+  var $exportBtn = document.getElementById("export-feedback-btn");
+  if ($exportBtn) {
+    $exportBtn.addEventListener("click", function () {
+      var fb = loadFeedback();
+      var count = Object.keys(fb).length;
+      if (count === 0) {
+        alert("暂无反馈数据。请先点击卡片旁的 👍有用 / 👎不相关 按钮。");
+        return;
+      }
+      var jsonStr = JSON.stringify(fb, null, 2);
+      // Copy to clipboard
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(jsonStr).then(function () {
+          alert("已复制 " + count + " 条反馈数据到剪贴板！\n\n请将剪贴板内容保存为 data/feedback.json，\n下次运行爬虫时会自动优化抓取优先级。");
+        });
+      } else {
+        // Fallback: open in new window
+        var w = window.open("", "_blank");
+        w.document.write("<pre>" + jsonStr + "</pre>");
+        alert("已在新窗口打开 " + count + " 条反馈数据。\n\n请复制内容保存为 data/feedback.json，\n下次运行爬虫时会自动优化抓取优先级。");
+      }
+    });
   }
 })();

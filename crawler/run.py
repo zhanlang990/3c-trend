@@ -2,10 +2,11 @@
 
 Pipeline:
   1) load sources.json
-  2) for each enabled source, run safe_fetch()
-  3) keyword filter -> recent (7d) filter -> dedup -> sort
-  4) generate procurement_insight
-  5) write data/news.json (fallback to sample data if empty)
+  2) load user feedback → adjust source/keyword priorities
+  3) for each enabled source, run safe_fetch()
+  4) keyword filter -> recent (7d) filter -> dedup -> sort
+  5) generate procurement_insight
+  6) write data/news.json (fallback to sample data if empty)
 """
 import json
 import logging
@@ -24,6 +25,7 @@ from filter import (
     sort_by_date_desc, finalize_items,
 )
 import insight as insight_mod
+import feedback as feedback_mod
 
 
 LOG_PATH = os.path.join(CURDIR, "run.log")
@@ -55,6 +57,18 @@ def run():
     keywords = cfg.get("keywords", [])
     sources = [s for s in cfg.get("sources", []) if s.get("enabled", True)]
     log.info("Loaded %d sources, %d keywords", len(sources), len(keywords))
+
+    # --- Apply user feedback weights ---
+    fb_result = feedback_mod.analyse()
+    fb_stats = fb_result.get("stats", {})
+    if fb_stats.get("total_feedback", 0) > 0:
+        log.info(
+            "Feedback applied: %d good, %d bad → adjusting priorities",
+            fb_stats.get("good_count", 0),
+            fb_stats.get("bad_count", 0),
+        )
+        sources = feedback_mod.apply_source_weights(sources, fb_result["source_weights"])
+        keywords = feedback_mod.apply_keyword_weights(keywords, fb_result["keyword_weights"])
 
     all_items = []
     source_names_with_data = set()
