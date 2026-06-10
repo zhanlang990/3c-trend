@@ -26,21 +26,40 @@ _A_TAG = re.compile(
 
 
 # Default search URL templates for known source ids
+# Updated 2026-06: verified all sources, use bing site: fallback for JS-rendered sites
 DEFAULT_SEARCH_URLS = {
-    "ithome": "https://www.ithome.com/search?word={keyword}",
-    "zol": "https://search.zol.com.cn/search.php?keyword={keyword}",
-    "pconline": "https://search.pconline.com.cn/search.php?q={keyword}",
-    "cnbeta": "https://www.cnbeta.com/search?keyword={keyword}",
-    "chinairn": "https://www.chinairn.com/search.aspx?keyword={keyword}",
-    "taobao-baike": "https://baike.taobao.com/search?keyword={keyword}",
-    "sohu": "https://search.sohu.com/?keyword={keyword}&type=10002",
-    "sina": "https://search.sina.com.cn/?q={keyword}&c=news&ie=utf-8",
-    "netease": "https://www.163.com/search?keyword={keyword}",
-    "china": "https://so.china.com/cse/search?q={keyword}",
-    "pchouse": "https://search.pchouse.com.cn/search.php?q={keyword}",
-    "eastmoney": "https://so.eastmoney.com/news/s?keyword={keyword}",
+    # --- General search engines (high reliability) ---
+    "bing": "https://cn.bing.com/search?q={keyword}",
+    "bing-news": "https://cn.bing.com/news/search?q={keyword}",
+    "sogou-news": "https://news.sogou.com/news?query={keyword}",
+    "sogou-weixin": "https://weixin.sogou.com/weixin?type=2&query={keyword}",
+    # --- Bing site: fallback for sites without working search (verified 2026-06) ---
+    "ithome": "https://cn.bing.com/search?q=site%3Aithome.com+{keyword}",
+    "zol": "https://cn.bing.com/search?q=site%3Azol.com.cn+{keyword}",
+    "pconline": "https://cn.bing.com/search?q=site%3Apconline.com.cn+{keyword}",
+    "cnbeta": "https://cn.bing.com/search?q=site%3Acnbeta.com+{keyword}",
+    "geekpark": "https://cn.bing.com/search?q=site%3Ageekpark.net+{keyword}",
+    "sohu": "https://cn.bing.com/search?q=site%3Asohu.com+{keyword}",
+    "sina": "https://cn.bing.com/search?q=site%3Asina.com.cn+{keyword}",
+    "36kr": "https://cn.bing.com/search?q=site%3A36kr.com+{keyword}",
+    "sspai": "https://cn.bing.com/search?q=site%3Asspai.com+{keyword}",
+    "chongdantou": "https://cn.bing.com/search?q=site%3Achongdantou.com+{keyword}",
+    "notebookcheck": "https://cn.bing.com/search?q=site%3Anotebookcheck.net+{keyword}",
+    "feng": "https://cn.bing.com/search?q=site%3Afeng.com+{keyword}",
+    "zealer": "https://cn.bing.com/search?q=site%3Azealer.com+{keyword}",
+    # --- Direct search (verified working 2026-06) ---
+    "ifanr": "https://www.ifanr.com/?s={keyword}",
+    "leikeji": "https://www.leikeji.com/?s={keyword}",
+    "theverge": "https://www.theverge.com/search?q={keyword}",
+    "engadget": "https://www.engadget.com/search?q={keyword}",
+    "cnet": "https://www.cnet.com/search?q={keyword}",
+    "tomshardware": "https://www.tomshardware.com/search?searchTerm={keyword}",
+    "androidauthority": "https://www.androidauthority.com/?s={keyword}",
+    # --- Legacy financial sources ---
     "cls": "https://www.cls.cn/search?keyword={keyword}",
     "sina-finance": "https://search.sina.com.cn/?q={keyword}&c=news&ie=utf-8",
+    "netease": "https://www.163.com/search?keyword={keyword}",
+    # --- Disabled (removed eastmoney - returns nav links, chinairn - returns ads) ---
 }
 
 
@@ -61,11 +80,11 @@ class GenericSearchFetcher(BaseFetcher):
         url_targets = []
         if "{keyword}" in tpl:
             for kw in keywords[:3]:  # cap keywords to avoid heavy traffic
-                url_targets.append(self.build_search_url(tpl, kw))
+                url_targets.append((self.build_search_url(tpl, kw), kw))
         else:
-            url_targets.append(tpl)
+            url_targets.append((tpl, ""))
 
-        for target in url_targets:
+        for target, search_kw in url_targets:
             try:
                 html = self.http_get(target)
             except Exception:
@@ -92,9 +111,11 @@ class GenericSearchFetcher(BaseFetcher):
                 if title in ("首页", "登录", "注册", "更多", "下一页", "上一页"):
                     continue
 
-                # try to find a date close to this anchor (within 200 chars)
+                # try to find a date close to this anchor (within 500 chars)
+                # Bing search results often have dates in the snippet text
+                # further from the anchor tag
                 ctx_start = max(0, m.start() - 80)
-                ctx_end = min(len(html), m.end() + 200)
+                ctx_end = min(len(html), m.end() + 500)
                 ctx = html[ctx_start:ctx_end]
                 ctx_text = clean_text(ctx)
                 dt = parse_date(ctx_text)
@@ -104,7 +125,9 @@ class GenericSearchFetcher(BaseFetcher):
                     "title": title,
                     "url": full,
                     "summary": "",
+                    "source": self.config.get("name", ""),
                     "_publish_dt": dt,
+                    "_search_keyword": search_kw,
                 })
         return items
 

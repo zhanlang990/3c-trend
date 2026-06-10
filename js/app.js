@@ -52,13 +52,37 @@
     { id: "foldable-phone", name: "折叠屏手机", icon: "📲" }
   ];
 
-  // --- Hidden items (bad feedback → slide away, persist for all visitors) ---
+  // --- Hidden items (bad feedback → slide away, persist via localStorage + URL hash) ---
   function loadHidden() {
-    try { return JSON.parse(localStorage.getItem(HIDDEN_KEY)) || {}; }
-    catch (e) { return {}; }
+    var h = {};
+    // 1. Load from localStorage
+    try { var stored = JSON.parse(localStorage.getItem(HIDDEN_KEY)) || {}; for (var k in stored) h[k] = true; } catch (e) {}
+    // 2. Merge from URL hash (#hidden=base64urls)
+    try {
+      var hash = window.location.hash;
+      if (hash && hash.indexOf("hidden=") !== -1) {
+        var encoded = hash.split("hidden=")[1].split("&")[0];
+        var urls = JSON.parse(atob(decodeURIComponent(encoded)));
+        if (Array.isArray(urls)) { urls.forEach(function(u) { h[u] = true; }); }
+      }
+    } catch (e) {}
+    return h;
   }
   function saveHidden(data) {
     try { localStorage.setItem(HIDDEN_KEY, JSON.stringify(data)); } catch (e) {}
+    // Sync to URL hash
+    syncHiddenToHash(data);
+  }
+  function syncHiddenToHash(data) {
+    try {
+      var urls = Object.keys(data || {});
+      if (urls.length === 0) {
+        history.replaceState(null, "", window.location.pathname + window.location.search);
+      } else {
+        var encoded = encodeURIComponent(btoa(JSON.stringify(urls)));
+        history.replaceState(null, "", "#hidden=" + encoded);
+      }
+    } catch (e) {}
   }
   function hideItem(url) {
     var h = loadHidden();
@@ -337,6 +361,18 @@
     if (!items.length) {
       $list.innerHTML = "";
       $empty.hidden = false;
+      // Show category-specific empty message
+      var catName = "";
+      for (var i = 0; i < CATEGORY_TABS.length; i++) {
+        if (CATEGORY_TABS[i].id === state.catId) { catName = CATEGORY_TABS[i].name; break; }
+      }
+      if (catName) {
+        $empty.querySelector("p").textContent = "「" + catName + "」品类暂无资讯 ✨";
+        $empty.querySelector(".empty-tip").textContent = "数据每日更新，请尝试切换其他品类查看";
+      } else {
+        $empty.querySelector("p").textContent = "暂无匹配的资讯 ✨";
+        $empty.querySelector(".empty-tip").textContent = "试试切换其他来源或清空搜索关键词";
+      }
       return;
     }
     $empty.hidden = true;
@@ -427,16 +463,34 @@
     renderList(filtered);
   }
 
+  // Find the first category tab that has data
+  function findFirstCatWithData(items) {
+    var catIds = {};
+    items.forEach(function (it) {
+      var cid = it.category_id || "";
+      if (cid) catIds[cid] = true;
+    });
+    for (var i = 0; i < CATEGORY_TABS.length; i++) {
+      if (catIds[CATEGORY_TABS[i].id]) return CATEGORY_TABS[i].id;
+    }
+    return state.catId; // fallback to default
+  }
+
   function init(data) {
     var items = (data && data.items) || [];
     items = sortByDateDesc(items);
     state.all = items;
+    // If default catId has no data, auto-switch to first category with data
+    var hasData = items.some(function (it) { return (it.category_id || "") === state.catId; });
+    if (!hasData && items.length > 0) {
+      state.catId = findFirstCatWithData(items);
+    }
     initCategoryTabs();
     renderStats(data || {});
     renderCategoryFilter(uniqueCategories(items));
     renderKeywordFilter(computeTopKeywords(items, 20));
     renderFilter(uniqueSources(items));
-    renderList(items);
+    applyFilters();
     $search.addEventListener("input", function () {
       state.query = $search.value || "";
       applyFilters();
@@ -465,28 +519,40 @@
       });
   }
 
-  // --- Export feedback button ---
-  var $exportBtn = document.getElementById("export-feedback-btn");
-  if ($exportBtn) {
-    $exportBtn.addEventListener("click", function () {
-      var fb = loadFeedback();
-      var count = Object.keys(fb).length;
-      if (count === 0) {
-        alert("暂无反馈数据。请先点击卡片旁的 👍有价值 / 👎不相关 按钮。");
-        return;
-      }
-      var jsonStr = JSON.stringify(fb, null, 2);
-      // Copy to clipboard
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(jsonStr).then(function () {
-          alert("已复制 " + count + " 条反馈数据到剪贴板！\n\n请将剪贴板内容保存为 data/feedback.json，\n下次运行爬虫时会自动优化抓取优先级。");
-        });
-      } else {
-        // Fallback: open in new window
-        var w = window.open("", "_blank");
-        w.document.write("<pre>" + jsonStr + "</pre>");
-        alert("已在新窗口打开 " + count + " 条反馈数据。\n\n请复制内容保存为 data/feedback.json，\n下次运行爬虫时会自动优化抓取优先级。");
-      }
-    });
+  // --- Daily feedback sync to admin page ---
+  // Once per day, automatically send feedback data to admin feedback page
+  var FEEDBACK_SYNC_KEY = "safebox_fb_sync_date";
+  function syncFeedbackToAdmin() {
+    var fb = loadFeedback();
+    var hidden = loadHidden();
+    var fbCount = Object.keys(fb).length;
+    var hiddenCount = Object.keys(hidden).length;
+    if (fbCount === 0 && hiddenCount === 0) return; // Nothing to sync
+    var today = new Date().toISOString().slice(0, 10);
+    var lastSync = "";
+    try { lastSync = localStorage.getItem(FEEDBACK_SYNC_KEY) || ""; } catch(e) {}
+    if (lastSync === today) return; // Already synced today
+    // Build admin feedback URL with encoded data
+    var adminUrl = "./admin/feedback.html";
+    var params = "?date=" + encodeURIComponent(today);
+    if (fbCount > 0) {
+      params += "&fb=" + encodeURIComponent(btoa(JSON.stringify(fb)));
+    }
+    if (hiddenCount > 0) {
+      params += "&hidden=" + encodeURIComponent(btoa(JSON.stringify(hidden)));
+    }
+    // Use a hidden iframe to send data without navigating away
+    var iframe = document.createElement("iframe");
+    iframe.style.display = "none";
+    iframe.src = adminUrl + params;
+    document.body.appendChild(iframe);
+    // Mark as synced today
+    try { localStorage.setItem(FEEDBACK_SYNC_KEY, today); } catch(e) {}
+    // Clean up iframe after 5 seconds
+    setTimeout(function() {
+      if (iframe.parentNode) iframe.parentNode.removeChild(iframe);
+    }, 5000);
   }
+  // Run sync after a short delay to not block initial render
+  setTimeout(syncFeedbackToAdmin, 3000);
 })();

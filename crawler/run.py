@@ -19,10 +19,10 @@ ROOT = os.path.dirname(CURDIR)
 sys.path.insert(0, CURDIR)
 
 from fetchers import FETCHER_CLASSES
-from fetchers.generic_search import GenericSearchFetcher
+from fetchers.generic_search import GenericSearchFetcher, DEFAULT_SEARCH_URLS
 from filter import (
     filter_by_keywords, filter_recent, dedup_by_title,
-    sort_by_date_desc, finalize_items,
+    sort_by_date_desc, finalize_items, filter_quality,
 )
 import insight as insight_mod
 import feedback as feedback_mod
@@ -52,8 +52,6 @@ def load_categories():
 
 # Extra financial / IPO sources to supplement admin-configured sources
 FINANCIAL_SOURCE_TEMPLATES = [
-    {"id": "eastmoney", "name": "东方财富", "type": "search",
-     "search_url": "https://so.eastmoney.com/news/s?keyword={keyword}", "enabled": True},
     {"id": "cls", "name": "财联社", "type": "search",
      "search_url": "https://www.cls.cn/search?keyword={keyword}", "enabled": True},
     {"id": "sina-finance", "name": "新浪财经", "type": "search",
@@ -120,14 +118,52 @@ def run():
                 if sconf in cat.get("sources", []):
                     for it in items:
                         it["_priority"] = True
+                # For Bing site: search sources, the search URL already contains
+                # the keyword, so results are pre-filtered by relevance.
+                # Mark them as keyword-matched to bypass filter_by_keywords.
+                src_id = sconf.get("id", "")
+                search_url = sconf.get("search_url", "") or DEFAULT_SEARCH_URLS.get(src_id, "")
+                if "site%" in search_url or "site:" in search_url:
+                    for it in items:
+                        it["matched_keywords"] = [keywords[0]] if keywords else []
             cat_items.extend(items)
 
         log.info("Category '%s': %d raw items", cat_name, len(cat_items))
 
-        # Pipeline for this category
+        # Pipeline for this category (with stage-by-stage diagnostics)
+        n_raw = len(cat_items)
         cat_items = filter_by_keywords(cat_items, keywords)
-        cat_items = filter_recent(cat_items, days=7)
+        n_kw = len(cat_items)
+        cat_items = filter_quality(cat_items)
+        n_qual = len(cat_items)
+        cat_items_recent = filter_recent(cat_items, days=7)
+        # Fallback: if too few recent items (< 10), supplement with keyword-matched
+        # items that have no date (they are still relevant, just undated)
+        MIN_ITEMS_THRESHOLD = 10
+        n_recent = len(cat_items_recent)
+        if len(cat_items_recent) >= MIN_ITEMS_THRESHOLD:
+            # Enough recent items — use them exclusively
+            cat_items = cat_items_recent
+        else:
+            # Too few recent items — supplement with keyword-matched undated items
+            kw_matched_undated = [
+                it for it in cat_items
+                if it.get("matched_keywords") and not it.get("_publish_dt")
+            ]
+            # Assign today's date to undated items so they can be displayed
+            for it in kw_matched_undated:
+                it["_publish_dt"] = datetime.now()
+            # Merge: recent items first, then undated keyword-matched items
+            seen_urls = {it.get("url") for it in cat_items_recent}
+            supplement = [it for it in kw_matched_undated if it.get("url") not in seen_urls]
+            cat_items = cat_items_recent + supplement
+            if n_recent < MIN_ITEMS_THRESHOLD:
+                log.warning("Category '%s': only %d recent items, supplemented with %d keyword-matched undated items",
+                           cat_name, n_recent, len(supplement))
         cat_items = dedup_by_title(cat_items)
+        n_dedup = len(cat_items)
+        log.info("Category '%s' pipeline: raw=%d → keywords=%d → quality=%d → recent=%d → dedup=%d",
+                 cat_name, n_raw, n_kw, n_qual, n_recent, n_dedup)
 
         # Tag each item with category_id
         for item in cat_items:
@@ -145,8 +181,9 @@ def run():
 
     log.info("Total items across all categories: %d", len(all_items))
 
-    # Global dedup across categories (by title)
-    all_items = dedup_by_title(all_items)
+    # NOTE: No global dedup across categories — each category is already
+    # deduplicated internally.  The same news may legitimately belong to
+    # multiple categories (e.g. "AI手机" and "折叠屏手机"), so we keep them.
     final_items = finalize_items(all_items)
 
     output = {

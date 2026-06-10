@@ -7,3 +7,18 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Diagnostic/test scripts (local only)
+check_*.py
+diagnose_*.py
+quick_diagnose.py
+verify_*.py
+test_*.py
+gen_categories.py
+pyver.txt
+crawler_error.txt
+crawler_output.txt
+crawler_output2.txt
+_test_compile.py
+fix_category_id.py
+run_crawler.bat
