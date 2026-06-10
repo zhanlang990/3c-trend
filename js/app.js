@@ -26,16 +26,20 @@
     keyword: "",
     category: "",
     query: "",
-    catId: "safe-box",  // current category tab id
+    catId: "3d-printing",  // current category tab id
   };
 
   // Category tabs configuration (loaded from categories.json or fallback)
   var CATEGORY_TABS = [
-    { id: "safe-box", name: "保险柜", icon: "🔒" },
     { id: "3d-printing", name: "3D打印", icon: "🖨️" },
     { id: "uv-printing", name: "UV打印", icon: "🎨" },
     { id: "cnc", name: "CNC", icon: "⚙️" },
     { id: "ai-nas", name: "AI网络存储", icon: "💾" },
+    { id: "ai-glasses", name: "AI眼镜", icon: "🥽" },
+    { id: "ai-pc", name: "AIPC", icon: "🤖" },
+    { id: "ai-phone", name: "AI手机", icon: "📱" },
+    { id: "ai-learning", name: "AI学习硬件", icon: "📚" },
+    { id: "safe-box", name: "保险柜", icon: "🔒" },
     { id: "4k-projector", name: "4K投影", icon: "🎬" },
     { id: "gaming-peripherals", name: "电竞键鼠", icon: "🎮" },
     { id: "monitor", name: "显示器", icon: "🖥️" },
@@ -44,12 +48,8 @@
     { id: "photography", name: "摄影摄像", icon: "📷" },
     { id: "surveillance", name: "监控摄像", icon: "📹" },
     { id: "speaker", name: "音箱", icon: "🔊" },
-    { id: "ai-glasses", name: "AI眼镜", icon: "🥽" },
     { id: "magnetic-accessories", name: "磁吸配件", icon: "🧲" },
-    { id: "ai-pc", name: "AIPC", icon: "🤖" },
-    { id: "ai-phone", name: "AI手机", icon: "📱" },
-    { id: "foldable-phone", name: "折叠屏手机", icon: "📲" },
-    { id: "ai-learning", name: "AI学习硬件", icon: "📚" }
+    { id: "foldable-phone", name: "折叠屏手机", icon: "📲" }
   ];
 
   // --- Hidden items (bad feedback → slide away, persist for all visitors) ---
