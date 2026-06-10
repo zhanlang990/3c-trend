@@ -320,7 +320,7 @@
           (summary ? '<p class="news-summary">' + escapeHtml(summary) + "</p>" : "") +
         "</div>" +
         '<div class="card-feedback">' +
-          '<button class="fb-btn fb-good' + (getFeedback(url) === "good" ? " fb-active" : "") + '" data-url="' + escapeHtml(url) + '" data-type="good" title="有价值，多抓此类资讯">👍 有用</button>' +
+          '<button class="fb-btn fb-good' + (getFeedback(url) === "good" ? " fb-active" : "") + '" data-url="' + escapeHtml(url) + '" data-type="good" title="有价值，多抓此类资讯">👍 有价值</button>' +
           '<button class="fb-btn fb-bad' + (getFeedback(url) === "bad" ? " fb-active" : "") + '" data-url="' + escapeHtml(url) + '" data-type="bad" title="不相关，减少此类资讯">👎 不相关</button>' +
         "</div>" +
       "</div>"
@@ -466,7 +466,7 @@
       var fb = loadFeedback();
       var count = Object.keys(fb).length;
       if (count === 0) {
-        alert("暂无反馈数据。请先点击卡片旁的 👍有用 / 👎不相关 按钮。");
+        alert("暂无反馈数据。请先点击卡片旁的 👍有价值 / 👎不相关 按钮。");
         return;
       }
       var jsonStr = JSON.stringify(fb, null, 2);
