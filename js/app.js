@@ -92,9 +92,7 @@
   var $keyword = document.getElementById("keyword-filter");
   var $category = document.getElementById("category-filter");
   var $search = document.getElementById("search-input");
-  var $total = document.getElementById("stat-total");
-  var $sources = document.getElementById("stat-sources");
-  var $time = document.getElementById("stat-time");
+  var $dateRange = document.getElementById("date-range");
   var $catTabs = document.getElementById("category-tabs");
 
   function escapeHtml(s) {
@@ -276,9 +274,17 @@
   }
 
   function renderStats(data) {
-    $total.textContent = data.total != null ? data.total : (data.items || []).length;
-    $sources.textContent = data.source_count != null ? data.source_count : uniqueSources(data.items || []).length;
-    $time.textContent = data.generated_at || "--";
+    // Show date range: yesterday minus 6 days to yesterday (YYMMDD-YYMMDD)
+    var now = new Date();
+    var yesterday = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1);
+    var startDay = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 7);
+    var fmt = function(d) {
+      var yy = String(d.getFullYear()).slice(2);
+      var mm = String(d.getMonth() + 1).padStart(2, "0");
+      var dd = String(d.getDate()).padStart(2, "0");
+      return yy + mm + dd;
+    };
+    $dateRange.textContent = fmt(startDay) + "-" + fmt(yesterday) + " 行业资讯";
   }
 
   function sourceBadgesHtml(it) {

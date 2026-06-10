@@ -38,6 +38,9 @@ DEFAULT_SEARCH_URLS = {
     "netease": "https://www.163.com/search?keyword={keyword}",
     "china": "https://so.china.com/cse/search?q={keyword}",
     "pchouse": "https://search.pchouse.com.cn/search.php?q={keyword}",
+    "eastmoney": "https://so.eastmoney.com/news/s?keyword={keyword}",
+    "cls": "https://www.cls.cn/search?keyword={keyword}",
+    "sina-finance": "https://search.sina.com.cn/?q={keyword}&c=news&ie=utf-8",
 }
 
 

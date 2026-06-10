@@ -23,4 +23,7 @@ FETCHER_CLASSES = {
     "cnbeta": GenericSearchFetcher,
     "chinairn": GenericSearchFetcher,
     "taobao-baike": GenericSearchFetcher,
+    "eastmoney": GenericSearchFetcher,
+    "cls": GenericSearchFetcher,
+    "sina-finance": GenericSearchFetcher,
 }

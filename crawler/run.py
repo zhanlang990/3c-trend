@@ -50,6 +50,23 @@ def load_categories():
         return json.load(f)
 
 
+# Extra financial / IPO sources to supplement admin-configured sources
+FINANCIAL_SOURCE_TEMPLATES = [
+    {"id": "eastmoney", "name": "东方财富", "type": "search",
+     "search_url": "https://so.eastmoney.com/news/s?keyword={keyword}", "enabled": True},
+    {"id": "cls", "name": "财联社", "type": "search",
+     "search_url": "https://www.cls.cn/search?keyword={keyword}", "enabled": True},
+    {"id": "sina-finance", "name": "新浪财经", "type": "search",
+     "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&ie=utf-8", "enabled": True},
+]
+
+
+def _get_financial_sources(cat_name, keywords):
+    """Return extra financial/IPO sources for a category.
+    Uses category name + top keyword as search terms."""
+    return FINANCIAL_SOURCE_TEMPLATES
+
+
 def run():
     setup_logging()
     log = logging.getLogger("run")
@@ -83,6 +100,10 @@ def run():
 
         log.info("=== Crawling category: %s (%s) ===", cat_name, cat_id)
 
+        # Append extra financial report / IPO sources for each category
+        extra_sources = _get_financial_sources(cat_name, keywords)
+        sources = sources + extra_sources
+
         # Apply feedback weights per category
         if fb_stats.get("total_feedback", 0) > 0:
             sources = feedback_mod.apply_source_weights(sources, fb_result["source_weights"])
@@ -95,6 +116,10 @@ def run():
             items = fetcher.safe_fetch(keywords)
             if items:
                 source_names_with_data.add(sconf["name"])
+                # Mark items from admin-configured sources as priority
+                if sconf in cat.get("sources", []):
+                    for it in items:
+                        it["_priority"] = True
             cat_items.extend(items)
 
         log.info("Category '%s': %d raw items", cat_name, len(cat_items))
@@ -112,7 +137,8 @@ def run():
                 item["category"] = "媒体新闻"
 
         insight_mod.enrich(cat_items)
-        cat_items = sort_by_date_desc(cat_items)
+        # Sort: admin-source items first, then by date desc
+        cat_items.sort(key=lambda x: (0 if x.get("_priority") else 1, x.get("_publish_dt") or datetime.min))
         all_items.extend(cat_items)
 
         log.info("Category '%s': %d items after pipeline", cat_name, len(cat_items))

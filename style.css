@@ -66,19 +66,7 @@ a { color: inherit; text-decoration: none; }
   padding: 3px 10px;
   border-radius: 10px;
 }
-.stats {
-  color: #6B7280;
-  font-size: 13px;
-}
-.stats strong {
-  color: #2C5282;
-  font-weight: 600;
-  padding: 0 4px;
-}
-.stat-divider {
-  margin: 0 8px;
-  color: #D1D5DB;
-}
+
 
 /* ===== Toolbar ===== */
 .toolbar {
@@ -469,7 +457,7 @@ a { color: inherit; text-decoration: none; }
   .site-header .container { padding-top: 14px; padding-bottom: 14px; }
   .brand h1 { font-size: 17px; }
   .brand-tag { font-size: 11px; }
-  .stats { font-size: 12px; width: 100%; }
+
   .toolbar-inner { padding-top: 12px; padding-bottom: 12px; }
   .source-filter {
     flex-wrap: nowrap;
