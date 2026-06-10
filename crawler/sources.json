@@ -1,0 +1,61 @@
+{
+  "keywords": [
+    "保险柜",
+    "保险箱",
+    "保管箱",
+    "防盗保险箱",
+    "家用保险柜",
+    "智能保险柜",
+    "安防柜"
+  ],
+  "sources": [
+    {
+      "id": "sina",
+      "name": "新浪家居",
+      "type": "search",
+      "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8",
+      "list_selector": ".box-result",
+      "enabled": true
+    },
+    {
+      "id": "netease",
+      "name": "网易家居",
+      "type": "search",
+      "search_url": "https://www.163.com/search?keyword={keyword}",
+      "list_selector": ".keyword_list .keyword_new",
+      "enabled": true
+    },
+    {
+      "id": "china",
+      "name": "中华网",
+      "type": "search",
+      "search_url": "https://so.china.com/cse/search?q={keyword}&s=11514541769432498369",
+      "list_selector": ".result-list .result-item",
+      "enabled": true
+    },
+    {
+      "id": "pchouse",
+      "name": "太平洋家居",
+      "type": "search",
+      "search_url": "https://search.pchouse.com.cn/search.php?q={keyword}",
+      "list_selector": ".search-result li",
+      "enabled": true
+    },
+    {
+      "id": "sohu",
+      "name": "搜狐",
+      "type": "search",
+      "search_url": "https://search.sohu.com/?keyword={keyword}&type=10002&queryType=outside",
+      "list_selector": ".news-list .news-item",
+      "enabled": true
+    },
+    {
+      "id": "aipu",
+      "name": "艾谱官网",
+      "type": "html_list",
+      "list_url": "http://www.aipusafe.com/cn/news.php",
+      "list_selector": ".news-list li",
+      "enabled": true
+    }
+  ]
+}

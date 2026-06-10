@@ -1,0 +1,288 @@
+(function () {
+  "use strict";
+
+  var DATA_URL = "./data/news.json";
+
+  // Stopwords (Chinese common words) to filter out from keyword stats
+  var STOPWORDS = {
+    "我们": 1, "你们": 1, "他们": 1, "什么": 1, "怎么": 1, "为什么": 1,
+    "以及": 1, "通过": 1, "可以": 1, "已经": 1, "正在": 1, "成为": 1,
+    "进入": 1, "增长": 1, "同比": 1, "环比": 1, "实现": 1, "用户": 1,
+    "提供": 1, "需求": 1, "数据": 1, "公司": 1, "企业": 1, "产品": 1,
+    "市场": 1, "行业": 1, "中国": 1, "国内": 1, "全国": 1, "国家": 1,
+    "包括": 1, "采用": 1, "支持": 1, "提升": 1, "继续": 1, "目前": 1,
+    "今年": 1, "今日": 1, "本次": 1, "本届": 1, "近日": 1, "日前": 1,
+    "记者": 1, "报道": 1, "报告": 1, "消息": 1, "显示": 1, "表示": 1
+  };
+
+  var state = {
+    all: [],
+    source: "",
+    keyword: "",
+    query: "",
+  };
+
+  var $list = document.getElementById("news-list");
+  var $empty = document.getElementById("empty-state");
+  var $filter = document.getElementById("source-filter");
+  var $keyword = document.getElementById("keyword-filter");
+  var $search = document.getElementById("search-input");
+  var $total = document.getElementById("stat-total");
+  var $sources = document.getElementById("stat-sources");
+  var $time = document.getElementById("stat-time");
+
+  function escapeHtml(s) {
+    if (s == null) return "";
+    var div = document.createElement("div");
+    div.textContent = String(s);
+    return div.innerHTML.replace(/"/g, "&#34;").replace(/'/g, "&#39;");
+  }
+
+  // Get all sources of an item, normalized to an array.
+  function getItemSources(it) {
+    if (Array.isArray(it.sources) && it.sources.length) return it.sources;
+    if (it.source) return [it.source];
+    return [];
+  }
+
+  function uniqueSources(items) {
+    var set = {};
+    items.forEach(function (it) {
+      getItemSources(it).forEach(function (s) {
+        if (s) set[s] = true;
+      });
+    });
+    return Object.keys(set);
+  }
+
+  // Tokenize Chinese text into 2-4 char n-grams (simple but effective).
+  // Combined with stopwords + min-frequency filter to extract topical words.
+  function tokenizeCJK(text) {
+    if (!text) return [];
+    var tokens = [];
+    // Strip non-CJK / non-alnum noise
+    var clean = String(text).replace(/[\s\.,;:'"()\[\]{}<>\/\\!?@#$%^&*+=|`~\-_·。,；：、！？""''《》【】（）]/g, "");
+    // Use 2-gram by default; long brand/product words (3-4 char) handled below
+    for (var i = 0; i < clean.length - 1; i++) {
+      var two = clean.substr(i, 2);
+      if (/^[\u4e00-\u9fa5A-Za-z0-9]{2}$/.test(two)) tokens.push(two);
+    }
+    return tokens;
+  }
+
+  // Pull explicit matched_keywords first; fall back to n-gram statistics.
+  function computeTopKeywords(items, topN) {
+    var freq = {};
+
+    // Helper: drop tokens that are purely digits/punctuation/units, or whose
+    // digit ratio is too high (e.g. "618", "20", "30cm", "2026").
+    function isNumericLike(s) {
+      if (!s) return true;
+      // pure digits / digits + common units
+      if (/^[0-9]+$/.test(s)) return true;
+      if (/^[0-9]+(年|月|日|cm|mm|kg|元|倍|%|L|号)$/i.test(s)) return true;
+      // count digit chars
+      var digitCount = (s.match(/[0-9]/g) || []).length;
+      if (digitCount && digitCount / s.length >= 0.5) return true;
+      return false;
+    }
+
+    // (1) Explicit keywords from data weigh more (×3 boost)
+    items.forEach(function (it) {
+      (it.matched_keywords || []).forEach(function (kw) {
+        if (!kw) return;
+        kw = String(kw).trim();
+        if (!kw || STOPWORDS[kw]) return;
+        if (isNumericLike(kw)) return;
+        freq[kw] = (freq[kw] || 0) + 3;
+      });
+    });
+
+    // (2) Add n-gram statistics from title + summary
+    items.forEach(function (it) {
+      var text = (it.title || "") + " " + (it.summary || "");
+      var grams = tokenizeCJK(text);
+      var seen = {};
+      grams.forEach(function (g) {
+        if (STOPWORDS[g]) return;
+        if (isNumericLike(g)) return;
+        // count once per item to avoid one article dominating
+        if (seen[g]) return;
+        seen[g] = true;
+        freq[g] = (freq[g] || 0) + 1;
+      });
+    });
+
+    var list = Object.keys(freq).map(function (k) {
+      return { word: k, count: freq[k] };
+    });
+    // Filter low-signal: count >= 2 OR length >= 3 (preserve named keywords)
+    list = list.filter(function (e) {
+      return e.count >= 2 || e.word.length >= 3;
+    });
+    list.sort(function (a, b) {
+      if (b.count !== a.count) return b.count - a.count;
+      return b.word.length - a.word.length;
+    });
+    return list.slice(0, topN || 20).map(function (e) { return e.word; });
+  }
+
+  function renderFilter(sources) {
+    var html = '<button class="chip chip-active" data-source="">全部</button>';
+    sources.forEach(function (s) {
+      html += '<button class="chip" data-source="' + escapeHtml(s) + '">' + escapeHtml(s) + "</button>";
+    });
+    $filter.innerHTML = html;
+    Array.prototype.forEach.call($filter.querySelectorAll(".chip"), function (btn) {
+      btn.addEventListener("click", function () {
+        state.source = btn.getAttribute("data-source") || "";
+        Array.prototype.forEach.call($filter.querySelectorAll(".chip"), function (b) {
+          b.classList.toggle("chip-active", b === btn);
+        });
+        applyFilters();
+      });
+    });
+  }
+
+  function renderKeywordFilter(keywords) {
+    if (!$keyword) return;
+    var html = '<button class="chip chip-keyword chip-active" data-keyword="">全部</button>';
+    keywords.forEach(function (k) {
+      html += '<button class="chip chip-keyword" data-keyword="' + escapeHtml(k) + '"># ' + escapeHtml(k) + "</button>";
+    });
+    $keyword.innerHTML = html;
+    Array.prototype.forEach.call($keyword.querySelectorAll(".chip"), function (btn) {
+      btn.addEventListener("click", function () {
+        state.keyword = btn.getAttribute("data-keyword") || "";
+        Array.prototype.forEach.call($keyword.querySelectorAll(".chip"), function (b) {
+          b.classList.toggle("chip-active", b === btn);
+        });
+        applyFilters();
+      });
+    });
+  }
+
+  function renderStats(data) {
+    $total.textContent = data.total != null ? data.total : (data.items || []).length;
+    $sources.textContent = data.source_count != null ? data.source_count : uniqueSources(data.items || []).length;
+    $time.textContent = data.generated_at || "--";
+  }
+
+  function sourceBadgesHtml(it) {
+    var arr = getItemSources(it);
+    if (!arr.length) return '<span class="news-source">未知来源</span>';
+    return arr.map(function (s) {
+      return '<span class="news-source">' + escapeHtml(s) + "</span>";
+    }).join("");
+  }
+
+  function cardHtml(it) {
+    var url = it.url || "#";
+    var brief = it.info_brief || "";
+    var opp = it.opportunity_insight || "";
+    var insight = it.procurement_insight || "";
+    var summary = it.summary || "";
+
+    function block(cls, label, icon, text) {
+      if (!text) return "";
+      return (
+        '<div class="' + cls + '">' +
+          '<span class="block-tag">' + icon + " " + label + "</span>" +
+          escapeHtml(text) +
+        "</div>"
+      );
+    }
+
+    return (
+      '<a class="news-card" href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' +
+        block("news-brief", "信息摘要", "📌", brief) +
+        block("news-opportunity", "机会洞察", "🎯", opp) +
+        block("news-insight", "操盘建议", "💡", insight) +
+        '<div class="news-meta">' +
+          '<div class="news-sources">' + sourceBadgesHtml(it) + "</div>" +
+          '<span class="news-date">' + escapeHtml(it.publish_date || "") + "</span>" +
+        "</div>" +
+        '<h3 class="news-title">' + escapeHtml(it.title || "") + "</h3>" +
+        (summary ? '<p class="news-summary">' + escapeHtml(summary) + "</p>" : "") +
+      "</a>"
+    );
+  }
+
+  function renderList(items) {
+    if (!items.length) {
+      $list.innerHTML = "";
+      $empty.hidden = false;
+      return;
+    }
+    $empty.hidden = true;
+    $list.innerHTML = items.map(cardHtml).join("");
+  }
+
+  function sortByDateDesc(items) {
+    return items.slice().sort(function (a, b) {
+      var ad = a.publish_date || "";
+      var bd = b.publish_date || "";
+      if (ad < bd) return 1;
+      if (ad > bd) return -1;
+      return 0;
+    });
+  }
+
+  function applyFilters() {
+    var src = state.source;
+    var kw = state.keyword;
+    var q = (state.query || "").trim().toLowerCase();
+    var filtered = state.all.filter(function (it) {
+      if (src) {
+        var arr = getItemSources(it);
+        if (arr.indexOf(src) === -1) return false;
+      }
+      if (kw) {
+        var hay = ((it.title || "") + " " + (it.summary || "") + " " + (it.matched_keywords || []).join(" "));
+        if (hay.indexOf(kw) === -1) return false;
+      }
+      if (q) {
+        var hay2 = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
+        if (hay2.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+    renderList(filtered);
+  }
+
+  function init(data) {
+    var items = (data && data.items) || [];
+    items = sortByDateDesc(items);
+    state.all = items;
+    renderStats(data || {});
+    renderFilter(uniqueSources(items));
+    renderKeywordFilter(computeTopKeywords(items, 20));
+    renderList(items);
+    $search.addEventListener("input", function () {
+      state.query = $search.value || "";
+      applyFilters();
+    });
+  }
+
+  function loadJson(url) {
+    return fetch(url, { cache: "no-store" }).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    });
+  }
+
+  // Prefer inlined window.__NEWS_DATA__ (works under file://); otherwise fetch.
+  if (window.__NEWS_DATA__) {
+    init(window.__NEWS_DATA__);
+  } else {
+    loadJson(DATA_URL)
+      .catch(function () { return loadJson("./data/news.sample.json"); })
+      .then(init)
+      .catch(function (err) {
+        $list.innerHTML = "";
+        $empty.hidden = false;
+        $empty.querySelector("p").textContent = "新闻数据加载失败 😢";
+        $empty.querySelector(".empty-tip").textContent = "请检查 data/news.json 是否存在或网络是否通畅：" + err.message;
+      });
+  }
+})();
