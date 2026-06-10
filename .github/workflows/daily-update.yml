@@ -21,22 +21,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run crawler
-        run: python crawler/run.py
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml 2>/dev/null || true
         working-directory: safe-box-news
 
-      - name: Sync news.data.js from news.json
-        run: |
-          python -c "
-          import json
-          with open('data/news.json','r',encoding='utf-8') as f: data=json.load(f)
-          with open('data/news.data.js','w',encoding='utf-8') as f:
-              f.write('/* Auto-loaded by index.html so the page works under file:// without a server. */\n')
-              f.write('window.__NEWS_DATA__ = ')
-              f.write(json.dumps(data,ensure_ascii=False,indent=2))
-              f.write(';\n')
-          print('Synced news.data.js')
-          "
+      - name: Run crawler (reads categories.json, outputs news.json + news.data.js)
+        run: python crawler/run.py
         working-directory: safe-box-news
 
       - name: Commit and push if changed

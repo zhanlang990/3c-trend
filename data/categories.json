@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": "safe-box",
+      "name": "保险柜",
+      "icon": "🔒",
+      "keywords": ["保险柜", "保险箱", "保管箱", "防盗保险箱", "家用保险柜", "智能保险柜", "安防柜", "床头柜", "收纳箱", "收纳柜", "储物柜"],
+      "sources": [
+        {"id": "sina", "name": "新浪家居", "type": "search", "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8", "list_selector": ".box-result", "enabled": true},
+        {"id": "netease", "name": "网易家居", "type": "search", "search_url": "https://www.163.com/search?keyword={keyword}", "list_selector": ".keyword_list .keyword_new", "enabled": true},
+        {"id": "china", "name": "中华网", "type": "search", "search_url": "https://so.china.com/cse/search?q={keyword}&s=11514541769432498369", "list_selector": ".result-list .result-item", "enabled": true},
+        {"id": "pchouse", "name": "太平洋家居", "type": "search", "search_url": "https://search.pchouse.com.cn/search.php?q={keyword}", "list_selector": ".search-result li", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "search_url": "https://search.sohu.com/?keyword={keyword}&type=10002&queryType=outside", "list_selector": ".news-list .news-item", "enabled": true},
+        {"id": "aipu", "name": "艾谱官网", "type": "html_list", "list_url": "http://www.aipusafe.com/cn/news.php", "list_selector": ".news-list li", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "search_url": "https://www.chinairn.com/search.aspx?k={keyword}", "list_selector": ".list-item", "enabled": true},
+        {"id": "taobao-baike", "name": "淘宝百科", "type": "search", "search_url": "https://bk.taobao.com/k/{keyword}", "list_selector": ".content-item", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "phone",
+      "name": "手机",
+      "icon": "📱",
+      "keywords": ["手机", "智能手机", "5G手机", "折叠屏", "旗舰手机"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true},
+        {"id": "cnbeta", "name": "cnBeta", "type": "search", "search_url": "https://www.cnbeta.com.tw/search?q={keyword}", "list_selector": ".item", "enabled": true},
+        {"id": "zol-phone", "name": "中关村在线手机", "type": "search", "search_url": "https://search.zol.com.cn/s?word={keyword}&typeid=57", "list_selector": ".list-item", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "laptop",
+      "name": "笔记本",
+      "icon": "💻",
+      "keywords": ["笔记本电脑", "轻薄本", "游戏本", "商务本", "AI PC"],
+      "sources": [
+        {"id": "ithome-laptop", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true},
+        {"id": "zol-laptop", "name": "中关村在线笔记本", "type": "search", "search_url": "https://search.zol.com.cn/s?word={keyword}&typeid=316", "list_selector": ".list-item", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "tablet",
+      "name": "平板",
+      "icon": "📲",
+      "keywords": ["平板电脑", "iPad", "安卓平板", "学习平板"],
+      "sources": [
+        {"id": "ithome-tablet", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "wearable",
+      "name": "穿戴设备",
+      "icon": "⌚",
+      "keywords": ["智能手表", "智能手环", "可穿戴", "TWS耳机", "AR眼镜"],
+      "sources": [
+        {"id": "ithome-wear", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "smart-home",
+      "name": "智能家居",
+      "icon": "🏠",
+      "keywords": ["智能家居", "智能门锁", "扫地机器人", "智能照明", "智能音箱"],
+      "sources": [
+        {"id": "sina-sh", "name": "新浪家居", "type": "search", "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8", "list_selector": ".box-result", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "audio",
+      "name": "音频设备",
+      "icon": "🎧",
+      "keywords": ["耳机", "音箱", "蓝牙耳机", "降噪耳机", "Hi-Fi"],
+      "sources": [
+        {"id": "ithome-audio", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    }
+  ]
+}

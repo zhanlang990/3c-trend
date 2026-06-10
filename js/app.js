@@ -26,7 +26,19 @@
     keyword: "",
     category: "",
     query: "",
+    catId: "safe-box",  // current category tab id
   };
+
+  // Category tabs configuration (loaded from categories.json or fallback)
+  var CATEGORY_TABS = [
+    { id: "safe-box", name: "保险柜", icon: "🔒" },
+    { id: "phone", name: "手机", icon: "📱" },
+    { id: "laptop", name: "笔记本", icon: "💻" },
+    { id: "tablet", name: "平板", icon: "📲" },
+    { id: "wearable", name: "穿戴设备", icon: "⌚" },
+    { id: "smart-home", name: "智能家居", icon: "🏠" },
+    { id: "audio", name: "音频设备", icon: "🎧" }
+  ];
 
   // --- Hidden items (bad feedback → slide away, persist for all visitors) ---
   function loadHidden() {
@@ -71,6 +83,7 @@
   var $total = document.getElementById("stat-total");
   var $sources = document.getElementById("stat-sources");
   var $time = document.getElementById("stat-time");
+  var $catTabs = document.getElementById("category-tabs");
 
   function escapeHtml(s) {
     if (s == null) return "";
@@ -232,6 +245,24 @@
     });
   }
 
+  function initCategoryTabs() {
+    if (!$catTabs) return;
+    var html = "";
+    CATEGORY_TABS.forEach(function (tab) {
+      html += '<button class="tab-btn' + (tab.id === state.catId ? " tab-active" : "") + '" data-cat="' + escapeHtml(tab.id) + '">' + tab.icon + " " + escapeHtml(tab.name) + "</button>";
+    });
+    $catTabs.innerHTML = html;
+    Array.prototype.forEach.call($catTabs.querySelectorAll(".tab-btn"), function (btn) {
+      btn.addEventListener("click", function () {
+        state.catId = btn.getAttribute("data-cat") || "";
+        Array.prototype.forEach.call($catTabs.querySelectorAll(".tab-btn"), function (b) {
+          b.classList.toggle("tab-active", b === btn);
+        });
+        applyFilters();
+      });
+    });
+  }
+
   function renderStats(data) {
     $total.textContent = data.total != null ? data.total : (data.items || []).length;
     $sources.textContent = data.source_count != null ? data.source_count : uniqueSources(data.items || []).length;
@@ -347,10 +378,16 @@
     var kw = state.keyword;
     var cat = state.category;
     var q = (state.query || "").trim().toLowerCase();
+    var catId = state.catId;
     var hidden = loadHidden();
     var filtered = state.all.filter(function (it) {
       // Hide items marked as "bad" (swiped away)
       if (hidden[it.url]) return false;
+      // Filter by category tab (category_id)
+      if (catId) {
+        var itemCatId = it.category_id || "";
+        if (itemCatId !== catId) return false;
+      }
       if (cat) {
         var itemCat = it.category || "媒体新闻";
         if (itemCat !== cat) return false;
@@ -376,6 +413,7 @@
     var items = (data && data.items) || [];
     items = sortByDateDesc(items);
     state.all = items;
+    initCategoryTabs();
     renderStats(data || {});
     renderCategoryFilter(uniqueCategories(items));
     renderKeywordFilter(computeTopKeywords(items, 20));

@@ -1,12 +1,12 @@
 """Crawler entrypoint.
 
 Pipeline:
-  1) load sources.json
+  1) load categories.json (multi-category config)
   2) load user feedback → adjust source/keyword priorities
-  3) for each enabled source, run safe_fetch()
+  3) for each category, run safe_fetch() with category-specific keywords & sources
   4) keyword filter -> recent (7d) filter -> dedup -> sort
   5) generate procurement_insight
-  6) write data/news.json (fallback to sample data if empty)
+  6) write data/news.json with category_id field
 """
 import json
 import logging
@@ -31,7 +31,7 @@ import feedback as feedback_mod
 LOG_PATH = os.path.join(CURDIR, "run.log")
 DATA_PATH = os.path.join(ROOT, "data", "news.json")
 SAMPLE_PATH = os.path.join(ROOT, "data", "news.sample.json")
-SOURCES_PATH = os.path.join(CURDIR, "sources.json")
+CATEGORIES_PATH = os.path.join(ROOT, "data", "categories.json")
 
 
 def setup_logging():
@@ -45,18 +45,18 @@ def setup_logging():
     )
 
 
-def load_config():
-    with open(SOURCES_PATH, "r", encoding="utf-8") as f:
+def load_categories():
+    with open(CATEGORIES_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def run():
     setup_logging()
     log = logging.getLogger("run")
-    cfg = load_config()
-    keywords = cfg.get("keywords", [])
-    sources = [s for s in cfg.get("sources", []) if s.get("enabled", True)]
-    log.info("Loaded %d sources, %d keywords", len(sources), len(keywords))
+
+    cat_cfg = load_categories()
+    categories = cat_cfg.get("categories", [])
+    log.info("Loaded %d categories from categories.json", len(categories))
 
     # --- Apply user feedback weights ---
     fb_result = feedback_mod.analyse()
@@ -67,34 +67,61 @@ def run():
             fb_stats.get("good_count", 0),
             fb_stats.get("bad_count", 0),
         )
-        sources = feedback_mod.apply_source_weights(sources, fb_result["source_weights"])
-        keywords = feedback_mod.apply_keyword_weights(keywords, fb_result["keyword_weights"])
 
     all_items = []
     source_names_with_data = set()
-    for sconf in sources:
-        klass = FETCHER_CLASSES.get(sconf["id"], GenericSearchFetcher)
-        fetcher = klass(sconf)
-        items = fetcher.safe_fetch(keywords)
-        if items:
-            source_names_with_data.add(sconf["name"])
-        all_items.extend(items)
 
-    log.info("Total raw items: %d", len(all_items))
+    for cat in categories:
+        cat_id = cat.get("id", "")
+        cat_name = cat.get("name", "")
+        keywords = cat.get("keywords", [])
+        sources = [s for s in cat.get("sources", []) if s.get("enabled", True)]
 
-    # pipeline
-    items = filter_by_keywords(all_items, keywords)
-    log.info("After keyword filter: %d", len(items))
-    items = filter_recent(items, days=7)
-    log.info("After 7-day filter: %d", len(items))
-    items = dedup_by_title(items)
-    log.info("After dedup: %d", len(items))
+        if not keywords or not sources:
+            log.info("Skipping category '%s' (no keywords or sources)", cat_name)
+            continue
 
-    insight_mod.enrich(items)
+        log.info("=== Crawling category: %s (%s) ===", cat_name, cat_id)
 
-    items = sort_by_date_desc(items)
+        # Apply feedback weights per category
+        if fb_stats.get("total_feedback", 0) > 0:
+            sources = feedback_mod.apply_source_weights(sources, fb_result["source_weights"])
+            keywords = feedback_mod.apply_keyword_weights(keywords, fb_result["keyword_weights"])
 
-    final_items = finalize_items(items)
+        cat_items = []
+        for sconf in sources:
+            klass = FETCHER_CLASSES.get(sconf["id"], GenericSearchFetcher)
+            fetcher = klass(sconf)
+            items = fetcher.safe_fetch(keywords)
+            if items:
+                source_names_with_data.add(sconf["name"])
+            cat_items.extend(items)
+
+        log.info("Category '%s': %d raw items", cat_name, len(cat_items))
+
+        # Pipeline for this category
+        cat_items = filter_by_keywords(cat_items, keywords)
+        cat_items = filter_recent(cat_items, days=7)
+        cat_items = dedup_by_title(cat_items)
+
+        # Tag each item with category_id
+        for item in cat_items:
+            item["category_id"] = cat_id
+            # Assign info type if not present
+            if "category" not in item:
+                item["category"] = "媒体新闻"
+
+        insight_mod.enrich(cat_items)
+        cat_items = sort_by_date_desc(cat_items)
+        all_items.extend(cat_items)
+
+        log.info("Category '%s': %d items after pipeline", cat_name, len(cat_items))
+
+    log.info("Total items across all categories: %d", len(all_items))
+
+    # Global dedup across categories (by title)
+    all_items = dedup_by_title(all_items)
+    final_items = finalize_items(all_items)
 
     output = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -108,7 +135,6 @@ def run():
         log.warning("No items fetched; falling back to news.sample.json")
         with open(SAMPLE_PATH, "r", encoding="utf-8") as f:
             sample = json.load(f)
-        # update generated_at but keep sample items
         sample["generated_at"] = output["generated_at"]
         output = sample
 
@@ -116,10 +142,23 @@ def run():
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
+    # Also sync news.data.js for file:// access
+    sync_data_js(output)
+
     log.info(
         "Wrote %s: %d items from %d sources",
         DATA_PATH, output.get("total", 0), output.get("source_count", 0),
     )
+
+
+def sync_data_js(data):
+    """Generate news.data.js from news.json for file:// access."""
+    js_path = os.path.join(ROOT, "data", "news.data.js")
+    js = "/* Auto-loaded by index.html so the page works under file:// without a server. */\n"
+    js += "window.__NEWS_DATA__ = " + json.dumps(data, ensure_ascii=False, indent=2) + ";\n"
+    with open(js_path, "w", encoding="utf-8") as f:
+        f.write(js)
+    logging.getLogger("run").info("Synced %s", js_path)
 
 
 if __name__ == "__main__":

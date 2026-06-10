@@ -185,6 +185,55 @@ a { color: inherit; text-decoration: none; }
   color: #FFFFFF;
 }
 
+/* ===== Category Tabs ===== */
+.category-tabs {
+  background: #FFFFFF;
+  border-bottom: 1px solid #E5E7EB;
+}
+.tabs-scroll {
+  display: flex;
+  gap: 4px;
+  padding: 10px 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.tabs-scroll::-webkit-scrollbar {
+  display: none;
+}
+.tab-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 18px;
+  border: 1px solid #E5E7EB;
+  border-radius: 20px;
+  background: #FFFFFF;
+  color: #4B5563;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tab-btn:hover {
+  border-color: #2C5282;
+  color: #2C5282;
+  background: #EFF6FF;
+}
+.tab-active {
+  background: #2C5282;
+  border-color: #2C5282;
+  color: #FFFFFF;
+  box-shadow: 0 2px 8px rgba(44, 82, 130, 0.25);
+}
+.tab-active:hover {
+  background: #1E3A5F;
+  border-color: #1E3A5F;
+  color: #FFFFFF;
+}
+
 .search-box {
   flex: 0 0 auto;
   align-self: flex-end;
