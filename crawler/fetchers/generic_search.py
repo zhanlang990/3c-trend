@@ -25,6 +25,22 @@ _A_TAG = re.compile(
 )
 
 
+# Default search URL templates for known source ids
+DEFAULT_SEARCH_URLS = {
+    "ithome": "https://www.ithome.com/search?word={keyword}",
+    "zol": "https://search.zol.com.cn/search.php?keyword={keyword}",
+    "pconline": "https://search.pconline.com.cn/search.php?q={keyword}",
+    "cnbeta": "https://www.cnbeta.com/search?keyword={keyword}",
+    "chinairn": "https://www.chinairn.com/search.aspx?keyword={keyword}",
+    "taobao-baike": "https://baike.taobao.com/search?keyword={keyword}",
+    "sohu": "https://search.sohu.com/?keyword={keyword}&type=10002",
+    "sina": "https://search.sina.com.cn/?q={keyword}&c=news&ie=utf-8",
+    "netease": "https://www.163.com/search?keyword={keyword}",
+    "china": "https://so.china.com/cse/search?q={keyword}",
+    "pchouse": "https://search.pchouse.com.cn/search.php?q={keyword}",
+}
+
+
 class GenericSearchFetcher(BaseFetcher):
     """Hits a search url for each keyword, parses anchor list heuristically."""
 
@@ -32,6 +48,10 @@ class GenericSearchFetcher(BaseFetcher):
         items = []
         seen_urls = set()
         tpl = self.config.get("search_url") or self.config.get("list_url")
+        if not tpl:
+            # Fallback to default search URL for known source ids
+            src_id = self.config.get("id", "")
+            tpl = DEFAULT_SEARCH_URLS.get(src_id, "")
         if not tpl:
             return items
 

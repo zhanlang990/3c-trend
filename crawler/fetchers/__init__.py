@@ -5,9 +5,11 @@ from fetchers.china_fetcher import ChinaFetcher
 from fetchers.pchouse_fetcher import PchouseFetcher
 from fetchers.sohu_fetcher import SohuFetcher
 from fetchers.brand_fetcher import BrandFetcher
+from fetchers.generic_search import GenericSearchFetcher
 
 
-# Mapping: source id (in sources.json) -> Fetcher class
+# Mapping: source id (in categories.json) -> Fetcher class
+# Known sources use GenericSearchFetcher with DEFAULT_SEARCH_URLS fallback
 FETCHER_CLASSES = {
     "sina": SinaFetcher,
     "netease": NeteaseFetcher,
@@ -15,4 +17,10 @@ FETCHER_CLASSES = {
     "pchouse": PchouseFetcher,
     "sohu": SohuFetcher,
     "aipu": BrandFetcher,
+    "ithome": GenericSearchFetcher,
+    "zol": GenericSearchFetcher,
+    "pconline": GenericSearchFetcher,
+    "cnbeta": GenericSearchFetcher,
+    "chinairn": GenericSearchFetcher,
+    "taobao-baike": GenericSearchFetcher,
 }
