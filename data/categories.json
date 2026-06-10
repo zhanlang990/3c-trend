@@ -6,77 +6,230 @@
       "icon": "🔒",
       "keywords": ["保险柜", "保险箱", "保管箱", "防盗保险箱", "家用保险柜", "智能保险柜", "安防柜", "床头柜", "收纳箱", "收纳柜", "储物柜"],
       "sources": [
-        {"id": "sina", "name": "新浪家居", "type": "search", "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8", "list_selector": ".box-result", "enabled": true},
-        {"id": "netease", "name": "网易家居", "type": "search", "search_url": "https://www.163.com/search?keyword={keyword}", "list_selector": ".keyword_list .keyword_new", "enabled": true},
-        {"id": "china", "name": "中华网", "type": "search", "search_url": "https://so.china.com/cse/search?q={keyword}&s=11514541769432498369", "list_selector": ".result-list .result-item", "enabled": true},
-        {"id": "pchouse", "name": "太平洋家居", "type": "search", "search_url": "https://search.pchouse.com.cn/search.php?q={keyword}", "list_selector": ".search-result li", "enabled": true},
-        {"id": "sohu", "name": "搜狐", "type": "search", "search_url": "https://search.sohu.com/?keyword={keyword}&type=10002&queryType=outside", "list_selector": ".news-list .news-item", "enabled": true},
-        {"id": "aipu", "name": "艾谱官网", "type": "html_list", "list_url": "http://www.aipusafe.com/cn/news.php", "list_selector": ".news-list li", "enabled": true},
-        {"id": "chinairn", "name": "中研网", "type": "search", "search_url": "https://www.chinairn.com/search.aspx?k={keyword}", "list_selector": ".list-item", "enabled": true},
-        {"id": "taobao-baike", "name": "淘宝百科", "type": "search", "search_url": "https://bk.taobao.com/k/{keyword}", "list_selector": ".content-item", "enabled": true}
+        {"id": "sina", "name": "新浪家居", "type": "search", "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8", "enabled": true},
+        {"id": "netease", "name": "网易家居", "type": "search", "search_url": "https://www.163.com/search?keyword={keyword}", "enabled": true},
+        {"id": "china", "name": "中华网", "type": "search", "search_url": "https://so.china.com/cse/search?q={keyword}", "enabled": true},
+        {"id": "pchouse", "name": "太平洋家居", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "aipu", "name": "艾谱官网", "type": "html_list", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true},
+        {"id": "taobao-baike", "name": "淘宝百科", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "phone",
-      "name": "手机",
-      "icon": "📱",
-      "keywords": ["手机", "智能手机", "5G手机", "折叠屏", "旗舰手机"],
+      "id": "3d-printing",
+      "name": "3D打印",
+      "icon": "🖨️",
+      "keywords": ["3D打印", "3D打印机", "增材制造", "3D建模", "3D扫描"],
       "sources": [
-        {"id": "ithome", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true},
-        {"id": "cnbeta", "name": "cnBeta", "type": "search", "search_url": "https://www.cnbeta.com.tw/search?q={keyword}", "list_selector": ".item", "enabled": true},
-        {"id": "zol-phone", "name": "中关村在线手机", "type": "search", "search_url": "https://search.zol.com.cn/s?word={keyword}&typeid=57", "list_selector": ".list-item", "enabled": true}
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "laptop",
-      "name": "笔记本",
-      "icon": "💻",
-      "keywords": ["笔记本电脑", "轻薄本", "游戏本", "商务本", "AI PC"],
+      "id": "uv-printing",
+      "name": "UV打印",
+      "icon": "🎨",
+      "keywords": ["UV打印", "UV打印机", "UV平板打印", "UV卷材打印", "UV固化"],
       "sources": [
-        {"id": "ithome-laptop", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true},
-        {"id": "zol-laptop", "name": "中关村在线笔记本", "type": "search", "search_url": "https://search.zol.com.cn/s?word={keyword}&typeid=316", "list_selector": ".list-item", "enabled": true}
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true},
+        {"id": "taobao-baike", "name": "淘宝百科", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "tablet",
-      "name": "平板",
-      "icon": "📲",
-      "keywords": ["平板电脑", "iPad", "安卓平板", "学习平板"],
+      "id": "cnc",
+      "name": "CNC",
+      "icon": "⚙️",
+      "keywords": ["CNC", "数控机床", "CNC加工", "数控车床", "数控铣床", "五轴加工"],
       "sources": [
-        {"id": "ithome-tablet", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true},
+        {"id": "sina", "name": "新浪", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "wearable",
-      "name": "穿戴设备",
+      "id": "ai-nas",
+      "name": "AI网络存储",
+      "icon": "💾",
+      "keywords": ["NAS", "网络存储", "AI存储", "私有云", "云存储", "群晖", "威联通"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "4k-projector",
+      "name": "4K投影",
+      "icon": "🎬",
+      "keywords": ["4K投影", "4K投影仪", "激光投影", "家用投影", "智能投影", "超短焦投影"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "pconline", "name": "太平洋电脑", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "gaming-peripherals",
+      "name": "电竞键鼠",
+      "icon": "🎮",
+      "keywords": ["电竞键盘", "电竞鼠标", "机械键盘", "游戏鼠标", "电竞外设", "RGB键盘"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "monitor",
+      "name": "显示器",
+      "icon": "🖥️",
+      "keywords": ["高刷显示器", "电竞显示器", "高清显示器", "专业显示器", "4K显示器", "OLED显示器", "MiniLED显示器"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "pconline", "name": "太平洋电脑", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "smart-watch",
+      "name": "时尚智能手表",
       "icon": "⌚",
-      "keywords": ["智能手表", "智能手环", "可穿戴", "TWS耳机", "AR眼镜"],
+      "keywords": ["智能手表", "时尚手表", "运动手表", "健康监测手表", "智能腕表", "Apple Watch", "华为手表"],
       "sources": [
-        {"id": "ithome-wear", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "smart-home",
-      "name": "智能家居",
-      "icon": "🏠",
-      "keywords": ["智能家居", "智能门锁", "扫地机器人", "智能照明", "智能音箱"],
+      "id": "gaming-desktop",
+      "name": "游戏台式机",
+      "icon": "💻",
+      "keywords": ["游戏台式机", "游戏主机", "电竞电脑", "组装电脑", "品牌台式机", "游戏PC"],
       "sources": [
-        {"id": "sina-sh", "name": "新浪家居", "type": "search", "search_url": "https://search.sina.com.cn/?q={keyword}&c=news&from=channel&ie=utf-8", "list_selector": ".box-result", "enabled": true}
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "pconline", "name": "太平洋电脑", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     },
     {
-      "id": "audio",
-      "name": "音频设备",
-      "icon": "🎧",
-      "keywords": ["耳机", "音箱", "蓝牙耳机", "降噪耳机", "Hi-Fi"],
+      "id": "photography",
+      "name": "摄影摄像",
+      "icon": "📷",
+      "keywords": ["生态摄像", "高清摄像", "相机", "微单相机", "运动相机", "无人机航拍", "摄影器材"],
       "sources": [
-        {"id": "ithome-audio", "name": "IT之家", "type": "search", "search_url": "https://www.ithome.com/search?word={keyword}", "list_selector": ".block", "enabled": true}
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "pconline", "name": "太平洋电脑", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "surveillance",
+      "name": "监控摄像",
+      "icon": "📹",
+      "keywords": ["无线免流监控", "无线免流摄像", "太阳能监控", "太阳能摄像", "智能监控", "安防摄像", "家用监控"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "sina", "name": "新浪", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "speaker",
+      "name": "音箱",
+      "icon": "🔊",
+      "keywords": ["艺术音箱", "AI智能音箱", "蓝牙音箱", "智能家居音箱", "HiFi音箱", "桌面音箱"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "ai-glasses",
+      "name": "AI眼镜",
+      "icon": "🥽",
+      "keywords": ["AI眼镜", "智能眼镜", "AR眼镜", "MR眼镜", "智能眼镜", "Ray-Ban Meta"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "magnetic-accessories",
+      "name": "磁吸配件",
+      "icon": "🧲",
+      "keywords": ["磁吸配件", "磁吸充电", "MagSafe", "磁吸支架", "磁吸手机壳", "磁吸车载"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "ai-pc",
+      "name": "AIPC",
+      "icon": "🤖",
+      "keywords": ["AIPC", "AI PC", "AI电脑", "AI笔记本", "Copilot PC", "AI处理器"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "pconline", "name": "太平洋电脑", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "ai-phone",
+      "name": "AI手机",
+      "icon": "📱",
+      "keywords": ["AI手机", "AI智能手机", "AI拍照手机", "AI语音助手", "大模型手机"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "cnbeta", "name": "cnBeta", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "foldable-phone",
+      "name": "折叠屏手机",
+      "icon": "📲",
+      "keywords": ["折叠屏手机", "折叠屏", "翻盖折叠", "折叠屏旗舰", "折叠屏新品"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "zol", "name": "中关村在线", "type": "search", "enabled": true},
+        {"id": "cnbeta", "name": "cnBeta", "type": "search", "enabled": true}
+      ],
+      "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
+    },
+    {
+      "id": "ai-learning",
+      "name": "AI学习硬件",
+      "icon": "📚",
+      "keywords": ["AI学习硬件", "AI学习机", "智能学习机", "AI词典笔", "AI错题本", "学习平板"],
+      "sources": [
+        {"id": "ithome", "name": "IT之家", "type": "search", "enabled": true},
+        {"id": "sohu", "name": "搜狐", "type": "search", "enabled": true},
+        {"id": "chinairn", "name": "中研网", "type": "search", "enabled": true}
       ],
       "info_types": ["公司财报", "行业报告", "媒体新闻", "招标信息"]
     }
