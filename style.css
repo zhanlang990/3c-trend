@@ -166,6 +166,25 @@ a { color: inherit; text-decoration: none; }
   color: #FFFFFF;
 }
 
+/* Category chips (teal accent) */
+.chip-cat {
+  color: #065F46;
+  background: #ECFDF5;
+  border-color: #A7F3D0;
+}
+.chip-cat:hover {
+  border-color: #059669;
+  color: #059669;
+}
+.chip-cat.chip-active {
+  background: #059669;
+  border-color: #059669;
+  color: #FFFFFF;
+}
+.chip-cat.chip-active:hover {
+  color: #FFFFFF;
+}
+
 .search-box {
   flex: 0 0 auto;
   align-self: flex-end;
@@ -266,6 +285,17 @@ a { color: inherit; text-decoration: none; }
   background: #E0E7FF;
   border-color: #818CF8;
   color: #3730A3;
+}
+
+/* Card slide-out animation (bad feedback) */
+@keyframes slideOutRight {
+  0% { transform: translateX(0); opacity: 1; max-height: 500px; margin-bottom: 16px; }
+  70% { transform: translateX(100%); opacity: 0; max-height: 500px; margin-bottom: 16px; }
+  100% { transform: translateX(100%); opacity: 0; max-height: 0; margin-bottom: 0; padding: 0; border: 0; overflow: hidden; }
+}
+.card-slide-out {
+  animation: slideOutRight 0.5s ease forwards;
+  pointer-events: none;
 }
 /* Title link: clickable, distinguishable, copy-friendly */
 .title-link {

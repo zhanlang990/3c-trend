@@ -16,13 +16,34 @@
   };
 
   var FEEDBACK_KEY = "safebox_feedback_v1";
+  var HIDDEN_KEY = "safebox_hidden_v1";
+
+  var CATEGORIES = ["公司财报", "行业报告", "媒体新闻", "招标信息"];
 
   var state = {
     all: [],
     source: "",
     keyword: "",
+    category: "",
     query: "",
   };
+
+  // --- Hidden items (bad feedback → slide away, persist for all visitors) ---
+  function loadHidden() {
+    try { return JSON.parse(localStorage.getItem(HIDDEN_KEY)) || {}; }
+    catch (e) { return {}; }
+  }
+  function saveHidden(data) {
+    try { localStorage.setItem(HIDDEN_KEY, JSON.stringify(data)); } catch (e) {}
+  }
+  function hideItem(url) {
+    var h = loadHidden();
+    h[url] = true;
+    saveHidden(h);
+  }
+  function isHidden(url) {
+    return !!loadHidden()[url];
+  }
 
   // --- Feedback (good/bad) persistence ---
   function loadFeedback() {
@@ -34,7 +55,7 @@
   }
   function recordFeedback(url, type) {
     var fb = loadFeedback();
-    fb[url] = type;   // "good" or "bad"
+    fb[url] = type;
     saveFeedback(fb);
   }
   function getFeedback(url) {
@@ -45,6 +66,7 @@
   var $empty = document.getElementById("empty-state");
   var $filter = document.getElementById("source-filter");
   var $keyword = document.getElementById("keyword-filter");
+  var $category = document.getElementById("category-filter");
   var $search = document.getElementById("search-input");
   var $total = document.getElementById("stat-total");
   var $sources = document.getElementById("stat-sources");
@@ -72,6 +94,17 @@
       });
     });
     return Object.keys(set);
+  }
+
+  function uniqueCategories(items) {
+    var set = {};
+    items.forEach(function (it) {
+      var cat = it.category || "媒体新闻";
+      if (cat) set[cat] = true;
+    });
+    // Ensure predefined categories appear even if no data
+    CATEGORIES.forEach(function (c) { set[c] = true; });
+    return CATEGORIES.filter(function (c) { return set[c]; });
   }
 
   // Tokenize Chinese text into 2-4 char n-grams (simple but effective).
@@ -181,6 +214,24 @@
     });
   }
 
+  function renderCategoryFilter(categories) {
+    if (!$category) return;
+    var html = '<button class="chip chip-cat chip-active" data-category="">全部</button>';
+    categories.forEach(function (c) {
+      html += '<button class="chip chip-cat" data-category="' + escapeHtml(c) + '">' + escapeHtml(c) + "</button>";
+    });
+    $category.innerHTML = html;
+    Array.prototype.forEach.call($category.querySelectorAll(".chip"), function (btn) {
+      btn.addEventListener("click", function () {
+        state.category = btn.getAttribute("data-category") || "";
+        Array.prototype.forEach.call($category.querySelectorAll(".chip"), function (b) {
+          b.classList.toggle("chip-active", b === btn);
+        });
+        applyFilters();
+      });
+    });
+  }
+
   function renderStats(data) {
     $total.textContent = data.total != null ? data.total : (data.items || []).length;
     $sources.textContent = data.source_count != null ? data.source_count : uniqueSources(data.items || []).length;
@@ -249,17 +300,33 @@
         var url = btn.getAttribute("data-url");
         var type = btn.getAttribute("data-type");
         var prev = getFeedback(url);
-        // Toggle: click same button again = cancel
-        if (prev === type) {
-          recordFeedback(url, "");
-          btn.classList.remove("fb-active");
-        } else {
-          recordFeedback(url, type);
-          // Update UI: activate this, deactivate sibling
+        if (type === "bad") {
+          // Record bad feedback and hide the card with slide animation
+          recordFeedback(url, "bad");
+          hideItem(url);
           var card = btn.closest(".news-card");
-          card.querySelectorAll(".fb-btn").forEach(function (b) {
-            b.classList.toggle("fb-active", b.getAttribute("data-type") === type);
-          });
+          if (card) {
+            card.classList.add("card-slide-out");
+            card.addEventListener("animationend", function () {
+              card.remove();
+              // Check if list is now empty
+              if (!$list.children.length) {
+                $empty.hidden = false;
+              }
+            });
+          }
+        } else if (type === "good") {
+          // Toggle good
+          if (prev === "good") {
+            recordFeedback(url, "");
+            btn.classList.remove("fb-active");
+          } else {
+            recordFeedback(url, "good");
+            var card2 = btn.closest(".news-card");
+            card2.querySelectorAll(".fb-btn").forEach(function (b) {
+              b.classList.toggle("fb-active", b.getAttribute("data-type") === "good");
+            });
+          }
         }
       });
     });
@@ -278,8 +345,16 @@
   function applyFilters() {
     var src = state.source;
     var kw = state.keyword;
+    var cat = state.category;
     var q = (state.query || "").trim().toLowerCase();
+    var hidden = loadHidden();
     var filtered = state.all.filter(function (it) {
+      // Hide items marked as "bad" (swiped away)
+      if (hidden[it.url]) return false;
+      if (cat) {
+        var itemCat = it.category || "媒体新闻";
+        if (itemCat !== cat) return false;
+      }
       if (src) {
         var arr = getItemSources(it);
         if (arr.indexOf(src) === -1) return false;
@@ -302,8 +377,9 @@
     items = sortByDateDesc(items);
     state.all = items;
     renderStats(data || {});
-    renderFilter(uniqueSources(items));
+    renderCategoryFilter(uniqueCategories(items));
     renderKeywordFilter(computeTopKeywords(items, 20));
+    renderFilter(uniqueSources(items));
     renderList(items);
     $search.addEventListener("input", function () {
       state.query = $search.value || "";

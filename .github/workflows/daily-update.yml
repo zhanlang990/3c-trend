@@ -1,0 +1,49 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # UTC 0:00 = Beijing 8:00 (CST = UTC+8)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run crawler
+        run: python crawler/run.py
+        working-directory: safe-box-news
+
+      - name: Sync news.data.js from news.json
+        run: |
+          python -c "
+          import json
+          with open('data/news.json','r',encoding='utf-8') as f: data=json.load(f)
+          with open('data/news.data.js','w',encoding='utf-8') as f:
+              f.write('/* Auto-loaded by index.html so the page works under file:// without a server. */\n')
+              f.write('window.__NEWS_DATA__ = ')
+              f.write(json.dumps(data,ensure_ascii=False,indent=2))
+              f.write(';\n')
+          print('Synced news.data.js')
+          "
+        working-directory: safe-box-news
+
+      - name: Commit and push if changed
+        run: |
+          cd safe-box-news
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/news.json data/news.data.js
+          git diff --cached --quiet || git commit -m "auto: daily news update $(date +%Y-%m-%d)"
+          git push
