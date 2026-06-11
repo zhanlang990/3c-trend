@@ -22,20 +22,21 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml 2>/dev/null || true
+
       - name: 运行爬虫
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python crawler/run.py
 
-      - name: 提交并推送更新数据
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/news.data.js
-          # 仅当数据有变化时才提交
-          if git diff --cached --quiet; then
-            echo "数据无变化，跳过提交"
-          else
-            git commit -m "auto: 更新资讯数据 $(date +'%Y-%m-%d %H:%M')"
-            git push
-          fi
+      - name: 上传爬取数据
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-data
+          path: |
+            data/news.json
+            data/news.data.js
+          retention-days: 1

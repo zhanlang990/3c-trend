@@ -1,0 +1,52 @@
+name: 推送资讯数据
+
+on:
+  # 爬取工作流完成后自动触发
+  workflow_run:
+    workflows: ["每日资讯爬取"]
+    types: [completed]
+  # 支持手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    # 只在爬取成功时运行
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 下载爬取数据
+        uses: actions/download-artifact@v4
+        with:
+          name: news-data
+          path: data
+        # 手动触发时可能没有artifact，跳过错误
+        continue-on-error: true
+
+      - name: 检查数据文件是否存在
+        id: check
+        run: |
+          if [ -f data/news.json ]; then
+            echo "has_data=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_data=false" >> $GITHUB_OUTPUT
+            echo "未找到爬取数据，跳过推送"
+          fi
+
+      - name: 提交并推送数据
+        if: steps.check.outputs.has_data == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.data.js
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "auto: 更新资讯数据 $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
