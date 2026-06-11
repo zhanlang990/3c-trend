@@ -1543,6 +1543,104 @@
         "媒体新闻",
         "招标信息"
       ]
+    },
+    {
+      "id": "foldable-phone",
+      "name": "折叠屏手机",
+      "icon": "📲",
+      "keywords": [
+        "折叠屏手机",
+        "折叠屏",
+        "翻盖折叠",
+        "折叠屏旗舰",
+        "折叠屏新品"
+      ],
+      "sources": [
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋电脑",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu",
+          "name": "搜狐",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina",
+          "name": "新浪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "bing-news",
+          "name": "必应新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sogou-weixin",
+          "name": "搜狗微信",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "TheVerge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        }
+      ],
+      "info_types": [
+        "公司财报",
+        "行业报告",
+        "媒体新闻",
+        "招标信息"
+      ]
     }
   ]
 }
