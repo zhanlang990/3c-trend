@@ -497,9 +497,28 @@
     return state.catId; // fallback to default
   }
 
+  // Limit items per category (top N by date desc)
+  var MAX_PER_CATEGORY = 30;
+  function limitPerCategory(items) {
+    var groups = {};
+    items.forEach(function (it) {
+      var cid = it.category_id || "_uncategorized";
+      if (!groups[cid]) groups[cid] = [];
+      groups[cid].push(it);
+    });
+    var result = [];
+    Object.keys(groups).forEach(function (cid) {
+      // Already sorted by date desc, just take first N
+      var group = groups[cid].slice(0, MAX_PER_CATEGORY);
+      result = result.concat(group);
+    });
+    return result;
+  }
+
   function init(data) {
     var items = (data && data.items) || [];
     items = sortByDateDesc(items);
+    items = limitPerCategory(items);
     state.all = items;
     // If default catId has no data, auto-switch to first category with data
     var hasData = items.some(function (it) { return (it.category_id || "") === state.catId; });
