@@ -156,7 +156,7 @@ function filterSources() {
 // --- Source CRUD ---
 function toggleSource(id, enabled) {
   const s = sources.find(x => x.id === id);
-  if (s) { s.enabled = enabled; renderSources(); updateStats(); }
+  if (s) { s.enabled = enabled; renderSources(); updateStats(); saveConfig(); }
 }
 
 function toggleAllSources(el) {
@@ -164,6 +164,7 @@ function toggleAllSources(el) {
   sources.forEach(s => s.enabled = checked);
   renderSources();
   updateStats();
+  saveConfig();
 }
 
 function deleteSource(id) {
@@ -172,7 +173,7 @@ function deleteSource(id) {
   renderSources();
   renderGroupFilter();
   updateStats();
-  showToast('信源已删除');
+  saveConfig();
 }
 
 function editSource(id) {
@@ -234,7 +235,7 @@ function saveSource() {
   renderSources();
   renderGroupFilter();
   updateStats();
-  showToast(editingSourceId ? '信源已更新' : '信源已添加');
+  saveConfig();
 }
 
 // --- Group Filter ---
@@ -308,12 +309,13 @@ function addKeyword(catIdx) {
   categories[catIdx].keywords.push(kw);
   input.value = '';
   renderCategories();
-  showToast('关键词已添加');
+  saveConfig();
 }
 
 function removeKeyword(catIdx, kwIdx) {
   categories[catIdx].keywords.splice(kwIdx, 1);
   renderCategories();
+  saveConfig();
 }
 
 
@@ -327,14 +329,14 @@ function addCategory() {
   if (categories.find(c => c.id === id)) { showToast('ID已存在', 'error'); return; }
   categories.push({ id, name, icon, keywords: [], sources: [], info_types: ['媒体新闻'] });
   renderCategories();
-  showToast('品类已添加');
+  saveConfig();
 }
 
 function removeCategory(idx) {
   if (!confirm(`确定删除品类「${categories[idx].name}」？`)) return;
   categories.splice(idx, 1);
   renderCategories();
-  showToast('品类已删除');
+  saveConfig();
 }
 
 // --- GitHub Sync ---
@@ -409,42 +411,51 @@ function loadGitHubSettingsUI() {
   }
 }
 
-async function githubUpsertFile(filePath, content, message) {
+async function githubUpsertFile(filePath, content, message, retryCount = 3) {
   const settings = getGitHubSettings();
   if (!settings.repo || !settings.token) return false;
   const { repo, token, branch } = settings;
 
-  // Get current file SHA (if exists) for update
-  let sha = null;
-  try {
-    const res = await fetch(`https://api.github.com/repos/${repo}/contents/${filePath}?ref=${branch}`, {
-      headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' }
+  for (let attempt = 0; attempt < retryCount; attempt++) {
+    // Get current file SHA (if exists) for update - fetch fresh each attempt
+    let sha = null;
+    try {
+      const res = await fetch(`https://api.github.com/repos/${repo}/contents/${filePath}?ref=${branch}`, {
+        headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' }
+      });
+      if (res.ok) {
+        const data = await res.json();
+        sha = data.sha;
+      }
+    } catch { /* file may not exist yet */ }
+
+    // Create or update file
+    const body = {
+      message,
+      content: btoa(unescape(encodeURIComponent(content))),
+      branch,
+    };
+    if (sha) body.sha = sha;
+
+    const res = await fetch(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
+      method: 'PUT',
+      headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' },
+      body: JSON.stringify(body),
     });
-    if (res.ok) {
-      const data = await res.json();
-      sha = data.sha;
+
+    if (res.ok) return true;
+
+    // Handle SHA conflict (409) or version mismatch (422) - retry with fresh SHA
+    if ((res.status === 409 || res.status === 422) && attempt < retryCount - 1) {
+      console.warn(`SHA conflict for ${filePath}, retrying (${attempt + 1}/${retryCount})...`);
+      await new Promise(r => setTimeout(r, 500 * (attempt + 1))); // backoff
+      continue;
     }
-  } catch { /* file may not exist yet */ }
 
-  // Create or update file
-  const body = {
-    message,
-    content: btoa(unescape(encodeURIComponent(content))),
-    branch,
-  };
-  if (sha) body.sha = sha;
-
-  const res = await fetch(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
-    method: 'PUT',
-    headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' },
-    body: JSON.stringify(body),
-  });
-
-  if (!res.ok) {
     const err = await res.json().catch(() => ({}));
     throw new Error(err.message || `HTTP ${res.status}`);
   }
-  return true;
+  return false;
 }
 
 // --- Toast ---
