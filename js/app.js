@@ -2,6 +2,7 @@
   "use strict";
 
   var DATA_URL = "./data/news.json";
+  var CATEGORIES_URL = "./data/categories.json";
 
   // Stopwords (Chinese common words) to filter out from keyword stats
   var STOPWORDS = {
@@ -26,10 +27,10 @@
     keyword: "",
     category: "",
     query: "",
-    catId: "3d-printing",  // current category tab id
+    catId: "",  // will be set to first tab after categories load
   };
 
-  // Category tabs configuration (loaded from categories.json or fallback)
+  // Category tabs configuration — dynamically loaded from categories.json
   var CATEGORY_TABS = [
     { id: "3d-printing", name: "3D打印", icon: "🖨️" },
     { id: "uv-printing", name: "UV打印", icon: "🎨" },
@@ -51,6 +52,25 @@
     { id: "magnetic-accessories", name: "磁吸配件", icon: "🧲" },
     { id: "foldable-phone", name: "折叠屏手机", icon: "📲" }
   ];
+
+  // Load categories from categories.json, merging with fallback list
+  function loadCategoryTabs(callback) {
+    fetch(CATEGORIES_URL, { cache: "no-store" })
+      .then(function(r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function(data) {
+        var cats = data.categories || [];
+        if (cats.length > 0) {
+          CATEGORY_TABS = cats.map(function(c) {
+            return { id: c.id, name: c.name, icon: c.icon || "📁" };
+          });
+        }
+        if (callback) callback();
+      })
+      .catch(function(err) {
+        console.warn("Failed to load categories.json, using fallback tabs:", err);
+        if (callback) callback();
+      });
+  }
 
   // --- Hidden items (bad feedback → slide away, persist via localStorage + URL hash) ---
   function loadHidden() {
@@ -520,6 +540,10 @@
     items = sortByDateDesc(items);
     items = limitPerCategory(items);
     state.all = items;
+    // Set default catId to first category tab (dynamically loaded)
+    if (!state.catId && CATEGORY_TABS.length > 0) {
+      state.catId = CATEGORY_TABS[0].id;
+    }
     // If default catId has no data, auto-switch to first category with data
     var hasData = items.some(function (it) { return (it.category_id || "") === state.catId; });
     if (!hasData && items.length > 0) {
@@ -545,18 +569,21 @@
   }
 
   // Prefer inlined window.__NEWS_DATA__ (works under file://); otherwise fetch.
+  // Also load categories from categories.json for dynamic tab rendering.
   if (window.__NEWS_DATA__) {
-    init(window.__NEWS_DATA__);
+    loadCategoryTabs(function() { init(window.__NEWS_DATA__); });
   } else {
-    loadJson(DATA_URL)
-      .catch(function () { return loadJson("./data/news.sample.json"); })
-      .then(init)
-      .catch(function (err) {
-        $list.innerHTML = "";
-        $empty.hidden = false;
-        $empty.querySelector("p").textContent = "新闻数据加载失败 😢";
-        $empty.querySelector(".empty-tip").textContent = "请检查 data/news.json 是否存在或网络是否通畅：" + err.message;
-      });
+    loadCategoryTabs(function() {
+      loadJson(DATA_URL)
+        .catch(function () { return loadJson("./data/news.sample.json"); })
+        .then(init)
+        .catch(function (err) {
+          $list.innerHTML = "";
+          $empty.hidden = false;
+          $empty.querySelector("p").textContent = "新闻数据加载失败 😢";
+          $empty.querySelector(".empty-tip").textContent = "请检查 data/news.json 是否存在或网络是否通畅：" + err.message;
+        });
+    });
   }
 
   // --- Daily feedback sync to admin page ---
