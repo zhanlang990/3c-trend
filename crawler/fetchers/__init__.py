@@ -6,6 +6,7 @@ from fetchers.pchouse_fetcher import PchouseFetcher
 from fetchers.sohu_fetcher import SohuFetcher
 from fetchers.brand_fetcher import BrandFetcher
 from fetchers.generic_search import GenericSearchFetcher
+from fetchers.sogou_weixin_fetcher import SogouWeixinFetcher
 
 
 # Mapping: source id (in categories.json) -> Fetcher class
@@ -17,6 +18,7 @@ FETCHER_CLASSES = {
     "pchouse": PchouseFetcher,
     "sohu": SohuFetcher,
     "aipu": BrandFetcher,
+    "sogou-weixin": SogouWeixinFetcher,
     "ithome": GenericSearchFetcher,
     "zol": GenericSearchFetcher,
     "pconline": GenericSearchFetcher,

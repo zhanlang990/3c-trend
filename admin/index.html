@@ -10,7 +10,7 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
       font-size: 14px; line-height: 1.6; color: #1F2937; background: #F8F9FB;
     }
-    .container { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
     header {
       background: #FFFFFF; border-bottom: 1px solid #E5E7EB; padding: 18px 0;
       position: sticky; top: 0; z-index: 10;
@@ -19,28 +19,62 @@
     header h1 { font-size: 20px; color: #2C5282; }
     .brand-icon { font-size: 24px; }
     main { padding: 24px 0 60px; }
+
+    /* Tab navigation */
+    .tab-nav { display: flex; gap: 0; margin-bottom: 20px; border-bottom: 2px solid #E5E7EB; }
+    .tab-btn {
+      padding: 10px 24px; font-size: 15px; font-weight: 500; cursor: pointer;
+      border: none; background: none; color: #6B7280; border-bottom: 3px solid transparent;
+      margin-bottom: -2px; transition: all 0.2s;
+    }
+    .tab-btn:hover { color: #2C5282; }
+    .tab-btn.active { color: #2C5282; border-bottom-color: #2C5282; }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    /* Cards */
     .card {
       background: #FFFFFF; border-radius: 12px; padding: 20px;
       margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.06);
     }
     .card h2 { font-size: 16px; color: #2C5282; margin-bottom: 12px; }
-    .cat-list { display: flex; flex-direction: column; gap: 12px; }
-    .cat-item {
-      border: 1px solid #E5E7EB; border-radius: 8px; padding: 16px;
-      background: #FAFBFC;
+    .card h3 { font-size: 14px; color: #374151; margin: 12px 0 8px; }
+
+    /* Source table */
+    .src-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .src-table th { text-align: left; padding: 8px 10px; background: #F1F5F9; color: #475569; font-weight: 600; border-bottom: 2px solid #E2E8F0; }
+    .src-table td { padding: 8px 10px; border-bottom: 1px solid #F1F5F9; vertical-align: middle; }
+    .src-table tr:hover td { background: #F8FAFC; }
+    .src-table .src-name { font-weight: 500; color: #1E293B; }
+    .src-table .src-url { color: #3B82F6; text-decoration: none; font-size: 12px; max-width: 280px; display: inline-block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .src-table .src-url:hover { text-decoration: underline; }
+    .src-type-badge {
+      display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 500;
     }
+    .src-type-website { background: #DBEAFE; color: #1D4ED8; }
+    .src-type-wechat { background: #D1FAE5; color: #065F46; }
+    .src-type-weibo { background: #FEE2E2; color: #991B1B; }
+    .src-type-community { background: #FEF3C7; color: #92400E; }
+
+    /* Category group filter */
+    .group-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+    .group-btn {
+      padding: 4px 12px; border-radius: 16px; font-size: 12px; cursor: pointer;
+      border: 1px solid #E5E7EB; background: #FFF; color: #6B7280; transition: all 0.15s;
+    }
+    .group-btn:hover { border-color: #2C5282; color: #2C5282; }
+    .group-btn.active { background: #2C5282; color: #FFF; border-color: #2C5282; }
+
+    /* Category items */
+    .cat-list { display: flex; flex-direction: column; gap: 12px; }
+    .cat-item { border: 1px solid #E5E7EB; border-radius: 8px; padding: 16px; background: #FAFBFC; }
     .cat-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
     .cat-header .icon { font-size: 20px; }
     .cat-header .name { font-weight: 600; font-size: 15px; color: #1F2937; }
     .cat-header .id { font-size: 12px; color: #6B7280; }
     .cat-header .actions { margin-left: auto; display: flex; gap: 6px; }
-    .field-group { margin-bottom: 10px; }
-    .field-group label { display: block; font-size: 12px; color: #6B7280; margin-bottom: 4px; font-weight: 500; }
-    .field-group input, .field-group textarea {
-      width: 100%; padding: 8px 12px; border: 1px solid #E5E7EB; border-radius: 6px;
-      font-size: 13px; font-family: inherit; background: #FFFFFF;
-    }
-    .field-group textarea { min-height: 60px; resize: vertical; }
+
+    /* Tags */
     .tag-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
     .tag {
       display: inline-flex; align-items: center; gap: 4px;
@@ -49,15 +83,17 @@
     }
     .tag .remove { cursor: pointer; color: #EF4444; font-weight: bold; }
     .tag .remove:hover { color: #DC2626; }
-    .source-item {
-      display: flex; align-items: center; gap: 8px; padding: 6px 0;
-      border-bottom: 1px solid #F3F4F6; font-size: 13px;
+
+    /* Form elements */
+    .field-group { margin-bottom: 10px; }
+    .field-group label { display: block; font-size: 12px; color: #6B7280; margin-bottom: 4px; font-weight: 500; }
+    .field-group input, .field-group textarea, .field-group select {
+      width: 100%; padding: 8px 12px; border: 1px solid #E5E7EB; border-radius: 6px;
+      font-size: 13px; font-family: inherit; background: #FFFFFF;
     }
-    .source-item:last-child { border-bottom: none; }
-    .source-item .sname { font-weight: 500; }
-    .source-item .sid { color: #6B7280; font-size: 12px; }
-    .source-item .stype { color: #059669; font-size: 12px; background: #ECFDF5; padding: 1px 6px; border-radius: 4px; }
-    .source-item .sactions { margin-left: auto; }
+    .field-group textarea { min-height: 60px; resize: vertical; }
+
+    /* Buttons */
     button {
       padding: 6px 14px; border-radius: 6px; border: 1px solid #E5E7EB;
       background: #FFFFFF; color: #4B5563; font-size: 13px; cursor: pointer;
@@ -69,9 +105,24 @@
     .btn-danger { color: #EF4444; border-color: #FCA5A5; }
     .btn-danger:hover { background: #FEF2F2; border-color: #EF4444; }
     .btn-sm { padding: 3px 10px; font-size: 12px; }
-    .add-row { display: flex; gap: 6px; margin-top: 8px; }
-    .add-row input { flex: 1; padding: 6px 10px; border: 1px solid #E5E7EB; border-radius: 6px; font-size: 13px; }
+    .add-row { display: flex; gap: 6px; margin-top: 8px; align-items: center; }
+    .add-row input, .add-row select { flex: 1; padding: 6px 10px; border: 1px solid #E5E7EB; border-radius: 6px; font-size: 13px; }
     .actions-bar { display: flex; gap: 10px; margin-top: 20px; justify-content: flex-end; }
+
+    /* Modal */
+    .modal-overlay {
+      display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0,0,0,0.4); z-index: 50; align-items: center; justify-content: center;
+    }
+    .modal-overlay.show { display: flex; }
+    .modal {
+      background: #FFF; border-radius: 12px; padding: 24px; width: 90%; max-width: 600px;
+      max-height: 80vh; overflow-y: auto; box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+    }
+    .modal h3 { font-size: 16px; color: #2C5282; margin-bottom: 16px; }
+    .modal .field-group { margin-bottom: 14px; }
+
+    /* Toast */
     .toast {
       position: fixed; bottom: 24px; right: 24px; padding: 12px 20px;
       background: #059669; color: #FFFFFF; border-radius: 8px; font-size: 14px;
@@ -80,6 +131,20 @@
     }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     .empty-msg { color: #9CA3AF; font-style: italic; text-align: center; padding: 20px; }
+
+    /* Stats */
+    .stats-bar { display: flex; gap: 16px; margin-bottom: 16px; }
+    .stat-item { background: #F1F5F9; border-radius: 8px; padding: 10px 16px; text-align: center; }
+    .stat-item .stat-num { font-size: 24px; font-weight: 700; color: #2C5282; }
+    .stat-item .stat-label { font-size: 12px; color: #6B7280; }
+
+    /* Search */
+    .search-bar { margin-bottom: 16px; }
+    .search-bar input {
+      width: 100%; padding: 10px 16px; border: 1px solid #E5E7EB; border-radius: 8px;
+      font-size: 14px; background: #FFF;
+    }
+    .search-bar input:focus { outline: none; border-color: #2C5282; box-shadow: 0 0 0 3px rgba(44,82,130,0.1); }
   </style>
 </head>
 <body>
@@ -89,19 +154,100 @@
       <h1>3C趋势品类 · 管理后台</h1>
       <nav style="margin-left:auto;display:flex;gap:8px;">
         <a href="feedback.html" style="color:#2C5282;text-decoration:none;font-size:13px;padding:4px 10px;border:1px solid #BFDBFE;border-radius:6px;">📊 数据反馈</a>
+        <a href="../index.html" style="color:#2C5282;text-decoration:none;font-size:13px;padding:4px 10px;border:1px solid #BFDBFE;border-radius:6px;">🏠 前台首页</a>
       </nav>
     </div>
   </header>
   <main>
     <div class="container">
-      <div class="card">
-        <h2>品类配置</h2>
-        <p style="font-size:13px;color:#6B7280;margin-bottom:16px;">管理各品类的关键词、媒体源和信息类型。修改后点击"保存配置"生效，下次爬虫运行时自动读取。</p>
-        <div class="cat-list" id="cat-list"></div>
-        <div style="margin-top:12px;">
-          <button class="btn-primary" onclick="addCategory()">+ 添加品类</button>
+      <!-- Tab Navigation -->
+      <div class="tab-nav">
+        <button class="tab-btn active" onclick="switchTab('sources')">📡 信源管理</button>
+        <button class="tab-btn" onclick="switchTab('categories')">🏷️ 品类关键词</button>
+        <button class="tab-btn" onclick="switchTab('settings')">⚙️ 同步设置</button>
+      </div>
+
+      <!-- Tab 1: Source Management -->
+      <div class="tab-content active" id="tab-sources">
+        <div class="stats-bar" id="src-stats"></div>
+        <div class="search-bar">
+          <input type="text" id="src-search" placeholder="搜索信源名称、网址或分组..." oninput="filterSources()">
+        </div>
+        <div class="group-filter" id="group-filter"></div>
+        <div class="card">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+            <h2 style="margin:0;">信源列表</h2>
+            <button class="btn-primary" onclick="openAddSourceModal()">+ 添加信源</button>
+          </div>
+          <div style="overflow-x:auto;">
+            <table class="src-table" id="src-table">
+              <thead>
+                <tr>
+                  <th style="width:30px"><input type="checkbox" id="src-select-all" onchange="toggleAllSources(this)"></th>
+                  <th>名称</th>
+                  <th>网址</th>
+                  <th>类型</th>
+                  <th>分组</th>
+                  <th>适合关注</th>
+                  <th>状态</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="src-tbody"></tbody>
+            </table>
+          </div>
         </div>
       </div>
+
+      <!-- Tab 2: Category Keywords -->
+      <div class="tab-content" id="tab-categories">
+        <div class="card">
+          <h2>品类关键词配置</h2>
+          <p style="font-size:13px;color:#6B7280;margin-bottom:16px;">管理各品类的关键词。爬虫将根据关键词从信源中匹配资讯并归类。修改后点击"保存配置"生效。</p>
+          <div class="cat-list" id="cat-list"></div>
+          <div style="margin-top:12px;">
+            <button class="btn-primary" onclick="addCategory()">+ 添加品类</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab 3: Sync Settings -->
+      <div class="tab-content" id="tab-settings">
+        <div class="card">
+          <h2>GitHub 同步设置</h2>
+          <p style="font-size:13px;color:#6B7280;margin-bottom:16px;">配置GitHub仓库信息后，保存配置将自动提交到仓库。爬虫将在下次运行时自动读取最新配置。</p>
+          <div class="field-group">
+            <label>GitHub 仓库 (owner/repo)</label>
+            <input type="text" id="gh-repo" placeholder="如：username/safe-box-news">
+          </div>
+          <div class="field-group">
+            <label>GitHub Token (需 repo 权限)</label>
+            <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
+            <div style="font-size:11px;color:#9CA3AF;margin-top:4px;">Token仅保存在浏览器localStorage中，不会上传到任何服务器。需要repo权限以提交文件。</div>
+          </div>
+          <div class="field-group">
+            <label>目标分支</label>
+            <input type="text" id="gh-branch" placeholder="main" value="main">
+          </div>
+          <div style="margin-top:16px;">
+            <button class="btn-primary" onclick="saveGitHubSettings()">💾 保存设置</button>
+            <button onclick="testGitHubConnection()" style="margin-left:8px;">🔗 测试连接</button>
+            <button onclick="clearGitHubSettings()" style="margin-left:8px;">🗑️ 清除设置</button>
+          </div>
+          <div id="gh-status" style="margin-top:12px;font-size:13px;"></div>
+        </div>
+
+        <div class="card">
+          <h2>手动同步（备用）</h2>
+          <p style="font-size:13px;color:#6B7280;margin-bottom:12px;">如果未配置GitHub同步，可手动导出配置文件后替换仓库中的 data/ 目录下对应文件。</p>
+          <div style="display:flex;gap:8px;">
+            <button onclick="exportConfig()">📋 导出配置</button>
+            <button onclick="importConfig()">📥 导入配置</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Actions Bar -->
       <div class="actions-bar">
         <button onclick="exportConfig()">📋 导出配置</button>
         <button onclick="importConfig()">📥 导入配置</button>
@@ -109,6 +255,60 @@
       </div>
     </div>
   </main>
+
+  <!-- Add/Edit Source Modal -->
+  <div class="modal-overlay" id="source-modal">
+    <div class="modal">
+      <h3 id="modal-title">添加信源</h3>
+      <div class="field-group">
+        <label>名称 *</label>
+        <input type="text" id="m-name" placeholder="如：36氪">
+      </div>
+      <div class="field-group">
+        <label>网址</label>
+        <input type="text" id="m-url" placeholder="如：https://36kr.com">
+      </div>
+      <div class="field-group">
+        <label>类型 *</label>
+        <select id="m-type">
+          <option value="website">网站</option>
+          <option value="wechat">微信公众号</option>
+          <option value="weibo">微博</option>
+          <option value="community">社区</option>
+        </select>
+      </div>
+      <div class="field-group">
+        <label>分组</label>
+        <select id="m-group">
+          <option value="综合科技">综合科技</option>
+          <option value="电商零售">电商零售</option>
+          <option value="AI与硬科技">AI与硬科技</option>
+          <option value="消费电子">消费电子</option>
+          <option value="半导体电子">半导体电子</option>
+          <option value="海外科技">海外科技</option>
+          <option value="微信公众号">微信公众号</option>
+          <option value="微博">微博</option>
+        </select>
+      </div>
+      <div class="field-group">
+        <label>适合关注</label>
+        <input type="text" id="m-focus" placeholder="如：创投、科技公司、AI">
+      </div>
+      <div class="field-group">
+        <label>特点描述</label>
+        <textarea id="m-desc" placeholder="信源特点说明"></textarea>
+      </div>
+      <div class="field-group">
+        <label>搜索ID（英文，用于爬虫识别）</label>
+        <input type="text" id="m-id" placeholder="如：36kr">
+      </div>
+      <div style="display:flex;gap:10px;justify-content:flex-end;margin-top:16px;">
+        <button onclick="closeSourceModal()">取消</button>
+        <button class="btn-primary" onclick="saveSource()">保存</button>
+      </div>
+    </div>
+  </div>
+
   <input type="file" id="import-file" accept=".json" style="display:none" onchange="handleImport(event)">
   <script src="js/admin.js"></script>
 </body>

@@ -86,6 +86,18 @@ class BaseFetcher:
 
     @staticmethod
     def build_search_url(template, keyword):
-        """Substitute {keyword} with url-encoded keyword."""
+        """Substitute {keyword} with url-encoded keyword.
+        Also encodes any non-ASCII characters already in the template."""
         kw = urllib.parse.quote(keyword)
-        return template.replace("{keyword}", kw)
+        url = template.replace("{keyword}", kw)
+        # Encode non-ASCII chars in the URL (e.g. Chinese keywords in template)
+        if any(ord(c) > 127 for c in url):
+            # Split URL into ASCII and non-ASCII parts, encode non-ASCII
+            parts = []
+            for c in url:
+                if ord(c) > 127:
+                    parts.append(urllib.parse.quote(c))
+                else:
+                    parts.append(c)
+            url = "".join(parts)
+        return url
