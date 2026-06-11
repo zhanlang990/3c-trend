@@ -84,7 +84,7 @@ def _call_api(messages, temperature=0.3, max_tokens=500):
     try:
         data = json.dumps(payload).encode("utf-8")
         req = urllib.request.Request(url, data=data, headers=headers, method="POST")
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read().decode("utf-8"))
             content = result["choices"][0]["message"]["content"]
             # Track token usage
@@ -144,7 +144,7 @@ def generate_insights(title, summary="", category_name=""):
     if not response:
         return None
 
-    # Parse JSON from response (handle markdown code blocks)
+    # Parse JSON from response (handle markdown code blocks and various formats)
     response = response.strip()
     if response.startswith("```"):
         # Remove markdown code block markers
@@ -160,6 +160,16 @@ def generate_insights(title, summary="", category_name=""):
         log.warning("DeepSeek response missing required fields: %s", list(result.keys()))
         return None
     except json.JSONDecodeError:
+        # Try extracting JSON object with regex
+        import re
+        m = re.search(r'\{[^{}]*"info_brief"[^{}]*\}', response, re.DOTALL)
+        if m:
+            try:
+                result = json.loads(m.group(0))
+                if "info_brief" in result and "procurement_insight" in result:
+                    return result
+            except json.JSONDecodeError:
+                pass
         log.warning("DeepSeek response not valid JSON: %s", response[:200])
         return None
 
@@ -214,6 +224,16 @@ def translate_to_chinese(title, summary=""):
             return result
         return None
     except json.JSONDecodeError:
+        # Try extracting JSON object with regex
+        import re
+        m = re.search(r'\{[^{}]*"title"[^{}]*\}', response, re.DOTALL)
+        if m:
+            try:
+                result = json.loads(m.group(0))
+                if "title" in result:
+                    return result
+            except json.JSONDecodeError:
+                pass
         log.warning("DeepSeek translate response not valid JSON: %s", response[:200])
         return None
 
@@ -335,6 +355,19 @@ def _batch_call(items):
         log.warning("Batch response length mismatch: expected %d, got %d", n, len(result) if isinstance(result, list) else -1)
         return None
     except json.JSONDecodeError:
+        # Try extracting JSON array with regex
+        import re
+        m = re.search(r'\[.*\]', response, re.DOTALL)
+        if m:
+            try:
+                result = json.loads(m.group(0))
+                if isinstance(result, list) and len(result) == n:
+                    for r in result:
+                        if "info_brief" not in r or "procurement_insight" not in r:
+                            return None
+                    return result
+            except json.JSONDecodeError:
+                pass
         log.warning("Batch response not valid JSON: %s", response[:200])
         return None
 
