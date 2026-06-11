@@ -1,0 +1,38 @@
+name: 每日资讯爬取
+
+on:
+  # 每天早上8点(北京时间)自动运行
+  schedule:
+    - cron: '0 0 * * *'  # UTC 0:00 = 北京时间 8:00
+  # 支持手动点击运行
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行爬虫
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python crawler/run.py
+
+      - name: 提交并推送更新数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.data.js
+          # 仅当数据有变化时才提交
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "auto: 更新资讯数据 $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
