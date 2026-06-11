@@ -292,6 +292,14 @@
         Array.prototype.forEach.call($catTabs.querySelectorAll(".tab-btn"), function (b) {
           b.classList.toggle("tab-active", b === btn);
         });
+        // Reset filter state and recompute filters for current category
+        state.source = "";
+        state.keyword = "";
+        state.category = "";
+        var catItems = getItemsForCat(state.catId);
+        renderFilter(uniqueSources(catItems));
+        renderKeywordFilter(computeTopKeywords(catItems, 20));
+        renderCategoryFilter(uniqueCategories(catItems));
         applyFilters();
       });
     });
@@ -424,6 +432,19 @@
       if (ad < bd) return 1;
       if (ad > bd) return -1;
       return 0;
+    });
+  }
+
+  // Get items filtered by category tab only (for computing filters)
+  function getItemsForCat(catId) {
+    var hidden = loadHidden();
+    return state.all.filter(function (it) {
+      if (hidden[it.url]) return false;
+      if (catId) {
+        var itemCatId = it.category_id || "";
+        if (itemCatId !== catId) return false;
+      }
+      return true;
     });
   }
 
