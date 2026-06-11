@@ -7,11 +7,14 @@ Pipeline:
   4) keyword filter -> recent (7d) filter -> dedup -> sort
   5) generate procurement_insight
   6) write data/news.json with category_id field
+
+Performance: concurrent fetching + batch DeepSeek API calls.
 """
 import json
 import logging
 import os
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 CURDIR = os.path.dirname(os.path.abspath(__file__))
@@ -35,6 +38,10 @@ LOG_PATH = os.path.join(CURDIR, "run.log")
 DATA_PATH = os.path.join(ROOT, "data", "news.json")
 SAMPLE_PATH = os.path.join(ROOT, "data", "news.sample.json")
 CATEGORIES_PATH = os.path.join(ROOT, "data", "categories.json")
+
+# Concurrency settings
+MAX_FETCH_WORKERS = 6   # Parallel fetcher threads (network-bound)
+MAX_DEEPSEEK_WORKERS = 3  # Parallel DeepSeek API threads (rate-limited)
 
 
 def setup_logging():
@@ -94,6 +101,39 @@ def _get_financial_sources(cat_name, keywords):
     return FINANCIAL_SOURCE_TEMPLATES
 
 
+def _create_fetcher(sconf, source_lookup):
+    """Create the appropriate fetcher for a source config.
+    Returns (fetcher_instance, sconf) tuple.
+    """
+    sconf = _enrich_source_config(sconf, source_lookup)
+    src_id = sconf.get("id", "")
+    fetch_mode = sconf.get("fetch_mode", "")
+    rss_url = sconf.get("rss_url", "")
+    list_url = sconf.get("list_url", "")
+
+    if rss_url or fetch_mode == "rss":
+        fetcher = RSSFetcher(sconf)
+    elif list_url or fetch_mode == "html":
+        fetcher = HtmlListFetcher(sconf)
+    elif src_id in FETCHER_CLASSES:
+        fetcher = FETCHER_CLASSES[src_id](sconf)
+    else:
+        fetcher = GenericSearchFetcher(sconf)
+    return fetcher, sconf
+
+
+def _fetch_source(fetcher, sconf_raw, keywords, cat_sources):
+    """Fetch items from a single source. Thread-safe.
+    Returns (sconf_raw, items) tuple.
+    """
+    try:
+        items = fetcher.safe_fetch(keywords)
+    except Exception as e:
+        logging.getLogger("run").warning("Fetch error for %s: %s", fetcher.name, e)
+        items = []
+    return sconf_raw, items or []
+
+
 def run():
     setup_logging()
     log = logging.getLogger("run")
@@ -141,53 +181,45 @@ def run():
             keywords = feedback_mod.apply_keyword_weights(keywords, fb_result["keyword_weights"])
 
         cat_items = []
-        direct_fetch_ok = False  # Track if direct fetch got enough data
+
+        # --- CONCURRENT FETCHING: parallel HTTP requests ---
+        fetch_tasks = []
         for sconf_raw in sources:
-            # Enrich source config with rss_url, list_url, fetch_mode from sources.json
-            sconf = _enrich_source_config(sconf_raw, source_lookup)
-            # --- Fetcher selection: RSS > HTML list > specific > Bing search ---
-            # 1. If source has rss_url, use RSSFetcher (highest quality)
-            # 2. If source has fetch_mode=html or list_url, use HtmlListFetcher
-            # 3. If source has a specific fetcher in FETCHER_CLASSES, use it
-            # 4. Fallback to GenericSearchFetcher (Bing search)
-            src_id = sconf.get("id", "")
-            fetch_mode = sconf.get("fetch_mode", "")
-            rss_url = sconf.get("rss_url", "")
-            list_url = sconf.get("list_url", "")
+            fetcher, sconf = _create_fetcher(sconf_raw, source_lookup)
+            fetch_tasks.append((fetcher, sconf_raw, sconf, keywords))
 
-            if rss_url or fetch_mode == "rss":
-                fetcher = RSSFetcher(sconf)
-            elif list_url or fetch_mode == "html":
-                fetcher = HtmlListFetcher(sconf)
-            elif src_id in FETCHER_CLASSES:
-                fetcher = FETCHER_CLASSES[src_id](sconf)
-            else:
-                fetcher = GenericSearchFetcher(sconf)
+        with ThreadPoolExecutor(max_workers=MAX_FETCH_WORKERS) as executor:
+            future_to_src = {}
+            for fetcher, sconf_raw, sconf, kws in fetch_tasks:
+                future = executor.submit(fetcher.safe_fetch, kws)
+                future_to_src[future] = (fetcher, sconf_raw, sconf)
 
-            items = fetcher.safe_fetch(keywords)
-            if items:
-                source_names_with_data.add(sconf["name"])
-                # Mark items from admin-configured sources as priority
-                if sconf_raw in cat.get("sources", []):
-                    for it in items:
-                        it["_priority"] = True
-                # For RSS/HTML fetchers, items are pre-filtered by source domain
-                # so they are keyword-relevant — mark them to bypass keyword filter
-                if isinstance(fetcher, (RSSFetcher, HtmlListFetcher)):
-                    for it in items:
-                        it.setdefault("matched_keywords", [keywords[0]] if keywords else [])
-                # For Bing site: search sources, the search URL already contains
-                # the keyword, so results are pre-filtered by relevance.
-                # Mark them as keyword-matched to bypass filter_by_keywords.
-                search_url = sconf.get("search_url", "") or DEFAULT_SEARCH_URLS.get(src_id, "")
-                if "site%" in search_url or "site:" in search_url:
-                    for it in items:
-                        it["matched_keywords"] = [keywords[0]] if keywords else []
-            cat_items.extend(items)
+            for future in as_completed(future_to_src):
+                fetcher, sconf_raw, sconf = future_to_src[future]
+                try:
+                    items = future.result() or []
+                except Exception as e:
+                    log.warning("Fetch error for %s: %s", fetcher.name, e)
+                    items = []
+
+                if items:
+                    source_names_with_data.add(sconf["name"])
+                    # Mark items from admin-configured sources as priority
+                    if sconf_raw in cat.get("sources", []):
+                        for it in items:
+                            it["_priority"] = True
+                    # For RSS/HTML fetchers, items are pre-filtered by source domain
+                    if isinstance(fetcher, (RSSFetcher, HtmlListFetcher)):
+                        for it in items:
+                            it.setdefault("matched_keywords", [keywords[0]] if keywords else [])
+                    # For Bing site: search sources
+                    search_url = sconf.get("search_url", "") or DEFAULT_SEARCH_URLS.get(sconf.get("id", ""), "")
+                    if "site%" in search_url or "site:" in search_url:
+                        for it in items:
+                            it["matched_keywords"] = [keywords[0]] if keywords else []
+                cat_items.extend(items)
 
         # --- Fallback: if direct fetch got too few items, supplement with Bing + Sogou Weixin ---
-        # Direct fetchers (RSS/HTML/specific) produce higher quality data.
-        # If they didn't produce enough, add search engine results as supplement.
         MIN_DIRECT_ITEMS = 5
         direct_items_count = len(cat_items)
         if direct_items_count < MIN_DIRECT_ITEMS:
@@ -260,6 +292,12 @@ def run():
             # Assign info type if not present
             if "category" not in item:
                 item["category"] = "媒体新闻"
+
+        # Per-category limit: max 30 items per category
+        MAX_ITEMS_PER_CATEGORY = 30
+        if len(cat_items) > MAX_ITEMS_PER_CATEGORY:
+            cat_items = cat_items[:MAX_ITEMS_PER_CATEGORY]
+            log.info("Category '%s': capped at %d items", cat_name, MAX_ITEMS_PER_CATEGORY)
 
         insight_mod.enrich(cat_items)
         # Sort: admin-source items first, then by date desc

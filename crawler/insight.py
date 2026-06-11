@@ -195,7 +195,7 @@ def enrich(items, rules_path=None):
     """
     use_deepseek = deepseek_client.is_configured()
     if use_deepseek:
-        log.info("DeepSeek API configured — using LLM for insights")
+        log.info("DeepSeek API configured — using LLM for insights (batch mode)")
     else:
         log.info("DeepSeek API not configured — using rule-based templates")
 
@@ -206,6 +206,7 @@ def enrich(items, rules_path=None):
     deepseek_count = 0
     fallback_count = 0
 
+    # --- Phase 1: P4 (strip URLs) + P8 (translate) — sequential, fast ---
     for i, it in enumerate(items):
         # --- P4: Strip bare URLs from summary and title ---
         summary = it.get("summary", "")
@@ -213,13 +214,11 @@ def enrich(items, rules_path=None):
             cleaned_summary = strip_bare_urls(summary)
             if cleaned_summary != summary:
                 it["summary"] = cleaned_summary
-                log.debug("Item %d: stripped bare URLs from summary", i)
         title = it.get("title", "")
         if title:
             cleaned_title = _strip_bare_urls_from_title(title)
             if cleaned_title != title:
                 it["title"] = cleaned_title
-                log.debug("Item %d: stripped bare URLs from title", i)
 
         # --- P8: Translate foreign-language content ---
         if _is_foreign(title) and use_deepseek:
@@ -230,40 +229,29 @@ def enrich(items, rules_path=None):
                 if translation.get("summary") and it.get("summary"):
                     it["summary"] = translation["summary"]
                 translated_count += 1
-                log.debug("Item %d: translated title from foreign language", i)
 
-        # --- Generate insights ---
-        category_name = it.get("category_id", "")
-        # Map category_id to Chinese name for better context
-        _CAT_NAMES = {
-            "3d-printing": "3D打印", "smartphone": "手机", "laptop": "笔记本",
-            "tablet": "平板", "smartwatch": "智能手表", "earphone": "耳机",
-            "drone": "无人机", "smart-home": "智能家居", "camera": "相机",
-            "monitor": "显示器", "keyboard": "键盘", "mouse": "鼠标",
-            "projector": "投影仪", "tv": "电视", "ssd": "固态硬盘",
-            "router": "路由器", "printer": "打印机", "wearable": "穿戴设备",
-            "robot": "机器人", "chip": "芯片",
-        }
-        cat_name = _CAT_NAMES.get(category_name, category_name)
-
-        if use_deepseek:
-            result = deepseek_client.generate_insights(
-                title=it.get("title", ""),
-                summary=it.get("summary", ""),
-                category_name=cat_name,
-            )
+    # --- Phase 2: Batch DeepSeek insight generation ---
+    if use_deepseek:
+        batch_results = deepseek_client.batch_generate_insights(items, batch_size=5)
+        for i, result in enumerate(batch_results):
             if result:
-                it["info_brief"] = result.get("info_brief", "")
-                it["opportunity_insight"] = result.get("opportunity_insight", "")
-                it["procurement_insight"] = result.get("procurement_insight", "")
+                items[i]["info_brief"] = result.get("info_brief", "")
+                items[i]["opportunity_insight"] = result.get("opportunity_insight", "")
+                items[i]["procurement_insight"] = result.get("procurement_insight", "")
                 deepseek_count += 1
-                continue
-
-        # Fallback to rule-based templates
-        it["info_brief"] = rule_engine.generate_info_brief(it)
-        it["opportunity_insight"] = rule_engine.generate_opportunity_insight(it)
-        it["procurement_insight"] = rule_engine.generate_procurement(it)
-        fallback_count += 1
+            else:
+                # Fallback to rule-based for this item
+                items[i]["info_brief"] = rule_engine.generate_info_brief(items[i])
+                items[i]["opportunity_insight"] = rule_engine.generate_opportunity_insight(items[i])
+                items[i]["procurement_insight"] = rule_engine.generate_procurement(items[i])
+                fallback_count += 1
+    else:
+        # No DeepSeek — use rule-based for all items
+        for it in items:
+            it["info_brief"] = rule_engine.generate_info_brief(it)
+            it["opportunity_insight"] = rule_engine.generate_opportunity_insight(it)
+            it["procurement_insight"] = rule_engine.generate_procurement(it)
+            fallback_count += 1
 
     log.info("Insight enrichment: %d items total, %d via DeepSeek, %d via rules, %d translated",
              len(items), deepseek_count, fallback_count, translated_count)

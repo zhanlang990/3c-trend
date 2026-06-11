@@ -218,6 +218,127 @@ def translate_to_chinese(title, summary=""):
         return None
 
 
+def batch_generate_insights(items, batch_size=5):
+    """Generate insights for multiple items in a single API call.
+
+    Batches items together to reduce API calls from N to N/batch_size.
+    Falls back to per-item generation if batch fails.
+
+    Args:
+        items: List of dicts with 'title', 'summary' (optional), 'category_id' (optional)
+        batch_size: Number of items per API call (default 5)
+
+    Returns:
+        List of insight dicts (same order as items), None for failed items.
+    """
+    if not items:
+        return []
+
+    results = [None] * len(items)
+
+    # Process in batches
+    for start in range(0, len(items), batch_size):
+        batch = items[start:start + batch_size]
+        batch_result = _batch_call(batch)
+        if batch_result and len(batch_result) == len(batch):
+            for j, r in enumerate(batch_result):
+                results[start + j] = r
+        else:
+            # Batch failed — fall back to per-item
+            log.info("Batch %d-%d failed, falling back to per-item", start, start + len(batch) - 1)
+            for j, item in enumerate(batch):
+                cat_name = _CAT_NAMES.get(item.get("category_id", ""), item.get("category_id", ""))
+                results[start + j] = generate_insights(
+                    title=item.get("title", ""),
+                    summary=item.get("summary", ""),
+                    category_name=cat_name,
+                )
+
+    return results
+
+
+# Category ID to Chinese name mapping
+_CAT_NAMES = {
+    "3d-printing": "3D打印", "smartphone": "手机", "laptop": "笔记本",
+    "tablet": "平板", "smartwatch": "智能手表", "earphone": "耳机",
+    "drone": "无人机", "smart-home": "智能家居", "camera": "相机",
+    "monitor": "显示器", "keyboard": "键盘", "mouse": "鼠标",
+    "projector": "投影仪", "tv": "电视", "ssd": "固态硬盘",
+    "router": "路由器", "printer": "打印机", "wearable": "穿戴设备",
+    "robot": "机器人", "chip": "芯片",
+    "uv-printing": "UV打印", "cnc": "CNC",
+}
+
+
+def _batch_call(items):
+    """Call DeepSeek API with multiple items in one request.
+
+    Returns list of insight dicts, or None on failure.
+    """
+    api_key = _get_api_key()
+    if not api_key:
+        return None
+
+    # Build batch prompt
+    entries = []
+    for i, item in enumerate(items):
+        cat_name = _CAT_NAMES.get(item.get("category_id", ""), item.get("category_id", ""))
+        title = item.get("title", "")
+        summary = item.get("summary", "")
+        entry = f"{i+1}. [{cat_name}] {title}"
+        if summary:
+            entry += f" | {summary}"
+        entries.append(entry)
+
+    items_text = "\n".join(entries)
+    n = len(items)
+
+    prompt = f"""你是京东3C数码品类的资深采销分析师。请为以下{n}条资讯分别生成三个字段。
+
+{items_text}
+
+请严格按以下JSON数组格式输出（不要输出其他内容）：
+[
+  {{
+    "info_brief": "信息摘要：核心事实浓缩，50字以内",
+    "opportunity_insight": "机会洞察：从市场机会角度分析，60字以内",
+    "procurement_insight": "操盘建议：可执行的采销行动建议，60字以内"
+  }}
+]
+共{n}个对象，按顺序对应上述{n}条资讯。"""
+
+    messages = [
+        {"role": "system", "content": "你是京东3C数码品类的资深采销分析师，擅长从资讯中提炼商业洞察和采销建议。输出必须为纯JSON数组格式。"},
+        {"role": "user", "content": prompt},
+    ]
+
+    response = _call_api(messages, temperature=0.3, max_tokens=500 * n)
+    if not response:
+        return None
+
+    # Parse JSON from response
+    response = response.strip()
+    if response.startswith("```"):
+        lines = response.split("\n")
+        lines = [l for l in lines if not l.strip().startswith("```")]
+        response = "\n".join(lines).strip()
+
+    try:
+        result = json.loads(response)
+        if isinstance(result, list) and len(result) == n:
+            # Validate each item has required fields
+            for r in result:
+                if "info_brief" not in r or "procurement_insight" not in r:
+                    log.warning("Batch response item missing required fields")
+                    return None
+            return result
+        log.warning("Batch response length mismatch: expected %d, got %d", n, len(result) if isinstance(result, list) else -1)
+        return None
+    except json.JSONDecodeError:
+        log.warning("Batch response not valid JSON: %s", response[:200])
+        return None
+
+
 def is_configured():
     """Check if DeepSeek API is configured (API key available)."""
     return bool(_get_api_key())
