@@ -7,10 +7,12 @@ from fetchers.sohu_fetcher import SohuFetcher
 from fetchers.brand_fetcher import BrandFetcher
 from fetchers.generic_search import GenericSearchFetcher
 from fetchers.sogou_weixin_fetcher import SogouWeixinFetcher
+from fetchers.rss_fetcher import RSSFetcher
+from fetchers.html_list_fetcher import HtmlListFetcher
 
 
 # Mapping: source id (in categories.json) -> Fetcher class
-# Known sources use GenericSearchFetcher with DEFAULT_SEARCH_URLS fallback
+# Priority: specific fetcher > RSS > HTML list > GenericSearch (Bing)
 FETCHER_CLASSES = {
     "sina": SinaFetcher,
     "netease": NeteaseFetcher,
@@ -19,13 +21,22 @@ FETCHER_CLASSES = {
     "sohu": SohuFetcher,
     "aipu": BrandFetcher,
     "sogou-weixin": SogouWeixinFetcher,
-    "ithome": GenericSearchFetcher,
+    # Sources with RSS feeds — use RSSFetcher for higher quality data
+    "ithome": RSSFetcher,
+    "36kr": RSSFetcher,
+    "leiphone": RSSFetcher,
+    "qbitai": RSSFetcher,
+    "ifanr": RSSFetcher,
+    "tmtpost": RSSFetcher,
+    "theverge": RSSFetcher,
+    "engadget": RSSFetcher,
+    # Sources without RSS — use HtmlListFetcher for direct page scraping
+    "mydrivers": HtmlListFetcher,
+    # Remaining sources use GenericSearchFetcher (Bing search fallback)
     "zol": GenericSearchFetcher,
     "pconline": GenericSearchFetcher,
     "cnbeta": GenericSearchFetcher,
     "chinairn": GenericSearchFetcher,
-    "taobao-baike": GenericSearchFetcher,
-    "eastmoney": GenericSearchFetcher,
     "cls": GenericSearchFetcher,
     "sina-finance": GenericSearchFetcher,
 }

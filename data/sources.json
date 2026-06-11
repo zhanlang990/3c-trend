@@ -28,7 +28,9 @@
       "group": "综合科技",
       "focus": "科技公司、商业模式、硬科技",
       "desc": "偏深度评论和商业分析",
-      "enabled": true
+      "enabled": true,
+      "list_url": "https://www.huxiu.com",
+      "fetch_mode": "html"
     },
     {
       "id": "36kr",
@@ -38,7 +40,9 @@
       "group": "综合科技",
       "focus": "创投、科技公司、AI、新消费",
       "desc": "创投与科技商业信息密度高",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://36kr.com/feed",
+      "fetch_mode": "rss"
     },
     {
       "id": "tmtpost",
@@ -48,7 +52,9 @@
       "group": "综合科技",
       "focus": "科技商业、AI、产业互联网",
       "desc": "偏科技产业深度报道",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.tmtpost.com/rss",
+      "fetch_mode": "rss"
     },
     {
       "id": "pingwest",
@@ -108,7 +114,9 @@
       "group": "AI与硬科技",
       "focus": "AI、智能驾驶、芯片、机器人",
       "desc": "硬科技和AI领域覆盖较多",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.leiphone.com/feed",
+      "fetch_mode": "rss"
     },
     {
       "id": "qbitai",
@@ -118,7 +126,9 @@
       "group": "AI与硬科技",
       "focus": "AI、大模型、自动驾驶、机器人",
       "desc": "AI垂直媒体，更新快",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.qbitai.com/rss",
+      "fetch_mode": "rss"
     },
     {
       "id": "jiqizhixin",
@@ -128,7 +138,9 @@
       "group": "AI与硬科技",
       "focus": "人工智能、机器学习、论文、开源模型",
       "desc": "偏技术向AI媒体",
-      "enabled": true
+      "enabled": true,
+      "list_url": "https://www.jiqizhixin.com",
+      "fetch_mode": "html"
     },
     {
       "id": "aiera",
@@ -138,7 +150,9 @@
       "group": "AI与硬科技",
       "focus": "AI、大模型、海外科技公司",
       "desc": "AI资讯更新较快",
-      "enabled": true
+      "enabled": true,
+      "list_url": "https://www.aiera.com.cn",
+      "fetch_mode": "html"
     },
     {
       "id": "mydrivers",
@@ -148,7 +162,9 @@
       "group": "消费电子",
       "focus": "手机、电脑硬件、芯片、显卡、数码新品",
       "desc": "偏硬件和数码快讯",
-      "enabled": true
+      "enabled": true,
+      "list_url": "https://www.mydrivers.com",
+      "fetch_mode": "html"
     },
     {
       "id": "pconline",
@@ -318,7 +334,9 @@
       "group": "海外科技",
       "focus": "科技产品、消费电子、AI、文化",
       "desc": "美国主流科技媒体，覆盖广",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.theverge.com/rss/index.xml",
+      "fetch_mode": "rss"
     },
     {
       "id": "engadget",
@@ -328,7 +346,9 @@
       "group": "海外科技",
       "focus": "消费电子、手机、电脑、智能家居",
       "desc": "老牌消费电子评测和新闻",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.engadget.com/rss",
+      "fetch_mode": "rss"
     },
     {
       "id": "cnet",
@@ -398,7 +418,9 @@
       "group": "消费电子",
       "focus": "手机、智能硬件、生活方式科技",
       "desc": "偏消费电子和生活方式",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.ifanr.com/rss",
+      "fetch_mode": "rss"
     },
     {
       "id": "leikeji",
@@ -418,7 +440,9 @@
       "group": "综合科技",
       "focus": "科技快讯、手机、电脑、软件",
       "desc": "更新极快的综合科技门户",
-      "enabled": true
+      "enabled": true,
+      "rss_url": "https://www.ithome.com/rss",
+      "fetch_mode": "rss"
     },
     {
       "id": "zol",

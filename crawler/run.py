@@ -20,6 +20,9 @@ sys.path.insert(0, CURDIR)
 
 from fetchers import FETCHER_CLASSES
 from fetchers.generic_search import GenericSearchFetcher, DEFAULT_SEARCH_URLS
+from fetchers.rss_fetcher import RSSFetcher
+from fetchers.html_list_fetcher import HtmlListFetcher
+from fetchers.sogou_weixin_fetcher import SogouWeixinFetcher
 from filter import (
     filter_by_keywords, filter_recent, dedup_by_title,
     sort_by_date_desc, finalize_items, filter_quality,
@@ -50,6 +53,32 @@ def load_categories():
         return json.load(f)
 
 
+# Load sources.json for enriched source configs (rss_url, list_url, fetch_mode etc.)
+SOURCES_PATH = os.path.join(ROOT, "data", "sources.json")
+
+
+def _load_source_lookup():
+    """Load sources.json and return a dict keyed by source id."""
+    if not os.path.exists(SOURCES_PATH):
+        return {}
+    with open(SOURCES_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return {s["id"]: s for s in data.get("sources", []) if "id" in s}
+
+
+def _enrich_source_config(sconf, source_lookup):
+    """Merge category source config with full source config from sources.json.
+    This adds rss_url, list_url, fetch_mode, url, group, focus etc.
+    """
+    src_id = sconf.get("id", "")
+    if src_id in source_lookup:
+        # sources.json config takes precedence for fetch-related fields,
+        # but category-level overrides (enabled, type) are preserved
+        full = {**source_lookup[src_id], **sconf}
+        return full
+    return sconf
+
+
 # Extra financial / IPO sources to supplement admin-configured sources
 FINANCIAL_SOURCE_TEMPLATES = [
     {"id": "cls", "name": "财联社", "type": "search",
@@ -72,6 +101,10 @@ def run():
     cat_cfg = load_categories()
     categories = cat_cfg.get("categories", [])
     log.info("Loaded %d categories from categories.json", len(categories))
+
+    # Load enriched source configs from sources.json
+    source_lookup = _load_source_lookup()
+    log.info("Loaded %d source configs from sources.json", len(source_lookup))
 
     # --- Apply user feedback weights ---
     fb_result = feedback_mod.analyse()
@@ -108,25 +141,81 @@ def run():
             keywords = feedback_mod.apply_keyword_weights(keywords, fb_result["keyword_weights"])
 
         cat_items = []
-        for sconf in sources:
-            klass = FETCHER_CLASSES.get(sconf["id"], GenericSearchFetcher)
-            fetcher = klass(sconf)
+        direct_fetch_ok = False  # Track if direct fetch got enough data
+        for sconf_raw in sources:
+            # Enrich source config with rss_url, list_url, fetch_mode from sources.json
+            sconf = _enrich_source_config(sconf_raw, source_lookup)
+            # --- Fetcher selection: RSS > HTML list > specific > Bing search ---
+            # 1. If source has rss_url, use RSSFetcher (highest quality)
+            # 2. If source has fetch_mode=html or list_url, use HtmlListFetcher
+            # 3. If source has a specific fetcher in FETCHER_CLASSES, use it
+            # 4. Fallback to GenericSearchFetcher (Bing search)
+            src_id = sconf.get("id", "")
+            fetch_mode = sconf.get("fetch_mode", "")
+            rss_url = sconf.get("rss_url", "")
+            list_url = sconf.get("list_url", "")
+
+            if rss_url or fetch_mode == "rss":
+                fetcher = RSSFetcher(sconf)
+            elif list_url or fetch_mode == "html":
+                fetcher = HtmlListFetcher(sconf)
+            elif src_id in FETCHER_CLASSES:
+                fetcher = FETCHER_CLASSES[src_id](sconf)
+            else:
+                fetcher = GenericSearchFetcher(sconf)
+
             items = fetcher.safe_fetch(keywords)
             if items:
                 source_names_with_data.add(sconf["name"])
                 # Mark items from admin-configured sources as priority
-                if sconf in cat.get("sources", []):
+                if sconf_raw in cat.get("sources", []):
                     for it in items:
                         it["_priority"] = True
+                # For RSS/HTML fetchers, items are pre-filtered by source domain
+                # so they are keyword-relevant — mark them to bypass keyword filter
+                if isinstance(fetcher, (RSSFetcher, HtmlListFetcher)):
+                    for it in items:
+                        it.setdefault("matched_keywords", [keywords[0]] if keywords else [])
                 # For Bing site: search sources, the search URL already contains
                 # the keyword, so results are pre-filtered by relevance.
                 # Mark them as keyword-matched to bypass filter_by_keywords.
-                src_id = sconf.get("id", "")
                 search_url = sconf.get("search_url", "") or DEFAULT_SEARCH_URLS.get(src_id, "")
                 if "site%" in search_url or "site:" in search_url:
                     for it in items:
                         it["matched_keywords"] = [keywords[0]] if keywords else []
             cat_items.extend(items)
+
+        # --- Fallback: if direct fetch got too few items, supplement with Bing + Sogou Weixin ---
+        # Direct fetchers (RSS/HTML/specific) produce higher quality data.
+        # If they didn't produce enough, add search engine results as supplement.
+        MIN_DIRECT_ITEMS = 5
+        direct_items_count = len(cat_items)
+        if direct_items_count < MIN_DIRECT_ITEMS:
+            log.info("Category '%s': only %d items from direct fetch, adding search fallback",
+                     cat_name, direct_items_count)
+
+            # Fallback 1: Bing search with category keywords
+            bing_conf = {"id": "bing", "name": "必应搜索", "type": "search",
+                         "search_url": "https://cn.bing.com/search?q={keyword}"}
+            bing_fetcher = GenericSearchFetcher(bing_conf)
+            bing_items = bing_fetcher.safe_fetch(keywords)
+            if bing_items:
+                source_names_with_data.add("必应搜索")
+                for it in bing_items:
+                    it["_fallback"] = "bing"
+                cat_items.extend(bing_items)
+                log.info("Category '%s': added %d items from Bing fallback", cat_name, len(bing_items))
+
+            # Fallback 2: Sogou WeChat search with category keywords
+            sogou_conf = {"id": "sogou-weixin", "name": "搜狗微信", "type": "search"}
+            sogou_fetcher = SogouWeixinFetcher(sogou_conf)
+            sogou_items = sogou_fetcher.safe_fetch(keywords)
+            if sogou_items:
+                source_names_with_data.add("搜狗微信")
+                for it in sogou_items:
+                    it["_fallback"] = "sogou-weixin"
+                cat_items.extend(sogou_items)
+                log.info("Category '%s': added %d items from Sogou Weixin fallback", cat_name, len(sogou_items))
 
         log.info("Category '%s': %d raw items", cat_name, len(cat_items))
 

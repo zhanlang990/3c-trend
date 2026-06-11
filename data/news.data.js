@@ -1,4969 +1,1591 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-06-11 01:20:26",
-  "total": 275,
-  "source_count": 21,
+  "generated_at": "2026-06-11 19:22:59",
+  "total": 88,
+  "source_count": 10,
   "items": [
     {
-      "title": "以后的 3D打印机 都会这样玩?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_Bube-OEkMy3cTeVgrFeYQugDhIzDYTlHX6sneDkkPy5QkU9avxSdPH50xJVlBDO66R52cNzisWGSGAmHRf9Wh305fSyJysS99GknoE18LXANEoQLqdpGhdOJFyjAOHj6Z-Blw8c_pQF-oMwmnpibgl4wTagoVW7SJ8QOBfZJknJ2jtdzt8fvEly5YizqQKK9R23mzaqC77ox2912cvWMYqj9vMLASZHeToHdMbt6GC2mJk.&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
-      "publish_date": "2016-01-29",
+      "publish_date": "2026-06-10",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "以后的 3D打印机 都会这样玩?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item",
-      "url": "https://baike.baidu.com/item/3D%E6%89%93%E5%8D%B0/9640636",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉， 字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "baidu.com https://baike.baidu.com › item。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "makerworld.com.cn https://makerworld.com.cn › zh",
-      "url": "https://makerworld.com.cn/zh",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "makerworld.com.cn https://makerworld.com.cn › zh。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jlc-3dp.cn https://www.jlc-3dp.cn",
-      "url": "https://www.jlc-3dp.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "jlc-3dp.cn https://www.jlc-3dp.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/655697020",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "mohou.com https://www.mohou.com",
-      "url": "https://www.mohou.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "mohou.com https://www.mohou.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "creality.cn https://www.creality.cn",
-      "url": "https://www.creality.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "creality.cn https://www.creality.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "bambulab.cn https://bambulab.cn › zh",
-      "url": "https://bambulab.cn/zh-cn",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "bambulab.cn https://bambulab.cn › zh。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "crealitycloud.cn https://www.crealitycloud.cn",
-      "url": "https://www.crealitycloud.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "crealitycloud.cn https://www.crealitycloud.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "china3dprint.com https://www.china3dprint.com",
-      "url": "https://www.china3dprint.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "china3dprint.com https://www.china3dprint.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "bambulab.com https://bambulab.com › zh",
-      "url": "https://bambulab.com/zh",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "bambulab.com https://bambulab.com › zh。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hyg3d.com https://www.hyg 3d .com › article-detail",
-      "url": "https://www.hyg3d.com/article-detail/ND6wEEkb",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "hyg3d.com https://www.hyg 3d .com › article-detail。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "smzdm.com https://post.smzdm.com",
-      "url": "https://post.smzdm.com/p/aqkd54zk/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "smzdm.com https://post.smzdm.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "raise3d.cn https://www.raise 3d .cn",
-      "url": "https://www.raise3d.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "raise3d.cn https://www.raise 3d .cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/902981889_121213129",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jd.com https://www.jd.com › chanpin",
-      "url": "https://www.jd.com/chanpin/113022.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "jd.com https://www.jd.com › chanpin。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "beets3d.cn https://beets3d.cn › blog",
-      "url": "https://beets3d.cn/blog/2026/03/2026-beginner-3dprinter/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "beets3d.cn https://beets3d.cn › blog。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 增材制造技术",
-      "url": "https://baike.baidu.com/item/%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF/1106573",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 增材制造技术。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "miit-eidc.org.cn https://www.miit-eidc.org.cn › art",
-      "url": "https://www.miit-eidc.org.cn/art/2026/1/8/art_1723_12032.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "miit-eidc.org.cn https://www.miit-eidc.org.cn › art。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "altair.com.cn https://altair.com.cn › blog › featured-articles",
-      "url": "https://altair.com.cn/blog/featured-articles/2025031702",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "altair.com.cn https://altair.com.cn › blog › featured-articles。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "am-cmes.org.cn http://am-cmes.org.cn",
-      "url": "http://am-cmes.org.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "am-cmes.org.cn http://am-cmes.org.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sina.com.cn https://finance.sina.com.cn › jjxw › doc-infxtefx...",
-      "url": "https://finance.sina.com.cn/jjxw/2025-11-17/doc-infxtefx5410157.shtml",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "sina.com.cn https://finance.sina.com.cn › jjxw › doc-infxtefx...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cctv.com https://news.cctv.com",
-      "url": "https://news.cctv.com/2025/12/25/ARTIg2Rdr23s4SCkJhix78Km251225.shtml",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "cctv.com https://news.cctv.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "chinairn.com https://www.chinairn.com › hyzx",
-      "url": "https://www.chinairn.com/hyzx/20260522/175330345.shtml",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "chinairn.com https://www.chinairn.com › hyzx。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "tsinghua.edu.cn https://www.tup.tsinghua.edu.cn › upload › books › yz",
-      "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/078473-01.pdf",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "tsinghua.edu.cn https://www.tup.tsinghua.edu.cn › upload › books › yz。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "桌面级极紫外光刻机EUV?体积 3D打印 技术",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoi7IPD9AcGSX1xap3i_HZMVqXa8Fplpd9W2sOorP6iiv7i6KCaSBd30Qgw7e2RV7JhyQL3Hm6hqUkviEaxojJ85C3g1LMANWn3b3VnK0Y0KtKMwYEC4zQUGgEhRhIvG0zCcGcgqcav3BdDSlaRBnkGpsTqVhi9rIRKfwYpvtg6_z6b3BEungl-jokxNcx-8sjScH9IX0ZXL_I3OTRHYU2og..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "桌面级极紫外光刻机EUV?体积 3D打印 技术。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印 一颗心脏,到底有多难?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoi7IPD9AcGSX1xap3i_HZMVqXa8Fplpd9zJgu_YyWiW3MDKRquu6D6rQhUPch2x-TO2JXz1_462mzdhBXHPbM5IsNz5jofm3kVgNZBfbuZOr6Izd34EzujHdm9j_cRV4wV1SM8vSiz-Dyobh-PBUzLFBcbE_t9hh8L7by8CajZpB5rxC96WS1z4exejcYeHpe_6_D6neYWwjP28temKTOwg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 一颗心脏,到底有多难?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印 号角,即将再度吹响",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoi7IPD9AcGSX1xap3i_HZMVqXa8Fplpd9OpaOKYPdIAbdGlxtaGSdk6PSAg1ACwB53uagQC6hJCYYMtpTA8hPVj9u0dHMt2M-QsQhm_FymgQrSzxyVQ9wPkv1xmbo3ldneJXy0NpOU6X4YrA3MzOVjtVS3NWJMdn6DDoKtzPz_j_ukpDJCWsaFWA7-vHB0SgJX04uQqZOVVAO8fIRwtipOg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 号角,即将再度吹响。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印 的房子,能造成什么样了?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoi7IPD9AcGSX1xap3i_HZMVqXa8Fplpd99Ev5LWIXHomsLy7K0tuxg177sT36aQQy1cymDeS9U3DM9B-NT6EUcGuOvovVtxG9_bPwuxRZXyurdDSingEyDpNjFvQt7ceBgmj1moUip_ZE9005xYIuWwOXsd6GNrHUdfnS18d076lgY5mtHppvCd6afTq2hjh887hDTKhV9-vYl_Q5RRZQjg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 的房子,能造成什么样了?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印 居然可以这么美",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubuLINr4_IznmVgrFeYQugDrqU0-d3psewVmHXaj9VoFIEH4Dfa7jDVuSBJpJFzj7Eoy0_j58NpxVoIFg68yIn1FSPBS6MOxU0Q7eRhMv7iuXjIrV5fgRVr6S8j4CP5cwM4Pi6A5L-jC8l4LE_yWQRWvgdf09Klw3G5mC7n6PzM928Fmy2fqzf8m940irtwiCJPiTlfb_opitVwD58kC8du2JgM3_9LBsjLmkHtEewc0jcRU39e5xZ2p4qlHtfgVxziZqwg0yoRFw.&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 居然可以这么美。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印 人体器官 坏了就换呗!|丁玎观察",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubuLINr4_IznmVgrFeYQugDv0nJXv5J_Ty83V9kiucFqvdAzuV9UNS9tK5GxZMkV_TbylAbJZWXk5lGCc0E4bQeHxJ1-sS4s5k2RvfJFHo2dGXCAuVa-yh4VXkJJssjq0wleFAoeDVJrs8dnOegtC8W0r3KfIjCB8wfQIO3CZPyfsCa0Ffb8qCUn5_9dkrSKs-4HGCznXbTkjn2uSgIpVXVQzPH_R7t9tMGGCrgdfQ1kPEvqpsMik-2UMPNx63tzkjiZqwg0yoRFw.&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 人体器官 坏了就换呗!|丁玎观察。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "为了维护历史的尊严, 3D打印 向ISIS发起了挑战",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubuLINr4_IznmVgrFeYQugDjr04BsYw1hl3zXK9IOvlrbyIoJy6Nc-4OlpHj_2TgclApAbCAMUawRwH4OHyi5FFXUcSJAsnpe-poZqSy4omX_WSnXBRMM-OCFucmCgYpeWli9qDdpYtjWZ-NphJFLbAmBhOkTs_oUD3areB-o7D6YOgUtyfkSBcrdbJHrX1UeQvXnUHjMrXkRYa4FC0Yg0t4Fh8voJRKdNDVMrI5kifog.&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "为了维护历史的尊严, 3D打印 向ISIS发起了挑战。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
-    },
-    {
-      "title": "3D打印 一切 3D打印 未来 中考高考完的孩子们一定得看看",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoi7IPD9AcGSX1xap3i_HZMVqXa8Fplpd9OktkPJhV-sJwfCj_i4d5UEmdh2NsNPBlWHSKJXIJPJ9n2S1j7hg-eC8YSSikk0KCjUu5KJLgYlmR1ZBV9M1s5_HrwhxtSzjcCxKPZ840l0XhMOPruqOubh-wiw7HEwInDgsFSeGCyoOqx9y4SCcJnUuBfS803yottHM-1EISaEPyPfCoem7FzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=6A618DF9A8411896E4E3B70CDDFDD37CE52825366A2998E2",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "3D打印 一切 3D打印 未来 中考高考完的孩子们一定得看看。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印机 正在消费市场中悄然开花",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9Z9AtXTdl_9yp-GFwzElzjMk9ajjaalpuUWY4c6jlJOI-mA4ibZyOtGAn6dPfNKq76FISyZAgrolKLmCGg5-ww7DFjRzvWWp9CwbrUm-WyofRNJ6f2B5gnTyYus_Pq8FkKSJA4spQDJS44p0g0qL7dXK2Nj9Pu-4TRdyaat08GRwY-UZGbO56rA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "3D打印机 正在消费市场中悄然开花。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印机 撞上教育,那就不是一块塑料的事了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9XlcCh1RVUzrZGJ6PuP62oI9Bq0_F4a8YxgHxY8Yzw-w1Q_36hSyjbSl4G_7uDzleB676T_piwY_nabvnpDPOiHxM8AuRA9hTXdlr7z7llfoHPbj3tIN_9J7sfdIKZHJdOpHs42ORLa0dsN3fqERLHXechs6BgbzC1v5brXCkXtzdrgozfSg6bw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "3D打印机 撞上教育,那就不是一块塑料的事了。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "2022年21款热门树脂 3D打印机 ,多数高性价比",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9W2sOorP6iiv7i6KCaSBd30Qgw7e2RV7JhyQL3Hm6hqUkviEaxojJ886CKAIqfaqLgDo0DFNivwIO8NIklil8MtTl09uQdz5NMMy9lHKA2oS65dAaVH04jUMCIuIfnMrHmhuoqgyPh2SpJ8iQJlZefgF6LhGbJAKI2zi5OWqHOqAGX_iHL9MadA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "2022年21款热门树脂 3D打印机 ,多数高性价比。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "用 3D打印机 制作汽车零件模具,大理这一家就做得到",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9qWnXjiOTVArDZKcRAIUfpsO0W7lVdKkf8Ixy2vWQjNh_nTz3_d9JJGHDjktPAyjjfdvT_xRCBX5WKKjmBMQGjufGsGSEA4O5cJmorctownIjqH8XBnUD61qZ4THD2OU-tqdLiEJeeOrtYwrd0XVeh_d8L94DTXPg2KPIXGNAo_nFcvUoAZZH7Q..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "用 3D打印机 制作汽车零件模具,大理这一家就做得到。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "买一个 3D打印机 ,你就能变成亿万富翁!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9nvVeoFLuQAsFyiWG5OBVk2-jDRathllUqWhI6QXiEBGOb0R0MUXx5Fhzp5GK9pH4GURHfF_SEN67d2gLBCy9RycY5u8xmt6m9EAhbyXMJwqc-TKX1FT3-9R-a1qJN7cq57echvLVCBByUlocqDcyCfdRWhn4xMdBO8rgH3_Wa1WrCDCayYmfpA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "买一个 3D打印机 ,你就能变成亿万富翁!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印机 、微型航天体验设备&hellip;&hellip;这个\"创客来吧\"真炫!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9RLqM2-f6_zovb4KX17tJY5D_bUZ19TUiNA7-N5pAqs7enHo6UU7-Av4W3faTMn6j7bXhrHHgnwzfClFkF-qETHqnf36Wv_zcn1MdQfnrE1IitXVtoK9sMPgtmyWlkV1s277bp2Qe5rpB7z-8alQipvjFsrkUDB-jQVEM-XpfIDQ6Ebq8fk9diw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "3D打印机 、微型航天体验设备&hellip;&hellip;这个\"创客来吧\"真炫!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "3D打印机 从打印美味的蛋糕,到制造飞上天的火箭",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9bgHRqA3ICZHVlLfsohmwWad4VQdlru5MAmRrE1mtaRcRZt68lj6YZTTXeN0YozX7BXZnCV0NVGeoGBGpsclypHwjum8U840HiykKCrxwxP-4cmaLNfu9CkZzNHdIdZzHxeHRxi5mytDbJFzSgXA4Hs2NlH82NeDA5SX3TYIHerJOJBjQH7pCxQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "3D打印机 从打印美味的蛋糕,到制造飞上天的火箭。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "一台 3D打印机 就能搞定一场秀?她的理想和设计一样前卫!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_Bube-OEkMy3cTeVgrFeYQugDjwNAYreqfstGL48eZ4nvXpSD6_sxvAS8cYIYrKWbo7lalvCwOS_L2ng1kExjajDroiomHGAHVTkNXdphPLKq5w-Yev20u-rY2DbWNrzvrG8p4VCsXYqq9p0lyCvAIEZuxuc5UnpTdMKNEi6iZR8i8gy6pqO80RJ4h_lbPPhyX1Y4Au077Ypv7UHhbCsRxAl65T2WiUUNnV_mCCc0J0TtRg3q8K1fgKISpqkfN9ZJIxciZqwg0yoRFw.&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "一台 3D打印机 就能搞定一场秀?她的理想和设计一样前卫!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "有一台「 3D打印机 」是怎样的感受?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo5cCbmsJv_cr1xap3i_HZMVqXa8Fplpd9mzrZ_0eCd0pqGt4cK165YU4jzJHtmGlzKpf3lVyPBVsnsdoQvl61KclJ1qD872T5R3rnlY_uR1uCr5PkOskZZ9cJlT40yhPd-JLnz8sbVQ-fBxKVvdbDYdis8q0OqZAj78XhRiY2SDuqe_vJ4vrC7mlkvD7GUUcFgkiz4nLZwb8Y-UZGbO56rA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=6A6196C38E673EB1C2C4912AFAF13483C39431A56A2998E4",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "有一台「 3D打印机 」是怎样的感受?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "金属 增材制造 设备厂商大盘点!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd9VGkI8pb3js39Lp3tIND7xtsp6lAtVQ9kB212rbBIRy0SEuWpAXIa9rvxy6EI5ecq11OonUKBEyozoEkgJybTQjp3u7vtXJH3lRDe-oyePuAdGL5Efey4CHX8KaofF4rcQ4sHWtJlmjwgbn5k5hBPjt3sUPXPgvDYNX400NSibsstPujwwRB2Pw..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "金属 增材制造 设备厂商大盘点!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "金属 增材制造 最前沿",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd99YVZNe3X0EKZHu19mI4_2CeaHMjuZLiBysdC0MOPvT__ko9OkQoqq5mRpP83nfnuAsLWf3PGRCxyB_8KNBmi3D_5Z_WFCGRq0uOOsP3iMBlScKUl0MY_FHenRifSVxiupU2s5QXTqQGzSjjbw0LP5IQgiEK16PMkESXStXwFZ93yPfCoem7FzA..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "金属 增材制造 最前沿。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增材制造 进军主流",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd92sGymnzEOpcdMZBW9dDX9I5ImsxoBWxSQqUNdrQeHdsorLfURc-pK92XgJFr5v2UGTWf3emaTo7uGmhtIEKp-7nssru0MNVnueeZQhNa-apmsiNcFeRXm4eeXd9QluzPsvnRzknRq8-uXJ5ZYVdJhSrjs0lJxYb9UlzT0KIrZRXS-e4Yz84xMA..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "增材制造 进军主流。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增材制造 知识介绍!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd9VGkI8pb3js39Lp3tIND7xtsp6lAtVQ9kB212rbBIRy0SEuWpAXIa9h0uXtKWbBs0WQr3yHiF9IDunErPqRRiaz08gl6wsfHB4C7fYOC4FvXvotrDf0fcWPvT76Fhe9jv-iXzKAFHzJPEPdE0Xrw24VKKXWDDiBgXigz7cIT6uqSjotuuiAmOIg..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "增材制造 知识介绍!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增材制造 专业欢迎你",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd9j5v4iQ6Jo5pn9gf19ZZNOA66uF-9Wu3oY4BPFnOO8jcLWInH6TJ6tjOetcIPJnacQy5LN3N30WPu3-KzE32eZt2OBDwM_e4ul8Toj11oDZx6Hzm3zXg6tX5JgRaN0VCsv_pkzefxZRIzH8O-4jDe00M906AVjkIBAXjZvORQPcrzAjcIGepUqA..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "增材制造 专业欢迎你。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "敬业 增材制造 助力石家庄市\"4+4\"产业格局加快发展!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd91XlVa5vpu8tLFUCo-7XPKJI65t_tj1tsHeWAyTpxuxUNQxws2uNqZ5Siu0vfAAHqyH3y97yZGIQY3Xh91ezyWz6eDNwkwMaUb2ryBhfnegGVqqbCg7yyBEtTipZNefblEW_oT32BemLB-T69x4zTxFcwiiggx4Gg2D-233lL3IotPujwwRB2Pw..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "敬业 增材制造 助力石家庄市\"4+4\"产业格局加快发展!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增材制造 +减材加工=高精度+高价值",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubDnwPWh1d2UqVgrFeYQugDuRc1_KpHmQUCH5eebYLxJBo8P4hnAqFcD515SvXtjFGHq9IIdO-_AYg8rVu3Y4d6vMpo_NeSBpQQ5MqFy3zeNTmRNNoy8IRXslNM3bvozC6YyWPB5tcZd2PBMojXbRXI2fVoFUseU1rqf45TIgtHT_8NtVUvQJfIA1BUNgtUJ6V497Gah4wtjAnU2gzw8ezs0MR8geJJI6nU_-jxH7UmboFMcN-iOc6ezT5R7hvujYLiZqwg0yoRFw.&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "增材制造 +减材加工=高精度+高价值。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "《 增材制造 产业发展行动计划(2017-2020年)》印发(附解读)",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd9LeOeOsoHzm9l-vmnL1s0_LQ6J2CQdYwI5TOiPAujAA-k8lomhrtJjBtrzaH0E0DAZWRrbuE__UtRGkemtpX5ab5VWa4m49qLONYHxlZVzq8_1I57MGNviPYV_62XhqxipY-TYT9FLutbBj9uK5nHZP3HnFVlDzoNf65cDC1QD-QtPujwwRB2Pw..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "《 增材制造 产业发展行动计划(2017-2020年)》印发(附解读)。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增材制造 公司要做成全球第一的规模",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonMe2PLOgH4j1xap3i_HZMVqXa8Fplpd91XlVa5vpu8tLFUCo-7XPKJI65t_tj1tsHeWAyTpxuxUNQxws2uNqZzryjX5CZZoeMoFhV6wUBiahsIfZ9D8RUiRN1cP2Gk8kxrrYqcugNdYHC5X3-djL61mQ0KJ-vHqO3K3e7ALGuuGliXusJvhn6uIlqNrvXvW37-j7Xax2jDvdrgozfSg6bw..&amp;type=2&amp;query=%E5%A2%9E%E6%9D%90%E5%88%B6%E9%80%A0&amp;token=6A61A07122CB931D6E683D86562292EF6F9411366A2998E6",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
-      "matched_keywords": [
-        "增材制造"
-      ],
-      "info_brief": "增材制造 公司要做成全球第一的规模。",
-      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
-      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
-    },
-    {
-      "title": "doczh.com https:// uv .doczh.com",
-      "url": "https://uv.doczh.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2025-05-29",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "doczh.com https:// uv .doczh.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › UV印刷",
-      "url": "https://baike.baidu.com/item/UV%E5%8D%B0%E5%88%B7/10266965",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › UV印刷。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/683178397",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › UV打印 机",
-      "url": "https://baike.baidu.com/item/UV%E6%89%93%E5%8D%B0%E6%9C%BA/6549104",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › UV打印 机。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "docan.net https://www.docan.net › zh-cn",
-      "url": "https://www.docan.net/zh-cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "docan.net https://www.docan.net › zh-cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "anker.com.cn https://www.anker.com.cn › posts",
-      "url": "https://www.anker.com.cn/posts/257",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "anker.com.cn https://www.anker.com.cn › posts。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "163.com https://www.163.com › dy › article",
-      "url": "https://www.163.com/dy/article/KV0QN7BV0556M71A.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "163.com https://www.163.com › dy › article。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/964455137_122567826",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cnblogs.com https://www.cnblogs.com",
-      "url": "https://www.cnblogs.com/-1688/p/19878322",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "cnblogs.com https://www.cnblogs.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hantencnc.com https://hantencnc.com › zh-CN › blog › what-is- uv -printing",
-      "url": "https://hantencnc.com/zh-CN/blog/what-is-uv-printing",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "hantencnc.com https://hantencnc.com › zh-CN › blog › what-is- uv -printing。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "dlican.com https://www.dlican.com",
-      "url": "https://www.dlican.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "dlican.com https://www.dlican.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "epson.com.cn https://www.epson.com.cn › products › large-format",
-      "url": "https://www.epson.com.cn/products/large-format/v1080/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "epson.com.cn https://www.epson.com.cn › products › large-format。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "handtopuv.cn https://www.handtopuv.cn",
-      "url": "https://www.handtopuv.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "handtopuv.cn https://www.handtopuv.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jd.com https://www.jd.com › chanpin",
-      "url": "https://www.jd.com/chanpin/397005.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "jd.com https://www.jd.com › chanpin。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "rolanddg.com.cn https://www.rolanddg.com.cn › products › printers › uv-printers",
-      "url": "https://www.rolanddg.com.cn/products/printers/uv-printers",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "rolanddg.com.cn https://www.rolanddg.com.cn › products › printers › uv-printers。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "doczh.com https:// uv .doczh.com › getting-started › installation",
-      "url": "https://uv.doczh.com/getting-started/installation/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "doczh.com https:// uv .doczh.com › getting-started › installation。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "runoob.com https://www.runoob.com › uv -tutorial.html",
-      "url": "https://www.runoob.com/python3/uv-tutorial.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "runoob.com https://www.runoob.com › uv -tutorial.html。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "csdn.net https://blog.csdn.net › article › details › ...",
-      "url": "https://blog.csdn.net/2401_86720553/article/details/156489207",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "csdn.net https://blog.csdn.net › article › details › ...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "astral.sh https://docs.astral.sh › uv",
-      "url": "https://docs.astral.sh/uv/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "astral.sh https://docs.astral.sh › uv。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "astral.sh https://docs.astral.sh › uv › guides › projects",
-      "url": "https://docs.astral.sh/uv/guides/projects/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "astral.sh https://docs.astral.sh › uv › guides › projects。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "github.com https://github.com › astral-sh › uv › releases",
-      "url": "https://github.com/astral-sh/uv/releases",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "github.com https://github.com › astral-sh › uv › releases。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "astral.org.cn https://docs.astral.org.cn › uv › getting-started › installation",
-      "url": "https://docs.astral.org.cn/uv/getting-started/installation/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
-      "matched_keywords": [
-        "UV打印"
-      ],
-      "info_brief": "astral.org.cn https://docs.astral.org.cn › uv › getting-started › installation。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gy2025.com https://gy2025.com",
-      "url": "https://gy2025.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-05-13",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "gy2025.com https://gy2025.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › CNC数控加工",
-      "url": "https://baike.baidu.com/item/CNC%E6%95%B0%E6%8E%A7%E5%8A%A0%E5%B7%A5/2605245",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › CNC数控加工。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/1905580996839076932",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jlc-cnc.com https://www.jlc-cnc.com › cncOrder",
-      "url": "https://www.jlc-cnc.com/cncOrder/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "jlc-cnc.com https://www.jlc-cnc.com › cncOrder。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "csdn.net https://blog.csdn.net › article › details",
-      "url": "https://blog.csdn.net/m0_60315436/article/details/145928619",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "csdn.net https://blog.csdn.net › article › details。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cnc-line.com https://www.cnc-line.com › ebusiness › tracking",
-      "url": "https://www.cnc-line.com/ebusiness/tracking",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "cnc-line.com https://www.cnc-line.com › ebusiness › tracking。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "51zxw.net https://www.51zxw.net › list.aspx",
-      "url": "https://www.51zxw.net/list.aspx?cid=595",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "51zxw.net https://www.51zxw.net › list.aspx。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "什么是 CNC ？面向初学者和工程师的完整解释 - RapidDirect",
-      "url": "https://www.rapiddirect.com/zh-CN/blog/cnc-meaning-explained/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "什么是 CNC ？面向初学者和工程师的完整解释 - RapidDirect。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "arockcam.com https://www.arockcam.com › archives",
-      "url": "https://www.arockcam.com/archives/22615",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "arockcam.com https://www.arockcam.com › archives。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "bilibili.com https://www.bilibili.com › video",
-      "url": "https://www.bilibili.com/video/BV1Kg4y1u7yo/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "bilibili.com https://www.bilibili.com › video。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "fastpreci.com https://www.fastpreci.com › zh-CN › blog › what-is-cnc-machining",
-      "url": "https://www.fastpreci.com/zh-CN/blog/what-is-cnc-machining/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "fastpreci.com https://www.fastpreci.com › zh-CN › blog › what-is-cnc-machining。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 数控机床",
-      "url": "https://baike.baidu.com/item/%E6%95%B0%E6%8E%A7%E6%9C%BA%E5%BA%8A/6197",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 数控机床。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "rosnokmachine.com https://rosnokmachine.com › zh-CN › 中国十大 数控机床 ...",
-      "url": "https://rosnokmachine.com/zh-CN/%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E6%95%B0%E6%8E%A7%E6%9C%BA%E5%BA%8A%E5%88%B6%E9%80%A0%E5%95%86/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "rosnokmachine.com https://rosnokmachine.com › zh-CN › 中国十大 数控机床 ...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "stylecnc.cn https://www.stylecnc.cn › products",
-      "url": "https://www.stylecnc.cn/products/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "stylecnc.cn https://www.stylecnc.cn › products。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "tirapid.com https://tirapid.com › zh-CN › types-of-cnc-machines",
-      "url": "https://tirapid.com/zh-CN/types-of-cnc-machines/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "tirapid.com https://tirapid.com › zh-CN › types-of-cnc-machines。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "huaon.com https://www.huaon.com › channel › trend",
-      "url": "https://www.huaon.com/channel/trend/1154097.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "huaon.com https://www.huaon.com › channel › trend。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jc35.com https://www.jc35.com",
-      "url": "https://www.jc35.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "jc35.com https://www.jc35.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "brother.cn https://www.brother.cn › machinetool › speedio-navi › articles › ...",
-      "url": "https://www.brother.cn/machinetool/speedio-navi/articles/a0038/index",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "brother.cn https://www.brother.cn › machinetool › speedio-navi › articles › ...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "xueqiu.com https://xueqiu.com",
-      "url": "https://xueqiu.com/1461080850/358461468",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "xueqiu.com https://xueqiu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/953256194_122240500",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › CNC加工",
-      "url": "https://baike.baidu.com/item/CNC%E5%8A%A0%E5%B7%A5/7792980",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › CNC加工。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sogaworks.cn https://www.sogaworks.cn",
-      "url": "https://www.sogaworks.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "sogaworks.cn https://www.sogaworks.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jlc-cnc.com https://www.jlc-cnc.com",
-      "url": "https://www.jlc-cnc.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "jlc-cnc.com https://www.jlc-cnc.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "活动报名 | AI存储 专场沙龙&mdash;&mdash;聚焦国产技术与产业落地实践",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoF8g40PxDtB31xap3i_HZMVqXa8Fplpd9_Weoz-ItJAqZtLNZ5yGSQp7HOst-A5kOVViehy_usAg6-SWdRGQj-EB4zekYqMaHVRFL_VNTTGRm3wuEjwfz8y_4Sozq1RhKgJG4fxgmOjNftB29xX5uvTvs-nZlNzRp3OqPOhVAVFrA2EEpHtDq--SQGLnaYDiMOu8ZPGb7kLLdrgozfSg6bw..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=6A63FB6848A1F876040356ED453842FC05C7261C6A29995A",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-16",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
-      "matched_keywords": [
-        "AI存储"
-      ],
-      "info_brief": "活动报名 | AI存储 专场沙龙&mdash;&mdash;聚焦国产技术与产业落地实践。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "\" 智能眼镜 偷拍空姐\",最新回应:全部清理",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovy_hTF5Ckrr1xap3i_HZMVqXa8Fplpd935JzI8p61N3g4mLzve2LOgyPn48YWDio3Dit0FD_J-lT7QF3Rgd7-z5E4daymChfnJQcw1kUiwxBqXc5lBDnuav0M92JB8rNS8_jaOsjVljVLcsmPN94_bA5ChnxNljNwQCsQ1Gud53m9hCcOU3RLNrqvR3p3P0Xek-sHysnz_600NVofL2iDw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=6A64D8D65BB2EA65171045FF55E6DE2E17C0F8EB6A299987",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-08",
-      "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
-      "matched_keywords": [
-        "智能眼镜"
-      ],
-      "info_brief": "\" 智能眼镜 偷拍空姐\",最新回应:全部清理。",
+      "info_brief": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段。",
       "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "联想炒作的\" AI PC \"是伪命题吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKobC9TzdkrgiD1xap3i_HZMVqXa8Fplpd9yt2UykdnDNtd0e7SxWd8XAJBVk0Qb6E_0PCh4JPyrtef3dIdgjCuPtYT2nMz-kj2kc2afneiFIOCAocHy3RivqXOsmia6Qcki5GI5yGN9adkTMIQgrExbMkjYLpTRY6qf6o78Ih2K6-d0BhGnrv2GJV58p3-4YlOOuxY4zMCa2F5LU3lqtPw9g..&amp;type=2&amp;query=AI PC&amp;token=6A6639011EF7AF23515702BB157789B152C3E1ED6A2999CE",
-      "source": "搜狗微信",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
-      "publish_date": "2026-12-07",
+      "publish_date": "2026-06-10",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达���告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。 M...",
       "matched_keywords": [
-        "AI PC"
+        "3D打印"
       ],
-      "info_brief": "联想炒作的\" AI PC \"是伪命题吗?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "首个 AI PC 亮相!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKobC9TzdkrgiD1xap3i_HZMVqXa8Fplpd9KyitjekBjaID0B1vao4eh-yCm4dEs8LR6DP03k6zE576_JeK4vEqFxSR9EySbNcpO98qksf1HKTe152QLsm6O995qnBcs4ob0CftfEk2KdcyOjvr8KDqtrATfpWi8LrhbiVKkv7lKh6pdzXLIw8yvfSurPUFYNdDdymsIU2a1QSrCDCayYmfpA..&amp;type=2&amp;query=AI PC&amp;token=6A6639011EF7AF23515702BB157789B152C3E1ED6A2999CE",
-      "source": "搜狗微信",
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "url": "https://36kr.com/p/3847339087140104?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
-      "publish_date": "2026-12-14",
+      "publish_date": "2026-06-10",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。 对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精心挑选的时间点——品牌创立180周年，恰...",
       "matched_keywords": [
-        "AI PC"
+        "3D打印"
       ],
-      "info_brief": "首个 AI PC 亮相!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "苹果AI的\"三重门\"与国产 AI手机 的\"零门槛\":ibbot手机青春版凭什么让1580元干掉万元壁垒?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoTqGACeStWWj1xap3i_HZMVqXa8Fplpd9dJiuNEtlokzrCvd4Z242VtrgbGGCdpNpalb0JdTYEzVa6jd7822VpvVoGqJtW8QEJYxc550g90jMSGUQEtY4_efk2Zf6MIlK_rxYvBwD6FG19QPULZNaBliZTzug3vz9A3IYLG5RCp1hH0-3vhNZ8ng_OzvFfK39ukpPajaKFkgYJSSFPgfogQ..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=6A68A4105AB0EB64161046FC5895BA3D1642BCE96A299A39",
+      "title": "3d打印鞋的测试",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9qbwyeGRbkoplhwbVWlUzVXDsFkJGnQ0ygkQRcLkm4BMRy-F8E3R2h0x4zvwYf1eUJskMfPXdwll7EjqemKXPUTfsoPks5qIDACgYytCnsonfWeNVWcTaA6hGLfzkoQMV2FNJ_n_RoKeMVZ83I86hWgetamKITJGI-gKlNA_CrKkY-UZGbO56rA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-10",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "回家收鞋子&#55358;&#56691;这次熟练一点了,换了个模型对照尺码1:1 对照打还是大了一圈,尺寸还得缩. 但是可穿性比之前那只好很多,还挺舒...",
       "matched_keywords": [
-        "AI手机"
+        "3D打印"
       ],
-      "info_brief": "苹果AI的\"三重门\"与国产 AI手机 的\"零门槛\":ibbot手机青春版凭什么让1580元干掉万元壁垒?。",
+      "info_brief": "3d打印鞋的测试。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "gdut.edu.cn https://yzw.gdut.edu.cn",
-      "url": "https://yzw.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2025-05-30",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://yzw.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://jwc.gdut.edu.cn",
-      "url": "https://jwc.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-01-15",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://jwc.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://atc.gdut.edu.cn",
-      "url": "https://atc.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-05-14",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://atc.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://glxy.gdut.edu.cn",
-      "url": "https://glxy.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-05-29",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://glxy.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://zsb.gdut.edu.cn",
-      "url": "https://zsb.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-05-29",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://zsb.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://library.gdut.edu.cn",
-      "url": "https://library.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-05-30",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://library.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://hr.gdut.edu.cn › rczp.htm",
-      "url": "https://hr.gdut.edu.cn/rczp.htm",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-06-01",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://hr.gdut.edu.cn › rczp.htm。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://www.gdut.edu.cn › xxgk › xxjj.htm",
-      "url": "https://www.gdut.edu.cn/xxgk/xxjj.htm",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-06-02",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://www.gdut.edu.cn › xxgk › xxjj.htm。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "aigc.cn https://qianwen.aigc.cn",
-      "url": "https://qianwen.aigc.cn/",
+      "title": "DNF 手游联合设计：联想拯救者 Y700 勇士版平板开售，国补 4099 元",
+      "url": "https://www.ithome.com/0/962/946.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，联想拯救者 x DNF 手游联合设计的全新联名 Y700 勇士版已于 6 月 10 日正式发售，12GB+512GB 版首发价 4599 元，国补到手价 4099 元，88VIP 优惠价 3799 元。 天猫 【学生认证立减 400 元】联想拯救者 Y700 五代 DNF 手游勇士版 第五代骁龙 8 至尊版 联想拯救者 y700 游戏平板电脑 4099 元 直...",
       "matched_keywords": [
-        "AI学习硬件"
+        "3D打印"
       ],
-      "info_brief": "aigc.cn https://qianwen.aigc.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "DNF 手游联合设计：联想拯救者 Y700 勇士版平板开售，国补 4099 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "ai-bot.cn https:// ai -bot.cn",
-      "url": "https://ai-bot.cn/",
+      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "今日热点导览 花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元 TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
+    },
+    {
+      "title": "利民处理器风冷散热器 PS140 发售：双 LCP 滚珠轴承风扇，279 元起",
+      "url": "https://www.ithome.com/0/962/949.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，Thermalright（利民 / 索摩乐）旗下幻灵 PS140（Phantom Spirit 140）双塔双风扇七热管 CPU 风冷散热器现已在京东发售，该产品提供了原色、黑化、白化可选，IT之家整理价格如下： 黑化：309 元，首发价 279 元 白化：319 元，首发价 289 元 原色：319 元，首发价 289 元 该散热器整体尺寸为 140 mm ...",
       "matched_keywords": [
-        "AI学习硬件"
+        "3D打印"
       ],
-      "info_brief": "ai-bot.cn https:// ai -bot.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "利民处理器风冷散热器 PS140 发售：双 LCP 滚珠轴承风扇，279 元起。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "doubao.com https://www.doubao.com",
-      "url": "https://www.doubao.com/",
+      "title": "消息称比亚迪海豹 08 车型经销商内部预扣款 25 万元，有望本月底至下月初上市",
+      "url": "https://www.ithome.com/0/962/955.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，易车现已曝光了比亚迪海洋网首款大型旗舰轿车海豹 08 的经销商内部预扣款清单，其中显示“785KM 四驱旗舰型”预扣款为 25 万元，相比之前官方公布的 30-35 万元价格区间门槛降低了不少， 同时该车有望在本月底或者下月初正式上市 。 IT之家注意到，比亚迪海豹 08 已于今年 3 月全球首秀，参考官方预热，该车采用海洋美学 2.0 设计语言，提供阿卡珊瑚...",
       "matched_keywords": [
-        "AI学习硬件"
+        "3D打印"
       ],
-      "info_brief": "doubao.com https://www.doubao.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "消息称比亚迪海豹 08 车型经销商内部预扣款 25 万元，有望本月底至下月初上市。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/622871383",
+      "title": "北京 81“战术方盒子”SUV 申报图现身工信部，将于 8 月 1 日正式上市",
+      "url": "https://www.ithome.com/0/962/956.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，北京越野旗下“北京 81（BJ81）”申报图目前已现身工信部第 408 批《道路机动车辆生产企业及产品公告》新产品名单中，该车定位“中国首款战术方盒子”， 预售价区间 20-25 万元 ，计划于 8 月 1 日在南昌正式上市。 IT之家注意到，新车延续了北京越野最新的方盒子设计语言，前脸配备了经典的五孔式前格栅，中网内部的每一个孔内都镶嵌了一个红色的 LED ...",
       "matched_keywords": [
-        "AI学习硬件"
+        "3D打印"
       ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "北京 81“战术方盒子”SUV 申报图现身工信部，将于 8 月 1 日正式上市。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "jianying.com https://jimeng.jianying.com › ai -tool › home",
-      "url": "https://jimeng.jianying.com/ai-tool/home",
+      "title": "七彩虹“小钢炮”主板 iGame B850I MINI OC V14 开售，1399 元",
+      "url": "https://www.ithome.com/0/962/957.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，七彩虹 (Colorful) 现已在电商平台开售 iGame B850I MINI OC V14 主板，售价 1399 元。 该型号 采用 10 层“服务器级”PCB ，搭载 9+2+1 相 60A 供电，VRM 区域拥有加厚装甲和散热风扇，内置时钟发生器，支持 DDR5-8800+ 内存超频。 而在扩展性方面，iGame B850I MINI OC V14 ...",
       "matched_keywords": [
-        "AI学习硬件"
+        "3D打印"
       ],
-      "info_brief": "jianying.com https://jimeng.jianying.com › ai -tool › home。",
+      "info_brief": "七彩虹“小钢炮”主板 iGame B850I MINI OC V14 开售，1399 元。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "procurement_insight": "高防护规格成卖点突破口，可孵化差异化标品页与场景化视频素材。"
     },
     {
-      "title": "dangbei.com https:// ai .dangbei.com",
-      "url": "https://ai.dangbei.com/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "dangbei.com https:// ai .dangbei.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "ai-kit.cn https:// ai -kit.cn",
-      "url": "https://ai-kit.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "ai-kit.cn https:// ai -kit.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "显示无法访问的结果",
-      "url": "https://cn.bing.com/search?q=site%3aithome.com+AI%E5%AD%A6%E4%B9%A0%E7%A1%AC%E4%BB%B6&amp;ubiroff=1&amp;FORM=P4041",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "显示无法访问的结果。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://www.zhihu.com › tardis › zm › art",
-      "url": "https://www.zhihu.com/tardis/zm/art/670905885",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "zhihu.com https://www.zhihu.com › tardis › zm › art。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "iflytek.com https://edu.iflytek.com › solution › family › learning-pad",
-      "url": "https://edu.iflytek.com/solution/family/learning-pad",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "iflytek.com https://edu.iflytek.com › solution › family › learning-pad。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://www.zhihu.com › tardis › bd › art",
-      "url": "https://www.zhihu.com/tardis/bd/art/4290344759",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "zhihu.com https://www.zhihu.com › tardis › bd › art。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "bjnews.com.cn https://www.bjnews.com.cn › detail",
-      "url": "https://www.bjnews.com.cn/detail/1776157777129619.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "bjnews.com.cn https://www.bjnews.com.cn › detail。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ithome.com https://www.ithome.com",
-      "url": "https://www.ithome.com/0/947/589.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "ithome.com https://www.ithome.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "smzdm.com https://post.smzdm.com",
-      "url": "https://post.smzdm.com/p/a50d0l0x/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "smzdm.com https://post.smzdm.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cnblogs.com https://www.cnblogs.com › bokewang",
-      "url": "https://www.cnblogs.com/bokewang/p/20320217",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "cnblogs.com https://www.cnblogs.com › bokewang。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "qq.com https://news.qq.com › rain",
-      "url": "https://news.qq.com/rain/a/20260602A09T4400",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "qq.com https://news.qq.com › rain。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 智能",
-      "url": "https://baike.baidu.com/item/%E6%99%BA%E8%83%BD/66637",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 智能。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "www.gov.cn https://www.gov.cn › gongbao › ...",
-      "url": "https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "www.gov.cn https://www.gov.cn › gongbao › ...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "qstheory.cn https://www.qstheory.cn",
-      "url": "https://www.qstheory.cn/20260430/fcfeb89054fe453ebe265f7e270917e9/c.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "qstheory.cn https://www.qstheory.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ndrc.gov.cn https://www.ndrc.gov.cn › wsdwhfz",
-      "url": "https://www.ndrc.gov.cn/wsdwhfz/202603/t20260313_1404128.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "ndrc.gov.cn https://www.ndrc.gov.cn › wsdwhfz。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/859615812_121687419",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cac.gov.cn https://www.cac.gov.cn",
-      "url": "https://www.cac.gov.cn/2025-08/28/c_1758098831780669.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "cac.gov.cn https://www.cac.gov.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "36kr.com https://www.36kr.com",
-      "url": "https://www.36kr.com/p/1475193097285638",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "36kr.com https://www.36kr.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://www.gdut.edu.cn",
-      "url": "https://www.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://www.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gdut.edu.cn https://courses.gdut.edu.cn",
-      "url": "https://courses.gdut.edu.cn/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
-      "matched_keywords": [
-        "AI学习硬件"
-      ],
-      "info_brief": "gdut.edu.cn https://courses.gdut.edu.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "男子疯狂作案,专挑 保险柜 盗窃!得手后还留下这句话!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKormL_RoNQnX_1xap3i_HZMVqXa8Fplpd9xWQRguS9CKBG7-OPloM2SsZaO5ahD1B-4up52KKcx6fOLNwe9ajlee5ecEhgNTSDBOtFOEsG1OfJnll6YHEZfiRrKzjtajdA1NwtuutEJwlrdy2SxcfuOHS91Lh_WxfHiZYUNub2JZJPqhtkJGiYs8NYkyTs2Dz_okEdRexDWasCYioxHkzTmA..&amp;type=2&amp;query=%E4%BF%9D%E9%99%A9%E6%9F%9C&amp;token=6A6A712BBE560F81F3F5A01BA028DB92F3495E496A299A92",
+      "title": "微纳3D打印超薄牙齿贴面,会出现下一个隐适美吗",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9RkQtCnlCTb5SMXmScKaNBIx69bYBbqDsAT2X93td_HXO8JQWFcGkkhliIAo5tWLzucHrASa2ACEGJejuWCTKhKowyl6l_J9jspP0pNQanuTT7CrVt4hDFaLAPQK27YdIvXjgNEt34U6XxrtydTIqAX0nEv275okCxPlGu1rbS_jRtmyIGw2VAg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
-      "publish_date": "2026-07-15",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "safe-box",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "南极熊导读:3D打印厂商的终极样子,可能是自己干设备、材料、工艺、应用终端产品一条龙,推出高价值产品.国内有的厂商已经...",
       "matched_keywords": [
-        "保险柜"
+        "3D打印"
       ],
-      "info_brief": "男子疯狂作案,专挑 保险柜 盗窃!得手后还留下这句话!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "微纳3D打印超薄牙齿贴面,会出现下一个隐适美吗。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "保险柜 深夜被盗,窗台留下神秘脚印!西安警方调查发现......",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKormL_RoNQnX_1xap3i_HZMVqXa8Fplpd9wc6ekjGONWjf9_mRY158YNMarakgZjyAhQnhloeN2Lnp19dwiwbMsEiiGJclwFq-CJxt0jja4dEdRWFNissUCA_N-tVOVW6z0MpT3LmjSDVFV8t3O8mNACoiFHhgVCjCqaZgxZ_W1rg6Hh-0RaWsUPB7ZoF3-awxPtvg_O-erylhWLv6O878UA..&amp;type=2&amp;query=%E4%BF%9D%E9%99%A9%E6%9F%9C&amp;token=6A6A712BBE560F81F3F5A01BA028DB92F3495E496A299A92",
-      "source": "搜狗微信",
+      "title": "小米汽车详解 YU7 GT“车厘子红”配色：既要深邃内敛，又要清澈鲜艳",
+      "url": "https://www.ithome.com/0/962/958.htm",
+      "source": "IT之家",
       "sources": [
-        "搜狗微信"
+        "IT之家"
       ],
-      "publish_date": "2026-09-04",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "safe-box",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，今天下午，小米汽车官微发布长文，详细介绍了小米 YU7 GT“车厘子红”配色背后的故事。为了打造一款“很正”的红色，且能够唤醒人们对红色的本能共鸣、跳出传统跑车红的既定印象，CMF 选择了一条不同的路径：不向外参照，而是向自然中寻找答案。 根据介绍，在早期开发中，团队经历了多轮调色与反复验证。红色本就是极难控制的颜色 —— 它既要足够正，又不能落入传统红色跑车...",
       "matched_keywords": [
-        "保险柜"
+        "3D打印"
       ],
-      "info_brief": "保险柜 深夜被盗,窗台留下神秘脚印!西安警方调查发现......。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "喂!你驮着 保险箱 逃窜的样子我们看得一清二楚!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoUGSwUhnAyxT1xap3i_HZMVqXa8Fplpd9mxKzdfznt-9W3MtbwU5YjbMU7pa9bFOXWnS6fqQXP8eV2IpQtXvlEK6FwNYCXvEwwKXc0u69sITWqze05jRbDku7hTYNuYwD6WrgxU9TghjE_Dmn7EzKat1SdYx1vkz0N1S1to4lTHJrAb5WzAYKAhGyJkr-V1-6rqT7ss6Nyo8GX_iHL9MadA..&amp;type=2&amp;query=%E4%BF%9D%E9%99%A9%E7%AE%B1&amp;token=6A6A7550C82078F78583D66DD76D404585FA7E0D6A299A93",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-09-20",
-      "category": "媒体新闻",
-      "category_id": "safe-box",
-      "summary": "",
-      "matched_keywords": [
-        "保险箱"
-      ],
-      "info_brief": "喂!你驮着 保险箱 逃窜的样子我们看得一清二楚!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "男子撬开 保险箱 ,面对120万＂只拿＂27万:做坏人不能太绝",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoUGSwUhnAyxT1xap3i_HZMVqXa8Fplpd9LB-pvvLAgqzC8HLDbxUvPnICefjRsgN5ymrSRWd0Npu4d2bumFK3TKqRjgj_B1PGVirMFSA6ymWkyYOXHVnnDZ57zSQ5zdu9AyOU1ZopxaN3BviTPND4wEXBkJDVZ5yibX87xarIBqu_jd8xm1DcRqHjdKjSNamubbvNvgNuz59r1dbZWbKUeQ..&amp;type=2&amp;query=%E4%BF%9D%E9%99%A9%E7%AE%B1&amp;token=6A6A7550C82078F78583D66DD76D404585FA7E0D6A299A93",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-12-11",
-      "category": "媒体新闻",
-      "category_id": "safe-box",
-      "summary": "",
-      "matched_keywords": [
-        "保险箱"
-      ],
-      "info_brief": "男子撬开 保险箱 ,面对120万＂只拿＂27万:做坏人不能太绝。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "真是神了! 保险柜 内现金、首饰被盗,小偷竟有 保险柜 钥匙和密码,咋做到的?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKormL_RoNQnX_1xap3i_HZMVqXa8Fplpd9FjG_abpMpmxKh_6zImZavKt4WBrOt2SGQHkZhu4xToyMe8hquvPjBEvBPsaJ2KPvTDRtejJ-o6z6gVGpkm7I4JKCz77ub0yXcALdd5Us1nTqSFMmr_0-Ka10p7wdeYVMF3qYXdFaneOkH2dqBEeK5DlhSFpJIiRd6hHQNJCgtkUHpHkoPMgL3A..&amp;type=2&amp;query=%E4%BF%9D%E9%99%A9%E6%9F%9C&amp;token=6A6A712BBE560F81F3F5A01BA028DB92F3495E496A299A92",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-12-29",
-      "category": "媒体新闻",
-      "category_id": "safe-box",
-      "summary": "",
-      "matched_keywords": [
-        "保险柜"
-      ],
-      "info_brief": "真是神了! 保险柜 内现金、首饰被盗,小偷竟有 保险柜 钥匙和密码,咋做到的?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "米家发布 激光投影 电视 亮度达5000流明售价9999元",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKosSkGFxbqiWD1xap3i_HZMVqXa8Fplpd9P7nR8IpejYAsVVtUvIY2Mgj8tJ3LrkXwC3B7pLN9px67lZ68LOy_8krFAdyRchTqSLmP86UBe59uFJDsNZT4TNuUXEKO6OJ98pJ1hC21qDqpr6oDcRZC7PfaPxvJZsr8djkKiIoePKlg9FQKZZm1gJBTodnYz2UJGLG_8JFvf4RhWLv6O878UA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E6%8A%95%E5%BD%B1&amp;token=6A6B5B21F81649C1B4B2E05AE1CAE054B491AC296A299ABE",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-28",
-      "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
-      "matched_keywords": [
-        "激光投影"
-      ],
-      "info_brief": "米家发布 激光投影 电视 亮度达5000流明售价9999元。",
+      "info_brief": "小米汽车详解 YU7 GT“车厘子红”配色：既要深邃内敛，又要清澈鲜艳。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "douyu.com https://www.douyu.com",
-      "url": "https://www.douyu.com/",
-      "source": "搜狐",
-      "sources": [
-        "搜狐"
-      ],
-      "publish_date": "2026-06-10",
-      "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
-      "matched_keywords": [
-        "电竞键盘"
-      ],
-      "info_brief": "douyu.com https://www.douyu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/632447763",
+      "title": "上汽荣威家越 07 大五座 SUV 官图公布，预计将于第三季度发布",
+      "url": "https://www.ithome.com/0/962/960.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，上汽荣威正式发布了旗下家越序列首款车型家越 07 官图，该车是由上汽荣威与火山引擎深度合作的“全新 AI 原生序列”首款车型，定位大五座 SUV， 预计将于今年三季度发布 。 该车采用以建筑式双垂直设计，车头和车尾近 90 度垂直角设计，强化车身视觉支撑力与规整秩序感。前脸搭载行业首发一体式贯穿大灯，搭载近 3000 颗错落分布的浮雕星芒。车身采用半隐藏式门把...",
       "matched_keywords": [
-        "高刷显示器"
+        "3D打印"
       ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "上汽荣威家越 07 大五座 SUV 官图公布，预计将于第三季度发布。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "zol.com.cn https://news.zol.com.cn",
-      "url": "https://news.zol.com.cn/1092/10921036.html",
+      "title": "谷歌 Android 17 强制应用“瘦身”：为每个 App 设定内存使用上限，越界即杀进程且不留堆栈信息",
+      "url": "https://www.ithome.com/0/962/961.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，谷歌官方发布博客，宣布将从 Android 17 开始引入更严格的应用内存管理机制。 简单来说，Android 17 将根据设备的物理内存（RAM）总量，为每个 App 设定明确的内存使用上限；一旦某个应用超出该上限，Android 将直接终止该进程，且不会留下常规的崩溃堆栈信息。 谷歌表示，这项调整旨在提升设备整体稳定性，避免单个应用因内存泄漏或异常占用大量...",
       "matched_keywords": [
-        "高刷显示器"
+        "3D打印"
       ],
-      "info_brief": "zol.com.cn https://news.zol.com.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "谷歌 Android 17 强制应用“瘦身”：为每个 App 设定内存使用上限，越界即杀进程且不留堆栈信息。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/1018035667_122471764",
+      "title": "消息称 Meta 已完成与 Manus 运营分离：停止数据共享，内网也禁止访问",
+      "url": "https://www.ithome.com/0/962/969.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据彭博社今日报道，Meta 公司已完成与 Manus 的运营分离， 并停止了两家公司之间的数据共享 。 知情人士透露，Meta 自本月初以来已禁止 Manus 及其员工访问 Meta 的内部数据系统，Meta 员工也无法再为内部项目使用 Manus 工具。 去年 12 月， Meta 宣布同意收购开发 AI 智能体 Manus 母公司蝴蝶效应 ，有消息称其报价...",
       "matched_keywords": [
-        "高刷显示器"
+        "3D打印"
       ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "消息称 Meta 已完成与 Manus 运营分离：停止数据共享，内网也禁止访问。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "163.com https://www.163.com › dy › article",
-      "url": "https://www.163.com/dy/article/KFUOSOJQ0540QLO9.html",
+      "title": "3999 → 2330 元：小米米家空气净化器 6 Max 国补探新低，搭载双电机",
+      "url": "https://www.ithome.com/0/962/972.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "小米 · 米家空气净化器 6 Max 开售于 2026 年 4 月 15 日，主打“双电机强劲风，新屋全周期净化”定位，专为装修场景及大户型家庭打造，官方定价 3999 元。 京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2330.95 元： 领 8 折券： 点此查看 。 加入购物车时选择“ 以旧换新 ”补贴 494.32 元（可选“ 电动牙刷 ”无需回收） 晒单再返 5...",
       "matched_keywords": [
-        "高刷显示器"
+        "3D打印"
       ],
-      "info_brief": "163.com https://www.163.com › dy › article。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gamersky.com https://www.gamersky.com › handbook",
-      "url": "https://www.gamersky.com/handbook/202505/1922506.shtml",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "gamersky.com https://www.gamersky.com › handbook。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zol.com.cn https://diy.zol.com.cn",
-      "url": "https://diy.zol.com.cn/1196/11965569.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "zol.com.cn https://diy.zol.com.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sina.com.cn https://t.cj.sina.com.cn › articles › view",
-      "url": "https://t.cj.sina.com.cn/articles/view/7879848900/1d5acf3c402002xwl2",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "sina.com.cn https://t.cj.sina.com.cn › articles › view。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zol.com.cn https://top.zol.com.cn › compositor",
-      "url": "https://top.zol.com.cn/compositor/84/param_12987_14.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "zol.com.cn https://top.zol.com.cn › compositor。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ithome.com https://www.ithome.com",
-      "url": "https://www.ithome.com/0/956/699.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "ithome.com https://www.ithome.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "asus.com.cn https://rog.asus.com.cn › monitors-group",
-      "url": "https://rog.asus.com.cn/monitors-group/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "asus.com.cn https://rog.asus.com.cn › monitors-group。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "antgamer.net http://www.antgamer.net › index.php",
-      "url": "http://www.antgamer.net/index.php",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "antgamer.net http://www.antgamer.net › index.php。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "csdn.net https://blog.csdn.net › article › details",
-      "url": "https://blog.csdn.net/qq_43365911/article/details/147683936",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "csdn.net https://blog.csdn.net › article › details。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jd.com https://www.jd.com › chanpin",
-      "url": "https://www.jd.com/chanpin/421050.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "jd.com https://www.jd.com › chanpin。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "lg.com https://www.lg.com › cn › gaming-monitors",
-      "url": "https://www.lg.com/cn/gaming-monitors",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "lg.com https://www.lg.com › cn › gaming-monitors。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://www.zhihu.com › tardis › zm › art",
-      "url": "https://www.zhihu.com/tardis/zm/art/376937801",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "zhihu.com https://www.zhihu.com › tardis › zm › art。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "jd.com https://www.jd.com › hprm",
-      "url": "https://www.jd.com/hprm/67020395d11ed5318af.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "jd.com https://www.jd.com › hprm。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://www.zhihu.com › tardis › bd › art",
-      "url": "https://www.zhihu.com/tardis/bd/art/364115640",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "zhihu.com https://www.zhihu.com › tardis › bd › art。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "samsung.com.cn https://www.samsung.com.cn › monitors",
-      "url": "https://www.samsung.com.cn/monitors/4k-uhd/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "samsung.com.cn https://www.samsung.com.cn › monitors。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "taobao.com https://www.taobao.com › chanpin",
-      "url": "https://www.taobao.com/chanpin/cd7418136269c5072ec1f06e53e009d707ebf18ca0bb63f85ed4809a8691061b.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "taobao.com https://www.taobao.com › chanpin。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "lg.com https://www.lg.com › cn",
-      "url": "https://www.lg.com/cn/4k-monitors",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "lg.com https://www.lg.com › cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hpstore.cn https://www.hpstore.cn › monitors.html",
-      "url": "https://www.hpstore.cn/monitors.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "hpstore.cn https://www.hpstore.cn › monitors.html。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zol.com.cn https://top.zol.com.cn › compositor › lcd.html",
-      "url": "https://top.zol.com.cn/compositor/lcd.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "zol.com.cn https://top.zol.com.cn › compositor › lcd.html。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 高",
-      "url": "https://baike.baidu.com/item/%E9%AB%98/16270",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 高。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hanyuguoxue.com https://www.hanyuguoxue.com › zidian",
-      "url": "https://www.hanyuguoxue.com/zidian/zi-39640",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "hanyuguoxue.com https://www.hanyuguoxue.com › zidian。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gaode.com https://gaode.com",
-      "url": "https://gaode.com/",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "gaode.com https://gaode.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hgcha.com https://www.hgcha.com › zidian",
-      "url": "https://www.hgcha.com/zidian/abba35b1.html",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "hgcha.com https://www.hgcha.com › zidian。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ufanv.cn https://www.ufanv.cn › zidian › 高",
-      "url": "https://www.ufanv.cn/zidian/%E9%AB%98",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "ufanv.cn https://www.ufanv.cn › zidian › 高。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "gushici.net https://zidian.gushici.net",
-      "url": "https://zidian.gushici.net/10/9ad8.html",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "gushici.net https://zidian.gushici.net。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hancibao.com https://www.hancibao.com › zi",
-      "url": "https://www.hancibao.com/zi/9ad8",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "hancibao.com https://www.hancibao.com › zi。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "newdu.com http://ced.newdu.com",
-      "url": "http://ced.newdu.com/k7348.html",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "newdu.com http://ced.newdu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "hydict.cn https://dict.hydict.cn › dictionary › dcontent › index › word › 高",
-      "url": "https://dict.hydict.cn/dictionary/dcontent/index/word/%E9%AB%98",
-      "source": "新浪",
-      "sources": [
-        "新浪"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "hydict.cn https://dict.hydict.cn › dictionary › dcontent › index › word › 高。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "2500以内性价比最高的白色4K 高刷显示器 &mdash;&mdash;MSI MAG 274URFW开箱",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9UG3NsWcXGkL4bYozqKaPItrbvI-Dn_v_zh3TDuknh8gOcuFkMSoEe5PTvUKYSgmmZ3WYyb23i5m_gRAIWe9ByJhTmPMNlp4_XQRR-g9grKjlU1OxumgdFa2PkQUJwVqaPyqtdMId8EH-0GZW3bbFteKXn5Cd9slwJY_PV2lV_89flztgI7RZ1g..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "2500以内性价比最高的白色4K 高刷显示器 &mdash;&mdash;MSI MAG 274URFW开箱。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "19 块钱 高刷显示器 神车?竟是套信息的陷阱",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9xWrzePMjEoWKAQXJQHUVOCeq8RGRehihku-QoaCoGaP1DCt8p8HO7-Y8wB7Il0xuJLxVKCnHYl0MYKvpC_q6eK_ZmpHGxkK4TFKl25C9TBOYvcCrq0aWgu01w-gzu_5bniOj8nbMiHbmhvVIjYvRSJ5kKH3k2xoAoADrVWgfwK-jotuuiAmOIg..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "19 块钱 高刷显示器 神车?竟是套信息的陷阱。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "为什么说 高刷显示器 是人类高质量外设?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9wkD-bVnkohQQR8WeyZd0ifXGBWczkWSUQM9hXpY06LaMZdsWZpJu2bsrB3AkVH39WknKd9GjKqVkLfCXMj3a3YQPJv_FRC9DfgL6PK-iT5PLyd0vqn2CjLDe-0PcqjO2AqXLaGPjt785Nd8Nt50Sgr2vhclT1h-V9Uvvs1BvnuIHpHkoPMgL3A..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "为什么说 高刷显示器 是人类高质量外设?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "高刷2K时代: 高刷显示器 与NVIDIA技术如何重塑FPS竞技",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9H0KgoW-Uk7INiKjALvr5qKaDLiiJrtvEe6S0hLWsVa15-w_P4jmgz038sBVE1kjjWXAO_Kd5XCUzAQSzfJRqReJKbRwbX0UVXQszsIo4MoQc-RGEIyAdsE5UhXIDNg6JMQraZwbCF0OGRX13j77DB6F9faI_jrT7dIRwei8de1ESYTqT4eyLmA..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "高刷2K时代: 高刷显示器 与NVIDIA技术如何重塑FPS竞技。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "笔记本连接 高刷显示器 ,怎样设置刷新率?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9TtbeDHrzRAK9mPg0kXWWorJgOVpRd8DmdTyFsAF_OWKu3cMUJupT_xK4xGZNNw6fRYUCZrDhAc6guVGLbdfhVV8GRjudG9Gxphu_5-R303DQa46hTaVTOEquspjMhg7JpLGRcs83aj6BEY7P3Yfdh-cV1rtczDSlmPS6TbP2UMp5LU3lqtPw9g..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "笔记本连接 高刷显示器 ,怎样设置刷新率?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "高刷显示器 真的有必要吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9QHPrrMDA9UlZZgYJatW0IuNficNHMMsU4rkhYTfXguIn_wE97o2NCejVfLYBb1j_t4w1pMNypJwCCU9v4hTtW1KmV6eB8MIt9CYz6h-7YvrL6IGxOEt1jr9LgigOm8U7nkQVentnkRnk9mYvtNEE35f_t2U9yOmdirXJNoF82YvuL0unUdKkuw..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "高刷显示器 真的有必要吗?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "240Hz 高刷显示器 居然不到400?还是知名国际品牌,支持硬件低蓝光,性价比直接拉满",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKonvrPnobXx9v1xap3i_HZMVqXa8Fplpd9ow32WXdIzN3yIPa9Wbnk6-3qRK-X7fZLz87wnZ8u0YdjGWSPYA_i6yKTk48Rf1MDOIRKGg_CpfPj_h87CXRFFOs82_DuWf2bkeCe7JZn9UQ3D6zAd-YuxnmSH4AdELVKx5Cg_IOdyXkKm_aOsUnN-F6x_VGkuflzkTljBaOFqtBhWLv6O878UA..&amp;type=2&amp;query=%E9%AB%98%E5%88%B7%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC062DF3169E19395C77DC8504E3C9473635C6A299B28",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高刷显示器"
-      ],
-      "info_brief": "240Hz 高刷显示器 居然不到400?还是知名国际品牌,支持硬件低蓝光,性价比直接拉满。",
-      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
-      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
-    },
-    {
-      "title": "小科普 | 电竞显示器 该如何选购?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9mjrrecDgk9Pn4Z_YF7R77960fAQkZJOJ6HWhv5hWjzrDKuZg60K-QP4cNprER-B-b_uJcyaewHplZLruUWbSsJDOyZq_NsdeElYm8FDAQI5Vh7V8ecW-jWU9QWf6aaYPzYwNR9CmjOEAmCPmc7gDPQTQDUL9gEcSuGJAhlEToSzf3q8uRDTfkw..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "小科普 | 电竞显示器 该如何选购?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "618高刷 电竞显示器 怎么选?爱攻AGON选购指南:从610Hz到1000Hz,总有一台是你的＂物理外挂＂",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9_gCIgpCWr4yKBgo548dDlE4hLJz4pep_GD_8vun-u30yJA1OEId7-P9xBDCwAr9dMibGODI-n8gbiDnkr2w8iNfj1GW4nRi12EdHvGZmEFOca5aHZkQ8qMZ-B2eZqOeHJcKDs3R2Bft1lfXSL5aPGBwtul8ZF5m5cMew3yg96Q46Ebq8fk9diw..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "618高刷 电竞显示器 怎么选?爱攻AGON选购指南:从610Hz到1000Hz,总有一台是你的＂物理外挂＂。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "3999 → 2330 元：小米米家空气净化器 6 Max 国补探新低，搭载双电机。",
+      "opportunity_insight": "政策补贴窗口打开，补贴合规SKU将获得流量倾斜，建议优先上架补贴目录商品。",
       "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
     },
     {
-      "title": "2018 ROG信仰盛会 NO.1 电竞显示器 \"竞力放肆\"",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9UG3NsWcXGkL4bYozqKaPItrbvI-Dn_v_zh3TDuknh8gOcuFkMSoEe8UwEATgws4p3tUNi4QlfxQmumlJnd-zDm8aBaceIPGQCyjZGOh6fJ1OxPszyFvDtToZUTkpQXLgo1_S93KQ00VlVlDP_KBkUa6KwnRrLclnuM9bxFzCL27I3OTRHYU2og..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
+      "title": "追风者 GLACIER ONE 360 S25 液冷上市：联体风扇，429 元",
+      "url": "https://www.ithome.com/0/962/977.htm",
+      "source": "IT之家",
       "sources": [
-        "搜狗微信"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，Phanteks（追风者）今日宣布上架处理器一体式 (AIO) 液冷散热器新品 GLACIER ONE 360 S25， 售价 429 元 。这一型号搭载三联一体风扇，仅需四颗螺丝即可固定。 GLACIER ONE 360 S25 搭载小体积高性能冷头与大面积纯铜底座，集成高扬程 18dB(A) 低噪水泵， 最大限度减少对主板上其它组件的干扰 。其冷头顶部集成...",
       "matched_keywords": [
-        "电竞显示器"
+        "3D打印"
       ],
-      "info_brief": "2018 ROG信仰盛会 NO.1 电竞显示器 \"竞力放肆\"。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "电竞显示器 ,用过就回不去了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9y14AiZxNcPFHdLAu2MIrzAd7eC5EJm1LFIPc7xhi-YhJJiRSM4wHzVCNdJID0NanTJTh6vGQELNHpj1mKvbUeyzwVc8Nnwi_Y6mKJZwqHPB2DeW8ovOCXYFago8dYhidIx2C1pf8PYkQruVe0zlyiOAoNKI8_z6fvsaWjvXc8ZQ5eBgmN3LoYQ..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "电竞显示器 ,用过就回不去了。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "只要学问真,不怕 电竞显示器 套路深",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd90-zExwdrDVc0k4xNKXA-Xf9T9bto7Y97fX1_QuQlaOKoS4MkR_r-3zHfN1etmWUQ4xe6139wjn5wqp9F8sS3p6KVvAiwwuv3OvZD6JZu0zJhPiLKoycIRHlDKMD9vxkZXhaQNON7hPVFq0ywtDNWin7-hkgeIrZTGRemoyNKgokY-UZGbO56rA..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "只要学问真,不怕 电竞显示器 套路深。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "原来,我一直冤枉了我的「 电竞显示器 」...",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd90-zExwdrDVc0k4xNKXA-Xf9T9bto7Y97fX1_QuQlaOKoS4MkR_r-3zQZvR7OIimd26rHI-zm4E4NSmYZQhPlQ5GZ5DBqK9w4H4B-Kji9hA675FGHOJdzubF7eR41UXKNPGX0oEUi-raqI41qJJmTQEpMfEfOhb9KyhibA9Mvm6zRtmyIGw2VAg..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "原来,我一直冤枉了我的「 电竞显示器 」...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "华硕带鱼屏 电竞显示器 有点点意思",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9vkQ9nULpMa3fHOK7yUeNziK3BG605QotRbN15llogWZRQJAiKpI4aBJbxmYj01wOQzvUPZ747NuJTJVCzmrzWIkwLBiy3cQEk3MeC8Uqyrs5B7MjEomGOMcb96rbI7vQ9po1Fm6PmroW4INYs7tpiOgvCIImPBmxfE0k5uHr_j1S6t2rFt2rnA..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "华硕带鱼屏 电竞显示器 有点点意思。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "电竞显示器 怎么选?看完这篇从此不花冤枉钱!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd9mzrZ_0eCd0pqGt4cK165YU4jzJHtmGlzKpf3lVyPBVsnsdoQvl61KdRMpdK375ghI-lGlF6PAKebFue3Fa6Q294VOGCU0rXYby0803V9GqBYKA6c9gXrsEQuLOXDAo9HSQae_LTwUE9cWQ0IDmqOpihcIQMeSVrQKClFOO6fzetFkDr8IT4KYw..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "电竞显示器 怎么选?看完这篇从此不花冤枉钱!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "聊一款性价比极高的 电竞显示器",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoA1dYCBRIEkv1xap3i_HZMVqXa8Fplpd90Rx7jTzIrOHEbkHZShe3bs0hEkStkJGRlfdrrQafhpixJKBw5rso0YmGbUGXzSi2Pz20aHGjwcuLCmYyQ69JZv0odXRMYcRO-vlQ6OwFEljxdT__oubdGFt5HiL2lBZArdrl31NOvLU8VD8VoQYl5SRiNzV9r5WPRaw88sjygSSq3X8EKMKOIA..&amp;type=2&amp;query=%E7%94%B5%E7%AB%9E%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DC87655BFE468191C4AF041C1F6521A9654B66A299B29",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "电竞显示器"
-      ],
-      "info_brief": "聊一款性价比极高的 电竞显示器。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "HP E27 G4全 高清显示器 ,高清显示,工作精致",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKo75wRg1Y6iqX1xap3i_HZMVqXa8Fplpd9t4W7pVUStcY-GCcol0fAtQPnweGDayv97Jrja1W_vUdQ2oD1IVQaHKqBUHCtnHZCej38ftMBW2Y6Nd-D-3nWKoZ_z-y90eaNF4X5Flo63cpzukQpgal5YYKwdL3_BjRRH6Q6xkMa1OBhUad2ZUjqliHWkd2d9jehiXzhgl5_OAlflztgI7RZ1g..&amp;type=2&amp;query=%E9%AB%98%E6%B8%85%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DD1BDA9411897E5E2B60CBE152E75E59ABB096A299B2B",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高清显示器"
-      ],
-      "info_brief": "HP E27 G4全 高清显示器 ,高清显示,工作精致。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "戴尔推出43英寸4K超 高清显示器 炒股最合适",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_Bub0-gLkKB5FySVgrFeYQugDmM5_KBeH9hvWYhAc6qCLjp8Kdnn6bt1Vki4TC2CB8KHyU_Yux1e9FQrn7PDi1fwKmOLSDIFTGTt0b9gmaV7eczFKvbqrGodJ9X2sO3l7FMbvR0DS5bsVJWWnydPbX5OFj35ONMODSi5QAqWIJWrQcVUIps-zuloUmEfQfHS6MX3Mm0UYSAEv2zLGaJpZWne2SyLbtICtUS12JokET3b_UlpDAZoSunrSjodrK3nG78BiZqwg0yoRFw.&amp;type=2&amp;query=%E9%AB%98%E6%B8%85%E6%98%BE%E7%A4%BA%E5%99%A8&amp;token=6A6DD1BDA9411897E5E2B60CBE152E75E59ABB096A299B2B",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "monitor",
-      "summary": "",
-      "matched_keywords": [
-        "高清显示器"
-      ],
-      "info_brief": "戴尔推出43英寸4K超 高清显示器 炒股最合适。",
+      "info_brief": "追风者 GLACIER ONE 360 S25 液冷上市：联体风扇，429 元。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "garmin.com.cn https://www.garmin.com.cn",
-      "url": "https://www.garmin.com.cn/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-10",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "garmin.com.cn https://www.garmin.com.cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "为什么 游戏主机 在中国遭遇水土不服?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubLgeMfnzvSruVgrFeYQugDnMCJPkQYBlYc7dDp0LBwu_0MvrNDUqH05lp0Y5zui_i7FY-nXF3zBTsT88ia3WoqvcA3lDPkQUuW0XtvGhIMP5fWRyGDqIpRKS-Hk_xv3FKc_CFezIh-dljhy16Q5CEdD4XK1x6Ldq65N3GYoCEtUqQAZASXOSBsZnbrDq-XiaNnmYp6Ee7d3NCVZ7Vp6MBbSY6iB0sL3iw1ZU-iKX5cBiA8Sbh4UGNsJ69o6PKafkuiZqwg0yoRFw.&amp;type=2&amp;query=%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA&amp;token=6A70B08902E8B03C4E481DA42EB911854E289E3E6A299BB1",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-22",
-      "category": "媒体新闻",
-      "category_id": "gaming-desktop",
-      "summary": "",
-      "matched_keywords": [
-        "游戏主机"
-      ],
-      "info_brief": "为什么 游戏主机 在中国遭遇水土不服?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "拍客 网吧 高清摄像 记录:这个人在介休网吧拿了一部苹果6手机,",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMfcsvxw_BubXORCBZxd8J2VgrFeYQugDkdmbHIgNvI8m6zdgjcA97WPcWrsXhz3km3LxN0EPMfZvGAwmJbg2r42cMTEJRF519G4CxUjJAoJkSXaaa79WSM7XAukEkyQnyrWDuXXeUFOtdOgdITLj-zdq67KP2E02NG5NFoYV5fWzHQSpy9av1b4c5MfcSz4qpi5vHTW6rzCLSlYYzUgbJtZxzbrFsZOLzvlX3mQjsSgSvcZ-tipbfMa5nYuDoew-QSm56fdsP9jiZqwg0yoRFw.&amp;type=2&amp;query=%E9%AB%98%E6%B8%85%E6%91%84%E5%83%8F&amp;token=6A720D4D05ECB43B4A4F19A322660BC14A8E0B1C6A299BF8",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-07-27",
-      "category": "媒体新闻",
-      "category_id": "photography",
-      "summary": "",
-      "matched_keywords": [
-        "高清摄像"
-      ],
-      "info_brief": "拍客 网吧 高清摄像 记录:这个人在介休网吧拿了一部苹果6手机,。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 无线",
-      "url": "https://baike.baidu.com/item/%E6%97%A0%E7%BA%BF/10675828",
+      "title": "我国成功发射通信技术试验卫星二十五号",
+      "url": "https://www.ithome.com/0/962/978.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据央视新闻报道，北京时间 2026 年 6 月 11 日 15 时 30 分，我国在文昌航天发射场使用长征五号运载火箭， 成功将通信技术试验卫星二十五号发射升空 ，卫星顺利进入预定轨道，发射任务取得圆满成功。 该卫星主要用于开展多频段、高速率卫星通信技术验证。 IT之家注意到，本次发射是长征五号运载火箭的第 11 次发射，是长征五号系列火箭第 18 次发射，是...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 无线。",
+      "info_brief": "我国成功发射通信技术试验卫星二十五号。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/950954423_122362510",
+      "title": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 亮点公布，确认搭载华为 896 线激光雷达",
+      "url": "https://www.ithome.com/0/962/979.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，在昨晚工信部发布的第 408 批《道路机动车辆生产企业及产品公告》新产品公示中，享界 G9 完成申报，纯电 / 增程动力、可选 5 / 6 座，整体风格更偏向硬派越野。 IT之家注意到，华为智选车产品总监（享界系列）彭磊今日分享了享界 G9 已公开的亮点，新车定位鸿蒙智行首款科技豪华硬派 SUV，隶属旗舰 9 系车型， 增程 & 纯电全域 800V 动力平台 ...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 亮点公布，确认搭载华为 896 线激光雷达。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "huawei.com https://info.support.huawei.com › info-finder › encyclopedia › ...",
-      "url": "https://info.support.huawei.com/info-finder/encyclopedia/zh/WLAN.html",
+      "title": "林肯打造超豪华舒适体验舱：内置香氛、彩电、大沙发，号称让人“重启”",
+      "url": "https://www.ithome.com/0/962/989.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，林肯打造了一个充满未来感的体验舱，命名为“The Sanctuary: By Lincoln Rejuvenate”。按照官方说法，The Sanctuary 是一个沉浸式、多感官装置，旨在用一种全新方式， 把平静、舒适和恢复感带到现实中 。 The Sanctuary 由林肯设计团队打造，外观采用“日出铜”和“白金”双色搭配，线条流畅，曲面柔和。竖向车窗和醒...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "huawei.com https://info.support.huawei.com › info-finder › encyclopedia › ...。",
+      "info_brief": "林肯打造超豪华舒适体验舱：内置香氛、彩电、大沙发，号称让人“重启”。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/614305240",
+      "title": "魅族 Flyme 足球盛典限时水印官宣今日上线：三款样式，支持图库编辑切换",
+      "url": "https://www.ithome.com/0/962/991.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，武汉星纪魅族科技有限公司官方微博 @FlymeAIOS 宣布，Flyme 足球盛典限时水印今日上线。使用魅族手机拍摄完相片后，编辑 > 水印，添加即可。 从官方的预热海报可以看到， 魅族 Flyme 足球盛典限时水印可在 6 月 11 日-7 月 20 日期间使用 ，提供三种不同样式可选，并支持在图库编辑切换。 据IT之家此前报道， 魅族本月早些时候还宣布推出...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "魅族 Flyme 足球盛典限时水印官宣今日上线：三款样式，支持图库编辑切换。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "fortinet.com https://www.fortinet.com › cn › resources › cyberglossary › ...",
-      "url": "https://www.fortinet.com/cn/resources/cyberglossary/wireless-network",
+      "title": "爱国者御风 F90 机箱发售：支持 360 水冷，可选黑白双色，179 元起",
+      "url": "https://www.ithome.com/0/962/992.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，爱国者旗下御风 F90 ATX 机箱目前已在京东发售，其中黑色版本定价为 179 元，白色版本定价为 189 元。 京东 爱国者御风 F90 机箱 179 元起 直达链接 该机箱整体尺寸为 458x218x474mm，兼容 ATX、M-ATX、ITX 主板。机箱使用侧透设计，正面带有大面积网孔，顶部也提供了散热网孔，可实现高效对流。I/O 位于机箱顶部，提供了...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "fortinet.com https://www.fortinet.com › cn › resources › cyberglossary › ...。",
+      "info_brief": "爱国者御风 F90 机箱发售：支持 360 水冷，可选黑白双色，179 元起。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "cnblogs.com https://www.cnblogs.com › archerqvq",
-      "url": "https://www.cnblogs.com/archerqvq/p/18264657",
+      "title": "严打黄牛囤货：任天堂收紧 Switch 2 多语言版销售，需 NS 游戏时长满 50 小时方可购买",
+      "url": "https://www.ithome.com/0/962/993.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，任天堂去年 4 月发布了新一代 Switch 2，纯日语版 49980 日元（IT之家注：现汇率约合 2114 元人民币），多语言版 69980 日元（现汇率约合 2959 元人民币），前者今年 5 月上调 10000 日元（现汇率约合 422.9 元人民币）。 然而，由于日元贬值的影响，仍有大量黄牛购买日版 Switch 2 并囤货。任天堂官方刚刚宣布将严厉...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "cnblogs.com https://www.cnblogs.com › archerqvq。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "严打黄牛囤货：任天堂收紧 Switch 2 多语言版销售，需 NS 游戏时长满 50 小时方可购买。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "eefocus.com https://www.eefocus.com › baike",
-      "url": "https://www.eefocus.com/baike/1555861.html",
+      "title": "广州：换车最高补 2 万元，购买家电数码最高补 1500 元",
+      "url": "https://www.ithome.com/0/962/998.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据广州发布，在 6 月 11 日（今天）的 2026 年广州国际龙舟邀请赛暨端午暑期假日促消费新闻发布会上，广州市商务局副局长吴炳祥介绍，端午、暑期是全年消费的“黄金期”，广州将持续升级以旧换新政策，全市汽车、家电数码产品以旧换新活动持续为市民带来优惠。 IT之家获悉，汽车方面， 报废本人名下乘用车并购买新车最高补贴 2 万元 ，置换更新最高补贴 1.5 万元...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "eefocus.com https://www.eefocus.com › baike。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "广州：换车最高补 2 万元，购买家电数码最高补 1500 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "eeworld.com.cn https://www.eeworld.com.cn › emp › DigiKey",
-      "url": "https://www.eeworld.com.cn/emp/DigiKey/a393955.jspx",
+      "title": "腾讯超级 QQ 秀及小窝业务调整，8 月 11 日起无法使用",
+      "url": "https://www.ithome.com/0/962/999.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，腾讯今日发布超级 QQ 秀及小窝业务调整通知，因运营策略调整， 2026 年 8 月 11 日起，用户将无法登录及使用超级 QQ 秀与小窝 。 2026 年 8 月 11 日起将无法登录及使用超级 QQ 秀与小窝， 所有装扮功能将不可用 。官方建议用户前往商城和小窝截图留念，同时官方也在公告中提供了“一键转存至空间相册”功能，可以在 2026 年 12 月 1...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "eeworld.com.cn https://www.eeworld.com.cn › emp › DigiKey。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "腾讯超级 QQ 秀及小窝业务调整，8 月 11 日起无法使用。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "cisco.com https://www.cisco.com › site › cn › zh › products › networking › ...",
-      "url": "https://www.cisco.com/site/cn/zh/products/networking/wireless/index.html",
+      "title": "VGN 蜻蜓 3 大师版 GT 鼠标上市：升级 PAW3955 传感器，299 元",
+      "url": "https://www.ithome.com/0/963/000.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，VGN 今日下午正式发售了蜻蜓 3 系列三模鼠标的大师版 GT 版本。其搭载原相 PAW3955 Extreme 传感器，cpi / DPI 超频可达 50000，提供黑金 / 白色 / 赛博熊猫 3 种颜色选项， 售价 299 元 。 VGN 蜻蜓 3 大师版 GT 采用对称式中大手模具设计 ， 支持全部三种握姿 。其三维 125×63.3×40 (mm)，...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "cisco.com https://www.cisco.com › site › cn › zh › products › networking › ...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "VGN 蜻蜓 3 大师版 GT 鼠标上市：升级 PAW3955 传感器，299 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "icourse163.org https://www.icourse163.org › course",
-      "url": "https://www.icourse163.org/course/NJTU-1207227804",
+      "title": "中国人形机器人又创世界纪录，银河通用机器人街边小店自主工作超 1 年",
+      "url": "https://www.ithome.com/0/963/007.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据《北京日报》11 日（今天）下午报道，目前，银河通用机器人智慧药房已创下人形机器人 持续自主工作超一年 的世界纪录。 银河通用联合创始人张直政表示：“我们的目的不是要让机器人去替代人，而是探索在有限空间中，让机器人和人更好地配合完成工作。”其以 24 小时运行的智慧药房举例，该公司机器人已经承担起 夜间拣货任务 ，店铺可以实现夜间自主值守。特别是面对复杂环境...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "icourse163.org https://www.icourse163.org › course。",
+      "info_brief": "中国人形机器人又创世界纪录，银河通用机器人街边小店自主工作超 1 年。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
+      "title": "阿里云秒悟 Meoo CLI 发布：本地 AI 编程项目可一键部署上线，支持 Claude Code、Codex 等",
+      "url": "https://www.ithome.com/0/963/009.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，阿里云官方今日宣布推出 Meoo（秒悟）开源命令行工具 Meoo CLI。 该工具面向开发者，支持 Claude Code、Codex、Cursor 等本地 AI 编程助手，通过该工具调用阿里云云端能力后，可实现数据库接入、用户登录、文件存储及项目发布，将本地项目推进到线上可用状态。此举旨在降低 AI 原生应用的上线门槛，解决本地编程助手生成的项目难以便捷部署...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "阿里云秒悟 Meoo CLI 发布：本地 AI 编程项目可一键部署上线，支持 Claude Code、Codex 等。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "baidu.com https://baike.baidu.com › item › 太阳",
-      "url": "https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3/24010",
+      "title": "华为释出鸿蒙智行智界 RX 官图：四激光雷达矩阵、巨鲸电池，新车今秋发布",
+      "url": "https://www.ithome.com/0/963/011.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息， 鸿蒙智行智界 RX 新车昨晚官宣，并出现在了工信部最新一批申报目录中 ，可选 160+277kW 华为双电机四驱版本，极速 251 km/h。 华为终端今日公开了智界 RX 纯净版官图，展示了新车的外观细节。 综合IT之家此前报道， 智界 RX 搭载“创新 L 形”星眸大灯和贯穿式环形星钻尾灯 ，宣称具有“极致”轮高比和悬浮式车身架构，全车 10 处气动设计...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 太阳。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "华为释出鸿蒙智行智界 RX 官图：四激光雷达矩阵、巨鲸电池，新车今秋发布。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "hanchacha.com https://hanchacha.com › yuwen",
-      "url": "https://hanchacha.com/yuwen/16865022661484.html",
+      "title": "第 13 版《新华字典》正式发布，“链”“线”“云”等常用字有了新义",
+      "url": "https://www.ithome.com/0/963/012.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据央视新闻报道，近日，《新华字典》（第 13 版）正式发布。作为国民字典，新版立足语言规范，紧跟社会发展，从收条、释义、例证、数字配套等多方面完成全新升级。 本次修订完善收字体系，补齐中小学教材中出现的《通用规范汉字表》之外的字、方言和地域历史文化中有查考价值的字，以适配日常教学等各类查阅需求。 字典新增贴合当下生活的通用新词，涵盖科技、生态、民生、文化领域，...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "hanchacha.com https://hanchacha.com › yuwen。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "第 13 版《新华字典》正式发布，“链”“线”“云”等常用字有了新义。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "nasachina.cn https://www.nasachina.cn › tag › 太阳 系",
-      "url": "https://www.nasachina.cn/tag/%e5%a4%aa%e9%98%b3%e7%b3%bb",
+      "title": "WPS 笔记体验，AI 让记录变成可复用的知识资产",
+      "url": "https://www.ithome.com/0/963/013.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "在这个信息爆炸的时代，记录、收藏信息几乎是每个人的刚需。 看到的好文章、会议录音和摘要记录、拍下的白板照片、随手记下的灵感碎片…… 这些信息的最终归宿，就是我们很少主动提起，但绝对离不开的“笔记应用”。 但用过传统笔记工具的人大多有过这样的困扰：图文之外，音频等多媒体信息的记录很麻烦；积累到一定数量后，成千上万条笔记的整理归类费时费力，找起来更头疼，还有很多“当时觉得有用”的信息记录下来了，...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "nasachina.cn https://www.nasachina.cn › tag › 太阳 系。",
+      "info_brief": "WPS 笔记体验，AI 让记录变成可复用的知识资产。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "starwalk.space https://starwalk.space › zh-Hans › news › what-type-of-star-is...",
-      "url": "https://starwalk.space/zh-Hans/news/what-type-of-star-is-the-sun",
+      "title": "携程 / 同程 / 去哪儿 / 飞猪 / 美团等 7 家涉火车票销售第三方平台被约谈：不当宣传“候补帮抢”及付费选座、诱导“买长乘短”或“买短乘长”",
+      "url": "https://www.ithome.com/0/963/016.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，IT之家从市场监管总局“市说新语”公众号获悉，6 月 11 日，市场监管总局会同中央网信办、国家铁路局， 依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家等 7 家第三方平台企业 ，针对其 不当宣传“候补帮抢”及付费选座业务、不当诱导用户“买长乘短”或“买短乘长”、不当收集和使用平台用户个人信息等不规范经营问题 ，要求有关企业严格遵守《中华人民共和...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "starwalk.space https://starwalk.space › zh-Hans › news › what-type-of-star-is...。",
+      "info_brief": "携程 / 同程 / 去哪儿 / 飞猪 / 美团等 7 家涉火车票销售第三方平台被约谈：不当宣传“候补帮抢”及付费选座、诱导“买长乘短”或“买短乘长”。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "nasachina.cn https://www.nasachina.cn › tag › 太阳",
-      "url": "https://www.nasachina.cn/tag/%E5%A4%AA%E9%98%B3",
+      "title": "因个人信息收集使用问题，30 款 App 被中央网信办通报",
+      "url": "https://www.ithome.com/0/963/026.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，根据中央网信办、工业和信息化部、公安部联合发布的《关于开展 2026 年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App 违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，中央网信办组织对 App（含小程序）收集使用个人信息行为进行检测，现对有关问题予以通报。 IT之家附此次通报的 App 详细信...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "nasachina.cn https://www.nasachina.cn › tag › 太阳。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "因个人信息收集使用问题，30 款 App 被中央网信办通报。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "163.com https://www.163.com › dy › article",
-      "url": "https://www.163.com/dy/article/INF4A8P20511A3AG.html",
+      "title": "JPR 数据：PC 独立显卡 2026Q1 出货 1182 万块，同比 +28.3%",
+      "url": "https://www.ithome.com/0/963/038.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，分析公司 Jon Peddie Research (JPR) 当地时间 10 日根据最新研究报告指出， PC 独立显卡在 2026 年第 1 季度的出货规模达到 1182 万块 ，同比增长 28.3%、环比下降 0.6%，较十年同期平均值减少 12.07%。 ▲ 图源：Jon Peddie Research JPR 称桌面 PC 独立显卡配备率在 2026Q1...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "163.com https://www.163.com › dy › article。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "JPR 数据：PC 独立显卡 2026Q1 出货 1182 万块，同比 +28.3%。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "huijiwiki.com https://sat.huijiwiki.com › wiki › 太阳",
-      "url": "https://sat.huijiwiki.com/wiki/%E5%A4%AA%E9%98%B3",
+      "title": "【19:45 速领不限量 1.18 元红包】京东周五发放 60 元叠加神券，蹲点赛博抢鸡蛋",
+      "url": "https://www.ithome.com/0/963/043.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "京东无门槛红包 至高 26618 元，每天抽 3 次： 点此抽取 6 月 11 日 19:45~20:00 京东将加码一次，1.18 元大红包限时不限量。 京东超市今晚 20:00 例行开启黑色星期五、周周真五折活动，可领 3 张 200-20 元平台补贴券，可叠加大部分优惠一起使用（包括平台 618 折扣）。 此券周五 24 点前可领， 周六 24 点才失效 （周六大概率会出现很多好价），...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "huijiwiki.com https://sat.huijiwiki.com › wiki › 太阳。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "【19:45 速领不限量 1.18 元红包】京东周五发放 60 元叠加神券，蹲点赛博抢鸡蛋。",
+      "opportunity_insight": "政策补贴窗口打开，补贴合规SKU将获得流量倾斜，建议优先上架补贴目录商品。",
+      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
     },
     {
-      "title": "tp-link.com.cn https://www.tp-link.com.cn",
-      "url": "https://www.tp-link.com.cn/product_2468.html",
-      "source": "中关村在线",
+      "title": "索尼 6 月 PS+ 港服游戏阵容公布：《最终幻想 16》《天国：拯救》《黑色沙漠》",
+      "url": "https://www.ithome.com/0/963/048.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，索尼今日公布了 PlayStation Plus 港服商店 2026 年 6 月份的 2/3 档会员库新增阵容。IT之家汇总如下： PlayStation Plus Extra 和 Premium： 《最终幻想 16》| PS5（6 月 16 日） 《索尼克 × 夏特：世代重启》| PS5、PS4（今日） 《天国：拯救》| PS5、PS4（6 月 23 日） ...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "tp-link.com.cn https://www.tp-link.com.cn。",
+      "info_brief": "索尼 6 月 PS+ 港服游戏阵容公布：《最终幻想 16》《天国：拯救》《黑色沙漠》。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "海康威视 太阳能 低功耗摄像机 - 前端产品 - 海康威视Hikvision",
-      "url": "https://www.hikvision.com/cn/products/Front-End-Product/hikvision-solar-powered-camera/",
-      "source": "中关村在线",
+      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+      "url": "https://36kr.com/p/3848094835217666?f=rss",
+      "source": "36氪",
       "sources": [
-        "中关村在线"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "海康威视 太阳能 低功耗摄像机 - 前端产品 - 海康威视Hikvision。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "jd.com https://www.jd.com › chanpin",
-      "url": "https://www.jd.com/chanpin/565158.html",
-      "source": "中关村在线",
+      "title": "消息称宁德时代首次投资核聚变企业，领投“贝塔聚变”数亿元种子轮融资",
+      "url": "https://www.ithome.com/0/963/061.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，《科创板日报》11 日（今天）援引知情人士消息称，全球最大的动力电池制造商宁德时代 领投了贝塔聚变（Beta Fusion）数亿元种子轮融资 ，这亦是宁德时代 首次投资入局核聚变领域 。 贝塔聚变成立于 2025 年，专注可控核聚变商业化，聚焦脉冲型场反位形（FRC）磁惯性约束路线，其核心团队来自国内头部聚变科研院所。 据IT之家了解，宁德时代今年第一季度 实...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "jd.com https://www.jd.com › chanpin。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "消息称宁德时代首次投资核聚变企业，领投“贝塔聚变”数亿元种子轮融资。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
     },
     {
-      "title": "taobao.com https://shuma.taobao.com › topic",
-      "url": "https://shuma.taobao.com/topic/jiankongqi_1549/c14cf59b41e8b5f93b8498870bfd2309.html",
-      "source": "中关村在线",
+      "title": "VGN 带来磁轴键盘霓虹 75 Air：单模 259 元 / 三模 339 元",
+      "url": "https://www.ithome.com/0/963/064.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，VGN 即将于今晚 20:00 发售磁轴键盘新品霓虹 75 Air。这一系列 配备原厂 (CHERRY) 高度 PC 材质雾透键帽和霓虹氛围灯带 ，单模有线版本 259 元、支持 USB-C、2.4GHz、蓝牙的三模版本则是 339 元。 霓虹 75 Air 采用 75% 配列，可选白 / 蓝 / 绿外观。其采用“竞技级”旗舰方案，搭载天霸 Air 轴，支持 ...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "taobao.com https://shuma.taobao.com › topic。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "VGN 带来磁轴键盘霓虹 75 Air：单模 259 元 / 三模 339 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "smzdm.com https://post.smzdm.com",
-      "url": "https://post.smzdm.com/p/an5q2l23/",
-      "source": "中关村在线",
+      "title": "微软 XBOX 游戏业务负责人马特 · 布蒂谈《上古卷轴 6》：我看过了，很惊艳",
+      "url": "https://www.ithome.com/0/963/065.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，《上古卷轴 6》最早在 E3 2018 上通过一支预告片公开亮相，然而贝塞斯达随后承认游戏距离发售尚需多年。截至 2023 年，《上古卷轴 6》据称仍处于早期开发阶段。不过，微软 XBOX 游戏业务负责人、首席内容官马特 · 布蒂近期带来了该作的最新消息。 当地时间 10 日，据《综艺》报道，在被问到《上古卷轴 6》为何长期缺席 XBOX 数字发布会时，布蒂回...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "smzdm.com https://post.smzdm.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "微软 XBOX 游戏业务负责人马特 · 布蒂谈《上古卷轴 6》：我看过了，很惊艳。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "maigoo.com https://www.maigoo.com › product",
-      "url": "https://www.maigoo.com/product/specs_11829.html",
-      "source": "中关村在线",
+      "title": "奇瑞汽车与引望签署协议，围绕 L3 级、L4 级自动驾驶等技术深化合作",
+      "url": "https://www.ithome.com/0/963/070.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，奇瑞汽车股份有限公司（以下简称“奇瑞汽车”）与引望智能技术有限公司（以下简称“引望”）今日在安徽芜湖签署深化战略合作协议， 将围绕 L3 级、L4 级自动驾驶等技术开展深度合作 。 奇瑞汽车董事长尹同跃，引望董事长徐直军，奇瑞汽车常务副总裁张国忠，奇瑞汽车执行副总裁高新华、戚士龙，奇瑞汽车副总裁戴闯、郭锐，引望 CEO 靳玉志、副总裁迟林春等出席签约仪式。 I...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "maigoo.com https://www.maigoo.com › product。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "奇瑞汽车与引望签署协议，围绕 L3 级、L4 级自动驾驶等技术深化合作。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "icseecam.com https://www.icseecam.com › zh-CN › product-category › solar...",
-      "url": "https://www.icseecam.com/zh-CN/product-category/solar-security-camera/",
-      "source": "中关村在线",
+      "title": "网传胡安马加盟智界引热议，小鹏汽车副总裁出面澄清称老胡在小鹏正经做的很不错",
+      "url": "https://www.ithome.com/0/963/073.htm",
+      "source": "IT之家",
       "sources": [
-        "中关村在线"
+        "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，本月早些时候，智界汽车执行董事及执行副总裁 @赵长江Pro 在微博同步了智界品牌的最新进展。据其介绍，智界已经持续吸纳了众多行业顶尖造车人才：法拉利前首席设计师，宝马、阿斯顿・马丁老牌底盘调校团队均已入驻。 博主 @叽歪数码 今早分享了一张截图，图片里是法拉利大中华区公关总监 @IngridJSun 与另一位博主 @庞珅_shen 在讨论“网传法拉利首席设计师...",
       "matched_keywords": [
-        "无线免流监控"
+        "3D打印"
       ],
-      "info_brief": "icseecam.com https://www.icseecam.com › zh-CN › product-category › solar...。",
+      "info_brief": "网传胡安马加盟智界引热议，小鹏汽车副总裁出面澄清称老胡在小鹏正经做的很不错。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "国内首款 AI智能音箱 机顶盒\"有线精灵\"震撼发布",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKok8IJO-1-o5r1xap3i_HZMVqXa8Fplpd9XPKrTy6TdIMD9tZiRcy6wYGJFh-jxSgiORhkli-mGc4xRc-lpRkrqXNnUS9L6_kWoB8CpqwTaK3_dxDbU5jV3DXNF76UjIbxsyiHa4-HzKv53gtcLzFvj3Y_RRdh6Tvh2G02wFk1uX8h2HkBEiYSKkLv28J9qVWY1G71SePB-1zP28temKTOwg..&amp;type=2&amp;query=AI%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1&amp;token=6A73BB9F41A8F17F0C0A5EE5603660940DA9D24F6A299C4D",
-      "source": "搜狗微信",
+      "title": "被微软威胁后：白帽研究员再曝 BitLocker 绕过漏洞 GreatXML",
+      "url": "https://www.ithome.com/0/963/082.htm",
+      "source": "IT之家",
       "sources": [
-        "搜狗微信"
+        "IT之家"
       ],
-      "publish_date": "2026-11-08",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，在经历过微软的法律威胁后，安全研究员 Chaotic Eclipse 于当地时间 6 月 10 日再次公布了一项名为 GreatXML 的漏洞。 就在前一天，Chaotic Eclipse 还抱怨称开发 Rogueplanet Defender 漏洞利用程序已经令其“燃尽”。值得一提的是，这一新漏洞据称同样可以绕过微软的 BitLocker 加密。 目前，他已...",
       "matched_keywords": [
-        "AI智能音箱"
+        "3D打印"
       ],
-      "info_brief": "国内首款 AI智能音箱 机顶盒\"有线精灵\"震撼发布。",
+      "info_brief": "被微软威胁后：白帽研究员再曝 BitLocker 绕过漏洞 GreatXML。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "京东发布国内首个智能体自主支付协议，AI 花钱权限划分 L0 至 L5 六个等级",
+      "url": "https://www.ithome.com/0/963/090.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，京东今日发布智能体自主支付协议，即 Agent Autonomous Payment Protocol（以下简称京东 A2P2 协议）。 京东表示， 这是国内首个专门为智能体自主支付设计的协议 ，目的是让用户用 AI 省心又放心地花钱，同时每一笔都能查、都能追溯。这意味着，你的智能体不再只是帮你把商品放进购物车、等你亲手付钱，而是真正具备了在规则约束下自主完成...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "京东发布国内首个智能体自主支付协议，AI 花钱权限划分 L0 至 L5 六个等级。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "苹果获得 MagSafe iPhone 充电专利,未来或取消 Lightning 接口",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9QUBxwmNvw5E6yrXe3ntcnksGJu4PogKGm1OXtP1VEiLyUxXBHFyQvQXa-dpEIkBfiFaChJO4mNpC7qwgiFUv6qV3bPhS3A0C4BrAK4-mgMiCQCT8F3By44Y5v_cerQpAlqgcqGtTCzJGz7JBD6SMpL4kTO-8F79QphIWI71NHSXdrgozfSg6bw..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-03-04",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "苹果获得 MagSafe iPhone 充电专利,未来或取消 Lightning 接口。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 磁",
-      "url": "https://baike.baidu.com/item/%E7%A3%81/2352119",
+      "title": "AOC“AGP277QKP”27 英寸显示器发售：2K 425Hz、圆偏振光技术，2699 元",
+      "url": "https://www.ithome.com/0/963/100.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，AOC 旗下“AGP277QKP”27 英寸显示器目前已在京东发售，该机主打 2K 425Hz，搭载圆偏振光、低蓝光、不闪屏三大护眼技术，定价为 3099 元， 首发价 2699 元 。 京东 AOC“AGP277QKP”显示器 券后 2699 元 领 400 元券 该机配备一块 2560x1440 分辨率 425Hz 超频（原生 400Hz）Fast IPS...",
       "matched_keywords": [
-        "磁吸配件"
+        "3D打印"
       ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 磁。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/2023432722895357743",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "zhihu.com https://zhuanlan.zhihu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "csdn.net https://blog.csdn.net › huxyc › article › details",
-      "url": "https://blog.csdn.net/huxyc/article/details/135709092",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "csdn.net https://blog.csdn.net › huxyc › article › details。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ustc.edu.cn http://staff.ustc.edu.cn › ~zhuh › ppt",
-      "url": "http://staff.ustc.edu.cn/~zhuh/ppt/18zhuhMag11.pdf",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "ustc.edu.cn http://staff.ustc.edu.cn › ~zhuh › ppt。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "toutiao.com https://www.toutiao.com › article",
-      "url": "https://www.toutiao.com/article/7520998594623701531/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "toutiao.com https://www.toutiao.com › article。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sogou.com https://baike.sogou.com",
-      "url": "https://baike.sogou.com/v212444.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "sogou.com https://baike.sogou.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "cctv.com https://news.cctv.com",
-      "url": "https://news.cctv.com/2026/06/05/ARTI5nazU7YlzdJLyL7R5DTb260605.shtml",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "cctv.com https://news.cctv.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "qq.com https://news.qq.com › rain",
-      "url": "https://news.qq.com/rain/a/20260609A0461X00",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "qq.com https://news.qq.com › rain。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › 磁 场",
-      "url": "https://baike.baidu.com/item/%E7%A3%81%E5%9C%BA/63505",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › 磁 场。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "增值电信业务经营许可证：合字B2-20090007",
-      "url": "https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyereport.jsp?num=caf04fa4-bd8a-4d9e-80b6-2aa1b86c1509&amp;type=yreport",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "增值电信业务经营许可证：合字B2-20090007。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "zhihu.com https://www.zhihu.com › question",
-      "url": "https://www.zhihu.com/question/463136394",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "zhihu.com https://www.zhihu.com › question。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "apple.com.cn https://www.apple.com.cn › shop › product",
-      "url": "https://www.apple.com.cn/shop/product/mwqx3ch/a",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "apple.com.cn https://www.apple.com.cn › shop › product。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "bilibili.com https://www.bilibili.com › video",
-      "url": "https://www.bilibili.com/video/BV1s8BxBGEA2/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "bilibili.com https://www.bilibili.com › video。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "mi.com https://www.mi.com › shop › search",
-      "url": "https://www.mi.com/shop/search?keyword=%E7%A3%81%E5%90%B8",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "mi.com https://www.mi.com › shop › search。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sohu.com https://www.sohu.com",
-      "url": "https://www.sohu.com/a/1026005301_122495527",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "sohu.com https://www.sohu.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "163.com https://www.163.com › dy › article",
-      "url": "https://www.163.com/dy/article/KKEUCPA00556J17H.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "163.com https://www.163.com › dy › article。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "taobao.com https://shuma.taobao.com › topic",
-      "url": "https://shuma.taobao.com/topic/chongdianbao_1312/20bc3680e3540d4f68723f826542ef78.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "taobao.com https://shuma.taobao.com › topic。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "ithome.com https://www.ithome.com",
-      "url": "https://www.ithome.com/0/959/987.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "ithome.com https://www.ithome.com。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "apple.com.cn https://www.apple.com.cn › shop › accessories › all › magsafe",
-      "url": "https://www.apple.com.cn/shop/accessories/all/magsafe",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "apple.com.cn https://www.apple.com.cn › shop › accessories › all › magsafe。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "apple.com https://support.apple.com › zh-cn",
-      "url": "https://support.apple.com/zh-cn/111857",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "apple.com https://support.apple.com › zh-cn。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item › MagSafe",
-      "url": "https://baike.baidu.com/item/MagSafe/1013242",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item › MagSafe。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "allion.com.cn https://www.allion.com.cn › tech_syst_ magsafe",
-      "url": "https://www.allion.com.cn/tech_syst_magsafe/",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "allion.com.cn https://www.allion.com.cn › tech_syst_ magsafe。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "sspai.com https://sspai.com › bullet",
-      "url": "https://sspai.com/bullet/1665209586",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "sspai.com https://sspai.com › bullet。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "mobbang.com https://www.mobbang.com › mb",
-      "url": "https://www.mobbang.com/mb/123791.html",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "mobbang.com https://www.mobbang.com › mb。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "baidu.com https://baike.baidu.com › item",
-      "url": "https://baike.baidu.com/item/%E7%A3%81/2352119",
-      "source": "cnBeta",
-      "sources": [
-        "cnBeta"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "baidu.com https://baike.baidu.com › item。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "一加多款 磁吸配件 曝光,新机即将亮相",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd9QUBxwmNvw5E6yrXe3ntcnksGJu4PogKGm1OXtP1VEiLyUxXBHFyQvVjq2U_dqYmlfF8Lz9ZZWVaAfCf3NKxpeAtWfbPP_5T53DJpXKAahnESpC5Bhh0L36PrfsqRI8nZTHOoAkm6wcYBw_Ofjx8fARQ1eQ7rBCaFyu7-xehW19TzAjcIGepUqA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "一加多款 磁吸配件 曝光,新机即将亮相。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "一加15T外观悬念拉满! 磁吸配件 提前曝光作为今年备受关注的小屏旗舰",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd9jl0W-7o1nryoYN6uC2eZX1yN-87m4LL93KPi04ce63llXQTBeNkHNg3MFCVzvphttFDSRroK-bTjfR0F0Fh8ddnMgqYnZB56kF926wLajjL7f2HwkKG9PeXccoTl9HBX8hgbVgIUMzSXQhAYmRsdQZQVseOvhVbCbvfPkBaqjwN5LU3lqtPw9g..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "一加15T外观悬念拉满! 磁吸配件 提前曝光作为今年备受关注的小屏旗舰。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "春节炸场!OPPO Find N6礼盒曝光: 磁吸配件 拉满,折叠屏体验升级",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd9kPVbXgHGhwETJQpSxmZBZNyMX7C30mAR7tgMgoltPTKylsFHPkKtpsAEfU6OUSZ-yHUXBDZ6OUdsHV11IMcXTX2tqYyEed90w3Jp4KDWBbStiaXkFhlQEOdcBR0wA20Wql2eQ1ZZiL3gpPy4b-CKtIbdiNwq-z-Mn3Q1dEGpbeifxjh3za6jWA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "春节炸场!OPPO Find N6礼盒曝光: 磁吸配件 拉满,折叠屏体验升级。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "充电头网周报:邦克仕推出众多新品 磁吸配件 ,Aohi 30W氮化镓充电器拆解",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd984IMMcpzRECA-gpNTJberjlp8mVJThZ8qmEBlcwimVlbkWJexdH7XbxIfOIPKcpGSD6mB_3S4IcAhQDd0THsigVusqcbhRNrWP5dvdOz79tDBkQFv9Vg1XZKkLR9xg35NjKUrJ7cSXRMHsvAZBDy4A2fkbLyrVDsaKXNcQtqQ7UHpHkoPMgL3A..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "充电头网周报:邦克仕推出众多新品 磁吸配件 ,Aohi 30W氮化镓充电器拆解。",
+      "info_brief": "AOC“AGP277QKP”27 英寸显示器发售：2K 425Hz、圆偏振光技术，2699 元。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "HomePod mini 与 MagSafe 磁吸配件 发布",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd9mSkRcD9j1aD3KInYtLu-FnEdxROCoUdpyxIY7HsQEzkxB_qKu7D5zxve1SRET65a91_IVlYouHMqO1QgX8IhvqBa-zbJV9m2vKHrknaWsG-BE8rDUFWKpc7Rq6cAG9oFeAkJSbGsMe0TDBIZcQhmruPHEwrVGcRUe0awDGnvpEHvzHZXxeLdyg..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
+      "title": "小米汽车：在 20 万以上轿车市场（不分能源类型），SU7 获 5 月销量第一",
+      "url": "https://www.ithome.com/0/963/106.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，小米汽车刚刚分享了一则好消息： 在 20 万以上轿车市场（不分能源类型）， 小米 SU7 5 月销量第一 同时，在 20 万以上纯电轿车市场， 小米 SU7 1-5 月累计销量第一 据IT之家本月初报道，小米汽车宣布，2026 年 5 月，小米汽车交付量持续超过 30000 台。小米汽车 2026 年各月交付量如下： 1 月交付量超 39000 台 2 月交付...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "小米汽车：在 20 万以上轿车市场（不分能源类型），SU7 获 5 月销量第一。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "该品牌销量势能强劲，建议优先锁定主推坑位并加大同价位段SKU备货深度。"
+    },
+    {
+      "title": "保时捷 CEO 莱特斯：Taycan 问世可能来得太早了",
+      "url": "https://www.ithome.com/0/963/118.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，回看 Taycan 近七年前的首发，保时捷 CEO 迈克尔 · 莱特斯认为，Taycan 可能来得太早了。 德国杂志《Auto Motor und Sport》近日组织圆桌讨论，邀请大众集团、奥迪、奔驰、宝马和保时捷等德国主要汽车制造商负责人参加。电动化自然成为讨论重点，莱特斯也谈到了 Taycan 当年的推出时机。 莱特斯认为，事后来看，保时捷拥抱电动化出行...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "保时捷 CEO 莱特斯：Taycan 问世可能来得太早了。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "迈从推出 K7 V2 Ultra+ 鼠标：搭全域抗干扰算法、PAW3955 TI 传感器，339.1 元",
+      "url": "https://www.ithome.com/0/963/131.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，迈从旗下 K7 V2 Ultra+ 电竞鼠标将于今晚 8 点发售，该鼠标搭载迈从全栈自研“猎影”方案、Nordic 54L 主控芯片、PAW3955 TI 传感器， 定价为 339.1 元 。 京东 迈从 K7 V2 Ultra+ 无线鼠标 339.1 元 直达链接 该鼠标提供黑金 / 白金 / 蓝金三种配色，尺寸为 127.1x 63.8 x 39.8mm，...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "迈从推出 K7 V2 Ultra+ 鼠标：搭全域抗干扰算法、PAW3955 TI 传感器，339.1 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "新世代宝马 iX3 长轴距版挑战青藏高原：海拔四千米环线往返 800km 无补能，百公里电耗 12.6 度",
+      "url": "https://www.ithome.com/0/963/134.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，宝马集团昨日宣布其 5 月底通过一台华晨宝马生产的新世代 BMW iX3 50L xDrive 原型车在中国青海省完成了一次严苛的真实道路续航挑战。 据介绍，这辆车从海拔约 2200 米的西宁市出发，沿青海湖大环线行驶，途中翻越了近 4000 米海拔的高山，环绕青海湖一圈后返回西宁，全程在公共道路上行驶 805.8 公里且未进行任何补能，最终剩余 2% 的电量...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "新世代宝马 iX3 长轴距版挑战青藏高原：海拔四千米环线往返 800km 无补能，百公里电耗 12.6 度。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "OPPO 开启“官方电池换新季”活动，即日起至 8 月 31 日 110 余款手机可享优惠",
+      "url": "https://www.ithome.com/0/963/151.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，据 OPPO 服务官方微博，OPPO 宣布开启“官方电池换新季”活动，官方称即日起至 8 月 31 日，包括一加 Ace2、一加 11、OPPO Find X6 Pro、OPPO Find X3、真我 GT5 Pro、OPPO A52 等 110+ 机型换电池免人工费，价格低至 29 元起。 OPPO 表示，用户可以前往 OPPO 服务小程序查询活动机型及价格...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "OPPO 开启“官方电池换新季”活动，即日起至 8 月 31 日 110 余款手机可享优惠。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "米哈游推出 808 元《崩坏：星穹铁道》昔涟定制机械键盘：108 键三模 + 双轴可选，8000mAh 电池",
+      "url": "https://www.ithome.com/0/963/152.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，米哈游上架了一款《崩坏：星穹铁道》昔涟“往昔的涟漪”定制款 108 键三模无线机械键盘，官方定价 808 元，6 月 15 日开启预售，预计 9 月到仓。 天猫 【米哈游 / 崩坏：星穹铁道】昔涟 往昔的涟漪机械键盘 miHoYo 808 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "米哈游推出 808 元《崩坏：星穹铁道》昔涟定制机械键盘：108 键三模 + 双轴可选，8000mAh 电池。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "惠普 2026 款 HyperX 暗影精灵 PRO 16 英寸游戏本新增“Ultra 7 251HX + 16G + 1T +RTX5060”版，12999 元",
+      "url": "https://www.ithome.com/0/963/153.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，惠普现已在京东为旗下 2026 款 HyperX 暗影精灵 PRO 16 英寸游戏本新增“Ultra 7 251HX + 16GB RAM + 1TB SSD + RTX5060”版， 定价为 12999 元 。 京东 惠普 2026 款 HyperX 暗影精灵 PRO 16 英寸游戏本 Ultra 7 251HX + 16G + 1T + RTX5060 1...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "惠普 2026 款 HyperX 暗影精灵 PRO 16 英寸游戏本新增“Ultra 7 251HX + 16G + 1T +RTX5060”版，12999 元。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "深开鸿 KaihongOS 桌面版（x86）手机投屏功能上线，适配支持鸿蒙及安卓设备",
+      "url": "https://www.ithome.com/0/963/155.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，深开鸿今日宣布，KaihongOS 桌面版（x86）V5.0.2.26 成功实现了鸿蒙、安卓系统手机的电脑投屏功能， 支持将手机桌面镜像投屏至电脑端 。 另外，KaihongOS 桌面版（x86）V5.0.2.26 还优化了本地视频播放、图片与文件管理器、鼠标灵敏度调节、截屏服务等多项功能与性能 。IT之家附重点更新一览如下： 值得一提的是，深开鸿 Kaiho...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "深开鸿 KaihongOS 桌面版（x86）手机投屏功能上线，适配支持鸿蒙及安卓设备。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "安克推出 160W 智显充 Pro+ 带屏充电头：新增支持 120W 小米 MiPPS 和华为 66W SCP 协议，699 元",
+      "url": "https://www.ithome.com/0/963/157.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，安克现已在京东上架 160W 智显充 Pro+ 充电头，该产品提供 3 个 USB-C 接口，相比原版“智显充 Pro”主要就是升级支持 120W 小米 MiPPS 和华为 66W SCP 协议， 首发价 699 元 。 京东 安克 160W 智显充 Pro+ 带屏充电头 699 元 直达链接 该产品尺寸为 65x52x35mm，支持 App 连接远程控制端口...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "安克推出 160W 智显充 Pro+ 带屏充电头：新增支持 120W 小米 MiPPS 和华为 66W SCP 协议，699 元。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "小米汽车发布 YU7 GT 交叉轴脱困测试视频，标准版本周六直播开测",
+      "url": "https://www.ithome.com/0/963/158.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，小米汽车官方刚刚发布了 YU7 GT 的交叉轴脱困测试视频。 小米汽车官方表示，交叉轴脱困测试，模拟非铺装路等复杂起伏场景， 非常考验车辆的底盘性能 ，此前，YU7 GT 顺利通过交叉轴测试。 有网友询问 YU7 标准版能不能也做下交叉轴测试。小米汽车官方确认， 本周六上午 9 点，小米创办人、董事长兼 CEO 雷军将直播，现场测给大家看 。 IT之家注意到，...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "小米汽车发布 YU7 GT 交叉轴脱困测试视频，标准版本周六直播开测。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "浪往南走：今年盛夏，WAVES来到番禺。",
+      "opportunity_insight": "资本动作释放扩张信号，建议密切关注该品牌后续渠道与营销投入节奏。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "游戏《艾尔登法环：褪色者版》开启 Switch 2 版预购：美区售 79.99 美元、8 月 28 日发售",
+      "url": "https://www.ithome.com/0/963/159.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "IT之家 6 月 11 日消息，FromSoftware 宣布旗下《艾尔登法环：褪色者版》现已在任天堂 eShop 开启预购， 本作在任天堂 eShop 美区定价为 79.99 美元（IT之家注：现汇率约合 543.1 元人民币） ，将于 2026 年 8 月 28 日正式登陆任天堂 Switch 2，IT之家附游戏商品页（ 点此访问 ）。 据IT之家了解，《艾尔登法环：褪色者版》主要收录了...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "游戏《艾尔登法环：褪色者版》开启 Switch 2 版预购：美区售 79.99 美元、8 月 28 日发售。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "端午假期 | 快来玩3D打印",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9BTLjQINTlXSjIyKODjFs0hrob932nMcLB2pFk7njQQ77FGpn3nRhh1dVNxunBbSl79LAuu0BoW3dZ0Yl3G3JyLp7veSj0PMKumfvYGqctmiJ90exxD7CUT2bh3Nup_VhlcjeajGypSPjKgmAZGTlZWwl37oLQ0DD_th1vUG9dEsO8fIRwtipOg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "我们好奇社区的3D打印机,永远是小朋友们的人气围观C位&#55358;&#56611;每次给小朋友打印小玩意,机器一启动,瞬间就围上来几个小脑袋,...",
       "matched_keywords": [
-        "磁吸配件",
-        "MagSafe"
+        "3D打印"
       ],
-      "info_brief": "HomePod mini 与 MagSafe 磁吸配件 发布。",
+      "info_brief": "端午假期 | 快来玩3D打印。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "3D打印之王PLA,产业链全梳理",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9OMYObwycQTSB_WQrHAaK63nPz0X9YRq65ceK59Oa8x43tUW2k83auICTzbqH1iKiIuCCl0UDGjMSJuGVVBWhuLN-QxEB1u421GDL5BfOKfqP1FwkJwxyosZgG_VTU94AHB59QGkw-Zm4lsoP4Uws0PMjOt83OZFMNskuKUxt_8wGX_iHL9MadA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
+      "source": "搜狗微信",
+      "sources": [
+        "搜狗微信"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印耗材销量同比暴涨 136%,成为企业核心业绩增长点,行业从小众赛道转为全产业链必争之地.(二)上游:原料端  国内...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印之王PLA,产业链全梳理。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "药明康德��首次回购约1亿元，累计回购股份103.5万股",
+      "url": "https://36kr.com/newsflashes/3848577314575621?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，药明康德公告，公司此前披露拟以10亿元回购公司A股股份，用于员工持股计划，回购价格上限156.95元/股。2026年6月11日，公司首次实施回购，通过集中竞价方式回购股份103.52万股，占总股本0.0347%，回购价格区间95.59元/股至97.54元/股，使用资金总额约1亿元（不含交易费用）。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "药明康德��首次回购约1亿元，累计回购股份103.5万股。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "京东MALL引入首批实习机器人员工",
+      "url": "https://36kr.com/newsflashes/3848578837992707?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，近日，京东MALL引入首批实习机器人员工，覆盖迎宾、导购、理货、咨询等岗位。其中，理货岗机器人，可完成商品上架、货品规整、杂物收纳、床铺整理等标准化运营工作，基于JoyAI-RA模型单品上架成功率突破90%。据了解，京东于2026年初正式启动“智能机器人产业加速计划2.0”，加速布局机器人解决方案平台。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "京东MALL引入首批实习机器人员工。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "隆基绿能在巴彦淖尔成立新公司",
+      "url": "https://36kr.com/newsflashes/3848583542199304?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，天眼查App显示，近日，巴彦淖尔市双能新能源有限公司成立，法定代表人为宁晓华，注册资本100万人民币，经营范围包括风力发电技术服务、太阳能发电技术服务、合同能源管理等。股东信息显示，该公司由隆基绿能旗下西安隆基新能源有限公司全资持股。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "隆基绿能在巴彦淖尔成立新公司。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "印度塔塔咨询服务公司与Anthropic达成合作，将为5万名员工配备Claude",
+      "url": "https://36kr.com/newsflashes/3848579581924615?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "6月11日，一份声明显示，印度塔塔咨询服务公司（TCS）已与Anthropic建立全球战略合作伙伴关系，旨在帮助客户规模化推进企业级人工智能的采用。TCS将通过企业级授权，为工程、财务、法务、市场营销及销售等部门的5万名员工配备Claude模型。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "印度塔塔咨询服务公司与Anthropic达成合作，将为5万名员工配备Claude。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "得邦照明：主业经营不涉及新技术、新产业、新业态、新模式，近期未签订重大合同",
+      "url": "https://36kr.com/newsflashes/3848597421331714?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，得邦照明发布异动公告，经公司自查，截至本公告披露日，公司日常经营情况一切正常。市场环境及行业政策未发生重大调整，生产成本和销售等情况未发生大幅波动，内部生产经营秩序正常，近期未签订重大合同，且公司主业经营不涉及新技术、新产业、新业态、新模式。公司正推进以支付现金方式购买浙江嘉利(丽水)工业股份有限公司67.48%股权的重大资产重组，交易总价为14.54亿元，该事项尚需履行多项审批...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "得邦照明：主业经营不涉及新技术、新产业、新业态、新模式，近期未签订重大合同。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "三星S26系列 磁吸配件 要来了:5000mAh+Qi2直吸,镜头开孔细节曝光,值得等吗",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKooPsfgUWwn6L1xap3i_HZMVqXa8Fplpd9aFqY7L4bgjHkEpSG9Olf9T5gzbkW5m-TxpDDpwyATCN8axFS3x1EF17zSBQ8ejf8lQg0dXnoldsUl05EHPSL8nko8b3kDMtM3YrHG7IkMg_xY8DBalIMKRda_IA5jXuCQH0CJqiOIqrTPMKBCo4xcXAPMpRCjxwYUsA6L3vZCXcY-UZGbO56rA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E9%85%8D%E4%BB%B6&amp;token=6A74D3580DE4BC33414411AB312721B9420B076B6A299C82",
+      "title": "挖菜、喂羊驼、玩3D打印&hellip;&hellip;灵溪基地的田间课堂太酷了!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9OgG-4FEGgq8yDLqiWwxWrMBLxcve07QT7QDvYWH7QQfbbTuGEfTt3f5XTdnscVPCt_XI1rPa4nVgEUbnBTqzaYMyU_i0AiG-JCjY2Un_kyBkP39IQgmvKekyaOgbVCaNqCRXn76xq8YphcvwQxOYc6381LgUX2yZNxCVP4rhc7BS6t2rFt2rnA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "3D打印活动深受欢迎.孩子们从建模到打印全程参与,看着自己设计的作品从电脑屏幕上走进现实,眼中闪烁着惊奇与喜悦.艺...",
       "matched_keywords": [
-        "磁吸配件"
+        "3D打印"
       ],
-      "info_brief": "三星S26系列 磁吸配件 要来了:5000mAh+Qi2直吸,镜头开孔细节曝光,值得等吗。",
+      "info_brief": "挖菜、喂羊驼、玩3D打印&hellip;&hellip;灵溪基地的田间课堂太酷了!。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "有了这款 磁吸充电 线,手机或MacBook充电时将不再被摔坏!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd91nVhU_xEAftnosltxhkNy86tu80BLFn6T4WTB41767bprMY8y1eTQE7fJec0huyBML4qR_ycKZfevekTaGbp91PnLOUzhnko_wLYV2W_kHI89fkEnj2QRn0mHMwCz-mSXUl7UNrNBJFWTIwg-nO761DP49K8HnSWBa2ub0VngXOjotuuiAmOIg..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
+      "title": "力合资本Family|「公大激光」铜3D打印微翅片,散热效率提升~28%!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9NUEgFJHgeMbKd7ILTNKvSh3UQ0tyhfxPtMzjA16XfstqgUqg_4m102vLbvX4WBvH9tcqthZgTaZw0V5j0ui0YeOTSVqDaR4F7myD-YRMcxnBfN7E1bg98jhHDM1ZeeTX3Cu4ciRKaprEP5neSgWNUXFJ_pAuuc6eq_BtBcCdKybS-e4Yz84xMA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "先进热管理的核心瓶颈不只是材料️铜及铜合金的超高导热性常被传统工艺＂封印＂️️希禾增材 | 驱动先进热管理绿激光金属3D打印...",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "有了这款 磁吸充电 线,手机或MacBook充电时将不再被摔坏!。",
+      "info_brief": "力合资本Family|「公大激光」铜3D打印微翅片,散热效率提升~28%!。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "好物 | 告别拔插!无需对准, 磁吸充电 ,这样的数据线你绝对没玩过!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd94X33EtC8AiJ5ioURKnphqd7a8x_G_DRoP9u7QrwsPgWjOv61PemPN2IvTwwNFqk2yul0AVfoVhXAErvgh2dloeTe1Mh6boX3cEeRI6ASNSEPwqxr0yIK8GUsm4UNFRUMQa6JpXk-S-EiA4xErvXqWaYXY0xHfHjZod8lGiFcILvf3q8uRDTfkw..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
+      "title": "苏宁易采云：上半年采购单位、订单增长70%、39%",
+      "url": "https://36kr.com/newsflashes/3848602645566720?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "6月11日，苏宁易采云宣布，全面开拓工业品赛道，并推出自主品牌“酷博睿”。2026年以来，苏宁易采云通过提升场景服务、精细化运营、健全供应链，经营业绩持续向好。上半年采购单位数量达27.5万个，同比增长70%；采购订单达221万单，同比增长39%，在交通、科技、能源等行业��售实现85%以上同比增长。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "苏宁易采云：上半年采购单位、订单增长70%、39%。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "创客项目秀 | 5个新奇的创客项目:3D打印金属桌面机器;缺陷检测系统的AI视觉部署;树莓派Linux电脑;复刻80年代游戏机;电动漂移卡丁车",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9ULgqi1snDJALA-z9iI59H6_-FSmfaSLQCTYjmjrMxmG7q6_aglLOJcV-6NaDV8iKgToxb-Y--EWIdA-SX3UCP5aocRqF0S8ICtNwREl03FFUD5F44852h69udHnXc3GeXb8Tph94mQKLDovSuPF_KYAapWl7RsbGi5g8B65EFcCFW6cwuUnkdA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "3D打印金属桌面机器主控器件:PID控温器RePoly来自印度创客bhuvanmakes,是一台把聚乙烯塑料瓶直接变成3D打印耗材的全金属...",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "好物 | 告别拔插!无需对准, 磁吸充电 ,这样的数据线你绝对没玩过!。",
+      "info_brief": "创客项目秀 | 5个新奇的创客项目:3D打印金属桌面机器;缺陷检测系统的AI视觉部署;树莓派Linux电脑;复刻80年代游戏机;电动漂移卡丁车。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "苹果携 磁吸充电 出击,无线充电市场格局或生变",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9nhM2w_X4sQuxpXsxucNJEK96pfkfexCmncmjYVw9Ki-M5PFXbVpWB8wRk3s-J3gtU6fxA-hpwQswps6Ts0oazeTyTmEGAAJb8mO1NNS124ZesvoL0yi8WClIx4NJAkHBKUpx4yetueHAN56iEFhALGpPG40oRJz-fb_70qoXvTVe0WC6Sbi7DA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
-      "source": "搜狗微信",
+      "title": "2连板昊华科技：2025年度公司六氟化钨产品收入占公司2025年度营业收入的比重为0.13%",
+      "url": "https://36kr.com/newsflashes/3848608376886532?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，昊华科技公告，公司股票于2026年6月9日、6月10日、6月11日连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司注意到市场对六氟化钨关注度较高，经公司自查，2025年度公司六氟化钨产品收入占公司2025年度营业收入的比重为0.13%，占比较低，不会对公司业绩产生重大影响。请投资者注意相关风险。",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "苹果携 磁吸充电 出击,无线充电市场格局或生变。",
+      "info_brief": "2连板昊华科技：2025年度公司六氟化钨产品收入占公司2025年度营业收入的比重为0.13%。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "赛微微电：股东舟山微合拟减持不超2.36%股份",
+      "url": "https://36kr.com/newsflashes/3848612077523976?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，赛微微电公告，公司实际控制人之一致行动人舟山微合计划通过集中竞价和大宗交易方式减持合计不超过203.06万股公司股份(不超过总股本的2.36%)，减持期间为自公告披露之日起15个交易日后的3个月内。其中，集中竞价减持不超过43.06万股(占总股本0.50%)，大宗交易减持不超过160万股(占总���本1.86%)。减持原因为自身资金需求。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "赛微微电：股东舟山微合拟减持不超2.36%股份。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "磁吸充电 又回来了:Bolt-S磁吸线将USB-C变身Magsafe",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd984IMMcpzRECA-gpNTJberjlp8mVJThZ8qmEBlcwimVlbkWJexdH7Xc32bgMjhx0fwBJrmcKdoW5WSo98tRWQsFgiefObgc0A3-leTCw78KMFHdIR0XjUivrdMZz2GucnI5tnuxylq244bjIdSmOZgmki3uI-wdoGBj05WrGBLsHs46dn8Efgxg..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
+      "title": "2连板红宝丽：公司所生产产品非光刻胶生产原料，与光刻胶没有关系",
+      "url": "https://36kr.com/newsflashes/3848623270384898?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，红宝丽发布股票交易异常波动公告，近日，公司关注到部分媒体平台，将公司列为“光刻胶”概念股，并出现了“光刻胶概念震荡反弹--6月11日午后，红宝丽直线拉升，在2分钟内涨停”等传闻，引发投资者广泛讨论。公司对此高度关注，立即就相关情况展开核查，澄清如下：公司主要从事环氧丙烷及其衍生品生产经营，包括聚氨酯硬泡组合聚醚、特种聚醚、异丙醇胺系列产品；另外还有聚氨酯保温板、二丙二醇等，环氧丙...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "2连板红宝丽：公司所生产产品非光刻胶生产原料，与光刻胶没有关系。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "隆华新材：股东新余隆振拟减持不超2.03%股份",
+      "url": "https://36kr.com/newsflashes/3848629494109185?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，隆华新材公告，公司股东新余隆振投资合伙企业(有限合伙)计划自公告发布之日起3个交易日后的3个月内，以集中竞价和大宗交易方式合计减持不超过873.79万股，占公司总股本比例2.03%。减持原因为股东自身资金需求。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "隆华新材：股东新余隆振拟减持不超2.03%股份。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "从智能工厂到新职业,3D打印正在走出小众标签",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9NVOL1DmIJSJZIJ0PTr2mqpD-UTK8QbR3FCcbp4pnk5M0EV00_VH7W7EXE3aOli5ovQnAIEZ8BpQ4g1ElA6YSpk1Rfw5CIvXcrPqFdCQ453bUOLXKCSN9kr_eSOJDegrZACrEfcK5kqptZG4-17NWD4TwJj3BZR6o6QvOEene-KFS6t2rFt2rnA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "增材制造设备操作员通过3D打印技术,就可以制造想要的零部件.例如,一家有着50多年历史的老水泥厂,通过数智化改造,产...",
       "matched_keywords": [
-        "磁吸充电",
-        "MagSafe"
+        "3D打印"
       ],
-      "info_brief": "磁吸充电 又回来了:Bolt-S磁吸线将USB-C变身Magsafe。",
+      "info_brief": "从智能工厂到新职业,3D打印正在走出小众标签。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "AI英语学习产品“口袋领航外教”完成数千万元A轮融资",
+      "url": "https://36kr.com/newsflashes/3848637907653632?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，AI英语学习产品“口袋领航外教”宣布完成数千万元A轮融资，本轮由源起基金领投。融资资金将主要用于产品矩阵深化、AI教研内容体系建设及获客渠道扩张。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "AI英语学习产品“口袋领航外教”完成数千万元A轮融资。",
+      "opportunity_insight": "资本动作释放扩张信号，建议密切关注该品牌后续渠道与营销投入节奏。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "美国汽车零部件和动力系统供应商德纳将与伊顿Mobility业务合并",
+      "url": "https://36kr.com/newsflashes/3848644993406216?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "6月11日，一份声明显示，美国汽车零部件和动力系统供应商德纳公司已与智能动力管理公司伊顿达成最终协议，将其与伊顿的Mobility业务合并，交易估值约为51亿美元。该交易采用逆向莫里斯信托结构，交易完成后，伊顿股东将持有合并后公司至少50.1%的股份，德纳股东将持有约49.9%的股份。根据协议条款，伊顿将获得约11亿美元的现金分配（该金额将根据现金和负债情况进行调整）。（界面）",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "美国汽车零部件和动力系统供应商德纳将与伊顿Mobility业务合并。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "昀冢科技风险提示：公司MLCC业务尚处于亏损状态，公司MLCC产品暂未应用于AI算力服务器",
+      "url": "https://36kr.com/newsflashes/3848646691181830?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，昀冢科技发布股票交易风险提示公告称，公司近期股价涨幅较大，超过大部分同行业公司股价涨幅且显著高于上证综指、科创50等相关指数涨幅，存在市场情绪过热及非理性炒作的风险。公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态。如果未来行业竞争加剧、行业技术发展趋势发生难以预见的变化、下游行业需求发生重大变化，存在项目效益不及预期的风险。目前公司MLCC产品，主要应用于消...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "昀冢科技风险提示：公司MLCC业务尚处于亏损状态，公司MLCC产品暂未应用于AI算力服务器。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "京东方A：将公司列入中国军事企业清单并无正当理由",
+      "url": "https://36kr.com/newsflashes/3848650633761798?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，京东方A公告，公司关注到美国国防部于当地时间2026年6月8日发布“中国军事企业清单”，其中包括京东方。公司表示，其既不是中国军事企业，也不是中国国防工业的军民融合企业，列入该名单并无正当理由。目前公司生产经营情况正常，各项业务稳步推进，该清单限制措施仅与美国国防采购相关，不禁止其他任何人与公司进行业务往来。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "京东方A：将公司列入中国军事企业清单并无正当理由。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "3D打印液冷板:谁在抢跑,谁在观望.",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9ghVCjhGyX0WJ0p1Zdp9-WZkyAAGGqbxV5bG2kwTeB4WSoGrc7Gb156Bo-HTh6VeVsBZqzpjuCtH0-nR4hq4_XYF1ZVnJWj7YtwZAg-KB8F8VziPJBK7JMtdSMhFDvM12de6rcF9O_ic6JkCtECz3zOlgNo7QfDsIwWUItZz7BLjdrgozfSg6bw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
+      "source": "搜狗微信",
+      "sources": [
+        "搜狗微信"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印液冷板从概念到产品,传统散热企业态度分化.以下分析基于现有信息推导,影响尚待验证.一、转型意愿:三类企业,三种...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印液冷板:谁在抢跑,谁在观望.。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "强力磁吸,稳定充电 | U76 立新 磁吸充电 线",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9jgGa0o8eloL9aF8FC8QcFzvlfiAL5-qxmTrk5rtToEwXy-2S0vMH91aROt982WSShBNiLqLSw687-zH5WjmL9F6LnIayWuYnQIPiGfF__mfRf3CIsncHO1klLWYgTkzsBMmuqsPGP3YNh5gCOBkTjsgZNyJ0I174S9Vi1OSJCuVr1dbZWbKUeQ..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
+      "title": "3D打印把夏天的海浪搬上桌面",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKovQpH7PuUJX9_YZDrnqOjmlqXa8Fplpd9euIDeLRvg_mQ_jLmXKTHwfiwc867UAhIK6FKQ-9YEnsPdoXtjTYKsPdLgud_pU0dL0ru1F3unerOB7mc-b3BuXOfit4xWkjMp5BcJdfgpRZ7orSGz6NDQ_7F2b4yAMlRUxXOxLTAkswzgWSUxPdOCjvVxaOAJ8CnRYK4voP6RZACYioxHkzTmA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=701F19DAED91C488E1E4B11976E3B939E2CFF6CB6A2A9A80",
       "source": "搜狗微信",
       "sources": [
         "搜狗微信"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "炎炎夏日,不如把清凉＂放＂在桌边这款海浪手表充电器摆件真的太会了 加工服务:嘉立创3D打印打印材料:光敏树脂【9600】哑光...",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "强力磁吸,稳定充电 | U76 立新 磁吸充电 线。",
+      "info_brief": "3D打印把夏天的海浪搬上桌面。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "X52 酷凡 磁吸充电 线",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9jgGa0o8eloL9aF8FC8QcFzvlfiAL5-qxmTrk5rtToEwXy-2S0vMH95MYxeml89gzOWlpH3Sp2RyiQ5lRzDloXH3qvmSd_xXwLs4Ky7FIx2oOxTqZgvNA7fRHEZVPXCqpgCwOY7cRZaPViFtTzagug3LA8daH52a_Q84w-lUFuozyPfCoem7FzA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
-      "source": "搜狗微信",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "X52 酷凡 磁吸充电 线。",
+      "info_brief": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "海尔新能源在四川成立新公司",
+      "url": "https://36kr.com/newsflashes/3848645386966017?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，天眼查App显示，近日，四川海乐恒新能源科技有限公司成立，法定代表人为王武才，注册资本50万人民币，经营范围包括太阳能发电技术服务、技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广等。股东信息显示，该公司由海尔新能源科技股份有限公司旗下青岛海尔绿色能源科技有限公司全资持股。",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "海尔新能源在四川成立新公司。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "向乔布斯设计iMacG4致敬! 磁吸充电 支架,随放随充~",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9J07HK8dSFxKgrEiFiWal7MyNyI1jxTcMVPgOhj0KMCjno1ONxGpYpldW4PlpfaQ8WBHDiUJzoHXxRsNvw1ojCaqyB7hrf9RG6SGnu5LAsP7YsXERCM6MC4rSP52IyQ5EYvVi_79pDWXUW4dnmpd2ZWKl2APWI5ih-nd0JC2T5DYSYTqT4eyLmA..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
-      "source": "搜狗微信",
+      "title": "国家数据局召开“完善数据相关规则，赋能人工智能创新发展”座谈会",
+      "url": "https://36kr.com/newsflashes/3848668930348289?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，6月4日，国家数据局党组书记、局长刘烈宏主持召开“完善数据相关规则赋能人工智能创新发展”座谈会。大家一致认为，要坚持统筹数据发展和安全，坚持目标导向和问题导向，深入推进数据要素市场化配置改革，更好地适应人工智能发展的需要，更大力度地完善数据相关制度规则，更好地建设面向人工智能发展的高质量数据供给体系，进一步释放数据要素价值，推进数据要素赋能人工智能创新发展取得新成效。",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "向乔布斯设计iMacG4致敬! 磁吸充电 支架,随放随充~。",
+      "info_brief": "国家数据局召开“完善数据相关规则，赋能人工智能创新发展”座谈会。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "国常会：研究2025年度中央预算执行和其他财政收支审计查出问题整改工作",
+      "url": "https://36kr.com/newsflashes/3848671516546053?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "李强主持召开国务院常务会议，研究2025年度中央预算执行和其他财政收支审计查出问题整改工作。（央视新闻）",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "国常会：研究2025年度中央预算执行和其他财政收支审计查出问题整改工作。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "国产又要吊打苹果!真正的安卓 磁吸充电 来了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9ROyZW1kNHc0_aTfVuTR9eCCtybiGAzBoYD1Hcv9_Rb3I0t_FtHuICZqzTfwYSDsjpfeA9Cl7vipe0zyEBcBkiqp4gkkBKuHUz5JU5tmXGdtyezItg4G0eRRTdFI45EMnScSLJY4NGDkyqIGmYrwj-UH9K4O6hzx0auoqaMVh4NBj3x9Nw6p-Fg..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
-      "source": "搜狗微信",
+      "title": "机构今日买入中巨芯等30股，卖出杰华特2.44亿元",
+      "url": "https://36kr.com/newsflashes/3848655277773824?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "盘后数据显示，6月11日龙虎榜中，共62只个股出现了机构的身影，有30只股票呈现机构净买入，32只股票呈现机构净卖出。当天机构净买入前三的股票分别是中巨芯、方邦股份、云南锗业，净买入金额分别是12.14亿元、6.95亿元、5.19亿元。当天机构净卖出前三的股票分别是杰华特、多氟多、红板科技，净流出金额分别是2.44亿元、1.79亿元、1.41亿元。",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "国产又要吊打苹果!真正的安卓 磁吸充电 来了。",
+      "info_brief": "机构今日买入中巨芯等30股，卖出杰华特2.44亿元。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "「扛坑」网红 磁吸充电 线到底值不值得买?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoXMYfDo15gf71xap3i_HZMVqXa8Fplpd9vkQ9nULpMa3fHOK7yUeNziK3BG605QotRbN15llogWZRQJAiKpI4aKUHWUTxwrj98OP7z7jDt7__eiJtrcC3rHJLWxO0lUpbXPm3z_BQHyWLYVVpFPQ_b9W4nEyk52V18aXQXrImwrvkEYTe60vS0J1kmt3-PIap1PpF_JDnfmXdrgozfSg6bw..&amp;type=2&amp;query=%E7%A3%81%E5%90%B8%E5%85%85%E7%94%B5&amp;token=6A74D8B311FBA32F5E580DB42E2B51EE5E9B6EE76A299C83",
-      "source": "搜狗微信",
+      "title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
+      "url": "https://36kr.com/newsflashes/3848675159151621?f=rss",
+      "source": "36氪",
       "sources": [
-        "搜狗微信"
+        "36氪"
       ],
       "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
+      "category_id": "3d-printing",
+      "summary": "36氪获悉，6月11日，工业和信息化部、市场监管总局对涉嫌存在非理性竞争行为的汽车生产企业进行约谈提醒，要求企业严格遵守《中华人民共和国价格法》《关于制止低价倾销行为的规定》等法律法规规章，按照《汽车行业价格行为合规指南》要求，加强价格合规建设，强化产品质量管控，切实保护消费者合法权益，共同维护优质优价、良性竞争的市场秩序。",
       "matched_keywords": [
-        "磁吸充电"
+        "3D打印"
       ],
-      "info_brief": "「扛坑」网红 磁吸充电 线到底值不值得买?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "苹果搞了个 MagSafe 充电器,但是好像翻车了...",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9FF8HYG7BKJ0rSKDLAZWNa7ANMigM9hSdbDkGERSVLIooTTgSF4Uudm410NkmFneMmaII1Sp_wHTFOQ7wcme-DNgmfLE_napcGF3OvWpZ7jg6ldBdGUIIwS02fP4f6y-VZcevcjCcGmE2kubNHkEF462C8UX94IEaFajsbuUiEs3S-e4Yz84xMA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "苹果搞了个 MagSafe 充电器,但是好像翻车了...。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "苹果 MagSafe :食无味,弃可惜",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9vkQ9nULpMa3fHOK7yUeNziK3BG605QotRbN15llogWZRQJAiKpI4aIdZBLmfUOPXSk0ODOV10ZH9dFpTiX6NHYh-67JkzRhjt6cEBCPxSzQeZjg29KN79Noai6qxUfjUx9AnYbgotLj-xQ-CWEzTDRdiCGcIrTIShD5hvP4Mg8m54z_tGSZTqA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "苹果 MagSafe :食无味,弃可惜。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "MagSafe 配件体验:一份妥协的充电「答卷」",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9n390MkvvPnEFFM2UM1aic_RJfOTkLA9rzmRVMOKrFw04o785Uzmm64n7J5O60qmTgIIfTK3Y6G8CF14rQgmx4mWIWyB9paTd0IT7ydyIqXtCRJwj1UTwFVL8Yd0Qlcvi4HFGQyhrRUQVkP0mE8Njqt7Va2FFmbKgyI9yEgIGZm05eBgmN3LoYQ..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "MagSafe 配件体验:一份妥协的充电「答卷」。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "被「群嘲」的 MagSafe 外接电池,会是下一个 AirPods 吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9Sd3kbG9NMHyOM9OVNQhhKxmk3CQYUsyiT2x4RzrBdJx534dMarVnOlw4fGS-HXsBCneKMO9c2k3miIXreGA7kT0feq5qWyY9Pz8xZFcWNdMKTVD7Lae71JtTJAy9dR0Bz_mC_V1lOxwNtWKLsPBAw_i_Ekt8K1ILauvWPNn_TOaE8RsmObDbtQ..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "被「群嘲」的 MagSafe 外接电池,会是下一个 AirPods 吗?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "MagSafe 外接电池:谁会花 700 多买这个?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9hFge4r0hLpm403d_2CrCtAG0zYZvv--FKfLXg0gic0JuXb7F2lz4raj1txLIl42FjyX9Xaq8IxTPojrErDjKmsk6DfRblYuhkq471n3_WfeSRGH42fYkxoGkJtRmegbx-7Uhq1IC0cvrHVnBLQlGOBYWQuBI82Hijfkcj9IJYALdrgozfSg6bw..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "MagSafe 外接电池:谁会花 700 多买这个?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "苹果 MagSafe ​无线充电器实测:没有iPhone12的别买!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9vcWFqdqhHj7-KHMEmIQmUcRunL2G17FMA4vyuUhscTHFZwqXvCaVRExSXXTACFVqVXV0poH5COiU-AcjTVgrzt63yXzP_GQV30LvBVbxTvwIcXJ1QUEOiDn3Zazrv2Dpm6QpLslMlr8BwMd7jwjps_T7gRxTZkPQQ-DaHbaxULurCDCayYmfpA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "苹果 MagSafe ​无线充电器实测:没有iPhone12的别买!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "苹果承认 MagSafe 存在一些\"小问题\" 购买前需要了解下",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9womB7dh6RnT4MSqtkx03QSW334RncMvxoktf3Qy74dxQAWrgo0UP_kPjtQWTNs8GNDveF5GS3_WRT-97SHu0kD6ZfjbYYcrdLnUbpPUaxVmqO0dyc4xvicQez-viyDpHdIJdO17qCi_7Rltc0G0xxmz8m_k1OpHBJHiYrUHBl12q3X8EKMKOIA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "苹果承认 MagSafe 存在一些\"小问题\" 购买前需要了解下。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "MagSafe 充电线圈,是苹果正在下的一步大棋.",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9FF8HYG7BKJ0rSKDLAZWNa7ANMigM9hSdbDkGERSVLIooTTgSF4UudiPpdHPjnybGeEOUVCdcPeqIE5XOd9dhj8mwiY0n2tGpR7S6OtIMLb78reeLsr01eKxUw3msvS5KO8LymltL47ys3f_hlw4GR60eyTTaImkXIxLMeaIXPCBe0WC6Sbi7DA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "MagSafe 充电线圈,是苹果正在下的一步大棋.。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "iPhone 12 MagSafe 充电简测:搭配 20W 充电器体验最佳",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKoZeURYqhy12P1xap3i_HZMVqXa8Fplpd9n390MkvvPnEFFM2UM1aic_RJfOTkLA9rzmRVMOKrFw04o785Uzmm6wMXSmfExV0kB4mkYHJmykmFoWkfOprWqxB1_WZU3OsHZdf4RGOnzFm83PA2_0TNzEXneAMS4mV_6dpepNBAC4U_y77QYKXzfPmHGZ6Sku4QHmdFEChxb2NhlgeRt7bSzA..&amp;type=2&amp;query=MagSafe&amp;token=6A74DFD5759DC44A393F6AD149B36CD139BFAE256A299C84",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "MagSafe"
-      ],
-      "info_brief": "iPhone 12 MagSafe 充电简测:搭配 20W 充电器体验最佳。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "朱珠法网手持蓝色 折叠屏 被拍,时而用 手机 拍摄赛场上的画面,时而低头欣赏自己刚刚拍摄的照片,状态松弛又亮眼",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-Ca30eJ9oKolVFNzMa-rj71xap3i_HZMVqXa8Fplpd9kszBA9DxOTQ6dvohTWfO5AbFIPhdCWn6UDpR806BPA5v_usQuxripLtPZfMNREoZJVnl6b2b9ewiEHk3fkBTsv5OEkNc4bEPHNnhUen24zYh6nbQ20x1mU_9wRXoiSeYdsuM3Hs1n6do096ZxldYR4GGD458oAerdMzcBu7r66oHpHkoPMgL3A..&amp;type=2&amp;query=%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA&amp;token=6A75D5AD6980DB54252076CC56B1F4362612342D6A299CB7",
-      "source": "搜狗微信",
-      "sources": [
-        "搜狗微信"
-      ],
-      "publish_date": "2026-06-11",
-      "category": "媒体新闻",
-      "category_id": "foldable-phone",
-      "summary": "",
-      "matched_keywords": [
-        "折叠屏"
-      ],
-      "info_brief": "朱珠法网手持蓝色 折叠屏 被拍,时而用 手机 拍摄赛场上的画面,时而低头欣赏自己刚刚拍摄的照片,状态松弛又亮眼。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "两部门约谈提醒涉嫌非理性竞争汽车生产企业。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     }
   ]

@@ -1,16 +1,86 @@
 """JD procurement insight generator.
 
-Rule-based: load insight_rules.json, identify brand, match rule, fill template.
+Hybrid approach:
+  - DeepSeek API (primary): Generate high-quality insights via LLM
+  - Rule-based templates (fallback): When API unavailable or fails
+
 Generates three fields per item:
   - info_brief: 信息摘要 (key facts condensed)
   - opportunity_insight: 机会洞察 (market opportunity angle)
   - procurement_insight: 操盘建议 (actionable procurement advice)
+
+Also handles:
+  - P4: Strip bare URLs from summary text
+  - P8: Translate foreign-language titles/summaries to Chinese
 """
 import json
+import logging
 import os
+import re
+
+import deepseek_client
+
+log = logging.getLogger("insight")
+
+# --- P4: Bare URL stripping ---
+_URL_RE = re.compile(r'https?://\S+', re.IGNORECASE)
 
 
-class InsightEngine:
+def strip_bare_urls(text):
+    """Remove bare URLs from text, replacing with empty string.
+
+    Handles URLs in summary/description fields that are noise.
+    Preserves the rest of the text around the URL.
+    """
+    if not text:
+        return text
+    cleaned = _URL_RE.sub('', text).strip()
+    # Clean up artifacts: multiple spaces, dangling punctuation
+    cleaned = re.sub(r'\s{2,}', ' ', cleaned)
+    cleaned = re.sub(r'[,，]\s*$', '', cleaned)
+    cleaned = re.sub(r'^\s*[,，]\s*', '', cleaned)
+    return cleaned if cleaned else text  # Keep original if URL was the entire text
+
+
+def _strip_bare_urls_from_title(text):
+    """Strip bare URLs from title field. Only strips if the title looks like
+    a search result anchor (starts with or is dominated by a URL).
+    Regular titles with URLs embedded are left as-is.
+    """
+    if not text:
+        return text
+    # Only strip if title starts with a URL or is mostly a URL
+    if _URL_RE.match(text):
+        cleaned = _URL_RE.sub('', text).strip()
+        cleaned = re.sub(r'\s{2,}', ' ', cleaned)
+        return cleaned if cleaned else text
+    return text
+
+
+# --- P8: Foreign language detection ---
+def _is_foreign(text):
+    """Check if text is predominantly non-Chinese (likely needs translation).
+
+    Returns True if < 30% of characters are Chinese and text has
+    significant Latin content.
+    """
+    if not text:
+        return False
+    chinese_chars = sum(1 for c in text if '\u4e00' <= c <= '\u9fff')
+    latin_chars = sum(1 for c in text if c.isalpha() and c.isascii())
+    total = len(text)
+    if total == 0:
+        return False
+    # If less than 30% Chinese and significant Latin content
+    if chinese_chars / total < 0.3 and latin_chars / total > 0.3:
+        return True
+    return False
+
+
+# --- Rule-based insight engine (fallback) ---
+class _RuleInsightEngine:
+    """Rule-based insight generator — used as fallback when DeepSeek API unavailable."""
+
     def __init__(self, rules_path=None):
         if rules_path is None:
             rules_path = os.path.join(
@@ -36,28 +106,6 @@ class InsightEngine:
                 return name
         return "该品牌"
 
-    def generate_procurement(self, item):
-        """Generate procurement_insight (操盘建议) for one news item dict."""
-        text = (item.get("title", "") + " " + item.get("summary", ""))
-        brand = self.detect_brand(text)
-
-        chosen_template = None
-        for rule in self.rules:
-            for kw in rule.get("match_any", []):
-                if kw and kw.lower() in text.lower():
-                    chosen_template = rule.get("template", "")
-                    break
-            if chosen_template:
-                break
-
-        template = chosen_template or self.fallback
-        insight = template.replace("{brand}", brand)
-
-        # enforce length cap (80 chars)
-        if len(insight) > 80:
-            insight = insight[:77] + "..."
-        return insight
-
     def generate_info_brief(self, item):
         """Generate info_brief (信息摘要) - condensed key facts from title + summary."""
         title = item.get("title", "")
@@ -68,7 +116,6 @@ class InsightEngine:
         else:
             src_text = item.get("source", "")
 
-        # Build brief: core fact + source attribution
         brief_parts = []
         if title:
             brief_parts.append(title.rstrip("。？！"))
@@ -77,7 +124,6 @@ class InsightEngine:
         if len(brief_parts) == 0:
             return ""
         brief = "，".join(brief_parts) + "。"
-        # Cap at 100 chars
         if len(brief) > 100:
             brief = brief[:97] + "..."
         return brief
@@ -89,7 +135,6 @@ class InsightEngine:
         text = (title + " " + summary).lower()
         brand = self.detect_brand(title + " " + summary)
 
-        # Pattern-based opportunity templates
         opportunity = ""
         if any(kw in text for kw in ["增长", "上升", "新高", "爆发", "翻倍", "两位数"]):
             opportunity = "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。"
@@ -113,17 +158,113 @@ class InsightEngine:
         if not opportunity:
             opportunity = "关注{brand}在该品类的后续动态，评估其对价格带与流量节奏的边际影响。".format(brand=brand)
 
-        # Cap at 80 chars
         if len(opportunity) > 80:
             opportunity = opportunity[:77] + "..."
         return opportunity
 
+    def generate_procurement(self, item):
+        """Generate procurement_insight (操盘建议) for one news item dict."""
+        text = (item.get("title", "") + " " + item.get("summary", ""))
+        brand = self.detect_brand(text)
 
+        chosen_template = None
+        for rule in self.rules:
+            for kw in rule.get("match_any", []):
+                if kw and kw.lower() in text.lower():
+                    chosen_template = rule.get("template", "")
+                    break
+            if chosen_template:
+                break
+
+        template = chosen_template or self.fallback
+        insight = template.replace("{brand}", brand)
+        if len(insight) > 80:
+            insight = insight[:77] + "..."
+        return insight
+
+
+# --- Main enrich function ---
 def enrich(items, rules_path=None):
-    """Mutate-in-place: add info_brief, opportunity_insight, procurement_insight fields."""
-    eng = InsightEngine(rules_path)
-    for it in items:
-        it["info_brief"] = eng.generate_info_brief(it)
-        it["opportunity_insight"] = eng.generate_opportunity_insight(it)
-        it["procurement_insight"] = eng.generate_procurement(it)
+    """Mutate-in-place: add info_brief, opportunity_insight, procurement_insight fields.
+
+    Also handles:
+      - P4: Strip bare URLs from summary and title
+      - P8: Translate foreign-language titles/summaries
+
+    Uses DeepSeek API when configured; falls back to rule-based templates.
+    """
+    use_deepseek = deepseek_client.is_configured()
+    if use_deepseek:
+        log.info("DeepSeek API configured — using LLM for insights")
+    else:
+        log.info("DeepSeek API not configured — using rule-based templates")
+
+    # Always init rule_engine as fallback
+    rule_engine = _RuleInsightEngine(rules_path)
+
+    translated_count = 0
+    deepseek_count = 0
+    fallback_count = 0
+
+    for i, it in enumerate(items):
+        # --- P4: Strip bare URLs from summary and title ---
+        summary = it.get("summary", "")
+        if summary:
+            cleaned_summary = strip_bare_urls(summary)
+            if cleaned_summary != summary:
+                it["summary"] = cleaned_summary
+                log.debug("Item %d: stripped bare URLs from summary", i)
+        title = it.get("title", "")
+        if title:
+            cleaned_title = _strip_bare_urls_from_title(title)
+            if cleaned_title != title:
+                it["title"] = cleaned_title
+                log.debug("Item %d: stripped bare URLs from title", i)
+
+        # --- P8: Translate foreign-language content ---
+        if _is_foreign(title) and use_deepseek:
+            translation = deepseek_client.translate_to_chinese(title, it.get("summary", ""))
+            if translation:
+                if translation.get("title"):
+                    it["title"] = translation["title"]
+                if translation.get("summary") and it.get("summary"):
+                    it["summary"] = translation["summary"]
+                translated_count += 1
+                log.debug("Item %d: translated title from foreign language", i)
+
+        # --- Generate insights ---
+        category_name = it.get("category_id", "")
+        # Map category_id to Chinese name for better context
+        _CAT_NAMES = {
+            "3d-printing": "3D打印", "smartphone": "手机", "laptop": "笔记本",
+            "tablet": "平板", "smartwatch": "智能手表", "earphone": "耳机",
+            "drone": "无人机", "smart-home": "智能家居", "camera": "相机",
+            "monitor": "显示器", "keyboard": "键盘", "mouse": "鼠标",
+            "projector": "投影仪", "tv": "电视", "ssd": "固态硬盘",
+            "router": "路由器", "printer": "打印机", "wearable": "穿戴设备",
+            "robot": "机器人", "chip": "芯片",
+        }
+        cat_name = _CAT_NAMES.get(category_name, category_name)
+
+        if use_deepseek:
+            result = deepseek_client.generate_insights(
+                title=it.get("title", ""),
+                summary=it.get("summary", ""),
+                category_name=cat_name,
+            )
+            if result:
+                it["info_brief"] = result.get("info_brief", "")
+                it["opportunity_insight"] = result.get("opportunity_insight", "")
+                it["procurement_insight"] = result.get("procurement_insight", "")
+                deepseek_count += 1
+                continue
+
+        # Fallback to rule-based templates
+        it["info_brief"] = rule_engine.generate_info_brief(it)
+        it["opportunity_insight"] = rule_engine.generate_opportunity_insight(it)
+        it["procurement_insight"] = rule_engine.generate_procurement(it)
+        fallback_count += 1
+
+    log.info("Insight enrichment: %d items total, %d via DeepSeek, %d via rules, %d translated",
+             len(items), deepseek_count, fallback_count, translated_count)
     return items
