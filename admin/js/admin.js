@@ -51,40 +51,21 @@ async function saveConfig() {
       await githubUpsertFile('data/sources.json', srcContent, 'admin: update sources.json');
       await githubUpsertFile('data/categories.json', catContent, 'admin: update categories.json');
 
-      if (statusEl) statusEl.innerHTML = '<span style="color:#059669;">✅ 配置已同步到GitHub，爬虫下次运行将自动读取</span>';
-      showToast('配置已同步到GitHub');
+      if (statusEl) statusEl.innerHTML = '<span style="color:#059669;">✅ 配置已同步到GitHub，爬虫下次运行将自动读取最新配置</span>';
+      showToast('✅ 配置已同步到GitHub，明天爬虫运行时自动生效');
       return;
     } catch (e) {
       console.error('GitHub同步失败:', e);
-      if (statusEl) statusEl.innerHTML = `<span style="color:#DC2626;">❌ GitHub同步失败: ${e.message}，将改为本地导出</span>`;
-      showToast('GitHub同步失败，改为本地导出', 'error');
-      // Fall through to local export
+      if (statusEl) statusEl.innerHTML = `<span style="color:#DC2626;">❌ GitHub同步失败: ${e.message}</span>`;
+      showToast('GitHub同步失败: ' + e.message, 'error');
+      return; // Don't fall through to local export on failure
     }
   }
 
-  // Local export mode (fallback or no GitHub configured)
-  try {
-    const srcBlob = new Blob([JSON.stringify({ sources }, null, 2)], { type: 'application/json' });
-    const srcUrl = URL.createObjectURL(srcBlob);
-    const srcA = document.createElement('a');
-    srcA.href = srcUrl;
-    srcA.download = 'sources.json';
-    srcA.click();
-    URL.revokeObjectURL(srcUrl);
-
-    const catBlob = new Blob([JSON.stringify({ categories }, null, 2)], { type: 'application/json' });
-    const catUrl = URL.createObjectURL(catBlob);
-    const catA = document.createElement('a');
-    catA.href = catUrl;
-    catA.download = 'categories.json';
-    catA.click();
-    URL.revokeObjectURL(catUrl);
-
-    showToast('配置已导出，请手动替换 data/ 目录下对应文件');
-  } catch (e) {
-    console.error('保存失败:', e);
-    showToast('保存失败', 'error');
-  }
+  // No GitHub token configured - prompt user to set up
+  showToast('⚠️ 请先在"同步设置"中配置GitHub Token，才能自动同步', 'error');
+  // Auto-switch to sync settings tab
+  switchTab('sync');
 }
 
 function exportConfig() {
@@ -358,11 +339,17 @@ function removeCategory(idx) {
 
 // --- GitHub Sync ---
 const GH_SETTINGS_KEY = 'gh_sync_settings';
+const GH_DEFAULT_REPO = 'zhanlang990/urban-garbanzo';
+const GH_DEFAULT_BRANCH = 'main';
 
 function getGitHubSettings() {
   try {
-    return JSON.parse(localStorage.getItem(GH_SETTINGS_KEY)) || {};
-  } catch { return {}; }
+    const stored = JSON.parse(localStorage.getItem(GH_SETTINGS_KEY)) || {};
+    // Pre-fill repo and branch if not set
+    if (!stored.repo) stored.repo = GH_DEFAULT_REPO;
+    if (!stored.branch) stored.branch = GH_DEFAULT_BRANCH;
+    return stored;
+  } catch { return { repo: GH_DEFAULT_REPO, branch: GH_DEFAULT_BRANCH }; }
 }
 
 function saveGitHubSettings() {
@@ -412,9 +399,14 @@ function loadGitHubSettingsUI() {
   const repoEl = document.getElementById('gh-repo');
   const tokenEl = document.getElementById('gh-token');
   const branchEl = document.getElementById('gh-branch');
-  if (repoEl) repoEl.value = settings.repo || '';
+  if (repoEl) repoEl.value = settings.repo || GH_DEFAULT_REPO;
   if (tokenEl) tokenEl.value = settings.token || '';
-  if (branchEl) branchEl.value = settings.branch || 'main';
+  if (branchEl) branchEl.value = settings.branch || GH_DEFAULT_BRANCH;
+  // Show connection status hint
+  const statusEl = document.getElementById('gh-status');
+  if (statusEl && !settings.token) {
+    statusEl.innerHTML = '<span style="color:#D97706;">⚠️ 请填写GitHub Token以启用自动同步（仓库地址已预填）</span>';
+  }
 }
 
 async function githubUpsertFile(filePath, content, message) {

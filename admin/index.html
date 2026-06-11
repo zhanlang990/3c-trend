@@ -214,16 +214,17 @@
       <!-- Tab 3: Sync Settings -->
       <div class="tab-content" id="tab-settings">
         <div class="card">
-          <h2>GitHub 同步设置</h2>
-          <p style="font-size:13px;color:#6B7280;margin-bottom:16px;">配置GitHub仓库信息后，保存配置将自动提交到仓库。爬虫将在下次运行时自动读取最新配置。</p>
+          <h2>GitHub 自动同步设置</h2>
+          <p style="font-size:13px;color:#6B7280;margin-bottom:16px;">配置GitHub Token后，点击"保存配置"将自动提交到GitHub仓库，爬虫第二天运行时自动读取最新配置，无需手动操作。</p>
           <div class="field-group">
             <label>GitHub 仓库 (owner/repo)</label>
-            <input type="text" id="gh-repo" placeholder="如：username/safe-box-news">
+            <input type="text" id="gh-repo" placeholder="zhanlang990/urban-garbanzo" value="zhanlang990/urban-garbanzo">
+            <div style="font-size:11px;color:#9CA3AF;margin-top:4px;">已预填默认仓库地址，通常无需修改</div>
           </div>
           <div class="field-group">
-            <label>GitHub Token (需 repo 权限)</label>
+            <label>GitHub Token <span style="color:#DC2626;">*必填</span></label>
             <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
-            <div style="font-size:11px;color:#9CA3AF;margin-top:4px;">Token仅保存在浏览器localStorage中，不会上传到任何服务器。需要repo权限以提交文件。</div>
+            <div style="font-size:11px;color:#9CA3AF;margin-top:4px;">Token仅保存在浏览器localStorage中，不会上传到任何服务器。需要repo权限以提交文件。<br>生成方式：GitHub → Settings → Developer settings → Personal access tokens → Generate new token (classic)，勾选 repo 权限</div>
           </div>
           <div class="field-group">
             <label>目标分支</label>
@@ -239,7 +240,7 @@
 
         <div class="card">
           <h2>手动同步（备用）</h2>
-          <p style="font-size:13px;color:#6B7280;margin-bottom:12px;">如果未配置GitHub同步，可手动导出配置文件后替换仓库中的 data/ 目录下对应文件。</p>
+          <p style="font-size:13px;color:#6B7280;margin-bottom:12px;">配置GitHub Token后无需手动操作。此功能仅作备用，可导出/导入配置文件。</p>
           <div style="display:flex;gap:8px;">
             <button onclick="exportConfig()">📋 导出配置</button>
             <button onclick="importConfig()">📥 导入配置</button>
