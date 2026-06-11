@@ -1,4 +1,5 @@
 """Filtering and dedup utilities for news items."""
+import re
 from datetime import datetime, timedelta
 import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -43,6 +44,14 @@ _JUNK_PATTERNS = [
     "下载APP", "关注我们", "扫码", "二维码",
 ]
 
+# Search result anchor patterns — titles that are just URLs or search snippets
+_URL_TITLE_PATTERN = re.compile(
+    r'^(https?://|www\.|[a-z0-9-]+\.[a-z]{2,}[/ ›])'  # starts with URL or domain
+    r'|'  # OR
+    r'(https?://|www\.)',  # contains URL anywhere (裸链接标题)
+    re.IGNORECASE
+)
+
 
 def filter_quality(items):
     """Filter out low-quality / irrelevant items based on title heuristics.
@@ -52,13 +61,16 @@ def filter_quality(items):
     - matches known junk/navigation patterns
     - looks like a product listing (price-heavy) rather than news
     - has no Chinese characters (pure English/number spam)
+    - looks like a search result anchor (URL as title)
     """
-    import re
     kept = []
     for it in items:
         title = it.get("title", "").strip()
         # Length check
         if len(title) < 8 or len(title) > 100:
+            continue
+        # URL-as-title check (search result anchors like "baidu.com https://...")
+        if _URL_TITLE_PATTERN.search(title):
             continue
         # Junk pattern check
         if any(pat in title for pat in _JUNK_PATTERNS):
