@@ -1,7568 +1,7568 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-06-12 05:06:54",
+  "generated_at": "2026-06-12 07:19:49",
   "total": 420,
-  "source_count": 43,
+  "source_count": 42,
   "items": [
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人。",
+      "opportunity_insight": "年轻创业者群体对3D打印创新产品接受度高，是推广新品的理想目标受众。",
+      "procurement_insight": "在WAVES现场设置3D打印体验工坊，展示个性化定制服务，吸引创业圈层。"
+    },
+    {
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，定价48元。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，3D打印可为其提供实体手办等衍生品。",
+      "procurement_insight": "与游戏开发商合作推出3D打印角色手办，利用游戏热度带动周边销售。"
+    },
+    {
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行生态。",
+      "opportunity_insight": "低空经济消费端产品空白被填补，3D打印可助力飞行器轻量化部件定制。",
+      "procurement_insight": "与坦途科技合作开发3D打印飞行器配件，如螺旋桨保护罩，抢占新兴市场。"
+    },
+    {
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3D打印消费级产品、展示创新应用的绝佳窗口。",
+      "procurement_insight": "联合参展商推出ChinaJoy限定3D打印周边，现场设置体验区，刺激即时购买。"
+    },
+    {
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3D打印云端设计服务需求可能激增。",
+      "procurement_insight": "关注AI辅助3D打印软件供应商，提前布局低价算力资源，降低用户使用门槛。"
+    },
+    {
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为品牌效应强，科技感设计吸引高端用户，可带动智能车载设备销售。",
-      "procurement_insight": "与华为系汽车品牌合作，推出定制化车载智能设备，如HUD、智能后视镜等。"
+      "info_brief": "SpaceX上市在即，马斯克或成万亿富翁，美股太空股提前狂欢，市场关注度飙升。",
+      "opportunity_insight": "太空经济升温，3D打印在火箭零件、卫星组件制造中应用广泛，相关供应链需求将爆发。",
+      "procurement_insight": "提前布局3D打印航天级材料供应商，与SpaceX等企业建立合作，抢占太空制造市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，创意吸睛。",
-      "opportunity_insight": "改装文化流行，个性化配件需求旺盛，可拓展汽车改装3C产品线。",
-      "procurement_insight": "引入汽车改装类3C配件（如氛围灯、音响），与手工耿合作推广，吸引年轻用户。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万，瞄准国产替代。",
+      "opportunity_insight": "船舶行业国产化需求旺盛，3D打印可用于推进系统复杂零件快速制造，降低成本。",
+      "procurement_insight": "与力普司等船舶企业合作，提供3D打印金属零件服务，加速国产化进程。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量突破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机降价策略有效刺激销量，显示消费者对性价比敏感，可关注苹果促销节奏。",
-      "procurement_insight": "提前备货iPhone 17系列，与苹果协商降价期专属供货，抢占销量高峰。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业将非核心采购、仓配等外包，推动生产性服务业发展。",
+      "opportunity_insight": "3D打印作为柔性制造工具，可满足小批量、定制化工业用品需求，契合外包服务趋势。",
+      "procurement_insight": "与工业用品平台合作，提供3D打印快速打样服务，切入制造企业外包采购链。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将带动PC换机潮，尤其是老旧设备用户，利好硬件升级需求。",
-      "procurement_insight": "加大高性能PC及配件采购，联合微软推广Win11兼容设备，推动换机销售。"
+      "info_brief": "周志峰改造北京院子为《浮生别院》，融合茶室、花园等空间，顶流偶像“空空”匿名作序。",
+      "opportunity_insight": "3D打印可应用于高端家居定制，如茶室装饰、花园雕塑，满足个性化空间设计需求，市场潜力大。",
+      "procurement_insight": "引入3D打印家居装饰供应商，开发定制化茶具、花盆等产品，瞄准高端生活方式市场。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "战场扩大、打法转变：阿里不想喊停，美团也不想输",
+      "url": "https://www.tmtpost.com/8025338.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "蒋凡调兵遣将，美团不甘示弱。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米相关硬件及云服务需求增长。",
-      "procurement_insight": "关注小米开发者硬件周边，如编程设备，提前布局采购以配合生态推广。"
+      "info_brief": "阿里与美团在本地生活领域竞争升级，蒋凡调兵遣将，美团不甘示弱。",
+      "opportunity_insight": "本地生活竞争加剧，3D打印可应用于配送机器人、智能终端等硬件原型快速迭代。",
+      "procurement_insight": "对接阿里、美团硬件研发部门，提供3D打印快速成型服务，抢占智能设备原型制造订单。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "路虎揽胜极光L价格跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "高端汽车降价幅度大，显示市场疲软，但可能吸引预算有限的消费者。",
-      "procurement_insight": "非3C品类，忽略此条，聚焦手机、PC等核心品类机会。"
+      "info_brief": "KTV无人化模式通过减少服务人员提升盈利，探索自动化运营。",
+      "opportunity_insight": "无人化趋势推动3D打印在定制化设备零件、智能终端外壳等场景的快速制造需求。",
+      "procurement_insight": "开发KTV无人化设备配套的3D打印零部件，如传感器支架、外壳，提供小批量快速供应方案。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "影子市场交易预示SpaceX股票涨幅超过35%",
+      "url": "https://36kr.com/newsflashes/3849756705821705?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "影子市场预示SpaceX股票上市表现强劲，预期股价至少上涨35%。该公司是埃隆·马斯克的火箭、卫星和人工智能业务。在线经纪商IG国际提供的衍生品新加坡周五上午指向市值2.4万亿美元，这意味着较首次公开招股时每股135美元的价格和1.77万亿美元的估值高出35%以上。（财联社）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，显示成本压力传导至产品配置。",
-      "opportunity_insight": "存储涨价影响苹果产品配置，消费者可能转向性价比更高的安卓设备。",
-      "procurement_insight": "增加安卓高端机型采购，如小米、华为，以替代苹果缩水产品需求。"
+      "info_brief": "影子市场预示SpaceX股票上市后估值达2.4万亿美元，较IPO价涨超35%。",
+      "opportunity_insight": "SpaceX火箭与卫星业务增长带动3D打印在航空航天部件制造中的需求，市场前景广阔。",
+      "procurement_insight": "关注SpaceX供应链中3D打印金属粉末及大型打印设备采购动态，提前储备相关供应商资源。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引入宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货在高端商品领域的潜力。",
-      "opportunity_insight": "直播带货模式可拓展至3C数码高端品类，如高端笔记本、游戏主机，需探索与头部主播合作机会。",
-      "procurement_insight": "建议与头部主播合作，策划3C数码高端产品专场直播，利用秒杀机制提升销量和品牌曝光。"
+      "info_brief": "碳生万物完成A轮融资，用于宁夏千吨级DAC制备e-SAF项目建设及技术迭代。",
+      "opportunity_insight": "3D打印在碳捕集与可持续航空燃油领域应用潜力大，可关注相关设备及材料供应链机会。",
+      "procurement_insight": "调研DAC与e-SAF生产中的3D打印需求，提前布局高精度打印设备及耐腐蚀材料采购。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "微软发布Win11/10正式版24H2镜像，用户可直接下载，系统更新带来新功能。",
-      "opportunity_insight": "系统更新可能带动硬件升级需求，特别是支持新功能的CPU、内存和SSD，市场机会明显。",
-      "procurement_insight": "提前备货支持Win11新特性的硬件，如高性能CPU和SSD，并联合微软进行系统升级促销活动。"
+      "info_brief": "港股理想汽车午后涨超8%，股价表现强劲。",
+      "opportunity_insight": "理想汽车股价上涨反映市场对其业务信心，可能带动车载3C数码配件需求增长。",
+      "procurement_insight": "加强与理想汽车合作，拓展车载充电器、智能屏等3C数码配件供应渠道。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "快科技举办2025年度评奖活动，表彰科技产品创新，影响消费者购买决策。",
-      "opportunity_insight": "评奖结果可引导消费趋势，获奖产品有望成为爆款，需关注并提前布局相关品类。",
-      "procurement_insight": "跟踪评奖结果，优先采购获奖3C数码产品，并策划专题促销，利用奖项背书提升销量。"
+      "info_brief": "美国银行预测，到2030年服务器CPU市场规模将激增4倍至超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI需求强劲，为英特尔、AMD等厂商带来巨大机遇。",
+      "procurement_insight": "提前布局代理式AI相关服务器CPU采购，与英特尔、AMD等厂商签订长期供应协议。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现自主芯片制造突破，降低对外依赖。",
-      "opportunity_insight": "国产芯片技术突破将推动本土电子产品成本下降，为3C数码品类带来供应链优化机会。",
-      "procurement_insight": "关注国产芯片量产进度，提前与相关厂商合作，采购国产芯片电子产品，降低成本并提升自主可控性。"
+      "info_brief": "招商证券完成换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商高层变动可能影响资本市场服务，但招商证券业务稳定，对3C数码融资影响有限。",
+      "procurement_insight": "维持与招商证券现有合作，关注新管理层对科技企业融资政策的变化。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发行业对AI安全与伦理的讨论，可能影响技术发展。",
-      "opportunity_insight": "AI暂停研究可能延缓智能硬件创新，但短期利好现有AI产品，如智能音箱和AI PC，需把握窗口期。",
-      "procurement_insight": "加大现有AI硬件库存，如AI PC和智能家居设备，并推出安全AI主题促销，吸引关注伦理的消费者。"
+      "info_brief": "IDC报告显示，蚂蚁数科位列中国智能体平台私有化市场非云厂商第一，市场总规模达17.5亿元。",
+      "opportunity_insight": "智能体平台私有化市场增长迅速，非云厂商份额提升，为3C数码企业提供新合作方向。",
+      "procurement_insight": "评估与蚂蚁数科等非云厂商合作，引入智能体平台优化供应链管理或产品智能化。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "高端手机市场回暖，华为强势回归，带动国产旗舰需求，3D打印配件如保护壳、支架等周边产品销量有望增长。",
-      "procurement_insight": "提前备货华为Mate 80系列适配的3D打印保护壳、充电支架等配件，与华为官方合作推出联名款，抢占高端配件市场。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股的做多杠杆，因担忧回调风险。",
+      "opportunity_insight": "芯片股短期波动风险增加，但长期需求强劲，可关注回调后的低价采购机会。",
+      "procurement_insight": "建议暂缓对SK海力士、三星等存储芯片的批量采购，等待市场回调后锁定更优价格。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "iOS 27史诗级更新，中国果粉将获得类似安卓的实用功能。",
-      "opportunity_insight": "iOS大版本更新刺激换机潮，果粉对3D打印个性化配件（如定制手机壳、桌面摆件）需求增加，可拓展创意周边。",
-      "procurement_insight": "针对iOS 27新功能，设计并上架3D打印的个性化手机壳、桌面支架等配件，利用社交媒体营销吸引果粉购买。"
+      "info_brief": "味之素CEO警告关键原材料ABF定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF替代品研发可能催生3D打印封装材料新市场，带来供应链重构机会。",
+      "procurement_insight": "探索3D打印ABF替代材料供应商，提前布局样品测试，抢占技术转型先机。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米高端机型热销，徕卡影像卖点突出，3D打印镜头保护圈、摄影手柄等专业配件有市场潜力。",
-      "procurement_insight": "开发小米17T Pro专用3D打印镜头保护盖、摄影手柄配件，与评测博主合作推广，提升配件在摄影爱好者中的曝光。"
+      "info_brief": "欧洲央行管委内格尔表示已为7月保留所有选择，随时准备加息应对通胀。",
+      "opportunity_insight": "加息预期可能抑制企业投资，3D打印设备采购或放缓，但高端制造需求仍坚挺。",
+      "procurement_insight": "减少非必要3D打印设备库存，聚焦高附加值工业级产品，优化资金周转。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "AOC新品高刷电竞显示器上市，售价2499元。",
-      "opportunity_insight": "电竞显示器价格下探，带动游戏外设需求，3D打印的显示器支架、线缆管理夹等桌面配件可提升用户体验。",
-      "procurement_insight": "推出与AOC显示器匹配的3D打印桌面理线器、增高支架，捆绑销售或作为赠品，吸引电竞玩家购买。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利于欧洲消费电子市场，3D打印设备需求可能温和增长。",
+      "procurement_insight": "维持欧洲市场3D打印耗材库存，关注汇率波动对进口成本的影响。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力，包括扫厕所。",
-      "opportunity_insight": "黄仁勋励志言论引发关注，可借势推广3D打印DIY工具包，强调工匠精神与努力创造的价值。",
-      "procurement_insight": "策划“努力创造”主题营销，上架3D打印DIY套件（如模型、工具），搭配黄仁勋语录包装，吸引科技爱好者。"
+      "info_brief": "全球多家银行限制对冲基金对亚洲芯片制造商的杠杆押注，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股回调风险可能降低半导体设备采购预期，但3D打印芯片封装材料需求或受间接影响。",
+      "procurement_insight": "监控芯片封装材料供应链，评估ABF等关键材料价格波动，提前备货以应对潜在需求变化。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因其含黄金等贵金属，非废铁价。",
-      "opportunity_insight": "旧显卡回收市场升温，可联合回收平台推出以旧换新活动，吸引用户升级显卡，提升销量。",
-      "procurement_insight": "与回收商合作，推出显卡以旧换新补贴，重点推广中高端新品，并加强回收宣传。"
+      "info_brief": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能影响相关金融科技硬件需求，但3D打印行业关联度低，机会有限。",
+      "procurement_insight": "关注金融科技领域硬件采购变化，但无需调整3D打印品类策略。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "AMD新规范下放600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好用户，可借势推广600系主板及配套CPU，吸引升级需求。",
-      "procurement_insight": "提前备货支持新BIOS的主板，联合厂商做性能对比宣传，并捆绑CPU促销。"
+      "info_brief": "三只羊大数据公司变更负责人，由杜刚接任法定代表人。",
+      "opportunity_insight": "管理层变动可能预示业务调整，三只羊作为直播电商巨头，或加大3C数码领域数据服务投入。",
+      "procurement_insight": "关注三只羊合作动态，探索大数据分析工具采购，优化库存和用户画像，提升采销效率。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "父亲节促销，飞科电动剃须刀降至54元，性价比高。",
-      "opportunity_insight": "节日礼品需求旺盛，低价剃须刀可吸引预算敏感用户，带动3C小家电销量。",
-      "procurement_insight": "加大飞科剃须刀备货，设置父亲节专题页面，搭配其他礼品组合销售。"
+      "info_brief": "比亚迪泰国工厂桶装水标签BYD Logo被员工精心裁剪收藏，反映品牌认同感强。",
+      "opportunity_insight": "品牌符号在员工中具有高价值，可开发3D打印定制品牌周边，满足内部收藏需求，拓展新市场。",
+      "procurement_insight": "与3D打印厂商合作，推出BYD Logo定制模型，作为员工福利或促销品，提升品牌忠诚度。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习，加速电动化。",
-      "opportunity_insight": "汽车行业加速电动化，可关注车载3C配件需求，如充电设备、智能座舱配件。",
-      "procurement_insight": "提前布局车载充电器、智能后视镜等配件，与车企合作推出定制套餐。"
+      "info_brief": "氢能公交年亏6.7亿仍持续投入，存在停运与骗补问题，经济账复杂。",
+      "opportunity_insight": "氢能产业困境凸显3D打印在氢燃料电池部件定制化生产中的降本增效机会。",
+      "procurement_insight": "评估氢能领域3D打印需求，重点采购耐高压、耐腐蚀的金属打印材料及精密打印服务。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订开启。",
-      "opportunity_insight": "新车发布带动汽车后市场，可推广车载电子设备，如行车记录仪、车载净化器。",
-      "procurement_insight": "与比亚迪合作推出新车专属配件包，重点备货高端车载电子，并做盲订用户优惠。"
+      "info_brief": "杭州小龙虾价格因产地轮换和货源充足大幅下降超50%，出口量增长。",
+      "opportunity_insight": "小龙虾降价释放消费潜力，但非3C数码直接相关，可借势营销提升用户粘性。",
+      "procurement_insight": "推出“小龙虾季”跨界促销，如买3C配件送小龙虾券，或联合生鲜平台引流。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "卡蓓诺推出夜间修护洗发水，主打控油养发，售价29.9元。",
-      "opportunity_insight": "低价洗护产品在3C数码品类中关联度低，但可探索跨界营销，如购买3C产品赠送洗护小样，吸引家庭用户。",
-      "procurement_insight": "建议与洗护品牌合作，在3C数码订单中捆绑促销，提升客单价和用户粘性。"
+      "info_brief": "中央网信办开设“涉AI应用乱象举报专区”，整治AI生成内容违规问题。",
+      "opportunity_insight": "监管趋严将淘汰不合规AI应用，利好合规AI硬件和软件服务商，推动行业规范化发展。",
+      "procurement_insight": "优先采购合规AI产品，如智能音箱、AI摄像头，并加强供应商资质审核，规避政策风险。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "3D打印逼真人偶“不知火舞”亮相，支持多种姿势定制。",
-      "opportunity_insight": "二次元及游戏周边市场增长迅速，3D打印定制人偶满足个性化需求，可拓展高端收藏品市场。",
-      "procurement_insight": "引入3D打印定制服务，与游戏IP合作推出限量人偶，在京东平台预售，吸引核心粉丝。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "高成交额反映市场流动性充裕，投资者信心增强，可能刺激3C数码高端产品消费升级。",
+      "procurement_insight": "增加高端3C数码产品备货，如高性能笔记本、游戏设备，配合促销活动吸引投资客群。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "",
+      "summary": "招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；贵金属、航天军工、券商领涨，通信设备、半导体、电信跌幅居前；沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%。",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "日本炸鸡店一锅油反复使用66年，获炸鸡金奖，引发食品安全讨论。",
-      "opportunity_insight": "话题性内容可带动厨房电器需求，如空气炸锅、滤油机等健康烹饪设备，提升品类关注度。",
-      "procurement_insight": "策划“健康烹饪”专题，推广空气炸锅等产品，结合食品安全热点进行内容营销。"
+      "info_brief": "A股三大指数集体收涨，贵金属、航天军工、券商领涨，通信设备、半导体、电信跌幅居前。",
+      "opportunity_insight": "股市资金流向显示避险情绪升温，可能带动3C数码消费趋于谨慎，但军工相关电子配件需求或增长。",
+      "procurement_insight": "关注军工电子配件供应链，提前备货；对通信设备、半导体品类库存谨慎管理，避免积压。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "category_id": "uv-printing",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "3D打印"
+        "UV打印"
       ],
-      "info_brief": "RTX 50 Super系列四款显卡全曝光，其中一款配置特殊，性能升级。",
-      "opportunity_insight": "新一代显卡发布将刺激高端游戏和AI计算需求，带动整机升级和配件销售。",
-      "procurement_insight": "提前与英伟达沟通备货，针对高端用户推出预售套餐，搭配高性能主板和电源。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人，融合AI集市。",
+      "opportunity_insight": "年轻创业者聚集，对AI、创新科技产品兴趣高，是推广3C数码新品的理想场景。",
+      "procurement_insight": "在大会设置AI产品体验区，采购智能音箱、可穿戴设备等，通过现场互动收集用户反馈。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "category_id": "uv-printing",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "3D打印"
+        "UV打印"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板市场潜力大，WIFI6E功能满足家庭和办公用户无线需求，可搭配中低端CPU销售。",
-      "procurement_insight": "与技嘉合作定制套装，捆绑AMD入门级处理器和内存，推出“无线办公”促销活动。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，国产单机面临困境。",
+      "opportunity_insight": "独立游戏市场潜力大，但国产单机缺爆款，可借机推广游戏硬件如手柄、显卡等。",
+      "procurement_insight": "采购游戏外设如手柄、耳机，与独立游戏开发商合作促销，打造游戏+硬件套餐。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "category_id": "uv-printing",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "3D打印"
+        "UV打印"
       ],
-      "info_brief": "荣耀签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "跨界联名可吸引机车爱好者群体，提升智能手表在运动细分市场的品牌认知和销量。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，策划机车主题营销活动，主推运动监测功能。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济消费市场。",
+      "opportunity_insight": "低空经济消费端空白被填补，水上飞行器或带动相关3C配件如防水相机、智能穿戴需求。",
+      "procurement_insight": "关注户外科技品类，采购防水、防震数码配件，与飞行器品牌合作捆绑销售。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "category_id": "uv-printing",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "3D打印"
+        "UV打印"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫和宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计吸睛，可带动车载3C配件需求增长。",
-      "procurement_insight": "关注理想L8上市时间，提前备货车载充电器、支架等配件，与汽车频道联动推广。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C新品、展示创新技术的绝佳平台，可提升品牌曝光。",
+      "procurement_insight": "联合参展商推出展会专属优惠，采购热门游戏外设、VR设备等，通过直播互动带动销售。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "",
+      "category_id": "uv-printing",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "3D打印"
+        "UV打印"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，智能驾驶相关硬件（如传感器、芯片）需求将上升。",
-      "procurement_insight": "关注自动驾驶技术趋势，增加高性能传感器和计算芯片的采购，布局智能汽车配件。"
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI硬件需求增长，3C数码产品如AI PC、智能设备市场潜力巨大。",
+      "procurement_insight": "提前布局AI相关硬件采购，与供应商协商价格，推出高性价比AI产品组合吸引消费者。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为系高端智能汽车概念引发关注，可能带动车载智能屏、音响等科技配件市场。",
-      "procurement_insight": "提前储备高端车载智能配件，如华为HiCar兼容设备，与汽车品牌合作推出定制套装。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁，美股太空股提前狂欢，显示太空经济热度。",
+      "opportunity_insight": "太空经济爆发带动相关设备需求，UV打印可用于航天器内部标识、电子元件标记，技术门槛高但利润丰厚。",
+      "procurement_insight": "研发航天级UV打印材料，与SpaceX等企业合作，提供高可靠性打印服务，布局高端航天市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发热议。",
-      "opportunity_insight": "个性化改装需求凸显，末日机甲风格吸引年轻用户，可能带动改装件和创意配件市场。",
-      "procurement_insight": "引入创意改装配件如轮毂贴纸、氛围灯，与手工耿合作推出联名款，吸引改装爱好者。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，加速国产化应用，半年订单超5000万。",
+      "opportunity_insight": "船舶国产化趋势带动高端设备需求，UV打印可用于船舶内部标识、控制面板等定制化打印，市场潜力大。",
+      "procurement_insight": "开发船舶专用UV打印材料，与力普司等企业合作，提供耐腐蚀、高精度打印方案，拓展海洋工程市场。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销量激增。",
-      "opportunity_insight": "高端手机市场仍有增长空间，降价策略有效刺激需求，可关注苹果供应链机会。",
-      "procurement_insight": "加大iPhone 17系列备货，与苹果协商降价促销合作，抢占市场份额。"
+      "info_brief": "中国制造业向智能化、绿色化转型，生产性服务业外包趋势明显，采购和供应链协同需求增加。",
+      "opportunity_insight": "制造业外包服务需求上升，UV打印可嵌入工业用品供应链，提供标签、标识等定制化打印服务，提升效率。",
+      "procurement_insight": "与工业用品平台合作，推出UV打印标签和标识解决方案，聚焦高频、分散的采购需求，优化供应链协同。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动PC换机潮，尤其是老旧设备用户升级需求增加。",
-      "procurement_insight": "提前采购支持Windows 11的高性能PC配件，联合品牌商推广升级套餐。"
+      "info_brief": "周志峰改造北京院子为多功能空间，融合茶室、餐厅等，体现个性化空间设计趋势。",
+      "opportunity_insight": "个性化空间装修需求增长，UV打印可用于定制墙面装饰、家具表面，满足高端住宅和商业空间的美学需求。",
+      "procurement_insight": "采购高精度UV打印机，主推室内装饰应用，与设计师合作推广定制化打印服务，抢占个性化市场。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "战场扩大、打法转变：阿里不想喊停，美团也不想输",
+      "url": "https://www.tmtpost.com/8025338.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "蒋凡调兵遣将，美团不甘示弱。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米硬件及周边设备需求增长。",
-      "procurement_insight": "关注小米开发者社区，采购相关编程设备或配件，推出捆绑促销活动。"
+      "info_brief": "阿里与美团在本地生活领域竞争加剧，蒋凡调兵遣将，美团不甘示弱，战场扩大。",
+      "opportunity_insight": "竞争推动即时配送和数字化升级，UV打印在物流标签、外卖包装个性化中需求增长。",
+      "procurement_insight": "与阿里、美团合作开发UV打印智能标签，提升包装防伪和营销功能，抢占本地生活供应链市场。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮可能带动车载电子设备需求，如行车记录仪、导航仪等。",
-      "procurement_insight": "与汽车品牌合作，采购车载3C配件，推出购车赠电子设备活动。"
+      "info_brief": "KTV无人化趋势兴起，通过减少服务人员提升盈利，强调技术替代人力。",
+      "opportunity_insight": "无人化场景增加UV打印需求，如自助设备外壳、装饰面板定制，可拓展娱乐行业客户。",
+      "procurement_insight": "推出针对KTV无人化场景的UV打印套餐，包括耐磨损装饰膜和快速定制服务，与设备商联合推广。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "影子市场交易预示SpaceX股票涨幅超过35%",
+      "url": "https://36kr.com/newsflashes/3849756705821705?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "影子市场预示SpaceX股票上市表现强劲，预期股价至少上涨35%。该公司是埃隆·马斯克的火箭、卫星和人工智能业务。在线经纪商IG国际提供的衍生品新加坡周五上午指向市值2.4万亿美元，这意味着较首次公开招股时每股135美元的价格和1.77万亿美元的估值高出35%以上。（财联社）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，可能影响产品配置和成本。",
-      "opportunity_insight": "存储涨价导致成本压力，消费者或转向性价比更高的替代品。",
-      "procurement_insight": "增加高性价比存储产品备货，如国产SSD，满足替代需求。"
+      "info_brief": "影子市场预示SpaceX上市后股价涨超35%，估值达2.4万亿美元，涉及火箭、卫星和AI业务。",
+      "opportunity_insight": "SpaceX估值飙升带动航天产业链，UV打印在卫星部件、火箭标识等高端制造中需求可能增加。",
+      "procurement_insight": "关注航天级UV打印设备及耐极端环境材料，与SpaceX供应商建立联系，提供高精度打印解决方案。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引入宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货向高客单价商品扩展的趋势。",
-      "opportunity_insight": "高客单价商品直播带货潜力巨大，可探索3C数码高端产品（如高端PC、相机）的直播销售模式。",
-      "procurement_insight": "与头部主播合作，策划3C数码高端产品专场直播，利用秒杀机制提升销量和品牌曝光。"
+      "info_brief": "碳生万物完成A轮融资，用于宁夏千吨级DAC制备e-SAF项目，宁德时代等新股东加入。",
+      "opportunity_insight": "碳捕集技术获资本青睐，预示环保设备需求增长，可关注相关3D打印材料及UV固化技术在环保领域的应用。",
+      "procurement_insight": "提前布局环保型UV打印耗材，与碳捕集设备商合作开发定制化打印方案，抢占绿色制造先机。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "Win11/10 24H2正式版官方镜像可直接下载，用户可获取最新系统版本。",
-      "opportunity_insight": "新系统发布带动硬件升级需求，尤其是兼容性强的PC配件和存储设备，市场机会显著。",
-      "procurement_insight": "提前备货支持新系统的SSD、内存等配件，联合品牌推出系统升级促销套装。"
+      "info_brief": "港股理想汽车午后涨超8%，股价表现强劲。",
+      "opportunity_insight": "理想汽车股价上涨反映市场信心，可能带动其车载电子设备需求，为京东3C配件销售创造机会。",
+      "procurement_insight": "加强与理想汽车合作，采购车载充电器、智能屏等配件，并推出联合促销活动，提升销量。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "快科技2025年度评奖启动，涵盖科技产品评选，影响消费决策。",
-      "opportunity_insight": "评奖结果可引导消费者选择，获奖产品易获高关注度，带动销量增长。",
-      "procurement_insight": "关注评奖动态，提前与获奖或提名品牌沟通，争取独家首发或优惠合作。"
+      "info_brief": "美国银行预测，到2030年服务器CPU市场规模将激增4倍至超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU需求爆发，代理式AI加速增长，为京东服务器及配件采购带来长期增长机遇。",
+      "procurement_insight": "提前与英特尔、AMD等供应商签订长期协议，确保CPU供应稳定，并布局AI服务器相关产品线。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "国产技术绕开ASML深紫外光刻路线，实现芯片制造自主突破。",
-      "opportunity_insight": "国产芯片技术进步降低对外依赖，可能推动国产3C数码产品供应链本土化。",
-      "procurement_insight": "评估国产芯片供应商，优先引入性价比高的国产芯片产品，降低采购风险。"
+      "info_brief": "招商证券换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商高层变动可能影响金融合作策略，但招商证券实力雄厚，京东可维持现有合作。",
+      "procurement_insight": "保持与招商证券的现有金融服务合作，关注新管理层动向，适时调整融资或支付方案。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI监管趋严可能影响AI硬件需求，但安全合规的AI产品将获市场青睐。",
-      "procurement_insight": "关注AI政策动态，采购符合安全标准的AI设备，如智能音箱、AI PC，并强调合规卖点。"
+      "info_brief": "IDC报告显示，2025年中国智能体平台私有化市场规模达17.5亿元，蚂蚁数科位列非云厂商第一。",
+      "opportunity_insight": "智能体平台私有化需求增长，非云厂商崛起，为京东引入AI解决方案合作伙伴提供新选择。",
+      "procurement_insight": "评估与蚂蚁数科等非云厂商合作，引入智能体技术优化3C品类推荐和库存管理，提升运营效率。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "华为高端机需求强劲，带动3C配件及周边产品市场扩容，可借势营销。",
-      "procurement_insight": "提前备货华为兼容配件，如充电器、手机壳，并策划捆绑促销活动。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股的做多杠杆，提高融资成本或拒绝新交易。",
+      "opportunity_insight": "芯片股短期回调风险增加，可能引发价格波动，为京东采购芯片相关3C产品提供议价窗口。",
+      "procurement_insight": "关注芯片价格走势，若回调明显，可提前与供应商协商锁定低价库存，优化成本结构。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "iOS 27史诗级更新，中国果粉将获得安卓已有功能。",
-      "opportunity_insight": "iOS更新可能刺激iPhone换机潮，带动苹果配件及存储设备需求。",
-      "procurement_insight": "增加苹果配件库存，如MagSafe充电器，并关注新功能对配件兼容性影响。"
+      "info_brief": "味之素CEO警告关键原材料ABF定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF替代品研发加速可能降低高端芯片封装成本，利好3C数码产品供应链降本。",
+      "procurement_insight": "关注ABF替代材料进展，与芯片供应商探讨试用新方案，提前布局低成本封装技术合作。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出���应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米高端机型受关注，长焦功能突出，可吸引摄影爱好者换机。",
-      "procurement_insight": "备货小米17T Pro及配套摄影配件，如三脚架，并突出长焦卖点推广。"
+      "info_brief": "欧洲央行管委内格尔称已为7月保留所有选择，随时准备再次加息以应对通胀。",
+      "opportunity_insight": "加息可能抑制欧洲消费需求，但间接影响有限，需警惕汇率波动对进口成本的影响。",
+      "procurement_insight": "提前锁定欧元区关键元器件采购合同，对冲加息导致的汇率风险，优化成本结构。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "AOC新品高刷电竞显示器上市，售价2499元。",
-      "opportunity_insight": "高刷电竞显示器价格下探，吸引中端玩家，市场增长空间大。",
-      "procurement_insight": "引入AOC新品，与电竞品牌联合促销，如买显示器送鼠标垫。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利于欧洲消费电子需求，但直接影响有限，可关注欧元区经济复苏对进口成本的影响。",
+      "procurement_insight": "维持现有欧洲供应链采购节奏，若欧元走弱可增加高端3C产品进口储备。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力。",
-      "opportunity_insight": "黄仁勋励志故事提升英伟达品牌形象，可借势推广相关产品。",
-      "procurement_insight": "策划英伟达显卡主题促销，结合故事营销，提升品牌忠诚度。"
+      "info_brief": "全球多家银行限制对冲基金对SK海力士、三星等亚洲芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，可能压低存储芯片价格，为京东采购提供议价空间。",
+      "procurement_insight": "短期观望存储芯片价格波动，与三星、海力士谈判时利用市场回调预期争取更优采购价。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因其含黄金等贵金属，避免当废铁处理。",
-      "opportunity_insight": "回收市场机会：旧显卡含金量高，可拓展二手回收业务，结合内存涨价趋势，提升利润空间。",
-      "procurement_insight": "建议与回收商合作，推出旧显卡以旧换新活动，回收后提炼贵金属，降低采购成本。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能引发资本流动变化，但直接关联度低，需关注其是否影响消费电子广告投放。",
+      "procurement_insight": "监控Flutter相关营销预算调整，若减少投放，可争取其广告位资源用于3C数码推广。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板升级机会：性能提升吸引用户换新，可推动600系主板销售，尤其搭配AMD新CPU。",
-      "procurement_insight": "提前备货华硕、微星600系主板，联合CPU促销，强调BIOS升级带来的性能增益。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人，公司专注大数据服务。",
+      "opportunity_insight": "公司管理层变动可能影响大数据业务方向，但大数据服务需求稳定，或带来新合作机会。",
+      "procurement_insight": "关注三只羊大数据新战略，评估其数据服务对3C数码供应链优化的潜力，暂不调整采购计划。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀售价54元，主打性价比。",
-      "opportunity_insight": "节日礼品机会：低价剃须刀契合父亲节送礼需求，可吸引价格敏感消费者，提升销量。",
-      "procurement_insight": "加大飞科剃须刀采购量，设置父亲节专区，搭配其他男士用品捆绑销售，突出低价卖点。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工裁剪盗取，反映品牌符号在海外工厂的意外价值。",
+      "opportunity_insight": "品牌符号在海外市场具有高附加值，可开发定制化UV打印标签服务，满足企业品牌保护与员工文化认同需求。",
+      "procurement_insight": "建议与比亚迪等出海企业合作，提供防伪UV打印标签方案，并推广至东南亚工厂，提升品牌符号管理效率。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "日产将研发周期减半至2年，社长强调向中国学习，以加速电动车上市。",
-      "opportunity_insight": "汽车电子机会：日产加速电动化，可能增加对3C电子元件需求，如车载芯片、传感器。",
-      "procurement_insight": "关注日产供应链动态，提前布局车载电子元件采购，与供应商合作开发适配产品。"
+      "info_brief": "氢能公交年亏6.7亿仍逆势扩张，存在停运和骗补问题，反映行业经济性矛盾。",
+      "opportunity_insight": "氢能公交亏损暴露成本痛点，UV打印在氢燃料电池组件标识、轻量化部件中可替代传统工艺降本。",
+      "procurement_insight": "开发UV打印在氢能设备上的应用案例，如电池外壳标记，推动与公交运营商试点合作降本增效。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订同步开启。",
-      "opportunity_insight": "汽车后市场机会：车漆技术受关注，可推广相关3C产品如车载漆面保护膜、清洁工具。",
-      "procurement_insight": "采购高端车漆保护膜及清洁套装，与比亚迪合作营销，针对海豹车主推出专属优惠。"
+      "info_brief": "杭州小龙虾降价超50%，因产地轮换和货源充足，中青规格批发价每斤12元。",
+      "opportunity_insight": "小龙虾降价提升消费热度，可能带动户外聚餐场景，间接促进便携式3C数码产品需求。",
+      "procurement_insight": "可联合餐饮品牌促销便携音箱、移动电源等户外数码产品，利用小龙虾热点做跨界营销。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水以29.9元低价促销，主打控油养发功能。",
-      "opportunity_insight": "低价洗护产品吸引价格敏感用户，可结合3C数码赠品或满减活动提升客单价。",
-      "procurement_insight": "建议与洗护品牌合作，推出买数码产品送洗发水试用装，或作为凑单商品引流。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容标识等问题。",
+      "opportunity_insight": "AI监管趋严，合规AI硬件和软件需求上升，如内容审核设备，但可能抑制部分AI应用创新。",
+      "procurement_insight": "优先采购合规AI芯片和内容安全解决方案，减少非标AI产品库存，关注政策对AI设备影响。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势调整，主打动漫游戏周边市场。",
-      "opportunity_insight": "动漫游戏IP周边需求旺盛，可拓展高利润收藏级人偶品类，吸引二次元用户。",
-      "procurement_insight": "评估与IP授权商合作，引入限量版人偶，在京东平台首发并搭配游戏硬件促销。"
+      "info_brief": "沪深两市成交额超3万亿，显示市场交易活跃，资金流动性增强。",
+      "opportunity_insight": "高成交额反映投资者活跃度提升，可能带动3C数码消费升级，尤其是高端产品需求。",
+      "procurement_insight": "可增加高端3C数码库存，如游戏本、高性能手机，配合股市行情推出限时优惠活动。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "uv-printing",
-      "summary": "",
+      "summary": "招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；贵金属、航天军工、券商领涨，通信设备、半导体、电信跌幅居前；沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%。",
       "matched_keywords": [
         "UV打印"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获炸鸡金奖，引发食品安全讨论。",
-      "opportunity_insight": "食品安全话题热度高，可借势推广厨房小家电如空气炸锅、滤油器，满足健康需求。",
-      "procurement_insight": "联合空气炸锅品牌推出“健康炸鸡”主题促销，强调无油或少油烹饪优势。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体、电信跌幅居前。",
+      "opportunity_insight": "股市上涨提振消费信心，但通信设备板块下跌可能影响3C数码需求，需关注市场情绪波动。",
+      "procurement_insight": "建议暂缓通信设备类备货，加大航天军工相关电子元器件采购，利用券商板块利好促销3C产品。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
+      "category_id": "cnc",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "UV打印"
+        "CNC"
       ],
-      "info_brief": "RTX 50 Super系列四款显卡曝光，其中一款配置特殊，引发玩家关注。",
-      "opportunity_insight": "新显卡发布前是预售和捆绑销售良机，可提前锁定高端游戏玩家和矿工需求。",
-      "procurement_insight": "与NVIDIA沟通首发合作，推出显卡+游戏套装预售，并准备库存应对抢购潮。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人。",
+      "opportunity_insight": "年轻创业者群体是3C数码消费主力，大会可精准触达并推广创新产品。",
+      "procurement_insight": "在大会设置体验区，采购智能家居、便携数码产品，通过互动活动收集用户反馈。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
+      "category_id": "cnc",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "UV打印"
+        "CNC"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板市场增长，WIFI6E功能成差异化卖点，可吸引预算有限的DIY用户。",
-      "procurement_insight": "与技嘉协商独家首发或捆绑CPU套餐，突出WIFI6E优势，并配套散热器促销。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，低价策略成功。",
+      "opportunity_insight": "低价独立游戏市场潜力大，带动游戏主机、手柄等硬件需求。",
+      "procurement_insight": "采购高性价比游戏主机和手柄，捆绑热门独立游戏促销，吸引价格敏感型玩家。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
+      "category_id": "cnc",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "UV打印"
+        "CNC"
       ],
-      "info_brief": "荣耀李健官宣签约张雪机车两位车手，联名款智能手表将发售。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者群体，拓展运动户外细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "建议提前与荣耀沟通联名款备货，重点采购运动监测功能突出的型号，并策划机车主题促销活动。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济消费端。",
+      "opportunity_insight": "低空经济消费市场空白被填补，户外科技产品需求增长，带动相关配件市场。",
+      "procurement_insight": "关注水上飞行器配套的智能穿戴、防水电子设备，与坦途科技合作开发联名配件。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
+      "category_id": "cnc",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "UV打印"
+        "CNC"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计融合豪华与性能，可能带动车载智能设备需求增长。",
-      "procurement_insight": "关注理想L8上市后车载配件需求，提前采购车载充电器、智能支架等适配产品，与汽车频道联动推广。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦科技与数字娱乐融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C新品、VR/AR设备的绝佳场景。",
+      "procurement_insight": "联合参展商推出展会专属优惠，采购热门VR/AR设备及游戏外设，提前备货应对需求。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "uv-printing",
-      "summary": "",
+      "category_id": "cnc",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "UV打印"
+        "CNC"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，可能推动智能驾驶硬件升级需求，如高算力芯片和传感器。",
-      "procurement_insight": "加强智能驾驶相关硬件如行车记录仪、雷达传感器的采购，关注特斯拉FSD更新对配件兼容性影响。"
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码中AI PC、智能设备需求可能激增。",
+      "procurement_insight": "提前布局AI相关硬件采购，如高性能显卡、AI芯片，与供应商谈判锁定低价算力资源。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为跨界造车提升品牌科技感，可带动华为生态产品如手机、手表与汽车互联的配件需求。",
-      "procurement_insight": "预判华为新车发布节奏，备货华为车载互联配件，如无线充电板、车机支架，并策划联合营销。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁，美股太空股提前狂欢，显示太空经济热度。",
+      "opportunity_insight": "太空经济升温，带动卫星通信、遥感设备等3C数码产品需求，如卫星电话、GPS模块。",
+      "procurement_insight": "关注卫星通信终端供应商，引入消费级卫星通信设备（如应急手机），抢占新兴市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "个性化改装文化流行，带动汽车改装配件如大尺寸轮毂、外观套件需求，吸引年轻用户。",
-      "procurement_insight": "引入改装风格配件如轮毂贴纸、LED灯带，与手工耿合作联名款，在京东平台推广改装方案。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万，国产替代加速。",
+      "opportunity_insight": "船舶电动化趋势明确，带动相关电子元器件需求，如功率半导体、传感器等，市场空间大。",
+      "procurement_insight": "提前与船舶电子供应商合作，储备高可靠性功率模块和传感器，布局国产替代供应链。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "苹果降价策略有效刺激销量，高端市场仍有巨大需求，可借势推广配件和以旧换新服务。",
-      "procurement_insight": "加大iPhone 17系列备货，同步采购官方壳膜和充电配件，推出以旧换新补贴活动提升转化。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业聚焦核心能力，将采购等非核心职能外包。",
+      "opportunity_insight": "工业用品采购外包需求增长，3C数码品类可切入企业级供应链服务，提供一站式采购方案。",
+      "procurement_insight": "开发企业采购平台，整合办公设备、工业电子等品类，提供定制化供应链解决方案，降低客户成本。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将刺激老旧PC换机需求，带动硬件升级潮，尤其是内存和SSD。",
-      "procurement_insight": "提前备货高性价比内存和NVMe SSD，联合品牌推出“Win11升级套装”促销，抢占换机红利。"
+      "info_brief": "周志峰将北京房产改造为“浮生别院”，融合茶室、花园等空间，体现高端生活方式消费趋势。",
+      "opportunity_insight": "高端生活方式消费兴起，智能家居和影音设备需求增长，可布局相关3C产品线。",
+      "procurement_insight": "引入高端智能家居品牌（如智能灯光、音响系统），与设计师合作推出场景化套装，提升客单价。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "战场扩大、打法转变：阿里不想喊停，美团也不想输",
+      "url": "https://www.tmtpost.com/8025338.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "蒋凡调兵遣将，美团不甘示弱。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，降低开发者门槛。",
-      "opportunity_insight": "开源汉化工具吸引国内开发者，可能带动小米生态链设备销量，尤其是编程相关硬件。",
-      "procurement_insight": "关注小米生态链新品，采购适配开发者的键盘、显示器等外设，策划“开发者装备节”活动。"
+      "info_brief": "阿里与美团竞争升级，蒋凡调兵遣将，双方在本地生活领域持续对抗。",
+      "opportunity_insight": "本地生活竞争加剧，带动配送机器人、智能终端和云服务硬件需求。",
+      "procurement_insight": "关注即时配送硬件升级，如无人机和机器人配件，为平台提供定制化方案。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车大幅降价吸引消费者，但非3C品类，可借势营销车载电子设备，如行车记录仪。",
-      "procurement_insight": "采购高端行车记录仪、车载充电器等，与汽车频道联动，推出“购车配电子装备”优惠券。"
+      "info_brief": "KTV推行无人化，减少服务人员以提升盈利，转向自助化运营模式。",
+      "opportunity_insight": "无人化趋势推动自助点歌、支付和智能音响等3C设备需求增长。",
+      "procurement_insight": "推广集成自助系统的智能音响和触摸屏方案，与KTV连锁品牌合作试点。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "影子市场交易预示SpaceX股票涨幅超过35%",
+      "url": "https://36kr.com/newsflashes/3849756705821705?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "影子市场预示SpaceX股票上市表现强劲，预期股价至少上涨35%。该公司是埃隆·马斯克的火箭、卫星和人工智能业务。在线经纪商IG国际提供的衍生品新加坡周五上午指向市值2.4万亿美元，这意味着较首次公开招股时每股135美元的价格和1.77万亿美元的估值高出35%以上。（财联社）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "苹果也扛不住存储涨价，屏幕缩水，或影响产品配置。",
-      "opportunity_insight": "存储涨价导致苹果减配，消费者可能转向性价比更高的第三方存储或外接方案。",
-      "procurement_insight": "增加外接SSD、U盘和云存储会员采购，推出“扩容方案”专题，满足用户存储需求。"
+      "info_brief": "影子市场预示SpaceX上市后股价涨超35%，估值达2.4万亿美元，涉及火箭、卫星和AI业务。",
+      "opportunity_insight": "SpaceX估值飙升带动卫星通信和AI硬件需求，如地面终端和计算芯片。",
+      "procurement_insight": "加强与卫星通信设备厂商合作，储备AI加速卡和低功耗芯片库存。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引入宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货向高客单价商品扩展。",
-      "opportunity_insight": "高客单价商品直播带货潜力巨大，3C数码可探索高端产品直播销售模式，提升转化率。",
-      "procurement_insight": "联合头部主播策划高端3C产品专场，如旗舰手机、笔记本，测试直播秒杀效果。"
+      "info_brief": "碳生万物完成A轮融资，用于宁夏千吨级DAC制备e-SAF项目，宁德时代等跟投。",
+      "opportunity_insight": "碳捕集技术获资本青睐，预示环保科技硬件需求增长，如传感器、控制设备等。",
+      "procurement_insight": "关注碳捕集设备供应链，提前布局高精度传感器和自动化控制模块供应商。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "微软发布Win11/10 24H2正式版官方镜像，用户可直接下载安装。",
-      "opportunity_insight": "新系统发布带动硬件升级需求，尤其是PC和笔记本换机潮，可提前备货兼容设备。",
-      "procurement_insight": "加大Win11兼容PC和配件采购，联合品牌推系统升级促销，吸引用户换新。"
+      "info_brief": "港股理想汽车午后涨超8%，股价持续拉升。",
+      "opportunity_insight": "理想汽车股价上涨反映市场对其销量或技术进展的乐观预期，但需警惕短期波动。",
+      "procurement_insight": "关注理想汽车智能座舱及车载芯片需求，可与其供应链部门沟通，争取合作机会。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "快科技启动2025年度评奖活动，评选年度优秀科技产品。",
-      "opportunity_insight": "评奖活动可提升产品曝光和品牌信任度，获奖产品易获消费者青睐。",
-      "procurement_insight": "关注评奖结果，优先采购获奖3C产品，并策划专题活动推广，提升销量。"
+      "info_brief": "美国银行预测到2030年服务器CPU市场规模将激增4倍至超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI成核心驱动力，英特尔、AMD及Arm架构厂商受益。",
+      "procurement_insight": "提前布局服务器CPU采购，优先锁定AMD和英特尔的高性能产品，同时评估Arm架构新品。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现自主芯片制造突破。",
-      "opportunity_insight": "国产芯片技术突破降低供应链风险，利好国产3C产品自主可控，提升竞争力。",
-      "procurement_insight": "加强与国产芯片厂商合作，优先采购国产芯片产品，布局自主可控供应链。"
+      "info_brief": "招商证券换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商高层变动可能带来业务策略调整，但整体影响有限，需关注后续战略方向。",
+      "procurement_insight": "维持现有合作，暂不调整采购计划，关注新管理层对金融科技投入的动向。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的广泛讨论。",
-      "opportunity_insight": "AI暂停讨论可能影响AI硬件需求，但长期看安全合规产品更受市场认可。",
-      "procurement_insight": "关注AI政策动态，采购符合安全标准的AI设备，如智能音箱，规避监管风险。"
+      "info_brief": "IDC报告显示蚂蚁数科位列中国智能体平台私有化市场非云厂商第一，市场规模达17.5亿元。",
+      "opportunity_insight": "智能体平台私有化市场增长迅速，非云厂商崛起，蚂蚁数科技术优势明显，可拓展合作。",
+      "procurement_insight": "建议与蚂蚁数科洽谈智能体平台合作，引入其私有化解决方案，提升企业级客户服务能力。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助华为国内市场份额登顶。",
-      "opportunity_insight": "华为高端机需求强劲，带动市场份额回升，3C数码高端市场回暖信号明显。",
-      "procurement_insight": "加大华为Mate 80系列备货，重点推广其影像与芯片优势，抢占高端用户份额。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股的做多杠杆，提高融资成本。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求仍强劲，可关注回调后的低位建仓机会。",
+      "procurement_insight": "建议暂缓对SK海力士、三星相关存储产品的加仓，观望市场情绪，待回调企稳后择机采购。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "iOS 27迎来史诗级更新，中国用户将获得安卓已有功能。",
-      "opportunity_insight": "苹果系统升级缩小与安卓差距，可能刺激老用户换机，带动配件需求。",
-      "procurement_insight": "提前备货iPhone 27及兼容配件，策划以旧换新活动，吸引安卓用户转投。"
+      "info_brief": "味之素CEO警告ABF关键原材料定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF材料涨价可能推高高端芯片封装成本，影响CPU/GPU供应，但替代材料研发带来新采购机会。",
+      "procurement_insight": "建议与芯片供应商沟通ABF材料成本影响，探索替代封装方案产品，并提前储备关键芯片库存。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，定位家族收官真香机。",
-      "opportunity_insight": "小米主打影像差异化，五倍长焦成卖点，中高端市场竞品压力增大。",
-      "procurement_insight": "关注小米17T Pro首发库存，联合品牌做影像体验活动，突出徕卡合作优势。"
+      "info_brief": "欧洲央行管委内格尔称已为7月保留所有选择，随时准备加息应对通胀。",
+      "opportunity_insight": "加息预期可能抑制消费电子需求，但高端3C产品因刚需受影响较小，需关注欧洲市场购买力变化。",
+      "procurement_insight": "建议减少对欧洲市场的低价3C产品备货，转向高附加值品类，并提前锁定汇率以规避风险。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "AOC发布2499元高刷电竞显示器，主打性价比。",
-      "opportunity_insight": "电竞显示器价格下探至2500元内，刺激入门级玩家换新需求。",
-      "procurement_insight": "快速上架并主推该型号，搭配游戏外设套餐，抢占暑期电竞促销节点。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好欧洲消费电子需求，可能推动3C数码产品出口增长，尤其是高端品类。",
+      "procurement_insight": "可提前布局欧洲市场热销3C产品，如智能设备配件，并关注欧元汇率波动以优化进口成本。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "黄仁勋分享成功经历：从扫厕所洗碗做起，强调100%努力。",
-      "opportunity_insight": "励志故事提升英伟达品牌形象，可能带动相关硬件产品关注度。",
-      "procurement_insight": "借势黄仁勋话题，策划英伟达显卡及AI硬件专题，强化技术领袖形象。"
+      "info_brief": "全球多家银行限制对冲基金对SK海力士和三星等亚洲芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，可能压低存储芯片价格，为采购提供议价空间，尤其是DRAM和NAND产品。",
+      "procurement_insight": "建议短期观望存储芯片价格走势，与供应商协商更灵活定价条款，并适当减少高价库存备货。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因含黄金等贵金属。",
-      "opportunity_insight": "旧显卡回收市场升温，可推出以旧换新活动，吸引用户升级显卡，带动新品销售。",
-      "procurement_insight": "与回收平台合作，推出显卡以旧换新补贴，重点推广中高端显卡，抢占升级需求。"
+      "info_brief": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能影响相关金融科技股情绪，但3C数码行业直接关联度低，需关注资本流动对科技板块的间接影响。",
+      "procurement_insight": "建议保持现有3C数码产品采购节奏，无需因退市事件调整库存策略，但可监控市场波动以优化资金配置。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好存量用户，可推动600系主板及配套CPU销售，吸引升级潮。",
-      "procurement_insight": "联合华硕微星等品牌，推出BIOS升级教程和主板CPU套装促销，强化性能卖点。"
+      "info_brief": "三只羊大数据公司变更负责人，由杜刚接任法定代表人。",
+      "opportunity_insight": "管理层变动可能带来业务调整，三只羊集团在直播电商领域的数据服务需求或变化。",
+      "procurement_insight": "关注三只羊集团后续采购动态，若涉及大数据设备或直播硬件，可主动接洽提供解决方案。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "父亲节促销，飞科电动剃须刀售价54元。",
-      "opportunity_insight": "低价剃须刀适合节日礼品场景，可吸引价格敏感型消费者，提升品类渗透率。",
-      "procurement_insight": "备货飞科等品牌低价剃须刀，搭配父亲节礼盒包装，设置满减或赠品，主推性价比。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工精心裁剪盗取，反映品牌认同感极强。",
+      "opportunity_insight": "品牌符号在海外市场具有高价值，可探索3C数码产品定制化品牌标识服务，满足企业品牌传播需求。",
+      "procurement_insight": "与品牌定制厂商合作，推出企业级Logo定制3C配件（如手机壳、充电宝），拓展B端采购市场。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "日产将研发周期缩短至2年，向中国学习快速迭代模式。",
-      "opportunity_insight": "汽车行业加速创新，可关注车载电子配件需求增长，如智能座舱设备。",
-      "procurement_insight": "提前布局车载充电器、行车记录仪等配件，与汽车品牌合作，推出联名或适配产品。"
+      "info_brief": "氢能公交年亏6.7亿仍扩张，存在停运和骗补问题，经济账矛盾突出。",
+      "opportunity_insight": "氢能产业泡沫风险高，但核心部件如燃料电池电堆仍有技术突破机会。",
+      "procurement_insight": "谨慎采购氢能相关电子配件，优先选择有实际订单的供应商，避免库存积压。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订开启。",
-      "opportunity_insight": "新车发布带动汽车后市场，可推广车载电子、装饰件等，吸引车主消费。",
-      "procurement_insight": "针对比亚迪车主，推出车载吸尘器、智能后视镜等配件，结合盲订热点做限时优惠。"
+      "info_brief": "杭州小龙虾降价超50%，因产地轮换和货源充足，中青规格每斤12元。",
+      "opportunity_insight": "小龙虾降价释放消费力，可能带动夏季户外3C数码产品（如蓝牙音箱、运动相机）需求。",
+      "procurement_insight": "结合夏季消费热点，推出“小龙虾季”3C数码促销活动，主推便携式音响、防水手机壳等。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "个护健康需求增长，低价促销可吸引价格敏感用户，拓展3C数码周边品类。",
-      "procurement_insight": "建议与洗发水品牌合作，在3C数码页面捆绑销售，或作为赠品提升客单价。"
+      "info_brief": "中央网信办开设“涉AI应用乱象举报专区”，整治AI生成内容标识、虚假信息等14类问题。",
+      "opportunity_insight": "政策规范AI应用，利好合规AI硬件和软件企业，推动行业健康竞争。",
+      "procurement_insight": "优先采购合规AI产品（如AI PC、智能音箱），与供应商确认内容标识合规性，规避政策风险。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势调整，面向收藏市场。",
-      "opportunity_insight": "二次元及手办市场火热，高精度人偶可吸引游戏玩家和收藏者，带动周边消费。",
-      "procurement_insight": "评估与知名IP合作，引入限量版人偶，在游戏硬件专区推广，提升用户粘性。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "高成交量反映市场流动性充裕，投资者资金充裕，可能刺激高端3C数码产品消费。",
+      "procurement_insight": "加大高端3C数码产品（如旗舰手机、游戏本）的库存备货，利用市场活跃期推出促销活动。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "CNC"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获金奖，引发食品安全讨论。",
-      "opportunity_insight": "话题性强，可借势营销厨房电器，如空气炸锅、滤油机，吸引健康意识消费者。",
-      "procurement_insight": "策划“健康烹饪”专题，主推空气炸锅等产品，结合内容营销提升转化。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体、电信板块跌幅居前。",
+      "opportunity_insight": "市场情绪回暖，资金流向防御性板块，可能带动3C数码消费信心回升，但半导体板块下跌需警惕。",
+      "procurement_insight": "关注贵金属板块对智能穿戴设备（如金饰智能手表）的联动效应，可备货相关产品；半导体下跌时，可谈判芯片采购价格。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
+      "category_id": "ai-nas",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "CNC"
+        "NAS"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或领先。",
-      "opportunity_insight": "新显卡发布在即，高端玩家和创作者需求旺盛，可提前布局预售和捆绑销售。",
-      "procurement_insight": "与NVIDIA沟通首发合作，准备库存和营销素材，针对特殊型号推出限量套餐。"
+      "info_brief": "WAVES大会今年盛夏在番禺举办，聚焦36岁以下创业者和投资人，含AI集市。",
+      "opportunity_insight": "年轻创业者聚集，AI集市展示前沿科技，是推广3C数码创新产品（如AI穿戴设备）的良机。",
+      "procurement_insight": "赞助WAVES大会并设展位，展示最新AI数码产品，现场提供折扣码，吸引创业圈用户。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
+      "category_id": "ai-nas",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "CNC"
+        "NAS"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板需求稳定，WIFI6E成为标配，可吸引预算有限但追求新技术的用户。",
-      "procurement_insight": "与技嘉合作首发，搭配中低端CPU和内存套装，突出无线优势，抢占装机市场。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，售价48元，揭示国产单机困境。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，但国产单机缺乏类似爆款，需关注内容创新和定价策略。",
+      "procurement_insight": "采购国产独立游戏周边硬件（如手柄、键盘），联合游戏厂商推出促销，刺激硬件销量。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
+      "category_id": "ai-nas",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "CNC"
+        "NAS"
       ],
-      "info_brief": "荣耀与张雪机车联名，签约两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "跨界联名智能手表可吸引机车爱好者群体，拓展运动户外细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "提前与荣耀沟通联名款备货计划，针对机车用户推出专属促销，如买表送骑行配件。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行生态。",
+      "opportunity_insight": "低空经济消费端产品空白被填补，水上飞行器带动相关3C配件（如防水相机、导航设备）需求。",
+      "procurement_insight": "与坦途科技合作推出捆绑销售套餐，采购防水电子配件，并监测竞品动态以快速响应。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
+      "category_id": "ai-nas",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "CNC"
+        "NAS"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计对标豪华品牌，可带动车载电子设备如智能座舱配件需求。",
-      "procurement_insight": "关注理想L8上市后车载配件兼容性，提前备货车载充电器、支架等，与理想合作联合推广。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C新品（如VR/AR设备、游戏外设）的绝佳场景。",
+      "procurement_insight": "联合参展商推出ChinaJoy限定版产品，提前备货热门游戏配件，并策划现场体验促销活动。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "",
+      "category_id": "ai-nas",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "CNC"
+        "NAS"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件如高算力芯片、传感器需求增长，利好相关3C配件。",
-      "procurement_insight": "增加智能驾驶相关配件如行车记录仪、雷达模块的采购，与蔚来等车企合作推出适配产品。"
+      "info_brief": "算力价格持续下降，百万Token仅需几块钱，OpenAI考虑大幅降价。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码产品中AI功能集成需求激增，如智能音箱、PC等。",
+      "procurement_insight": "提前布局AI算力芯片和边缘计算设备采购，与供应商锁定低价合同，抢占性价比市场。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为品牌效应强，科技法拉利概念吸引高端用户，可带动智能车载配件和生态产品。",
-      "procurement_insight": "与华为沟通新品发布计划，提前备货车载互联设备，策划高端用户专属促销。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁；钉钉CEO换帅；SK海力士设备供应商要求涨价；端午前机票价格跳水。",
+      "opportunity_insight": "太空经济升温带动相关电子设备需求，SK海力士涨价预示存储芯片市场紧张，需关注供应链波动。",
+      "procurement_insight": "建议提前锁定存储芯片库存，评估太空产业电子元器件供应商，优化采购成本以应对涨价风险。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "改装文化热度高，带动个性化汽车配件需求，如大尺寸轮毂、机甲风格装饰。",
-      "procurement_insight": "引入改装风格3C配件，如氛围灯、外挂音箱，与手工耿合作联名款推广。"
+      "info_brief": "力普司获数千万元融资，专注船舶综合电力推进系统国产化，半年订单超5000万，瞄准港口拖轮等场景。",
+      "opportunity_insight": "船舶电力推进系统国产化趋势下，相关电子元器件和控制系统需求激增，市场潜力大。",
+      "procurement_insight": "建议采购部门关注船舶电子元器件供应商，提前布局电力推进系统相关芯片和传感器供应链。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量突破3232万，降价1000元后热销。",
-      "opportunity_insight": "高端手机市场对价格敏感，降价策略有效刺激销量，需关注苹果后续定价动向。",
-      "procurement_insight": "加大iPhone 17系列备货，重点推广降价机型，配合以旧换新活动提升转化。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业将非核心职能外包，推动生产性服务业发展，工业用品需求升级。",
+      "opportunity_insight": "工业用品智能化、绿色化需求增加，如智能仓储设备、节能工具，市场空间广阔。",
+      "procurement_insight": "建议加强与工业用品供应商合作，引入智能仓储和绿色认证产品，优化企业采购供应链效率。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "PC性能升级需求增加，系统优化将带动硬件更新换代，尤其是内存和SSD。",
-      "procurement_insight": "提前备货高性能内存和SSD，联合品牌推Windows 11优化套装，抢占升级潮。"
+      "info_brief": "周志峰将北京房产换成菜市口附近院子，经设计师改造为多功能空间，毗邻法源寺，体现城市院落生活趋势。",
+      "opportunity_insight": "城市院落改造和智能家居需求增长，可推动3C数码产品在庭院场景的集成应用，如智能安防、环境控制。",
+      "procurement_insight": "建议与设计师合作开发庭院智能套装，采购智能门锁、传感器和户外音箱，打造差异化产品线。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "战场扩大、打法转变：阿里不想喊停，美团也不想输",
+      "url": "https://www.tmtpost.com/8025338.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "蒋凡调兵遣将，美团不甘示弱。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "国产开源工具崛起，吸引开发者生态，可能带动小米相关硬件需求。",
-      "procurement_insight": "关注小米开发者社区，备货小米笔记本和配件，推出开发者专属优惠套餐。"
+      "info_brief": "阿里与美团竞争升级，蒋凡调兵，美团反击，本地生活战场扩大。",
+      "opportunity_insight": "竞争加剧推动即时配送和智能终端需求，如无人机、配送机器人，利好3C数码硬件。",
+      "procurement_insight": "加大配送机器人、智能终端采购，与阿里美团合作试点，抢占本地生活数字化供应链先机。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "路虎揽胜极光L降价至17.98万，近90万神车大幅促销。",
-      "opportunity_insight": "汽车降价潮波及高端品牌，但非3C品类，需警惕消费转移对电子产品的冲击。",
-      "procurement_insight": "非3C相关，忽略此条，聚焦核心品类，避免资源分散。"
+      "info_brief": "KTV无人化通过减少服务人员提升盈利，模式转向自助化。",
+      "opportunity_insight": "无人化趋势推动自助点歌、支付设备需求，如触摸屏、音响系统，市场向低成本转型。",
+      "procurement_insight": "推广自助KTV硬件套装，包括智能终端和音响，与运营商合作定制化采购，降低人力依赖。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "影子市场交易预示SpaceX股票涨幅超过35%",
+      "url": "https://36kr.com/newsflashes/3849756705821705?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "影子市场预示SpaceX股票上市表现强劲，预期股价至少上涨35%。该公司是埃隆·马斯克的火箭、卫星和人工智能业务。在线经纪商IG国际提供的衍生品新加坡周五上午指向市值2.4万亿美元，这意味着较首次公开招股时每股135美元的价格和1.77万亿美元的估值高出35%以上。（财联社）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，成本压力传导至产品设计。",
-      "opportunity_insight": "存储芯片涨价影响苹果产品，安卓阵营或受益，消费者可能转向性价比品牌。",
-      "procurement_insight": "增加安卓高端机型备货，尤其是存储配置灵活的产品，强调性价比优势。"
+      "info_brief": "影子市场预示SpaceX股票上市后估值达2.4万亿美元，较IPO价涨超35%。",
+      "opportunity_insight": "SpaceX估值飙升反映航天与AI硬件需求爆发，带动卫星通信、火箭零部件市场。",
+      "procurement_insight": "加强卫星通信模块和高端电子元器件采购，与SpaceX供应链对接，提升3C数码在航天领域布局。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引入宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货在高端商品领域的潜力。",
-      "opportunity_insight": "直播带货向高客单价商品扩展，3C数码可借鉴此模式，联合大主播推广高端产品，提升品牌曝光和销量。",
-      "procurement_insight": "与头部主播合作，策划高端3C产品（如游戏本、旗舰手机）专场直播，利用秒杀机制刺激购买，并优化库存备货。"
+      "info_brief": "碳生万物完成A轮融资，用于宁夏千吨级DAC制备e-SAF项目及技术迭代。",
+      "opportunity_insight": "碳捕集与可持续航空燃料技术受资本追捧，预示绿色能源硬件需求增长，如传感器、控制系统。",
+      "procurement_insight": "关注碳捕集设备供应商，提前布局高精度传感器和自动化控制组件采购，抢占绿色科技供应链。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "Win11/10正式版官方镜像(24H2)提供直接下载，用户可免费获取最新系统。",
-      "opportunity_insight": "新系统发布带动硬件升级需求，尤其是支持新功能的PC设备，如AI PC和游戏本，市场换机潮将至。",
-      "procurement_insight": "提前备货兼容Win11 24H2的PC和配件，联合微软做系统预装促销，并主推高配置机型吸引升级用户。"
+      "info_brief": "港股理想汽车涨超8%，股价午后持续拉升。",
+      "opportunity_insight": "理想汽车股价上涨反映市场对新能源车行业信心，可能带动车载3C数码需求。",
+      "procurement_insight": "加强与理想汽车等车企合作，拓展车载充电器、智能座舱配件等产品供应。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "快科技2025年度评奖启动，评选年度优秀科技产品，涵盖3C数码领域。",
-      "opportunity_insight": "评奖活动能提升获奖产品公信力和曝光度，带动消费者购买决策，是品牌营销和销量增长的好机会。",
-      "procurement_insight": "筛选潜力产品参与评奖，获奖后加大推广力度，设置专题页面和优惠券，并利用奖项标签提升搜索排名。"
+      "info_brief": "美国银行预测，到2030年服务器CPU市场规模将激增4倍至超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI需求加速，英特尔、AMD等厂商受益。",
+      "procurement_insight": "提前与英特尔、AMD等厂商锁定服务器CPU订单，布局AI服务器相关产品线。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "国产厂商完全绕开ASML深紫外光刻路线，实现芯片制造技术突破。",
-      "opportunity_insight": "国产芯片技术突破将降低对进口设备依赖，推动本土半导体产业链发展，利好国产3C数码产品自主化。",
-      "procurement_insight": "关注国产芯片进展，优先采购国产芯片产品（如存储、处理器），与供应商建立长期合作，降低供应链风险。"
+      "info_brief": "招商证券完成换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商高层变动可能影响资本市场策略，但短期对3C数码行业直接影响有限。",
+      "procurement_insight": "关注招商证券新管理层对科技行业融资支持政策，调整与券商合作策略。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的广泛讨论。",
-      "opportunity_insight": "AI监管讨论可能影响产品合规性，但AI技术仍为3C数码创新核心，需平衡安全与市场应用。",
-      "procurement_insight": "采购AI硬件时确保合规，关注安全认证，同时投资AI功能产品（如智能音箱、AI PC），抢占合规先机。"
+      "info_brief": "IDC报告显示，蚂蚁数科位列中国智能体平台私有化市场非云厂商第一，市场总规模达17.5亿元。",
+      "opportunity_insight": "智能体平台私有化市场快速增长，非云厂商崛起，企业级AI应用需求旺盛。",
+      "procurement_insight": "可引入蚂蚁数科等私有化智能体平台产品，拓展企业客户AI解决方案业务。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助力华为国内市场份额登顶。",
-      "opportunity_insight": "高端手机市场回暖，华为强势回归，需关注其供应链和用户忠诚度，抢占换机红利。",
-      "procurement_insight": "加大华为Mate 80系列备货，联合运营商推出合约机，并布局配件如保护壳、充电器。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股的做多杠杆，提高融资成本。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求强劲，可关注低价布局机会。",
+      "procurement_insight": "建议暂缓增加SK海力士、三星相关存储产品库存，观察市场回调后择机补货。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "iOS 27系统更新，为中国用户带来类似安卓的实用功能，提升体验。",
-      "opportunity_insight": "苹果系统功能补齐，可能刺激iPhone换机潮，尤其是安卓用户转投，需提前布局。",
-      "procurement_insight": "预判iOS 27发布节点，增加iPhone 17系列库存，并策划以旧换新活动吸引安卓用户。"
+      "info_brief": "味之素CEO警告ABF关键材料定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF材料涨价可能推高高端芯片成本，但推动替代材料研发，为供应链创新带来机会。",
+      "procurement_insight": "提前布局ABF替代材料供应商，如玻璃基板或有机基板，同时与现有供应商谈判价格锁定。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，定位家族收官旗舰，性价比高。",
-      "opportunity_insight": "小米高端机型持续发力，徕卡影像成差异化卖点，可吸引摄影爱好者，市场潜力大。",
-      "procurement_insight": "重点采购小米17T Pro，搭配徕卡配件促销，并利用评测内容做直播带货，强化影像标签。"
+      "info_brief": "欧洲央行管委内格尔称已为7月保留所有选择，随时准备加息应对通胀。",
+      "opportunity_insight": "加息预期可能抑制消费，但3C数码作为刚需受影响有限，机会在于提前锁定成本。",
+      "procurement_insight": "建议在7月前加速采购关键元器件，避免加息导致融资成本上升，同时与供应商谈判长期合同。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "AOC发布2499元高刷电竞显示器，主打性价比，面向游戏玩家。",
-      "opportunity_insight": "电竞显示器价格下探，中低端市场扩容，可满足学生和入门玩家需求，销量可期。",
-      "procurement_insight": "批量采购AOC新品，与游戏本捆绑销售，并设置学生优惠，在开学季主推。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好消费电子需求，欧洲市场购买力可能增强，为3C产品出口提供机会。",
+      "procurement_insight": "可加大欧洲市场3C产品备货，尤其是中高端数码设备，利用稳定经济环境提升销量。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力，从基层做起。",
-      "opportunity_insight": "英伟达CEO励志故事提升品牌好感度，可借势推广其显卡产品，增强用户信任。",
-      "procurement_insight": "策划“黄仁勋精神”主题促销，主推英伟达显卡，并附赠品牌故事卡，提升情感共鸣。"
+      "info_brief": "全球银行限制对冲基金对SK海力士、三星等芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，但长期需求仍强，可关注低价采购机会，尤其是存储芯片领域。",
+      "procurement_insight": "建议短期减少对SK海力士和三星的过度依赖，分散采购至其他芯片供应商，如美光或国产替代品。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "内存暴涨带动旧显卡回收价值提升，因内含黄金等贵金属。",
-      "opportunity_insight": "旧显卡回收市场升温，可联合回收平台推出以旧换新活动，吸引用户升级显卡。",
-      "procurement_insight": "与回收商合作，对旧显卡估价补贴，促进高端显卡销售，同时提升用户粘性。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能影响相关金融科技股，但3C数码市场独立，机会在于关注资本流向对科技投资的间接影响。",
+      "procurement_insight": "无需直接应对，但可监测退市对科技股波动，适时调整库存策略以应对潜在市场情绪变化。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀售价54元。",
-      "opportunity_insight": "父亲节礼品需求旺盛，低价剃须刀可吸引价格敏感用户，带动节日消费。",
-      "procurement_insight": "加大飞科剃须刀备货，配合父亲节专题页推广，突出性价比和送礼场景。"
+      "info_brief": "三只羊大数据公司变更负责人，由杜刚接任。",
+      "opportunity_insight": "管理层变动可能影响公司战略，但大数据服务需求稳定，可探索合作机会。",
+      "procurement_insight": "关注三只羊大数据新动向，评估合作潜力，优先采购其数据服务以优化供应链。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "AMD新规范下放600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板性能升级可刺激用户换新需求，尤其吸引游戏玩家和DIY爱好者。",
-      "procurement_insight": "联合华硕微星推广新BIOS主板，捆绑AMD处理器促销，强调性能提升卖点。"
+      "info_brief": "比亚迪泰国工厂桶装水上的BYD logo被员工精心裁剪盗走，反映品牌认同感与内部管理细节问题。",
+      "opportunity_insight": "品牌符号在海外市场具有高价值，可开发防伪或品牌定制周边产品，满足员工和消费者认同需求。",
+      "procurement_insight": "建议采购部门关注东南亚市场品牌周边产品需求，引入定制化办公用品或促销品，提升员工归属感。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习。",
-      "opportunity_insight": "汽车行业加速迭代，可能带动车载3C配件需求，如智能车机、充电设备。",
-      "procurement_insight": "关注车载电子品类，提前布局适配新车型的配件，与车企合作拓展渠道。"
+      "info_brief": "氢能公交年亏6.7亿仍投资，存在停运和骗补问题，经济账矛盾。",
+      "opportunity_insight": "氢能公交亏损但政策驱动，核心硬件如燃料电池、储氢系统需求稳定，但需警惕泡沫。",
+      "procurement_insight": "谨慎采购氢能相关电子控制单元，聚焦政策补贴明确区域，优先与头部车企合作降低风险。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水促销价29.9元，主打控油养发。",
-      "opportunity_insight": "低价护发产品可吸引注重头皮健康的用户，适合快消品冲量。",
-      "procurement_insight": "与品牌商谈独家低价，在个护频道重点推广，搭配满减活动提升客单价。"
+      "info_brief": "杭州小龙虾价格降超50%，因产地轮换和货源充足。",
+      "opportunity_insight": "小龙虾降价与3C数码无直接关联，但可借势促销活动吸引流量。",
+      "procurement_insight": "策划跨界促销，如买3C产品送小龙虾券，提升用户粘性和销量。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "比亚迪海豹08曜石黑车漆亮相，盲订同步开启，主打百万级同款质感。",
-      "opportunity_insight": "汽车周边3C产品（如车载充电器、记录仪）可借势高端车漆话题，吸引车主关注，提升产品溢价空间。",
-      "procurement_insight": "联合汽车配件品牌推出曜石黑主题套装，在京东汽车频道及3C专区联动推广，利用盲订热点引流。"
+      "info_brief": "中央网信办开设AI应用乱象举报专区，整治生成合成内容等问题。",
+      "opportunity_insight": "监管加强可能抑制AI应用乱象，但合规AI工具需求上升，利好相关硬件。",
+      "procurement_insight": "采购符合监管的AI硬件，如安全芯片和服务器，并推广合规AI产品以抢占市场。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持大胆姿势调整，主打收藏与展示。",
-      "opportunity_insight": "二次元手办市场持续增长，高可动性人偶满足宅文化需求，可拓展高端收藏品类。",
-      "procurement_insight": "引入或合作开发IP授权手办，重点推广可动关节设计，结合京东潮玩频道进行预售和限量发售。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "高成交额反映市场资金充裕，可能带动3C数码消费需求，尤其是高端设备。",
+      "procurement_insight": "增加高端3C数码产品备货，如高性能电脑和配件，利用市场热度提升销量。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获日本炸鸡金奖，强调传统工艺。",
-      "opportunity_insight": "食品科技类3C产品（如空气炸锅、智能控温油锅）可借势传统工艺故事，突出健康与效率对比。",
-      "procurement_insight": "策划“传统vs科技”专题，推荐高端空气炸锅，强调无油或少油烹饪，对比传统炸鸡店案例吸引健康消费者。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体、电信板块跌幅居前。",
+      "opportunity_insight": "半导体板块下跌可能带来低价采购机会，但需关注市场情绪波动，谨慎布局库存。",
+      "procurement_insight": "建议暂缓半导体品类大规模采购，观望市场回调，优先保障高需求通信设备库存。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
+      "category_id": "ai-glasses",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "NAS"
+        "AI眼镜"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布前，高端游戏玩家和创作者有升级需求，特殊型号可制造差异化卖点。",
-      "procurement_insight": "提前与NVIDIA及品牌商沟通备货，针对特殊型号制定预售方案，联合游戏社区进行性能评测预热。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦年轻创业者和AI集市。",
+      "opportunity_insight": "年轻创业者聚集，AI集市展示前沿科技，是推广3C新品和建立B端合作的好机会。",
+      "procurement_insight": "在大会设置展台，重点展示AI眼镜和智能硬件，并与初创公司洽谈采购合作，引入创新产品。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
+      "category_id": "ai-glasses",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "NAS"
+        "AI眼镜"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比与无线连接。",
-      "opportunity_insight": "入门级主板市场对WiFi6E需求增长，适合家庭办公和轻度游戏用户，可抢占低价位份额。",
-      "procurement_insight": "与技嘉协商独家首发或套装优惠，搭配入门级CPU和内存促销，在京东DIY频道主推“无线升级”概念。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，国产单机面临困境。",
+      "opportunity_insight": "独立游戏市场潜力大，但国产单机缺乏爆款，可借机推广游戏硬件如手柄、显卡。",
+      "procurement_insight": "采购高性价比游戏手柄和显卡，与独立游戏平台合作促销，吸引玩家升级设备。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
+      "category_id": "ai-glasses",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "NAS"
+        "AI眼镜"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者群体，拓展运动户外细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，策划机车主题促销活动，结合618节点推广。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济。",
+      "opportunity_insight": "低空经济消费端空白被填补，水上飞行器或带动相关3C配件如防水相机、导航设备需求。",
+      "procurement_insight": "采购防水电子配件和户外运动相机，与坦途科技合作捆绑销售，拓展户外3C品类。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
+      "category_id": "ai-glasses",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "NAS"
+        "AI眼镜"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫和宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8定位豪华，可带动车载3C配件如充电器、记录仪需求。",
-      "procurement_insight": "关注理想L8上市后用户反馈，备货车载智能设备，与理想合作推出配件套装。"
+      "info_brief": "ChinaJoy将设前沿科技展区，聚焦数字娱乐与AI产品。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C新品、尤其是AI眼镜和游戏外设的绝佳场景。",
+      "procurement_insight": "联合参展品牌推出ChinaJoy限定套餐，重点采购VR/AR设备及高性能游戏配件，提前备货。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力��格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "",
+      "category_id": "ai-glasses",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "NAS"
+        "AI眼镜"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件升级，如高算力芯片、传感器需求增长。",
-      "procurement_insight": "增加智能驾驶相关3C产品采购，如车载摄像头、雷达模块，关注特斯拉FSD适配设备。"
+      "info_brief": "AI算力价格大幅下降，OpenAI考虑降价，儿童铁路票半价。",
+      "opportunity_insight": "算力成本降低将推动AI硬件普及，3C数码产品如智能眼镜、AI终端需求可能激增。",
+      "procurement_insight": "提前与AI芯片供应商谈判，锁定低价算力资源，并增加智能穿戴设备备货，抢占市场先机。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为品牌效应可带动其智能座舱、车联网设备在高端市场渗透。",
-      "procurement_insight": "提前与华为车BU沟通新品配件合作，上架车载智能屏、音响等，打造科技感套装。"
+      "info_brief": "SpaceX上市在即，马斯克或成万亿富翁，美股太空股提前狂欢。",
+      "opportunity_insight": "太空经济升温，3C数码产品如卫星通信设备和太空级芯片需求将激增，市场潜力巨大。",
+      "procurement_insight": "提前布局卫星通信配件和太空级电子元器件，与SpaceX供应商建立合作，抢占新兴市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "个性化改装潮流催生汽车改装电子配件需求，如LED灯带、音响系统。",
-      "procurement_insight": "与手工耿合作推出改装主题促销，上架机甲风格车载电子配件，吸引年轻用户。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万。",
+      "opportunity_insight": "船舶电动化趋势带来3C数码需求，如电池管理系统和智能传感器，可切入船舶配套市场。",
+      "procurement_insight": "与力普司合作，提供高可靠性电池管理芯片和传感器，用于船舶电力系统，抢占国产替代机遇。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销量激增。",
-      "opportunity_insight": "高端手机市场对价格敏感，降价策略有效刺激销量，需关注苹果后续定价动向。",
-      "procurement_insight": "加大iPhone 17系列备货，尤其关注降价型号，提前锁定供应商库存以应对需求高峰。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业外包非核心职能，推动生产性服务业发展。",
+      "opportunity_insight": "工业品制造与流通报告显示，3C数码供应链需强化智能化采购和仓配服务，满足制造业外包需求。",
+      "procurement_insight": "优化3C数码工业品采购平台，提供智能仓配和供应链协同服务，吸引制造企业外包非核心职能。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动老旧PC升级换代，带动硬件需求增长。",
-      "procurement_insight": "提前与PC厂商合作，推广适配Windows 11的硬件组合，重点备货高性能SSD和内存。"
+      "info_brief": "周志峰将北京房产换成菜市口院子，由设计师打造多功能空间，融合自然与历史。",
+      "opportunity_insight": "高端定制化生活空间需求增长，3C数码产品可瞄准智能家居集成，如智能照明和安防系统。",
+      "procurement_insight": "与设计师合作推出智能家居套装，针对高端院落场景，提供定制化智能控制方案，提升用户体验。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "战场扩大、打法转变：阿里不想喊停，美团也不想输",
+      "url": "https://www.tmtpost.com/8025338.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "蒋凡调兵遣将，美团不甘示弱。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米相关硬件和云服务需求。",
-      "procurement_insight": "关注小米开发者社区动态，备货配套开发板及配件，与小米合作推出捆绑促销。"
+      "info_brief": "阿里与美团竞争升级，蒋凡调兵，美团反击，战场扩大。",
+      "opportunity_insight": "本地生活竞争带动配送设备、智能终端需求，如外卖柜、无人机配件。",
+      "procurement_insight": "加强即时配送相关数码产品，如智能保温箱、定位器，与平台合作定制。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮可能影响消费者预算分配，但非3C品类，需警惕跨界竞争。",
-      "procurement_insight": "不直接关联3C，但可借势推出车载电子促销，如行车记录仪、车载充电器。"
+      "info_brief": "KTV无人化趋势，通过减少服务人员提升盈利，依赖自助设备。",
+      "opportunity_insight": "无人化场景推动自助终端、智能音响、点歌系统等3C数码需求增长。",
+      "procurement_insight": "开发KTV专用自助点歌屏、智能音响套装，提供一站式无人化解决方案。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引��宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "苹果因存储涨价屏幕缩水，成本压力传导至产品配置。",
-      "opportunity_insight": "存储涨价影响苹果产品配置，消费者可能转向性价比更高的替代品。",
-      "procurement_insight": "增加国产存储品牌备货，如长江存储产品，并推广高性价比安卓平板和笔记本。"
+      "info_brief": "碳生万物完成A轮融资，用于DAC制e-SAF项目，宁德时代等跟投。",
+      "opportunity_insight": "碳捕集技术带动新能源设备需求，3C数码中节能型电源、储能配件市场潜力大。",
+      "procurement_insight": "引入节能认证数码产品，如低功耗充电器、太阳能充电宝，布局绿色消费标签。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "李佳琦直播卖奔驰，40台车秒售罄，显示直播带货向高客单价商品拓展。",
-      "opportunity_insight": "直播渠道可撬动高客单价3C数码产品，如高端笔记本、游戏主机，需探索与头部主播合作。",
-      "procurement_insight": "评估与头部主播合作，针对高端3C产品策划限量秒杀活动，测试高客单价商品直播转化效果。"
+      "info_brief": "港股理想汽车午后涨超8%，股价持续拉升。",
+      "opportunity_insight": "汽车智能化趋势利好3C数码配件，如车载智能设备、充电配件需求可能增长。",
+      "procurement_insight": "关注车载电子品类，提前备货车载充电器、智能支架等，与汽车品牌联动促销。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "Win11/24H2正式版官方镜像可直接下载，用户升级需求增加。",
-      "opportunity_insight": "新系统发布带动PC换机潮，尤其是支持AI功能的设备，可提前备货适配新品。",
-      "procurement_insight": "加大预装Win11/24H2的笔记本和台式机采购，联合品牌推出升级促销，抢占换机窗口。"
+      "info_brief": "美国银行预测服务器CPU市场规模到2030年激增4倍至超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU需求爆发，英特尔、AMD及Arm架构芯片受益，京东可扩大服务器及CPU采购布局。",
+      "procurement_insight": "提前与英特尔、AMD等厂商签订长期采购协议，增加服务器CPU库存，并引入Arm架构新品抢占市场。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "快科技2025年度评奖启动，评选年度优秀科技产品。",
-      "opportunity_insight": "获奖产品将获高曝光，可提前锁定潜力爆款，借势营销提升销量。",
-      "procurement_insight": "关注评奖动态，优先采购获奖或提名3C产品，策划专题促销活动引流。"
+      "info_brief": "招商证券换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商换帅可能调整投资策略，影响3C数码行业融资环境，需关注其对供应链金融的影响。",
+      "procurement_insight": "评估招商证券新管理层对科技股投资偏好，调整与券商合作的供应链融资方案，确保资金稳定。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "国产厂商绕开ASML深紫外光刻路线，实现芯片制造技术突破。",
-      "opportunity_insight": "国产芯片自主化加速，可能带动国产3C设备需求，如国产CPU电脑。",
-      "procurement_insight": "增加国产芯片设备采购，如龙芯、飞腾笔记本，布局国产替代市场，满足政企需求。"
+      "info_brief": "IDC报告显示蚂蚁数科位列中国智能体平台私有化市场非云厂商第一，市场总规模17.5亿元。",
+      "opportunity_insight": "智能体平台私有化市场增长，蚂蚁数科领先，可合作推广AI解决方案，带动3C数码智能硬件销售。",
+      "procurement_insight": "与蚂蚁数科洽谈联合营销，将智能体平台与京东AI硬件捆绑，提升企业客户采购转化。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发行业对AI安全与伦理讨论。",
-      "opportunity_insight": "AI监管趋严可能推动合规AI硬件需求，如安全芯片、隐私计算设备。",
-      "procurement_insight": "关注AI安全政策，提前采购支持隐私计算或加密的硬件，如安全U盘、可信计算模块。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股做多杠杆，担忧回调风险。",
+      "opportunity_insight": "市场回调可能压低芯片价格，为京东采购存储芯片和半导体产品创造低价囤货窗口。",
+      "procurement_insight": "密切跟踪SK海力士、三星股价及存储芯片现货价，在回调期分批采购以降低成本。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "华为高端机型热销，显示国产旗舰市场强劲需求，可加大华为及国产高端配件备货。",
-      "procurement_insight": "提前锁定华为Mate 80系列及周边配件库存，联合品牌做以旧换新促销，抢占高端用户。"
+      "info_brief": "味之素警告ABF关键材料定价过高，或迫使芯片制造商转向替代品，影响高端芯片封装。",
+      "opportunity_insight": "ABF材料涨价可能推动国产替代或新技术路线，为京东引入新型封装材料供应商提供机会。",
+      "procurement_insight": "关注ABF替代材料供应链，提前与潜在供应商接洽，储备库存以应对芯片封装市场波动。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "iOS 27版本重大更新，中国果粉将获得安卓已有功能。",
-      "opportunity_insight": "苹果系统升级或刺激换机潮，尤其吸引安卓用户回流，需关注iPhone新机及配件需求。",
-      "procurement_insight": "增加iPhone及兼容配件采购，策划“安卓转苹果”专题活动，利用系统更新热点引流。"
+      "info_brief": "欧洲央行管委内格尔表示7月保留加息选项，因能源价格冲击需持续应对。",
+      "opportunity_insight": "加息预期可能抑制消费，但3C数码产品刚需性强，需关注欧洲市场购买力变化。",
+      "procurement_insight": "提前备货欧洲市场，锁定库存，应对加息可能带来的需求波动，优化资金周转。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米旗舰机口碑好，徕卡长焦成卖点，中高端市场有潜力，可结合摄影需求推广。",
-      "procurement_insight": "加大小米17T Pro及徕卡配件采购，联合摄影KOL做评测，突出长焦优势吸引摄影爱好者。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，通胀压力稳定。",
+      "opportunity_insight": "通胀稳定利于消费信心，欧洲市场对3C数码产品需求可能保持平稳。",
+      "procurement_insight": "维持欧洲市场采购计划，关注汇率波动，优化跨境供应链成本。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "AOC发布2499元高刷电竞显示器新品。",
-      "opportunity_insight": "高性价比电竞显示器需求旺盛，价格下探至2500元内，可吸引游戏玩家升级装备。",
-      "procurement_insight": "批量采购AOC新品，搭配游戏主机或显卡做捆绑销售，在电竞社区投放广告。"
+      "info_brief": "全球银行限制对冲基金对SK海力士和三星等芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，但长期需求强劲，可趁价格波动锁定优质供应商资源。",
+      "procurement_insight": "与SK海力士、三星等供应商协商长期合同，对冲价格波动，确保芯片供应稳定。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力。",
-      "opportunity_insight": "黄仁勋个人故事引发关注，可借势推广NVIDIA显卡及AI产品，提升品牌认同感。",
-      "procurement_insight": "策划“努力与创新”主题促销，主推NVIDIA显卡，结合黄仁勋语录做社交媒体传播。"
+      "info_brief": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能影响资本流动，但对3C数码行业无直接关联，需关注市场情绪波动。",
+      "procurement_insight": "保持现有采购策略，无需调整，但可监控资本市场变化对消费信心的潜在影响。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "内存暴涨带动旧显卡回收价值提升，其中可提炼黄金，避免当废铁处理。",
-      "opportunity_insight": "旧显卡回收市场潜力大，可结合黄金价格波动推出以旧换新活动，吸引用户升级。",
-      "procurement_insight": "与回收商合作，推出旧显卡折价换新计划，重点推广高价值型号，提升用户粘性。"
+      "info_brief": "合肥三只羊大数据运营公司变更负责人，杜刚接任法定代表人，公司主营大数据服务。",
+      "opportunity_insight": "大数据服务需求增长，AI眼镜等智能设备依赖数据处理，可关注相关数据服务商合作机会。",
+      "procurement_insight": "评估与大数据服务商合作，提升AI眼镜数据处理能力，优化用户体验，抢占市场先机。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀售价54元，作为节日礼品。",
-      "opportunity_insight": "父亲节礼品需求旺盛，低价剃须刀可吸引价格敏感用户，带动3C配件销售。",
-      "procurement_insight": "备货飞科剃须刀，捆绑销售充电宝或耳机，设置满减券，提升客单价。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工精心裁剪收藏，反映品牌认同感强。",
+      "opportunity_insight": "品牌符号在海外工厂被珍视，显示3C数码品牌可借文化认同提升员工忠诚度，推动本地化生产。",
+      "procurement_insight": "建议与比亚迪合作，在泰国工厂推广定制化3C数码配件，如带有品牌Logo的耳机或充电器，增强员工归属感。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星更新BIOS，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好现有用户，可推动老用户升级，带动CPU和内存销售。",
-      "procurement_insight": "联合华硕微星推出BIOS更新教程，捆绑促销兼容CPU，设置限时折扣刺激升级。"
+      "info_brief": "氢能公交年亏6.7亿仍扩张，存在停运和骗补问题，经济账矛盾。",
+      "opportunity_insight": "氢能产业波动，但公交数字化改造需求稳定，如车载监控、智能调度设备。",
+      "procurement_insight": "拓展公交系统数码配件，如行车记录仪、GPS模块，与新能源公交项目合作。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习，加速电动车开发。",
-      "opportunity_insight": "汽车行业加速电动化，3C数码可切入车载充电、智能配件等新兴市场。",
-      "procurement_insight": "提前布局车载充电器、智能后视镜等产品，与车企合作推出定制配件。"
+      "info_brief": "杭州小龙虾降价超50%，产地轮换导致货源充足，出口量增长。",
+      "opportunity_insight": "小龙虾降价刺激消费，可能带动家庭聚餐场景，间接提升智能厨电（如空气炸锅）需求。",
+      "procurement_insight": "联合厨电品牌推出小龙虾季促销，如智能烹饪设备，利用低价食材吸引流量。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水促销价29.9元，主打控油养发功能。",
-      "opportunity_insight": "低价护发产品吸引家庭用户，可结合男性用户需求，拓展3C数码周边。",
-      "procurement_insight": "与洗发水捆绑销售数码配件，如防脱发梳子或智能吹风机，设置满减活动。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容等问题。",
+      "opportunity_insight": "监管加强可能抑制低质AI应用，但合规AI硬件（如带标识功能的设备）需求或上升。",
+      "procurement_insight": "采购支持AI内容标识的硬件，如带水印功能的摄像头、AI审核芯片，满足合规需求。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "比亚迪海豹08曜石黑车漆亮相，盲订同步开启，主打百万级同款质感。",
-      "opportunity_insight": "汽车与3C数码跨界联动，可借势推出车载充电器、智能后视镜等配件，吸引车主群体。",
-      "procurement_insight": "与比亚迪合作，推出购车赠京东数码券活动，主推行车记录仪、车载净化器，提升关联销售。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "高成交量反映市场流动性充裕，投资者信心增强，可能刺激消费电子升级需求。",
+      "procurement_insight": "加大高端3C产品备货，如游戏本、高性能手机，利用市场热度推动促销活动。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势调整，主打收藏和展示市场。",
-      "opportunity_insight": "二次元手办市场热度高，高精度可动人偶可吸引核心玩家，带动周边数码配件需求。",
-      "procurement_insight": "采购同IP联名鼠标垫、耳机壳等数码周边，配合手办预售捆绑促销，提升客单价。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体跌幅居前。",
+      "opportunity_insight": "市场资金流向防御性板块，科技股承压，但航天军工板块活跃可能带动相关电子设备需求。",
+      "procurement_insight": "减少通信设备、半导体库存，增加航天军工相关电子元器件采购，如传感器、连接器。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "AI眼镜"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获日本炸鸡金奖，强调传统工艺。",
-      "opportunity_insight": "美食文化话题性强，可借势推广厨房小家电，如空气炸锅、智能控温炸锅，吸引烹饪爱好者。",
-      "procurement_insight": "策划“炸鸡神器”专题，主推空气炸锅和测温油锅，结合内容营销，提升品类曝光。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力额度。",
+      "opportunity_insight": "AI与金融结合创造新消费场景，可能带动智能硬件需求，如AI眼镜、算力设备。",
+      "procurement_insight": "关注AI算力相关3C产品，如高性能显卡、AI芯片，提前备货以应对潜在需求增长。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
+      "category_id": "ai-pc",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "AI眼镜"
+        "AIPC"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布在即，高端玩家和创作者换机需求旺盛，可提前布局预售和捆绑销售。",
-      "procurement_insight": "提前锁定RTX 50 Super首发货源，搭配高刷新率显示器、电源套装预售，抢占高端市场。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦年轻创业者和投资人，无传统形式。",
+      "opportunity_insight": "年轻创业者聚集，对前沿科技产品兴趣高，是推广AI PC和智能硬件的理想场景。",
+      "procurement_insight": "在WAVES设置产品展示区，主推便携式AI设备和智能穿戴，通过现场体验促进转化。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
+      "category_id": "ai-pc",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "AI眼镜"
+        "AIPC"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板需求稳定，WiFi6E功能可吸引预算有限但追求无线性能的用户，适合装机市场。",
-      "procurement_insight": "采购该主板并搭配AMD入门CPU、内存条组成套装，在618等大促期间主推，提升装机销量。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，国产单机面临困境。",
+      "opportunity_insight": "独立游戏市场潜力大，但国产单机缺乏支持，可借机推广游戏外设和PC硬件。",
+      "procurement_insight": "与独立游戏开发商合作，推出联名键盘、鼠标等外设，吸引游戏玩家，提升配件销量。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
+      "category_id": "ai-pc",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "AI眼镜"
+        "AIPC"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，联名款智能手表即将发售。",
-      "opportunity_insight": "跨界联名可吸引机车爱好者群体，拓展智能手表在户外运动场景的销售机会。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，在京东首页及运动频道重点推广，搭配机车配件促销。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济。",
+      "opportunity_insight": "低空经济消费市场空白，水上飞行器带动相关户外数码设备需求，如防水相机和无人机。",
+      "procurement_insight": "采购防水运动相机和无人机配件，与坦途科技合作捆绑销售，拓展户外数码品类。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
+      "category_id": "ai-pc",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "AI眼镜"
+        "AIPC"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV发布带动车载电子设备需求，如行车记录仪、智能后视镜等配件市场。",
-      "procurement_insight": "联合理想汽车推出购车送车载配件券活动，上架适配L8的3C产品，如车载充电器。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C数码新品、展示AI PC和游戏硬件的绝佳平台。",
+      "procurement_insight": "联合品牌在ChinaJoy设立体验区，主推游戏本和VR设备，通过互动活动提升销量。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-glasses",
-      "summary": "",
+      "category_id": "ai-pc",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "AI眼镜"
+        "AIPC"
       ],
-      "info_brief": "蔚来李斌表示特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶相关硬件（如传感器、芯片）需求增长。",
-      "procurement_insight": "关注智能驾驶芯片供应商动态，增加高算力芯片库存，与车企合作推广车载计算平台。"
+      "info_brief": "算力价格持续下降，百万Token仅需几块钱，OpenAI考虑大幅降价。",
+      "opportunity_insight": "算力成本降低将推动AI PC普及，消费者对高性能设备需求增加，市场机会显著。",
+      "procurement_insight": "提前布局AI PC供应链，与英特尔、AMD等厂商合作，推出高性价比产品，抢占市场份额。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为跨界造车引发关注，高端智能汽车或带动车载电子设备消费升级。",
-      "procurement_insight": "提前布局华为车载生态产品，如智能座舱配件，与华为合作首发活动。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁；钉钉CEO换帅；比尔·盖茨就爱泼斯坦案出席听证。",
+      "opportunity_insight": "太空经济热度提升，可推出太空主题3C产品，如定制键盘、鼠标，吸引科技爱好者。",
+      "procurement_insight": "采购太空主题联名配件，与SpaceX等品牌合作，在京东首发，利用上市热点促销。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂。",
-      "opportunity_insight": "个性化改装文化流行，带动大尺寸轮毂、机甲风格配件等小众市场。",
-      "procurement_insight": "引入改装风格配件，如轮毂、车贴，与手工耿合作推广，吸引DIY用户。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万，瞄准国产替代。",
+      "opportunity_insight": "船舶电动化市场爆发，可布局船用电池、电机等核心部件，抢占国产替代先机。",
+      "procurement_insight": "与力普司等初创企业合作，采购其测试用电子元器件，提供京东物流支持，加速产品迭代。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "什么样的机器人，是我们所期待的？",
+      "url": "https://www.leiphone.com/category/industrynews/CE76ykduYdOStDkC.html",
+      "source": "雷峰网",
       "sources": [
-        "快科技"
+        "雷峰网"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "智能已经学会了很多事。 它会推理，会生成，会在海量信息里迅速找到方向。 屏幕之内，一切都在加速。 可屏幕之外，支撑现实世界运转的任务，仍然必须有人到场，必须有人判断，必须有人行动。 所以今年，ATEC向一个更接近未来的问题，发出追问： 如果智能的下一步，不再只是理解世界，而是开始进入世界，开始承担任务—— 那么，我们该对它抱有怎样的期待？ 或者说，如果用一场赛事去回应我们的期待，这场赛事应该...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量突破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机市场仍有价格弹性，降价促销可有效刺激销量，需关注苹果定价策略对市场份额的影响。",
-      "procurement_insight": "建议加大iPhone 17系列备货，并策划限时降价活动，同时监控竞品动态以调整促销节奏。"
+      "info_brief": "ATEC赛事探讨智能机器人进入现实世界承担任务，强调智能从理解到行动的转变。",
+      "opportunity_insight": "智能机器人商业化加速，带动传感器、处理器、执行器等3C核心部件需求，市场前景广阔。",
+      "procurement_insight": "关注机器人赛事和技术论坛，挖掘初创企业需求，储备机器人用高性能芯片和传感器供应商资源。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动老旧PC换机需求，利好中高端PC及配件销售，可借势营销。",
-      "procurement_insight": "提前与PC厂商沟通，备货支持Win11优化的机型，并推出“升级套装”促销活动。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业将非核心职能外包，推动生产性服务业发展。",
+      "opportunity_insight": "工业品采购数字化需求增长，可提供一站式智能仓配和供应链协同解决方案，降低企业成本。",
+      "procurement_insight": "与工业品供应商合作，推出“智能采购包”服务，整合MRO产品，在京东企业购平台推广，提升复购率。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "6月15日上会！燧原科技营收三年高增，盈利拐点渐近",
+      "url": "https://www.leiphone.com/category/chips/zhn0h84fE91cixNf.html",
+      "source": "雷峰网",
       "sources": [
-        "快科技"
+        "雷峰网"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "近日，上交所发布公告，将于 2026 年 6 月 15 日召开上市审核会议，审议燧原科技科创板首次公开发行申请，这家国内 AI 算力芯片企业正式迎来上市关键节点。 燧原科技自成立以来始终深耕算力芯片领域，历经八年发展，已成为国内专注云端AI芯片自主研发的领军企业。2023-2025 年，燧原科技营业收入从 3.01 亿元增长至 9.90 亿元，三年营收复合增长率达到 81.32%，增长势头十...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，降低开发者门槛。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米相关硬件及云服务需求，需关注技术社区反响。",
-      "procurement_insight": "评估与小米合作机会，采购适配MiMo Code的开发板或设备，并策划开发者推广活动。"
+      "info_brief": "燧原科技将于6月15日上会，营收三年复合增长率81.32%，AI算力芯片企业迎上市关键节点。",
+      "opportunity_insight": "燧原科技高增长显示国产AI芯片需求旺盛，上市后可能扩大产能，带动服务器和算力设备采购。",
+      "procurement_insight": "密切跟踪燧原科技上市进展，提前洽谈AI芯片及配套服务器采购合作，抢占国产算力供应链先机。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "路虎揽胜极光L价格跌至17.98万，近90万车型大幅降价。",
-      "opportunity_insight": "汽车降价潮可能分流高端消费预算，但非3C核心品类，需警惕消费者购买力转移。",
-      "procurement_insight": "加强3C高端产品差异化营销，如捆绑智能车载设备，或推出以旧换新补贴。"
+      "info_brief": "周志峰将北京房产改造为茶室、餐厅等复合空间，融合自然与历史元素，打造独特文化体验。",
+      "opportunity_insight": "文化体验式消费兴起，可开发智能家居设备，如环境控制、音响系统，适配此类高端定制空间。",
+      "procurement_insight": "采购智能家居套装，与设计师合作推出“文化空间”主题方案，在京东3C频道推广，吸引高端用户。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "“碳生万物”完成A轮融资",
+      "url": "https://36kr.com/newsflashes/3849759679436038?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，据高榕创投消息，近日，“碳生万物”宣布完成A轮融资。本轮融资由黄河三角洲投资、高榕创投和博远资本共同领投，同时引入宁德时代、阳光电源、倚锋资本等新股东，多家老股东持续跟投。 本轮融资资金将用于公司宁夏千吨级DAC（直接空气碳捕集）制备e-SAF（可持续航空燃油）项目建设、工艺放大、核心技术迭代及全球顶尖人才引进。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "苹果因存储涨价妥协，屏幕缩水，可能影响新品竞争力。",
-      "opportunity_insight": "存储成本上升倒逼产品减配，为国产存储和屏幕供应商创造替代机会，需关注供应链变化。",
-      "procurement_insight": "优先采购国产存储和屏幕组件，与供应商锁定价格，并推出高性价比替代产品。"
+      "info_brief": "碳生万物完成A轮融资，用于宁夏千吨级DAC制备e-SAF项目，宁德时代等参投。",
+      "opportunity_insight": "碳捕集与可持续航空燃油项目兴起，带动工业传感器、监控设备等3C硬件需求，绿色科技市场潜力大。",
+      "procurement_insight": "调研DAC和e-SAF项目所需工业级3C设备，如传感器、数据采集器，与碳生万物等企业建立供应关系。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货在高端商品领域的潜力。",
-      "opportunity_insight": "直播带货模式可拓展至3C数码高端品类，如高端笔记本、游戏主机，利用KOL影响力提升销量。",
-      "procurement_insight": "与头部主播合作，策划3C数码高端产品专场直播，提前备货并设置限量秒杀，测试市场反应。"
+      "info_brief": "港股理想汽车午后涨超8%，股价持续拉升。",
+      "opportunity_insight": "理想汽车股价上涨可能反映市场对智能汽车及车载3C电子需求乐观，带动相关芯片和传感器采购。",
+      "procurement_insight": "关注智能汽车电子配件需求，如车载芯片、传感器，与理想汽车等厂商合作，拓展车载3C品类供应。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "微软发布Win11/10正式版官方镜像(24H2)，用户可直接下载更新。",
-      "opportunity_insight": "新系统版本发布将带动PC硬件升级需求，尤其是支持新功能的AI PC和高端机型。",
-      "procurement_insight": "提前与品牌商沟通，预装Win11 24H2的PC产品，并联合微软进行促销活动，吸引升级用户。"
+      "info_brief": "美国银行预测，服务器CPU市场规模将从2025年350亿美元激增至2030年1700亿美元以上，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI是核心驱动力，为英特尔、AMD及Arm架构芯片带来巨大机遇。",
+      "procurement_insight": "提前布局AI服务器CPU供应链，重点关注英特尔、AMD新品及Arm架构产品，锁定长期订单以应对需求激增。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "快科技启动2025年度评奖活动，涵盖3C数码产品评选。",
-      "opportunity_insight": "评奖活动可提升产品曝光度，获奖产品易获消费者信任，带动销量增长。",
-      "procurement_insight": "筛选潜力产品参与评奖，并提前备货获奖产品，在结果公布后加大推广和促销力度。"
+      "info_brief": "招商证券换帅，朱江涛接任法定代表人、董事长。",
+      "opportunity_insight": "券商换帅可能调整业务策略，但短期对3C数码采购影响有限，需关注后续动向。",
+      "procurement_insight": "维持现有合作节奏，观察新管理层对IT采购预算的潜在变化，适时调整策略。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现自主芯片制造突破。",
-      "opportunity_insight": "国产芯片技术突破将降低对进口依赖，推动国产PC和服务器成本下降，提升竞争力。",
-      "procurement_insight": "关注国产芯片PC产品进展，与相关厂商建立合作，提前布局国产替代产品线，抢占市场先机。"
+      "info_brief": "IDC报告显示蚂蚁数科位列中国智能体平台私有化市场非云厂商第一。",
+      "opportunity_insight": "智能体平台私有化市场增长快，非云厂商崛起，可拓展企业级AI硬件合作。",
+      "procurement_insight": "与蚂蚁数科等厂商合作，推出定制化AI PC方案，抢占企业智能化升级市场。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI安全关注度提升，可能推动消费者对具备安全认证的AI PC和智能设备的需求。",
-      "procurement_insight": "引入具备AI安全认证的3C产品，如隐私保护芯片的PC，并加强宣传，满足用户对安全性的需求。"
+      "info_brief": "华尔街银行限制对冲基金对SK海力士、三星等亚洲芯片股做多杠杆，担忧回调。",
+      "opportunity_insight": "芯片股回调风险增加，但长期需求强劲，可逢低布局存储芯片采购。",
+      "procurement_insight": "建议与SK海力士、三星签订长期合同锁定价格，并分散采购至美光等供应商。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助华为国内市场份额登顶。",
-      "opportunity_insight": "高端手机市场回暖，华为强势回归，需关注其供应链动态和用户换机周期。",
-      "procurement_insight": "加大华为Mate 80系列备货，联合品牌推出以旧换新活动，抢占高端市场份额。"
+      "info_brief": "味之素警告ABF材料定价过高，或迫使芯片制造商转向替代品。",
+      "opportunity_insight": "ABF材料涨价可能推高高端芯片成本，但替代材料研发或带来新供应链机会。",
+      "procurement_insight": "关注ABF替代材料供应商，提前测试兼容性，并储备关键芯片库存以应对涨价。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "iOS 27迎来史诗级更新，中国用户将获得类似安卓的实用功能。",
-      "opportunity_insight": "iOS系统升级可能刺激iPhone换机需求，尤其吸引安卓用户转投。",
-      "procurement_insight": "提前与苹果沟通新品备货，策划iOS换机专题，主推兼容配件和以旧换新服务。"
+      "info_brief": "欧洲央行内格尔称7月保留加息选项，强调高能源价格间接影响，加息必要。",
+      "opportunity_insight": "欧洲加息可能抑制消费电子需求，但高端PC需求韧性较强，可关注企业采购机会。",
+      "procurement_insight": "建议提前锁定高端PC库存，避免汇率波动成本，并加强与欧洲企业客户合作。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "小米17T Pro评测：配备五倍徕卡长焦，被称为家族收官真香机。",
-      "opportunity_insight": "影像旗舰竞争加剧，徕卡合作提升产品溢价，中高端市场潜力大。",
-      "procurement_insight": "重点采购小米17T Pro，联合摄影KOL推广，搭配存储卡和手机壳等配件捆绑销售。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "德国通胀稳定，利于欧洲消费信心恢复，可能带动3C数码产品出口需求增长。",
+      "procurement_insight": "可加大欧洲市场3C数码备货，尤其是德国，利用稳定通胀环境推广中高端产品。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "AOC推出2499元高刷电竞显示器新品，主打性价比市场。",
-      "opportunity_insight": "电竞显示器价格下探，高刷需求旺盛，可吸引预算有限的游戏玩家。",
-      "procurement_insight": "批量采购AOC新品，与显卡、游戏外设组合促销，抢占618前电竞显示器份额。"
+      "info_brief": "全球多家银行限制对冲基金对SK海力士和三星电子的杠杆押注，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "银行收紧杠杆押注，可能抑制芯片股短期波动，但长期需求仍稳，利于3C数码供应链稳定。",
+      "procurement_insight": "建议减少对SK海力士和三星电子芯片的短期囤货，关注回调后低价采购机会，优化成本。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "黄仁勋分享成功经历，强调付出100%努力，从基层做起。",
-      "opportunity_insight": "英伟达品牌故事强化用户情感连接，可借势推广其GPU和AI相关产品。",
-      "procurement_insight": "策划“努力与创新”主题营销，主推英伟达显卡和AI PC产品，提升品牌忠诚度。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "Flutter退市或影响其投资策略，可能释放资金转向其他领域，如科技硬件投资。",
+      "procurement_insight": "监测Flutter后续资本动向，若其投资3C数码，可提前布局供应链合作或竞品分析。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因含黄金等贵金属，提醒勿当废铁卖。",
-      "opportunity_insight": "旧显卡回收市场升温，可联合回收平台推出以旧换新活动，刺激用户升级换代，带动新显卡销售。",
-      "procurement_insight": "与回收商合作，推出显卡以旧换新补贴，重点推广中高端显卡，并加强回收宣传，提升用户换新意愿。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人，公司主营大数据服务，由三只羊集团全资持股。",
+      "opportunity_insight": "三只羊集团布局大数据，可能涉足用户行为分析，为3C数码精准营销提供数据支持。",
+      "procurement_insight": "关注三只羊大数据合作机会，探索用户画像共享，优化3C数码产品推荐和库存管理。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀售价54元，主打性价比。",
-      "opportunity_insight": "父亲节礼品需求旺盛，低价剃须刀易吸引预算有限的消费者，可借机捆绑3C配件销售。",
-      "procurement_insight": "备货飞科剃须刀，搭配充电宝、耳机等小件3C产品组成父亲节礼盒，提升客单价和转化率。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工精心裁剪盗走，反映品牌符号在当地的高度认同。",
+      "opportunity_insight": "品牌符号在海外市场具有高价值，可开发官方品牌周边产品，如贴纸、徽章，满足员工和粉丝收藏需求。",
+      "procurement_insight": "与比亚迪合作，采购其官方授权品牌周边，在京东平台开设专区，利用品牌热度带动3C配件销售。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "老主板性能升级利好存量用户，可推动CPU和主板套餐销售，吸引DIY玩家升级。",
-      "procurement_insight": "联合华硕、微星推广600系主板与AMD CPU套装，突出BIOS升级后性能提升，并备货相关散热器。"
+      "info_brief": "杭州小龙虾价格因产地轮换和货源充足大幅回落，降幅超50%，中青12元/斤，大青16元/斤。",
+      "opportunity_insight": "小龙虾降价刺激消费需求，可借机推出3C数码与小龙虾的跨界促销活动，吸引家庭用户。",
+      "procurement_insight": "建议与生鲜平台合作，推出买电脑送小龙虾券活动，或利用低价热点在社交媒体推广数码产品。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "日产汽车将研发周期减半至2年，社长强调向中国学习，加速电动化。",
-      "opportunity_insight": "汽车行业加速电动化，带动车载3C配件需求，如充电器、智能后视镜等，可提前布局。",
-      "procurement_insight": "关注日产等车企新车型发布，提前备货车载充电器、行车记录仪等配件，并联合车企做促销。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治14类问题。",
+      "opportunity_insight": "监管收紧AI生成内容，可能影响AI应用推广，但合规产品将获信任红利。",
+      "procurement_insight": "优先采购有内容标识认证的AI PC和软件，宣传合规卖点，规避政策风险。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水促销价29.9元，主打控油养发功能。",
-      "opportunity_insight": "低价个护产品可吸引注重性价比的男性用户，与3C数码品类互补，提升购物车连带率。",
-      "procurement_insight": "将洗发水作为3C订单的凑单品或赠品，在数码产品详情页推荐，提高客单价和用户粘性。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃度极高。",
+      "opportunity_insight": "高成交额反映市场流动性充裕，投资者信心增强，利好消费电子等可选消费。",
+      "procurement_insight": "趁市场热度，加大3C数码爆品备货，联合平台开展限时秒杀，提升转化率。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "比亚迪海豹08曜石黑车漆亮相，盲订同步开启，主打百万级同款质感。",
-      "opportunity_insight": "汽车外观个性化需求增长，高端车漆配色可吸引年轻用户，带动周边3C配件如车载充电器、记录仪销售。",
-      "procurement_insight": "提前备货与比亚迪联名款车载配件，如车漆色系手机壳或支架，利用盲订热度做捆绑促销。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工领涨，通信设备、半导体跌幅居前。",
+      "opportunity_insight": "市场资金转向防御性板块，半导体等科技股承压，可能影响3C数码上游供应链信心。",
+      "procurement_insight": "短期控制半导体相关库存，加大贵金属概念产品（如黄金外壳）采购，对冲风险。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种大胆姿势调整，满足收藏和展示需求。",
-      "opportunity_insight": "二次元手办市场持续火热，高可动性人偶吸引核心玩家，可拓展电竞外设联名或直播设备周边。",
-      "procurement_insight": "采购高精度手办展示柜或RGB灯带，与手办捆绑销售，并联合游戏外设品牌推出主题套装。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可换AI算力。",
+      "opportunity_insight": "AI算力与消费积分互通，预示AI服务货币化新趋势，可能带动AI硬件和算力需求。",
+      "procurement_insight": "关注Kimi生态合作，提前布局AI PC、算力卡等产品，与银行联合推出消费返算力促销。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "AIPC"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获金奖，强调传统工艺和独特风味。",
-      "opportunity_insight": "食品文化故事引发猎奇消费，可借势推广厨房小家电如空气炸锅或滤油器，强调健康与便捷。",
-      "procurement_insight": "上架空气炸锅或智能滤油壶，结合“66年老油”话题做内容营销，突出产品清洁和耐用卖点。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，由国资和民企接盘。",
+      "opportunity_insight": "文化地产项目股权变更，可能影响相关IP授权和线下体验合作，需关注内容生态变化。",
+      "procurement_insight": "评估华谊IP授权稳定性，提前与接盘方沟通合作，避免3C联名产品断供风险。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "ai-phone",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "AIPC"
+        "AI手机"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布前，玩家关注度飙升，高端电竞和AI计算需求推动升级潮，可提前布局预售。",
-      "procurement_insight": "与英伟达合作锁定首批货源，推出以旧换新活动，并搭配高功率电源或散热器套餐促销。"
+      "info_brief": "36氪WAVES大会将在番禺举办，聚焦年轻创业者和投资人。",
+      "opportunity_insight": "大会汇聚年轻高净值人群，是推广高端3C数码产品、如智能穿戴和便携设备的理想平台。",
+      "procurement_insight": "赞助大会并设置产品体验区，推出参会者专属优惠码，促进现场及线上转化。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "ai-phone",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "AIPC"
+        "AI手机"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板需求稳定，WiFi6E功能提升吸引力，适合预算有限但追求新技术的DIY用户。",
-      "procurement_insight": "批量采购该主板，与中低端CPU或内存条组合套装，突出“无线升级”卖点，抢占装机市场。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，定价48元。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，可吸引核心玩家，带动游戏本、外设等硬件销售。",
+      "procurement_insight": "与游戏发行商合作推出联名硬件套装，并在平台首页推荐该游戏，刺激相关品类购买。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "ai-phone",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "AIPC"
+        "AI手机"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，联名款智能手表即将发售。",
-      "opportunity_insight": "联名智能手表可吸引机车爱好者群体，拓展运动穿戴市场，提升品牌年轻化形象。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，针对机车社区精准营销，主推户外耐用功能。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空出行市场。",
+      "opportunity_insight": "低空经济消费端产品空白，水上飞行器开辟新蓝海，带动相关3C配件需求。",
+      "procurement_insight": "引入水上飞行器配套的智能穿戴和导航设备，并联合户外品牌打造场景化销售专区。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "ai-phone",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "AIPC"
+        "AI手机"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计吸睛，可能带动车载智能配件需求增长。",
-      "procurement_insight": "关注L8上市后车载充电、智能支架等配件需求，提前备货并捆绑促销。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C数码新品、尤其是游戏手机和VR设备的绝佳场景。",
+      "procurement_insight": "联合参展品牌推出ChinaJoy限定版产品，并策划现场体验活动，提升品牌曝光和销量。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "",
+      "category_id": "ai-phone",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "AIPC"
+        "AI手机"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件升级，如高算力芯片和传感器需求。",
-      "procurement_insight": "增加智能驾驶相关芯片、雷达等配件采购，与车企合作推出升级套装。"
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI手机等终端设备智能化升级，刺激消费需求，市场潜力巨大。",
+      "procurement_insight": "提前与AI芯片供应商谈判，锁定低价算力资源，并推出AI功能手机促销活动，抢占市场先机。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为品牌影响力强，科技感汽车概念可激发用户对智能车载设备及华为生态产品的兴趣。",
-      "procurement_insight": "关注华为汽车发布动态，提前储备车载支架、充电器等配件，策划华为生态联动促销。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁；钉钉换帅；比尔·盖茨就爱泼斯坦案出席听证。",
+      "opportunity_insight": "太空经济升温带动卫星通信和消费电子需求，3C数码品牌可布局太空主题产品，如卫星电话或定制配件。",
+      "procurement_insight": "与SpaceX合作推出联名手机壳或充电设备，利用上市热度营销，同时关注卫星互联网终端采购机会。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，创意吸睛。",
-      "opportunity_insight": "改装文化热度高，可带动汽车改装件、个性化装饰品及DIY工具销量增长。",
-      "procurement_insight": "引入改装风格配件如轮毂贴、机甲贴纸，与手工耿合作联名款，吸引改装爱好者。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，国产替代加速，半年订单超5000万。",
+      "opportunity_insight": "船舶电动化趋势带来电子控制系统需求，3C数码企业可提供高可靠性芯片或传感器，切入船舶供应链。",
+      "procurement_insight": "与力普司等船舶科技公司合作，供应防水防震的电子元器件，如MCU和电源管理模块，抢占新兴市场。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后热销。",
-      "opportunity_insight": "高端手机市场降价策略有效，可刺激销量，但需关注利润平衡。",
-      "procurement_insight": "建议跟进苹果促销节奏，备货iPhone 17系列，并搭配配件捆绑销售。"
+      "info_brief": "中国制造业向智能化、绿色化转型，推动生产性服务业嵌入制造体系，采购和供应链协同外包趋势明显。",
+      "opportunity_insight": "工业品数字化采购需求增长，3C数码企业可提供智能仓储和供应链管理解决方案，切入B2B市场。",
+      "procurement_insight": "开发工业级物联网设备，如智能传感器和RFID标签，与制造业客户合作试点，提升供应链效率。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动PC换机潮，尤其老旧设备用户升级需求增加。",
-      "procurement_insight": "提前与PC厂商合作，推广预装Win11的新机型，并备货高性价比升级配件。"
+      "info_brief": "周志峰将北京房产改造为融合茶室、餐厅等功能的院子，位于法源寺旁，体现空间设计与文化融合。",
+      "opportunity_insight": "智能家居和数码产品可嵌入此类文化空间，如智能照明或音响系统，满足高端用户对生活美学的需求。",
+      "procurement_insight": "与高端家居设计师合作，推出定制化智能家居套装，如智能窗帘和语音助手，主打文化场景体验。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米硬件及云服务销售。",
-      "procurement_insight": "关注小米开发者社区动态，备货相关开发板及配件，联合推广。"
+      "info_brief": "KTV无人化趋势兴起，通过减少人工提升盈利。",
+      "opportunity_insight": "无人化场景推动自助点歌、智能音响等3C设备需求，市场潜力大。",
+      "procurement_insight": "开发KTV专用自助终端和智能音响套装，与运营商合作推广，抢占新零售市场。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮可能影响3C数码消费预算，需警惕高端品类需求转移。",
-      "procurement_insight": "加强高端3C产品促销，如笔记本、相机，以吸引预算释放的消费者。"
+      "info_brief": "港股理想汽车午后涨超8%，股价表现强劲。",
+      "opportunity_insight": "汽车行业回暖带动车载电子需求，智能座舱和车联网设备市场扩大。",
+      "procurement_insight": "与理想汽车合作，推广车载3C配件，如智能屏、充电设备，提升B端销量。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，但未影响整体销量。",
-      "opportunity_insight": "存储成本上升倒逼产品配置调整，消费者对屏幕缩水容忍度有限。",
-      "procurement_insight": "评估存储供应链价格，优先采购高性价比存储产品，并优化库存周转。"
+      "info_brief": "美国银行预测服务器CPU市场2030年将达1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "AI代理需求激增，CPU市场爆发式增长，京东可抢占服务器CPU及配套产品先机。",
+      "procurement_insight": "加强与英特尔、AMD合作，提前备货高性能CPU，并推广AI服务器解决方案。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货向高客单价商品拓展。",
-      "opportunity_insight": "高客单价商品直播销售潜力大，可探索3C数码高端产品直播带货模式，提升转化率。",
-      "procurement_insight": "与头部主播合作，策划高端3C产品直播专场，如旗舰手机、游戏本，测试高客单价销售效果。"
+      "info_brief": "招商证券换帅，朱江涛接任董事长，公司主营证券经纪与投资咨询。",
+      "opportunity_insight": "金融行业高管变动可能带动IT系统升级需求，利好服务器、存储等3C设备采购。",
+      "procurement_insight": "关注招商证券IT采购动态，提前布局服务器和网络设备供应，争取新订单。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "微软发布Win11/10正式版官方镜像(24H2)，用户可直接下载更新。",
-      "opportunity_insight": "系统更新带动硬件升级需求，尤其是对性能要求更高的新系统版本，促进PC换机潮。",
-      "procurement_insight": "提前备货支持Win11新特性的高配置PC，如SSD、大内存机型，并推出系统升级促销活动。"
+      "info_brief": "IDC报告：蚂蚁数科居中国智能体平台私有化市场非云厂商第一。",
+      "opportunity_insight": "智能体平台私有化市场增长迅速，非云厂商崛起，为3C数码企业提供定制化AI解决方案。",
+      "procurement_insight": "与蚂蚁数科合作，开发智能客服或供应链管理AI工具，提升运营效率并降低成本。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "快科技启动2025年度评奖，涵盖科技产品与行业创新。",
-      "opportunity_insight": "评奖活动可提升产品曝光度，获奖产品易获消费者信任，带动销量增长。",
-      "procurement_insight": "筛选评奖热门品类，如智能穿戴、游戏外设，提前与厂商沟通备货，并策划获奖产品专题促销。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股做多杠杆。",
+      "opportunity_insight": "芯片股回调风险增加，但长期需求强劲，可逢低布局存储芯片及AI相关产品。",
+      "procurement_insight": "利用股价波动期，与SK海力士等谈判长期采购协议，锁定低价存储芯片库存。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现芯片制造自主突破。",
-      "opportunity_insight": "国产芯片技术突破可能降低进口依赖，推动国产芯片设备及终端产品市场增长。",
-      "procurement_insight": "关注国产芯片相关3C产品，如国产CPU电脑、手机，评估引入供应链，抢占国产替代先机。"
+      "info_brief": "味之素CEO警告ABF材料定价过高，或迫使芯片商转向替代品。",
+      "opportunity_insight": "ABF材料涨价催生替代机会，国产封装材料厂商有望切入高端芯片供应链。",
+      "procurement_insight": "调研国内ABF替代材料供应商，如华正新材，评估其性能并小批量试产，抢占先机。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI安全关注度提升，可能推动AI安全硬件和软件需求，如加密设备、监控系统。",
-      "procurement_insight": "引入AI安全相关产品，如数据加密U盘、智能安防摄像头，并联合厂商推出安全解决方案。"
+      "info_brief": "欧洲央行管委内格尔称7月保留加息选项，高能源价格推升通胀。",
+      "opportunity_insight": "加息预期可能抑制消费，但能源成本上涨推动芯片材料替代需求，利好国产供应链。",
+      "procurement_insight": "关注ABF材料替代趋势，与国产供应商合作开发低成本芯片封装方案，降低对进口依赖。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助华为国内市场份额登顶。",
-      "opportunity_insight": "高端市场强劲复苏，华为品牌力带动销量，可借势推广配件及生态产品。",
-      "procurement_insight": "加大Mate 80系列及华为生态产品备货，联合品牌做以旧换新活动，抢占高端份额。"
+      "info_brief": "德国5月CPI终值同比增2.6%，环比降0.2%，均符合预期。",
+      "opportunity_insight": "通胀符合预期，欧洲经济稳定，利于3C数码消费信心恢复，可关注德国市场高端手机需求。",
+      "procurement_insight": "建议提前备货欧洲热销机型，如iPhone 15系列，利用欧元汇率优势锁定采购成本。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "iOS 27系统更新，为中国用户带来安卓已有功能，提升体验。",
-      "opportunity_insight": "苹果系统升级刺激换机需求，中国果粉忠诚度高，可推动iPhone新机销售。",
-      "procurement_insight": "提前备货iPhone新机型，结合系统更新宣传，推出以旧换新补贴，吸引果粉升级。"
+      "info_brief": "全球银行限制对冲基金对SK海力士和三星等芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，可能影响存储芯片价格，为采购提供议价空间和备货时机。",
+      "procurement_insight": "密切监控存储芯片价格走势，适时增加SK海力士和三星产品采购，利用回调机会锁定低价。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，定位家族收官真香机。",
-      "opportunity_insight": "徕卡影像差异化卖点，吸引摄影爱好者，中高端市场有增长空间。",
-      "procurement_insight": "重点采购小米17T Pro，联合徕卡做影像体验活动，突出长焦优势，拉动销量。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "Flutter退市或影响其投资，但非直接相关3C数码，可忽略此资讯，聚焦主业。",
+      "procurement_insight": "无需采取行动，保持对全球金融市场关注，防范系统性风险对3C供应链的影响。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "AOC推出2499元高刷电竞显示器新品，主打性价比。",
-      "opportunity_insight": "电竞显示器市场持续增长，高性价比产品可吸引预算有限的游戏玩家。",
-      "procurement_insight": "批量采购AOC新品，搭配电竞外设做套装促销，利用价格优势抢占入门级市场。"
+      "info_brief": "三只羊大数据公司负责人变更为杜刚，公司主营大数据服务，由三只羊集团全资持股。",
+      "opportunity_insight": "三只羊集团布局大数据，可能涉足电商数据服务，为3C数码精准营销提供合作机会。",
+      "procurement_insight": "关注三只羊大数据动态，探索数据合作，优化用户画像，提升3C数码品类推荐效率。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力，包括扫厕所。",
-      "opportunity_insight": "励志故事提升品牌形象，可借势推广英伟达相关产品，增强用户情感连接。",
-      "procurement_insight": "策划英伟达产品主题营销，结合黄仁勋故事做内容传播，提升显卡及AI产品关注度。"
+      "info_brief": "比亚迪泰国工厂桶装水上的BYD标签被员工精心裁剪盗取，反映品牌认同感与本地化管理挑战。",
+      "opportunity_insight": "品牌文化在海外工厂的渗透可转化为员工忠诚度，3C数码品牌可借鉴此案例强化海外团队归属感。",
+      "procurement_insight": "建议与比亚迪合作，开发带有品牌标识的3C配件，如定制手机壳或充电宝，用于员工激励或市场推广。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "父亲节促销，飞科电动剃须刀降至54元，主打性价比礼品市场。",
-      "opportunity_insight": "节日礼品场景下，低价实用小家电需求旺盛，可借势推广男性个护品类。",
-      "procurement_insight": "建议备货飞科等品牌剃须刀，设置父亲节专区，搭配优惠券提升转化。"
+      "info_brief": "氢能公交年亏6.7亿仍投资，存在骗补和运营荒诞现象。",
+      "opportunity_insight": "新能源公交市场混乱，但充电桩、电池管理系统等硬件需求稳定，可聚焦刚需。",
+      "procurement_insight": "聚焦公交充电基础设施和电池监测设备，提供高性价比方案，规避补贴风险。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "内存价格上涨带动旧显卡回收价值，因含黄金等贵金属，非废铁。",
-      "opportunity_insight": "用户关注旧硬件回收价值，可切入以旧换新服务，刺激升级消费。",
-      "procurement_insight": "推出显卡以旧换新补贴活动，联合回收平台宣传，吸引用户换购新品。"
+      "info_brief": "6月杭州小龙虾价格降超50%，中青规格每斤12元，大青每斤16元，货源充足。",
+      "opportunity_insight": "小龙虾降价刺激消费，可结合3C数码产品推出促销活动，如买手机送小龙虾券，提升销量。",
+      "procurement_insight": "与本地生鲜平台合作，采购小龙虾作为赠品，捆绑手机或配件销售，吸引家庭用户。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星更新BIOS，性能提升4%。",
-      "opportunity_insight": "老主板升级BIOS可获性能提升，利好存量用户，推动配件更新需求。",
-      "procurement_insight": "联合主板厂商宣传BIOS升级教程，搭配CPU套装促销，刺激升级换代。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容标识等14类问题。",
+      "opportunity_insight": "AI监管趋严，合规AI产品需求上升，可推动合规AI手机应用和硬件预装，抢占市场先机。",
+      "procurement_insight": "与合规AI厂商合作，预装符合监管的AI助手，提升手机卖点；关注政策动态，调整采购策略。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习，加速电动化。",
-      "opportunity_insight": "传统车企加速转型，中国供应链和智能技术成学习标杆，利好合作。",
-      "procurement_insight": "关注日产等车企的电子采购需求，推广国产车规级芯片和传感器方案。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "股市活跃提升投资者信心，可能带动消费电子和高端3C产品购买力。",
+      "procurement_insight": "加大高端笔记本、手机等品类备货，配合股市行情推出促销活动，刺激消费升级需求。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "蔚来李斌称赞特斯拉FSD行业领先，表示想尝试最新版，认可其技术。",
-      "opportunity_insight": "行业认可FSD领先性，智能驾驶硬件需求增长，如高算力芯片和传感器。",
-      "procurement_insight": "备货智能驾驶相关硬件，如激光雷达和AI芯片，与车企合作推广方案。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备板块跌幅居前。",
+      "opportunity_insight": "市场资金流向避险和军工，可能抑制消费电子短期需求，但长期科技股回调是布局机会。",
+      "procurement_insight": "短期减少通信设备库存，关注军工电子配件需求；逢低吸纳半导体和通信类产品，等待反弹。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "比亚迪海豹08曜石黑车漆亮相，盲订同步开启，主打百万级同款质感。",
-      "opportunity_insight": "汽车与3C数码跨界联动，可借势推出车载充电器、智能后视镜等配件，吸引车主群体。",
-      "procurement_insight": "联系比亚迪合作方，采购海豹08主题配件，如定制手机壳或车载支架，捆绑促销。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可换AI算力。",
+      "opportunity_insight": "AI算力消费化趋势明显，可推动高性能计算设备和云服务相关3C产品需求。",
+      "procurement_insight": "提前备货高性能显卡、AI服务器配件，与银行合作推出算力兑换硬件活动，抢占市场。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势调整，主打收藏和展示市场。",
-      "opportunity_insight": "二次元手办市场热度高，可联动游戏IP推出限量版，吸引年轻用户和收藏者。",
-      "procurement_insight": "评估与手办厂商合作，采购“不知火舞”系列，搭配游戏外设或显示器进行捆绑销售。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，由国资和民企接盘。",
+      "opportunity_insight": "文化创意产业调整，可能释放办公和娱乐设备需求，但直接关联度低，需谨慎。",
+      "procurement_insight": "暂不主动跟进，但可监控该领域企业设备采购动态，待明确需求后响应。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "AI手机"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获日本炸鸡金奖，强调传统工艺。",
-      "opportunity_insight": "传统工艺故事可跨界营销，推出“66年经典”主题厨房电器，如空气炸锅或油炸锅。",
-      "procurement_insight": "采购高端空气炸锅，联合炸鸡店IP推出联名款，强调耐用性和经典风味。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，支持BaaS电池租用，同步开启交付。",
+      "opportunity_insight": "新能源汽车市场持续增长，带动车载电子和智能配件需求，可布局相关3C产品。",
+      "procurement_insight": "关注车载充电器、智能后视镜等配件，与汽车品牌合作推出定制套餐，提升品类关联销售。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "ai-learning",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "AI手机"
+        "AI学习硬件"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布在即，高端游戏玩家和创作者需求旺盛，可提前备货抢占市场。",
-      "procurement_insight": "与NVIDIA或AIC厂商锁定RTX 50 Super首批货源，重点推广特殊款，搭配高刷显示器预售。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人，含AI集市等活动。",
+      "opportunity_insight": "年轻创业者聚集，AI集市展示创新产品，可挖掘新兴3C数码品牌和创业团队合作机会。",
+      "procurement_insight": "参与WAVES大会，设立展位展示新品，与创业者洽谈采购AI硬件、智能设备，拓展供应链。"
     },
     {
-      "title": "手机、平板、电脑通用：B站大会员年卡102元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129022.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "ai-learning",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "AI手机"
+        "AI学习硬件"
       ],
-      "info_brief": "B站大会员年卡102元到手，支持手机、平板、电脑通用，性价比高。",
-      "opportunity_insight": "视频会员与硬件捆绑销售可提升客单价，吸引学生和年轻用户群体。",
-      "procurement_insight": "采购B站大会员年卡，与平板、笔记本或显示器组合促销，强调“追剧神器”卖点。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，定价48元，凸显国产单机困境。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，国产单机需突破定价和内容瓶颈，带动游戏硬件销售。",
+      "procurement_insight": "关注国产独立游戏IP，采购联名游戏键盘、鼠标等外设，利用低价游戏引流提升配件销量。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "ai-learning",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "AI手机"
+        "AI学习硬件"
       ],
-      "info_brief": "荣耀签约张雪机车两位车手，联名款智能手表即将发售。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者及年轻用户，拓展运动穿戴市场，提升品牌差异化竞争力。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，针对机车社群精准营销，捆绑骑行配件套餐促销。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济消费市场。",
+      "opportunity_insight": "低空经济消费端空白被填补，水上飞行器或带动相关配件如防水相机、智能穿戴设备需求。",
+      "procurement_insight": "评估与坦途科技合作可能性，采购配套防水电子设备，如运动相机、GPS手表，抢占新场景。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "ai-learning",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "AI手机"
+        "AI学习硬件"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计吸睛，可带动车载3C配件如充电器、记录仪需求增长。",
-      "procurement_insight": "联合车载配件品牌推出L8专用套餐，提前备货适配型产品，在上市日同步促销引流。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦科技与数字娱乐融合。",
+      "opportunity_insight": "年轻消费者对前沿科技产品兴趣浓厚，VR/AR、游戏外设等品类有望在展会期间热销。",
+      "procurement_insight": "提前与参展品牌合作，推出展会专属优惠套餐，重点采购游戏耳机、手柄等爆款产品。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "",
+      "category_id": "ai-learning",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "AI手机"
+        "AI学习硬件"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元到手，主打控油养发功效。",
-      "opportunity_insight": "低价位控油养发产品需求旺盛，适合快消品引流，可吸引价格敏感型用户提升复购。",
-      "procurement_insight": "批量采购卡蓓诺洗发水，设置满减或凑单活动，搭配护发工具如吹风机组合销售。"
+      "info_brief": "算力价格大幅下降，百万Token仅需几块钱，OpenAI考虑降价。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码产品中AI功能集成需求激增，如智能音箱、PC等。",
+      "procurement_insight": "关注AI芯片和算力相关配件供应商，提前布局低价算力产品，优化成本结构以提升竞争力。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车或跨界产品。",
-      "opportunity_insight": "科技与豪车结合激发高端用户兴趣，可推动华为智能手表、手机等配件销售。",
-      "procurement_insight": "关注华为发布会，提前备货高端手机和穿戴设备，推出“科技法拉利”主题套装。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁；钉钉换帅；OpenAI降价竞争。",
+      "opportunity_insight": "太空经济升温，相关硬件和AI工具需求增长；企业协作软件竞争加剧。",
+      "procurement_insight": "关注卫星通信设备和AI办公硬件采购，与钉钉等平台合作推广智能办公解决方案。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "改装文化吸引DIY和硬核用户，可推广3D打印配件、改装工具等小众品类。",
-      "procurement_insight": "与手工耿合作联名改装套件，采购1000套限量发售，利用社交媒体引爆话题。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，国产替代加速。",
+      "opportunity_insight": "船舶电动化是蓝海市场，电力推进系统及配套电子设备需求激增。",
+      "procurement_insight": "提前布局船舶电子元器件和电池管理系统，与力普司等初创企业建立供应链合作。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机市场仍有强劲需求，降价策略能有效刺激销量，需关注苹果价格战对安卓旗舰的冲击。",
-      "procurement_insight": "建议加大iPhone 17系列备货，同时针对安卓高端机型推出捆绑促销，如搭配耳机或配件，以提升竞争力。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业外包非核心职能，生产性服务业需求上升。",
+      "opportunity_insight": "工业用品采购平台和供应链协同服务市场扩大，数字化工具需求旺盛。",
+      "procurement_insight": "重点引入工业品B2B平台和ERP系统，与制造企业合作提供一站式采购解决方案，提升效率。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将带动PC换机潮，尤其利好中低端机型，可借机推广高性价比笔记本和DIY配件。",
-      "procurement_insight": "提前与联想、惠普等品牌合作，推出预装Win11的促销机型，并备货SSD和内存等升级配件以满足用户需求。"
+      "info_brief": "周志峰改造北京菜市口院子为多功能空间，融合茶室、餐厅等，毗邻法源寺。",
+      "opportunity_insight": "城市微改造与文旅结合趋势明显，智能家居和安防设备需求增长。",
+      "procurement_insight": "关注智能家居套装（如灯光、门锁）和庭院安防产品，与设计师合作推广，抢占高端改造市场。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具可吸引开发者生态，带动小米硬件销售，尤其是笔记本和服务器相关产品。",
-      "procurement_insight": "建议与小米合作，推出开发者专属套装（如笔记本+外设），并在京东平台开设开源工具专区以引流。"
+      "info_brief": "KTV推行无人化模式，减少服务人员以提升利润，引发行业变革。",
+      "opportunity_insight": "无人化KTV需自助点歌、支付等设备，带动触摸屏、音响、自助终端等3C产品需求。",
+      "procurement_insight": "开发KTV无人化解决方案，提供集成触摸屏、音响、自助收银设备，与娱乐场所合作推广。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮可能影响车载电子需求，但高端车载配件如行车记录仪、智能后视镜仍有市场。",
-      "procurement_insight": "关注汽车降价对消费电子联动效应，备货车载充电器、导航设备等，并联合汽车品牌做跨界促销。"
+      "info_brief": "港股理想汽车涨超8%，股价午后持续拉升。",
+      "opportunity_insight": "汽车股上涨反映市场信心，可能带动车载电子、智能座舱等3C配件需求增长。",
+      "procurement_insight": "关注理想汽车供应链，提前储备车载充电器、智能屏等配件，与汽车后市场渠道合作。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "苹果也扛不住存储涨价，屏幕缩水，可能影响新品配置。",
-      "opportunity_insight": "存储成本上升将推高手机价格，消费者可能转向性价比机型，利好中端安卓手机和存储配件。",
-      "procurement_insight": "增加中端安卓手机和移动硬盘、U盘等存储产品备货，并推出以旧换新活动吸引苹果用户转投安卓。"
+      "info_brief": "美国银行预测2030年服务器CPU市场规模将达1700亿美元，因代理式AI需求激增。",
+      "opportunity_insight": "AI代理驱动服务器CPU需求爆发，英特尔、AMD及Arm架构芯片市场空间巨大。",
+      "procurement_insight": "加大与英特尔、AMD合作，引入高性能CPU产品，并布局Arm架构服务器，满足AI算力需求。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，展示直播带货在高端商品领域的潜力。",
-      "opportunity_insight": "高端3C数码产品可借鉴直播模式，通过头部主播或品牌自播提升转化，尤其适合高客单价新品首发。",
-      "procurement_insight": "建议与头部主播合作，策划3C数码高端产品专场直播，并优化库存和物流保障，确保秒杀效果。"
+      "info_brief": "招商证券换帅，朱江涛接任董事长，公司主营证券经纪、投资咨询等业务。",
+      "opportunity_insight": "券商高层变动可能影响金融IT采购，关注新领导层对数字化转型的投入方向。",
+      "procurement_insight": "密切跟踪招商证券IT采购动态，提前布局服务器、软件等产品方案，抢占合作先机。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "微软发布Win11/10 24H2正式版官方镜像，用户可直接下载安装。",
-      "opportunity_insight": "新系统版本发布将带动PC换机潮，尤其是兼容性要求高的用户，利好高性能笔记本和台式机销售。",
-      "procurement_insight": "提前备货支持Win11的PC及配件，联合品牌商推出系统升级促销活动，并加强预装系统机型推广。"
+      "info_brief": "IDC报告：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一。",
+      "opportunity_insight": "智能体平台需求增长，企业级AI应用加速，带动算力芯片和服务器采购需求。",
+      "procurement_insight": "与蚂蚁数科等厂商合作，推出AI服务器捆绑方案，抢占企业数字化转型市场。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "快科技启动2025年度评奖，涵盖科技产品、技术及创新领域。",
-      "opportunity_insight": "评奖结果将影响消费者购买决策，获奖产品可借势营销，提升品牌曝光和销量。",
-      "procurement_insight": "关注评奖动态，提前与潜在获奖品牌沟通合作，争取独家首发或限时优惠，并策划专题促销页面。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星等亚洲芯片股的做多杠杆。",
+      "opportunity_insight": "芯片股回调风险增加，但短期供需仍紧，存储芯片价格可能波动，影响采购成本。",
+      "procurement_insight": "减少存储芯片囤货，采用短周期采购策略，利用价格波动分批买入降低成本。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现自主芯片制造突破。",
-      "opportunity_insight": "国产芯片自主化将降低对进口依赖，推动国产PC、手机等终端设备供应链安全，利好相关品牌。",
-      "procurement_insight": "关注国产芯片量产进度，优先与采用国产芯片的终端品牌合作，并储备相关产品线以应对需求增长。"
+      "info_brief": "味之素CEO警告ABF关键材料定价过高，或迫使芯片制造商转向替代品。",
+      "opportunity_insight": "ABF材料涨价可能推高高端芯片封装成本，影响显卡、服务器等产品价格。",
+      "procurement_insight": "评估ABF替代材料供应商，提前储备库存，与芯片厂商协商成本分摊方案。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的广泛讨论。",
-      "opportunity_insight": "AI监管趋严可能推动合规AI硬件和软件需求，如安全芯片、数据加密设备等。",
-      "procurement_insight": "提前布局AI安全相关3C产品，如加密U盘、安全路由器，并关注政策动态，调整采购策略。"
+      "info_brief": "欧洲央行管委内格尔表示7月保留加息选项，能源价格间接影响加剧。",
+      "opportunity_insight": "加息预期可能抑制消费，但能源成本推高芯片制造价格，需关注供应链成本波动。",
+      "procurement_insight": "监控芯片原材料价格，与供应商签订长期协议锁定价格，避免成本传导至终端。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助华为国内市场份额登顶。",
-      "opportunity_insight": "华为高端机型热销，显示国产高端市场强劲需求，可加大华为配件及周边产品备货。",
-      "procurement_insight": "增加华为Mate 80系列保护壳、充电器等配件采购，并策划捆绑促销活动。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，环比下降0.2%，符合预期。",
+      "opportunity_insight": "欧洲通胀稳定，消费信心可能回升，利好3C数码产品需求，尤其是中高端品类。",
+      "procurement_insight": "关注欧洲市场订单，提前备货中高端手机、电脑等，利用汇率优势锁定采购成本。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "iOS 27史诗级更新，新增多项安卓已有功能，提升中国用户体验。",
-      "opportunity_insight": "iOS更新缩小与安卓差距，可能刺激iPhone换机潮，需关注配件和以旧换新机会。",
-      "procurement_insight": "提前备货iPhone 18系列配件，并推出以旧换新补贴活动，吸引安卓用户转投。"
+      "info_brief": "全球多家银行限制对冲基金对SK海力士和三星等芯片制造商的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，但长期需求强劲，可关注存储芯片和半导体设备采购机会。",
+      "procurement_insight": "短期谨慎备货存储芯片，长期与三星、SK海力士签订稳定供应协议，降低价格波动风险。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，定位家族收官真香机。",
-      "opportunity_insight": "小米旗舰机强调影像差异化，可吸引摄影爱好者，需关注中高端手机市场增量。",
-      "procurement_insight": "联合小米推广17T Pro，采购其专用摄影配件，并策划影像主题促销。"
+      "info_brief": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "退市可能影响其IT投资，但博彩行业对高性能计算和服务器需求稳定。",
+      "procurement_insight": "评估Flutter现有硬件合同，准备替代方案，同时拓展其他博彩公司客户。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "AOC推出2499元高刷电竞显示器新品，主打性价比市场。",
-      "opportunity_insight": "高性价比电竞显示器需求旺盛，可抢占中低端电竞玩家市场，提升销量。",
-      "procurement_insight": "大量采购该显示器，搭配游戏外设捆绑销售，并设置限时折扣引流。"
+      "info_brief": "合肥三只羊大数据运营公司变更负责人，由杜刚接任，公司专注大数据服务。",
+      "opportunity_insight": "大数据公司人事变动可能带来业务调整，推动数据存储和处理硬件需求。",
+      "procurement_insight": "关注大数据公司采购动态，提前对接服务器、存储设备供应商，争取订单。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "黄仁勋分享成功经历：从扫厕所洗碗做起，强调100%努力。",
-      "opportunity_insight": "励志故事提升品牌形象，可借势推广英伟达显卡及AI产品，吸引科技爱好者。",
-      "procurement_insight": "策划英伟达产品主题促销，结合黄仁勋故事做内容营销，提升品牌热度。"
+      "info_brief": "比亚迪泰国工厂桶装水标签BYD logo被员工剪走，反映品牌认同感与细节管理问题。",
+      "opportunity_insight": "品牌符号在海外工厂的渗透力强，可开发定制化品牌周边产品，满足员工归属感需求。",
+      "procurement_insight": "建议与比亚迪合作，推出官方品牌标签或纪念品，通过内部渠道销售，提升员工忠诚度。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "父亲节促销，飞科电动剃须刀降至54元，主打性价比送礼场景。",
-      "opportunity_insight": "节日礼品市场对低价实用小家电需求旺盛，可借势男性消费节点拉动销量。",
-      "procurement_insight": "建议备货飞科等品牌剃须刀，设置父亲节专区，搭配礼盒装促销，主推54元爆款。"
+      "info_brief": "氢能公交年亏6.7亿仍逆势扩张，存在停运和骗补问题，经济账矛盾。",
+      "opportunity_insight": "氢能公交亏损但扩张，可能推动相关电子控制系统、传感器等硬件采购需求。",
+      "procurement_insight": "谨慎评估氢能公交领域，但可关注其电子控制单元、氢传感器等配件，与新能源车企合作。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "内存价格暴涨带动旧显卡回收价值提升，内部可提炼黄金等贵金属。",
-      "opportunity_insight": "硬件涨价周期催生二手回收与翻新市场，贵金属回收成新利润点。",
-      "procurement_insight": "可联合回收平台推出以旧换新活动，重点回收旧显卡，提炼贵金属或翻新转售。"
+      "info_brief": "杭州小龙虾价格因产地轮换和货源充足大幅下降，中青规格批发价每斤12元，降幅超50%。",
+      "opportunity_insight": "小龙虾价格下降刺激消费，带动厨房小家电如蒸锅、清洗机等需求增长。",
+      "procurement_insight": "加大厨房小家电备货，联合生鲜平台推出小龙虾烹饪工具套餐，提升品类关联销售。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好存量用户，可刺激升级需求，带动配套硬件销售。",
-      "procurement_insight": "建议主推支持新规范的600系主板，联合华硕微星做BIOS升级教程，捆绑CPU促销。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容标识不到位、虚假不实等14类问题。",
+      "opportunity_insight": "AI监管趋严，合规AI工具和内容审核服务需求上升，可布局相关软件及硬件产品。",
+      "procurement_insight": "关注AI内容安全类软件和硬件加速卡，与合规服务商合作，推出企业级AI安全解决方案。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "日产将研发周期缩短至2年，社长强调向中国学习，加速电动化转型。",
-      "opportunity_insight": "传统车企加速转型，中国供应链在电动化领域有技术优势，可拓展合作。",
-      "procurement_insight": "关注日产等车企的电子元器件采购需求，提前布局车规级芯片、传感器等供应链。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃。",
+      "opportunity_insight": "市场流动性充裕，投资者信心增强，可能带动消费电子升级换代需求，利好高端3C产品。",
+      "procurement_insight": "加大高端笔记本、手机等产品采购，利用市场热度促销，与金融平台合作推出分期优惠。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，期待体验最新版，暗示技术差距。",
-      "opportunity_insight": "自动驾驶竞争加剧，国内车企需加速技术追赶，带动高算力芯片需求。",
-      "procurement_insight": "关注自动驾驶相关芯片、传感器采购，与英伟达等供应商保持合作，预判国产替代机会。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体跌幅居前。",
+      "opportunity_insight": "市场资金流向防御性板块，3C数码消费电子需求可能短期承压，但长期看好半导体复苏。",
+      "procurement_insight": "减少通信设备库存，增加贵金属相关数码配件采购，如高端耳机，同时关注半导体价格低位备货。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "比亚迪海豹08曜石黑车漆亮相，盲订同步开启，主打百万级同款质感。",
-      "opportunity_insight": "汽车后市场车漆及改色膜需求增长，可引入高端车漆保护或改色产品，吸引车主消费。",
-      "procurement_insight": "联系3M、XPEL等品牌，采购高端车漆保护膜或改色膜，配合汽车类目促销活动推广。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可换AI算力。",
+      "opportunity_insight": "AI算力消费化趋势明显，3C数码产品可集成AI功能，如智能音箱、AI助手设备，提升附加值。",
+      "procurement_insight": "采购支持AI算力兑换的智能设备，与Kimi等平台合作，推出捆绑销售，吸引科技用户。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持大胆姿势调整，主打二次元收藏市场。",
-      "opportunity_insight": "二次元手办市场持续火热，可引入高可动性人偶产品，满足收藏和摆拍需求。",
-      "procurement_insight": "与Good Smile、Max Factory等品牌合作，采购热门IP可动人偶，在动漫节期间重点推广。"
+      "info_brief": "华谊兄弟退出深圳文化创意公司，由国资和民企接盘。",
+      "opportunity_insight": "文化娱乐行业调整，3C数码可探索与文旅IP结合，如定制化数码产品，但需谨慎评估合作风险。",
+      "procurement_insight": "暂不介入该领域，关注文化IP授权动态，待市场稳定后评估与数码产品联名机会。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "ai-learning",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "AI学习硬件"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获日本炸鸡金奖，强调传统工艺。",
-      "opportunity_insight": "厨房家电和耗材市场关注健康，可推广高效滤油设备或健康食用油，吸引家庭用户。",
-      "procurement_insight": "采购飞利浦、九阳等品牌的空气炸锅或滤油壶，结合健康烹饪主题进行促销。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，BaaS模式13.58万元起，开启全国交付。",
+      "opportunity_insight": "智能汽车市场扩大，车载3C配件需求增长，如充电设备、智能座舱配件等，可布局相关产品线。",
+      "procurement_insight": "关注车载充电器、智能后视镜等配件供应商，提前备货，与车企合作推出定制套餐，抢占市场。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "4k-projector",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "AI学习硬件"
+        "4K投影"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布在即，高端游戏和AI计算需求旺盛，可提前布局预售和捆绑销售。",
-      "procurement_insight": "与英伟达、华硕等厂商沟通，提前锁定RTX 50 Super货源，推出显卡+显示器套餐预售。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦年轻创业者和投资人，无传统形式。",
+      "opportunity_insight": "年轻创业者聚集，4K投影仪可作为会议展示工具，满足创新演示和社交需求。",
+      "procurement_insight": "赞助WAVES大会，提供4K投影仪用于圆桌和AI集市展示，吸引创业圈用户关注。"
     },
     {
-      "title": "手机、平板、电脑通用：B站大会员年卡102元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129022.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "4k-projector",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万���。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的...",
       "matched_keywords": [
-        "AI学习硬件"
+        "4K投影"
       ],
-      "info_brief": "B站大会员年卡102元到手，支持手机、平板、电脑通用，优惠力度大。",
-      "opportunity_insight": "视频会员需求稳定，低价年卡可吸引新用户，带动关联数码产品如平板、耳机销售。",
-      "procurement_insight": "采购B站大会员年卡作为赠品，捆绑平板电脑或耳机销售，提升客单价和用户粘性。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万，售价48元。",
+      "opportunity_insight": "低价优质游戏需求旺盛，4K投影仪可提升游戏沉浸感，吸引独立游戏玩家群体。",
+      "procurement_insight": "与独立游戏平台合作，推出4K投影仪+游戏礼包，主打高性价比家庭娱乐方案。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "4k-projector",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "AI学习硬件"
+        "4K投影"
       ],
-      "info_brief": "荣耀与张雪机车签约，联名款智能手表将发售，结合机车文化吸引年轻用户。",
-      "opportunity_insight": "联名款手表可切入运动骑行细分市场，利用IP热度提升3C数码品类差异化竞争力。",
-      "procurement_insight": "提前与荣耀沟通联名款独家首发，备货5000件，搭配骑行配件促销，抢占618后市场。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行。",
+      "opportunity_insight": "低空经济消费端产品空白被填补，4K投影仪可应用于户外娱乐场景，如水上影院。",
+      "procurement_insight": "开发防水便携4K投影仪，与户外出行品牌合作，打造水上飞行器+投影仪的跨界套餐。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "4k-projector",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "AI学习硬件"
+        "4K投影"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV上市带动车载3C配件需求，如智能后视镜、充电设备，可布局车联网生态。",
-      "procurement_insight": "联合车载配件品牌推出L8专属套装，如行车记录仪和无线充电板，提前备货2000套。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技趋势。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广4K投影仪等高端娱乐设备的绝佳场景，可展示沉浸式体验。",
+      "procurement_insight": "联合参展商推出ChinaJoy限定套餐，主推4K投影仪与游戏主机捆绑销售，提升品牌曝光。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "ai-learning",
-      "summary": "",
+      "category_id": "4k-projector",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "AI学习硬件"
+        "4K投影"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "低价促销吸引价格敏感用户，可捆绑3C数码产品如智能梳子，提升客单价。",
-      "procurement_insight": "采购5000瓶作为满减赠品，或与智能护发设备组合销售，清理库存并引流。"
+      "info_brief": "算力价格大幅下降，百万Token仅需几块钱，OpenAI考虑降价。",
+      "opportunity_insight": "算力成本降低将推动AI硬件普及，4K投影仪等设备可集成AI功能，提升智能交互体验。",
+      "procurement_insight": "关注AI芯片和算力模块供应商，提前布局支持AI功能的4K投影仪产品线，抢占市场先机。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为品牌影响力强，科技感汽车可能带动智能驾驶配件、车载智能硬件需求增长。",
-      "procurement_insight": "提前与华为汽车生态伙伴合作，引入车载智能设备，如HUD、智能音箱，并策划预售活动。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁，美股太空股提前狂欢，SK海力士设备供应商要求涨价。",
+      "opportunity_insight": "太空经济升温，带动高性能计算和存储设备需求，如SSD和GPU，利好3C数码高端品类。",
+      "procurement_insight": "提前备货高端存储和计算产品，与太空产业链企业合作，提供定制化硬件解决方案。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "改装文化热度高，可吸引年轻用户，带动汽车改装件、个性化配件销售。",
-      "procurement_insight": "与手工耿合作推出联名改装套件，或组织改装大赛，促进轮毂、车灯等配件销量。"
+      "info_brief": "力普司获数千万元融资，专注船舶综合电力推进系统，国产替代加速，订单超5000万。",
+      "opportunity_insight": "船舶电动化带动高端电子设备需求，如导航系统、电力控制器，市场潜力大。",
+      "procurement_insight": "与船舶设备商合作，供应高可靠性3C组件，如防水传感器和通信模块，抢占蓝海市场。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "苹果降价策略有效刺激销量，显示高端手机市场仍有价格弹性，可关注促销节点。",
-      "procurement_insight": "建议加大iPhone 17系列备货，并联合苹果推出限时优惠活动，抢占市场份额。"
+      "info_brief": "中国制造业向智能化、绿色化转型，生产性服务业加速嵌入，采购和供应链协同外包趋势明显。",
+      "opportunity_insight": "工业用品采购数字化需求上升，可开发B2B平台，提供3C数码设备一站式采购服务。",
+      "procurement_insight": "与工业用品平台合作，推出企业级3C数码采购套餐，如办公电脑、监控设备，强化供应链服务。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动用户升级PC，带动硬件换机潮，尤其是内存和SSD需求。",
-      "procurement_insight": "提前备货高性能内存和固态硬盘，与PC厂商合作推广升级套装，抓住换机红利。"
+      "info_brief": "周志峰改造北京菜市口院子为多功能空间，融合茶室、餐厅等，毗邻法源寺。",
+      "opportunity_insight": "高端生活空间改造需求增长，可推广智能家居和影音设备，如4K投影仪，提升空间体验。",
+      "procurement_insight": "联合设计师推广4K投影仪和智能音箱，针对高端住宅改造项目提供套装优惠。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "小米发布并开源MiMo Code，界面全汉化，降低开发者门槛。",
-      "opportunity_insight": "开源和汉化吸引国内开发者，可能带动小米生态链设备及配件需求增长。",
-      "procurement_insight": "关注小米生态产品销量趋势，增加相关智能硬件和配件采购，配合开发者社区推广。"
+      "info_brief": "KTV无人化趋势，通过减少服务人员提升盈利能力。",
+      "opportunity_insight": "无人化KTV依赖自动化设备，可能增加对投影仪等娱乐显示设备的需求。",
+      "procurement_insight": "与KTV连锁品牌合作，提供高性价比4K投影仪套餐，支持无人化点歌和互动体验。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "港股理想汽车涨超8%",
+      "url": "https://36kr.com/newsflashes/3849765401203713?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，港股理想汽车午后持续拉升，涨超8%。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "路虎揽胜极光L大幅降价至17.98万，近90万神车价格腰斩。",
-      "opportunity_insight": "汽车降价潮可能影响车载电子设备需求，但非3C核心品类，机会有限。",
-      "procurement_insight": "此资讯与3C数码无关，建议忽略，聚焦手机、PC等核心品类。"
+      "info_brief": "港股理想汽车午后涨超8%，股价持续拉升。",
+      "opportunity_insight": "理想汽车股价上涨反映市场信心，可能加大智能座舱和车载投影设备采购。",
+      "procurement_insight": "联系理想汽车采购部，推广车载4K投影仪作为高端车型选配，提升用户体验。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "苹果因存储涨价扛不住，屏幕缩水，或影响新品配置和定价。",
-      "opportunity_insight": "存储成本上升可能推高苹果产品价格，消费者或转向性价比品牌，国产手机受益。",
-      "procurement_insight": "增加国产中高端手机备货，如小米、华为，并推出以旧换新活动吸引苹果用户。"
+      "info_brief": "美国银行预测服务器CPU市场2030年将达1700亿美元，因代理式AI需求激增。",
+      "opportunity_insight": "AI驱动服务器CPU需求爆发，带动数据中心相关3C产品如高性能投影仪用于监控和展示。",
+      "procurement_insight": "提前与英特尔、AMD等供应商锁定CPU库存，并推广4K投影仪作为AI数据中心可视化解决方案。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台瞬间售罄。",
-      "opportunity_insight": "直播带货模式拓展至高端商品，3C数码可借鉴此模式提升高端产品销量。",
-      "procurement_insight": "与头部主播合作，策划高端3C产品直播专场，如高端投影仪，测试市场反应。"
+      "info_brief": "招商证券换帅，朱江涛接任法定代表人及董事长。",
+      "opportunity_insight": "高层变动可能影响企业IT采购决策，需关注新领导层对数字化投入的倾向。",
+      "procurement_insight": "主动联系招商证券IT部门，了解其服务器和投影设备更新计划，争取新订单。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "Win11/10正式版官方镜像(24H2)可直接下载。",
-      "opportunity_insight": "新系统发布带动硬件升级需求，尤其是高性能PC和配件市场。",
-      "procurement_insight": "提前备货支持新系统的PC和配件，如SSD和内存，并推出系统升级促销活动。"
+      "info_brief": "IDC报告显示蚂蚁数科位列中国智能体平台私有化市场非云厂商第一，市场总规模17.5亿元。",
+      "opportunity_insight": "智能体平台市场增长迅速，可探索与蚂蚁数科合作，开发4K投影仪智能交互功能。",
+      "procurement_insight": "评估引入蚂蚁数科智能体技术，提升产品AI体验，差异化竞争以吸引企业客户。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "快科技2025年度评奖活动启动。",
-      "opportunity_insight": "评奖活动可提升产品曝光度，引导消费者关注获奖3C数码产品。",
-      "procurement_insight": "筛选获奖或提名3C产品，优先采购并设置专题页面，利用评奖热度促销。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆，因涨幅过大。",
+      "opportunity_insight": "芯片股回调风险增加，可能影响4K投影仪供应链成本，但长期需求仍稳健。",
+      "procurement_insight": "监控芯片价格波动，利用短期回调机会低价采购关键零部件，优化库存成本。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "国产技术绕开ASML深紫外光刻路线，实现突破。",
-      "opportunity_insight": "国产芯片技术突破可能降低高端3C产品成本，增强供应链自主性。",
-      "procurement_insight": "关注国产芯片进展，评估采购国产芯片设备，提前布局替代供应链。"
+      "info_brief": "味之素CEO称关键原材料ABF定价过高或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF材料涨价可能推高高端芯片成本，间接影响4K投影仪等依赖芯片的产品价格。",
+      "procurement_insight": "提前与芯片供应商锁定长期合同，或探索替代芯片方案，以降低原材料波动风险。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究。",
-      "opportunity_insight": "AI监管讨论可能影响AI硬件需求，但长期看合规产品仍有市场。",
-      "procurement_insight": "采购符合伦理标准的AI硬件，如智能投影仪，并关注政策动态调整库存。"
+      "info_brief": "欧洲央行管委内格尔表示已为7月保留所有选择，加息必要因高能源价格间接影响。",
+      "opportunity_insight": "加息预期可能抑制消费支出，但高端4K投影仪作为家庭娱乐刚需，抗风险能力较强。",
+      "procurement_insight": "评估欧洲市场利率变化对消费者购买力的影响，优化定价策略，避免过度降价促销。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "华为高端手机热销，带动国产旗舰市场增长，可关注相关配件及生态产品需求。",
-      "procurement_insight": "增加华为Mate 80系列配件采购，如充电器、保护壳，并捆绑促销提升客单价。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好消费电子需求，4K投影仪等可选消费品在欧洲市场可能迎来温和增长。",
+      "procurement_insight": "关注欧洲市场4K投影仪库存，可适当增加备货以应对潜在需求回升，但需控制成本风险。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "iOS 27史诗级更新，中国用户将获得安卓已有功能。",
-      "opportunity_insight": "iOS更新可能刺激iPhone换机潮，尤其吸引安卓用户转投，扩大高端市场。",
-      "procurement_insight": "提前备货iPhone新品及配件，策划以旧换新活动，吸引安卓用户转化。"
+      "info_brief": "全球银行限制对冲基金对SK海力士和三星等芯片股的杠杆押注，因股价暴涨。",
+      "opportunity_insight": "芯片股回调风险增加，可能影响存储芯片价格，为采购带来议价空间。",
+      "procurement_insight": "短期观望存储芯片价格波动，适时增加SK海力士和三星产品的采购库存。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米旗舰机强调影像创新，可吸引摄影爱好者，推动中高端市场增长。",
-      "procurement_insight": "采购小米17T Pro及徕卡联名配件，联合摄影类目做内容营销，提升转化。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日起从伦敦证券交易所退市。",
+      "opportunity_insight": "博彩公司退市或影响其IT设备采购，但整体对3C市场直接机会有限。",
+      "procurement_insight": "无需特别行动，保持对金融行业IT采购趋势的常规关注即可。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "AOC发布2499元高刷电竞显示器，主打性价比。",
-      "opportunity_insight": "低价高刷显示器满足电竞玩家需求，可抢占入门级市场，带动游戏外设销售。",
-      "procurement_insight": "大量采购AOC新品，搭配游戏键盘鼠标套装促销，并投放电竞社区广告。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人，公司主营大数据服务。",
+      "opportunity_insight": "大数据公司管理层变动可能调整业务方向，关注其数据服务对3C供应链的潜在影响。",
+      "procurement_insight": "监控三只羊合作动态，评估其数据服务对3C品类选品和库存管理的优化机会。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力。",
-      "opportunity_insight": "英伟达CEO励志言论提升品牌形象，可借势推广NVIDIA显卡及AI产品。",
-      "procurement_insight": "策划黄仁勋主题营销，主推NVIDIA显卡，结合AI应用场景做内容种草。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工裁剪收藏，反映品牌认同感强。",
+      "opportunity_insight": "品牌符号在海外市场具有高价值，可开发官方周边产品，满足员工和粉丝收藏需求。",
+      "procurement_insight": "与比亚迪合作推出联名3C配件，如定制Logo的充电宝、耳机壳，利用品牌热度拓展销售。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀降至54元，主打性价比。",
-      "opportunity_insight": "节日礼品市场爆发，低价剃须刀可吸引预算有限消费者，提升3C品类节日销量。",
-      "procurement_insight": "备货飞科等低价剃须刀，结合父亲节主题做满减或捆绑销售，主推站内流量入口。"
+      "info_brief": "氢能公交年亏6.7亿仍扩张，存在停运和骗补问题。",
+      "opportunity_insight": "氢能公交亏损但扩张，可能需数字化监控设备如投影仪用于调度和培训。",
+      "procurement_insight": "向公交公司推荐4K投影仪用于智能调度中心，提升运营效率，降低亏损风险。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值，因含黄金等贵金属。",
-      "opportunity_insight": "硬件回收市场升温，可推出以旧换新服务，吸引用户升级并带动新品销售。",
-      "procurement_insight": "联合回收平台开展旧显卡换新券活动，重点推广高价值显卡和内存，提升用户粘性。"
+      "info_brief": "杭州小龙虾价格因产地轮换和货源充足，降幅超50%，中青规格每斤12元。",
+      "opportunity_insight": "小龙虾降价刺激消费，带动家庭烹饪和户外聚餐场景，提升厨房电器需求。",
+      "procurement_insight": "加大厨房小家电如空气炸锅、蒸锅的促销，结合小龙虾季推出套餐。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "AMD新规范下放600系主板，华硕微星更新BIOS，性能提升4%。",
-      "opportunity_insight": "主板性能升级刺激用户换机需求，可借势推广600系主板及配套CPU。",
-      "procurement_insight": "提前备货华硕微星600系主板，配合BIOS更新宣传，捆绑AMD CPU做套装促销。"
+      "info_brief": "中央网信办开设AI应用乱象举报专区，重点整治生成合成内容标识等问题。",
+      "opportunity_insight": "AI监管趋严，合规AI硬件和内容审核工具需求上升，可布局相关产品线。",
+      "procurement_insight": "关注AI内容安全类3C产品，如智能审核设备，提前与供应商沟通合规方案。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "日产将研发周期砍半至2年，强调向中国学习以加快速度。",
-      "opportunity_insight": "汽车行业加速迭代，3C数码可借鉴其敏捷开发模式，推出快速响应用户需求的产品。",
-      "procurement_insight": "关注车载电子配件需求增长，引入支持快速迭代的智能硬件，如车载充电器、记录仪。"
+      "info_brief": "沪深两市成交额超3万亿，市场交易活跃度显著提升。",
+      "opportunity_insight": "市场流动性充裕，投资者信心增强，利好3C数码消费升级和高端产品推广。",
+      "procurement_insight": "加大高端3C数码产品备货，如4K投影仪、高性能电脑，配合金融渠道推出分期优惠。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "蔚来李斌称赞特斯拉FSD领先，期待体验最新版。",
-      "opportunity_insight": "智能驾驶技术受关注，带动车载摄像头、传感器等3C配件需求。",
-      "procurement_insight": "增加车载智能配件如行车记录仪、雷达探测器的采购，配合自动驾驶话题做内容营销。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工、券商领涨，通信设备、半导体跌幅居前。",
+      "opportunity_insight": "市场资金偏好防御性板块，3C数码消费电子需求可能短期承压，需关注结构性机会。",
+      "procurement_insight": "减少通信设备、半导体库存，增加贵金属相关智能穿戴产品采购，如智能黄金饰品。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "比亚迪海豹08推出百万级同款曜石黑车漆，并开启盲订，引发市场关注。",
-      "opportunity_insight": "高端车漆配色吸引科技爱好者，可借势推出4K投影仪与汽车主题观影套装，满足车主家庭娱乐需求。",
-      "procurement_insight": "联系车漆供应商或汽车品牌，推出联名款4K投影仪，主打高对比度与色彩还原，配合盲订活动促销。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力额度。",
+      "opportunity_insight": "AI算力消费化趋势显现，3C数码可结合AI硬件或服务，推出算力兑换促销活动。",
+      "procurement_insight": "与Kimi或合作银行洽谈，推出购买AI硬件赠送算力额度的联合营销方案。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种大胆姿势调整，引发关注。",
-      "opportunity_insight": "二次元周边与高端模型市场增长，可结合4K投影展示人偶细节，吸引动漫及游戏用户。",
-      "procurement_insight": "建议采购4K投影仪，与模型厂商合作推出“投影+人偶”套装，在京东二次元频道推广。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，由地方国资和投资公司接盘。",
+      "opportunity_insight": "文化娱乐产业调整，3C数码可借势IP联名或主题产品，但需谨慎评估合作方稳定性。",
+      "procurement_insight": "暂不介入华谊相关IP产品采购，关注新股东动向，待稳定后评估联名机会。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "4k-projector",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "4K投影"
       ],
-      "info_brief": "日本炸鸡店一锅油反复使用66年，荣获日本炸鸡金奖，引发对传统工艺与食品安全讨论。",
-      "opportunity_insight": "传统工艺故事可激发消费者对品质和历史的兴趣，4k投影仪可借势推广高清画质，突出细节呈现，吸引美食爱好者。",
-      "procurement_insight": "建议与美食类KOL合作，通过4k投影仪展示炸鸡制作过程的高清细节，强化产品画质优势，并推出限时优惠套餐。"
+      "info_brief": "蔚来子品牌新乐道L60发布，售价19.28万元起，BaaS模式13.58万元起，同步开启交付。",
+      "opportunity_insight": "智能汽车与3C数码生态融合趋势明显，可探索车载配件、智能座舱周边产品合作机会。",
+      "procurement_insight": "关注新乐道L60用户群体，提前布局车载充电器、智能支架等配件，与蔚来渠道合作推广。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
+      "category_id": "gaming-peripherals",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "4K投影"
+        "电竞键盘"
       ],
-      "info_brief": "RTX 50 Super系列四款显卡曝光，其中一款设计特殊，性能或定位有别于其他型号。",
-      "opportunity_insight": "高端显卡更新可能带动4K投影仪需求，用户升级显示设备以匹配高性能输出，市场机会显现。",
-      "procurement_insight": "提前与投影仪厂商合作，推出显卡+投影仪套装促销，抢占高端游戏和家庭影院用户。"
+      "info_brief": "WAVES大会今年在番禺举办，聚焦36岁以下创业者和投资人，含AI集市等活动。",
+      "opportunity_insight": "WAVES大会汇聚年轻创业者和投资人，是推广创新3C产品、建立品牌认知的绝佳场景。",
+      "procurement_insight": "争取在WAVES大会设立展位或赞助AI集市，展示最新数码产品，并收集年轻用户反馈。"
     },
     {
-      "title": "手机、平板、电脑通用：B站大会员年卡102元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129022.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
+      "category_id": "gaming-peripherals",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "4K投影"
+        "电竞键盘"
       ],
-      "info_brief": "B站大会员年卡降至102元，支持手机、平板、电脑通用，优惠力度显著。",
-      "opportunity_insight": "低价会员卡可能刺激内容消费，带动4K投影仪等大屏设备需求，尤其是年轻用户群体。",
-      "procurement_insight": "建议与B站合作推出投影仪+会员套餐，或针对会员用户定向促销4K投影仪，提升品类关联销售。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，定价48元，反映国产单机困境。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，但国产单机面临盗版和用户付费意愿低等挑战。",
+      "procurement_insight": "关注Steam等平台热门独立游戏，引入其周边产品如手办、联名外设，以IP带动销售。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
+      "category_id": "gaming-peripherals",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "4K投影"
+        "电竞键盘"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者群体，拓展运动穿戴细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "建议提前与荣耀沟通联名款备货，并策划机车主题营销活动，如骑行挑战赛，带动手表销量。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济消费场景。",
+      "opportunity_insight": "低空经济消费市场潜力巨大，水上飞行器开辟新品类，可带动相关配件和保险服务需求。",
+      "procurement_insight": "评估与坦途科技合作引入该产品，并探索配套的充电设备、安全装备等周边商品。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
+      "category_id": "gaming-peripherals",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "4K投影"
+        "电竞键盘"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计创新可能带动车载电子配件需求，如智能后视镜、车载充电器。",
-      "procurement_insight": "关注理想L8上市后用户反馈，提前备货适配车载配件，并与理想合作推出套餐优惠。"
+      "info_brief": "ChinaJoy即将举办，Vision Future前沿科技展区将展示最新产品和趋势。",
+      "opportunity_insight": "ChinaJoy是接触年轻消费者和前沿科技用户的绝佳平台，可推广游戏外设、VR/AR设备等。",
+      "procurement_insight": "提前与参展品牌沟通，争取独家首发或限时优惠，并策划现场体验活动以吸引用户。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "4k-projector",
-      "summary": "",
+      "category_id": "gaming-peripherals",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "4K投影"
+        "电竞键盘"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元到手，主打控油养发功能。",
-      "opportunity_insight": "低价策略可吸引价格敏感消费者，控油养发需求旺盛，适合在京东秒杀频道推广。",
-      "procurement_insight": "建议与品牌协商独家补贴，设置限时抢购，并搭配护发素捆绑销售，提升客单价。"
+      "info_brief": "算力价格持续下降，OpenAI考虑大幅降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，带动高性能计算设备需求增长，如AI服务器、GPU等。",
+      "procurement_insight": "关注AI算力相关硬件供应商，提前锁定GPU、服务器等关键组件，以应对潜在需求爆发。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能汽车新品。",
-      "opportunity_insight": "华为系高端智能汽车引发关注，可带动车载智能设备和互联生态产品热销。",
-      "procurement_insight": "提前与华为系车企合作，备货车载智能屏、车联网模块，并策划联合营销活动。"
+      "info_brief": "SpaceX将于6月12日上市，马斯克或成万亿富翁，太空股提前狂欢。",
+      "opportunity_insight": "太空经济热度飙升，带动相关3C数码产品需求，如卫星通信设备、太空主题周边。",
+      "procurement_insight": "提前采购卫星通信模块和太空主题数码配件，与SpaceX合作推出联名产品，抢占热点。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，创意吸睛。",
-      "opportunity_insight": "改装文化兴起，带动个性化汽车配件和DIY工具需求，尤其吸引年轻消费者。",
-      "procurement_insight": "引入改装工具和配件品类，如大型轮毂、LED灯带，与手工耿合作推广，提升创意产品曝光。"
+      "info_brief": "力普司获数千万融资，研发船舶综合电力推进系统，半年订单超5000万。",
+      "opportunity_insight": "船舶电动化市场爆发，国产替代需求强劲，高端推进系统有巨大增长空间。",
+      "procurement_insight": "关注船舶电子设备供应商，采购电机控制器、电池管理系统，支持国产化替代。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量突破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机市场对价格敏感，降价策略能有效刺激销量，需关注苹果价格战对安卓阵营的冲击。",
-      "procurement_insight": "提前备货iPhone 17系列及配件，与苹果协商降价期独家优惠，抢占流量高峰。"
+      "info_brief": "中国制造业转向智能化、绿色化，企业外包非核心职能，推动生产性服务业发展。",
+      "opportunity_insight": "工业用品采购数字化需求上升，B2B平台和智能供应链服务成新增长点。",
+      "procurement_insight": "布局工业品电商平台，采购智能仓储和物流系统，提升B端客户供应链效率。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将推动老旧PC换机潮，带动3C数码配件升级需求。",
-      "procurement_insight": "加大高性能SSD、内存等升级配件采购，联合品牌推出“Win11升级套装”促销。"
+      "info_brief": "周志峰将北京房产改造为茶室、餐厅等复合空间，位于法源寺旁，融合传统文化。",
+      "opportunity_insight": "文化体验空间需求增长，结合历史地标的复合业态有市场潜力，可探索联名或主题产品。",
+      "procurement_insight": "采购与茶室、文化空间相关的3C设备，如智能茶具、氛围灯，打造沉浸式体验套装。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "小米发布并开源MiMo Code，界面全汉化，降低开发门槛。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米硬件及周边设备销量增长。",
-      "procurement_insight": "关注小米开发者社区需求，采购适配MiMo Code的键盘、显示器等外设，推出捆绑优惠。"
+      "info_brief": "KTV行业推行无人化，通过减少服务人员来提升盈利，降低运营成本。",
+      "opportunity_insight": "无人化KTV依赖自助点歌、智能音响等3C数码设备，市场对高可靠性、易维护产品需求增加。",
+      "procurement_insight": "开发专用于无人KTV的一体化智能设备包，包括触控屏、音响和支付系统，提供快速安装和远程维护服务。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "路虎揽胜极光L大幅降价至17.98万，近90万神车价格腰斩。",
-      "opportunity_insight": "汽车降价潮可能释放消费力，间接带动车载3C数码产品需求。",
-      "procurement_insight": "采购车载充电器、支架等配件，与汽车品牌合作推出“购车送数码礼包”活动。"
+      "info_brief": "美国银行预测，服务器CPU市场规模到2030年将激增至1700亿美元以上，受代理式AI驱动。",
+      "opportunity_insight": "代理式AI爆发将推动服务器CPU需求激增，英特尔、AMD及Arm架构芯片迎来巨大市场机遇。",
+      "procurement_insight": "提前布局代理式AI服务器CPU采购，与英特尔、AMD等厂商锁定产能，确保供应链稳定。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "苹果因存储涨价，新款产品屏幕缩水，成本压力传导至消费者。",
-      "opportunity_insight": "存储涨价导致产品配置缩水，消费者可能转向性价比更高的安卓或存储扩容方案。",
-      "procurement_insight": "增加外置存储设备、云存储服务采购，推广“扩容套餐”满足用户低成本存储需求。"
+      "info_brief": "招商证券完成换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "金融行业高管变动可能带来IT采购策略调整，关注证券业数字化转型对3C数码设备的新需求。",
+      "procurement_insight": "主动对接招商证券新管理层，提供高性能服务器和网络安全设备，抢占金融IT升级订单。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货在高端消费品领域的潜力。",
-      "opportunity_insight": "直播带货模式向高客单价商品延伸，3C数码可借鉴此模式推广高端游戏外设或整机，提升转化率。",
-      "procurement_insight": "与头部主播合作，策划高端游戏外设或电竞整机专场直播，利用秒杀机制刺激购买。"
+      "info_brief": "IDC报告显示，蚂蚁数科在2025年中国智能体平台私有化市场排名第四，是非云厂商第一。",
+      "opportunity_insight": "非云厂商在智能体私有化市场有独特优势，可关注企业级AI部署需求，拓展边缘计算和本地化解决方案。",
+      "procurement_insight": "加强与蚂蚁数科等非云厂商合作，引入私有化智能体平台，满足企业数据安全需求，提升3C数码产品AI集成能力。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "微软发布Win11/10正式版24H2官方镜像，用户可直接下载更新。",
-      "opportunity_insight": "新系统更新可能带动硬件升级需求，尤其是兼容性强的PC配件和游戏外设，市场机会增大。",
-      "procurement_insight": "提前备货支持新系统的游戏键盘、鼠标等外设，并推出“升级系统必备”组合促销活动。"
+      "info_brief": "华尔街大行收紧对冲基金对台积电等亚洲芯片股的做多杠杆，因股价上涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期承压，但台积电等龙头长期受益于AI需求，可逢低采购相关产品，如高性能计算芯片。",
+      "procurement_insight": "建议与台积电等供应商签订长期协议锁定价格，并增加库存缓冲，利用市场回调机会补充关键芯片库存。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "快科技举办2025年度评奖，表彰优秀科技产品，涵盖3C数码领域。",
-      "opportunity_insight": "评奖活动可提升获奖产品知名度和信任度，为京东采销提供选品和营销参考。",
-      "procurement_insight": "关注评奖结果，优先采购获奖游戏外设产品，并联合品牌进行“年度推荐”专题推广。"
+      "info_brief": "味之素CEO警告ABF关键材料定价过高，可能迫使芯片制造商寻找替代品，影响供应链。",
+      "opportunity_insight": "ABF材料涨价或推动替代技术发展，可关注新型封装材料供应商，抢占技术迭代先机。",
+      "procurement_insight": "建议与ABF供应商重新谈判长期合同，同时调研替代材料方案，如玻璃基板，以降低供应链风险。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "国产技术绕开ASML深紫外光刻路线，实现芯片制造突破，降低对外依赖。",
-      "opportunity_insight": "国产芯片技术突破可能降低硬件成本，推动国产游戏外设和PC配件性价比提升，市场潜力大。",
-      "procurement_insight": "加强与国产芯片厂商合作，引入性价比高的国产游戏外设，并设置“国产优选”专区吸引用户。"
+      "info_brief": "欧洲央行管委内格尔表示7月保留加息选项，因能源价格间接影响加剧，通胀压力持续。",
+      "opportunity_insight": "加息预期可能抑制消费，但高端数码产品需求韧性较强，可聚焦高附加值品类以对冲风险。",
+      "procurement_insight": "建议控制欧洲市场库存周转率，优先采购高毛利产品如游戏外设，并关注汇率波动对进口成本的影响。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI研究暂停可能延缓智能外设发展，但短期利好传统游戏外设，用户更关注基础性能。",
-      "procurement_insight": "聚焦传统高性能游戏外设采购，如机械键盘和电竞鼠标，并强调非AI依赖的稳定体验。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，环比下降0.2%，符合预期，通胀压力温和。",
+      "opportunity_insight": "欧洲通胀稳定利于消费电子需求复苏，可提前布局德国及欧洲市场，增加3C数码产品库存。",
+      "procurement_insight": "建议加大欧洲市场3C产品备货，尤其是中高端品类，利用欧元汇率优势锁定采购成本，提升竞争力。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "华为高端机热销带动配件需求，可布局Mate 80系列周边3C产品，如充电器、保护壳等。",
-      "procurement_insight": "增加华为配件采购量，与供应商合作推出联名款，利用热度提升品类销量。"
+      "info_brief": "全球银行限制对冲基金对SK海力士、三星等亚洲芯片股的杠杆押注，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求强劲，可关注低位补仓机会，利用市场波动优化采购成本。",
+      "procurement_insight": "建议与SK海力士、三星等供应商协商更灵活的定价协议，并增加备选供应商以分散风险，应对潜在价格波动。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "iOS 27史诗级更新，中国果粉将获得安卓已有功能。",
-      "opportunity_insight": "iOS更新可能刺激iPhone换机潮，带动配件和周边设备需求增长。",
-      "procurement_insight": "提前备货iPhone相关配件，如快充头、耳机，并策划更新专题促销活动。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日起从伦敦证交所退市。",
+      "opportunity_insight": "海外市场波动，可能影响相关电子设备需求，需关注替代市场。",
+      "procurement_insight": "减少对博彩相关外设依赖，拓展电竞和办公场景产品线，分散风险。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "小米17T Pro评测发布，五倍徕卡长焦，定位家族收官真香机。",
-      "opportunity_insight": "小米高端机型受关注，可挖掘摄影配件和手机壳等周边市场机会。",
-      "procurement_insight": "采购小米17T Pro适配配件，如镜头膜、三脚架，并联合小米做新品推广。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人。",
+      "opportunity_insight": "公司管理层变动可能带来业务调整，关注数据服务领域合作机会。",
+      "procurement_insight": "评估与三只羊的数据合作潜力，探索精准营销方案，优化用户画像。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "AOC推出2499元高刷电竞显示器，主打性价比。",
-      "opportunity_insight": "高性价比电竞显示器吸引游戏玩家，可带动键鼠、耳机等外设销售。",
-      "procurement_insight": "加大AOC显示器采购量，搭配电竞外设组合促销，抢占中端市场。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工裁剪收藏，反映品牌认同感。",
+      "opportunity_insight": "品牌符号在海外工厂被珍视，表明品牌文化渗透力强，可开发周边产品满足员工情感需求。",
+      "procurement_insight": "建议采购定制化品牌周边，如Logo贴纸、徽章，作为员工福利或激励品，增强归属感。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "黄仁勋分享成功经历，强调努力付出100%的重要性。",
-      "opportunity_insight": "黄仁勋言论提升英伟达品牌形象，可借势推广相关GPU和游戏硬件。",
-      "procurement_insight": "策划英伟达主题促销，结合励志故事营销，带动显卡和游戏本销量。"
+      "info_brief": "氢能公交年亏6.7亿仍持续投入，存在停运和骗补问题，反映行业非理性扩张。",
+      "opportunity_insight": "氢能公交亏损严重，但政策驱动下仍有市场，可关注车载3C数码设备如智能监控和电池管理系统需求。",
+      "procurement_insight": "谨慎评估氢能公交客户信用，优先提供高性价比的车载电子设备，避免坏账风险。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因含金等贵金属可提炼。",
-      "opportunity_insight": "旧显卡回收市场升温，可推出以旧换新活动，吸引用户升级，带动新品销售。",
-      "procurement_insight": "联合回收平台推出显卡换新补贴，重点推广高价值旧卡型号，促进高端显卡销量。"
+      "info_brief": "杭州小龙虾降价超50%，中青批发价每斤12元，大青16元。",
+      "opportunity_insight": "季节性消费品价格波动，可借鉴促销策略，刺激数码配件需求。",
+      "procurement_insight": "结合小龙虾热销季，推出游戏外设套餐促销，利用低价引流提升销量。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "AMD新规范下放600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好老用户，可借机推动CPU+主板套装促销，刺激升级需求。",
-      "procurement_insight": "备货支持新BIOS的600系主板，与AMD合作推出套装优惠，并宣传性能提升卖点。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治14类问题。",
+      "opportunity_insight": "AI应用监管趋严，合规产品需求上升，推动行业健康发展。",
+      "procurement_insight": "优先采购合规AI外设产品，与厂商合作推广安全认证，提升用户信任。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "父亲节促销，飞科电动剃须刀到手价54元，性价比突出。",
-      "opportunity_insight": "低价剃须刀契合节日礼品需求，可吸引价格敏感用户，带动3C配件品类流量。",
-      "procurement_insight": "加大飞科剃须刀采购量，设置父亲节专题页面，搭配其他男士3C产品捆绑销售。"
+      "info_brief": "沪深两市成交额超3万亿，市场活跃度显著提升。",
+      "opportunity_insight": "市场资金充裕，消费者购买力增强，利好3C数码产品消费升级。",
+      "procurement_insight": "加大高端游戏外设备货，联合品牌推出限时优惠，吸引资金流入消费市场。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "日产汽车研发周期砍半至2年，社长强调向中国学习，加速电动化。",
-      "opportunity_insight": "汽车行业加速电动化，车载3C配件需求增长，可布局车充、智能后视镜等产品。",
-      "procurement_insight": "关注日产等车企新车型发布，提前采购适配车载3C配件，与汽车品牌合作推广。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工领涨，通信设备板块跌幅居前。",
+      "opportunity_insight": "市场波动中，军工航天板块走强，可能带动高端通信及安防3C设备采购。",
+      "procurement_insight": "关注军工级3C配件需求，如加固型平板、加密通信设备，与相关企业建立供应链合作。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订同步开启。",
-      "opportunity_insight": "新车发布带动汽车后市场，可推广车载净化器、记录仪等3C配件，吸引车主消费。",
-      "procurement_insight": "针对比亚迪车主推出专属3C配件套餐，联合车友会或4S店进行精准营销。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力额度。",
+      "opportunity_insight": "AI算力消费化，带动高性能计算设备及AI外设需求，如显卡、智能键盘等。",
+      "procurement_insight": "与Kimi合作，推出AI算力兑换专属3C产品套餐，如游戏本、AI加速卡，绑定信用卡权益。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城��建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水以29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "低价日化品可吸引价格敏感型用户，与游戏外设捆绑销售，提升客单价和流量转化。",
-      "procurement_insight": "建议采购少量洗发水作为游戏外设赠品，或设置满减活动，测试用户交叉购买意愿。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，股权转由地方投资公司持有。",
+      "opportunity_insight": "文化地产转型，可能释放数字娱乐设备采购需求，如VR/AR设备、投影仪等。",
+      "procurement_insight": "关注新股东投资方向，对接文化城项目，提供沉浸式体验3C设备采购方案。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持大胆姿势摆放，面向收藏市场。",
-      "opportunity_insight": "游戏IP衍生品热度高，可吸引核心玩家和收藏者，拓展3C数码周边品类。",
-      "procurement_insight": "评估与游戏外设品牌合作，采购限量版人偶作为高价值赠品或独立销售，提升品牌联动。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，支持BaaS电池租赁，开启全国交付。",
+      "opportunity_insight": "新能源车销量增长带动车载3C配件需求，如充电设备、智能座舱外设等。",
+      "procurement_insight": "与乐道合作，推出定制化车载充电器、支架等配件，利用BaaS模式捆绑销售。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "福特在美召回4151辆汽车，因仪表盘启动后可能黑屏存安全隐患",
+      "url": "https://36kr.com/newsflashes/3849852484834564?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "",
+      "summary": "据美国国家公路交通安全管理局（NHTSA）6月12日披露，福特汽车公司正在召回部分2019款Ford Mustang、Lincoln Nautilus及Lincoln Navigator车型，共计4151辆。上述车辆此前已依据19V076号召回令进行过维修，但维修存在缺陷。车辆启动时，仪表盘组件可能无法正常工作并显示黑屏，导致车速、安全系统警告等关键安全信息无法显示，增加碰撞风险。（界面）",
       "matched_keywords": [
         "电竞键盘"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获日本炸鸡金奖，强调传统工艺。",
-      "opportunity_insight": "非3C资讯，但可借势“日本匠人”话题，策划厨房小家电（如空气炸锅）的营销活动。",
-      "procurement_insight": "忽略此条，聚焦3C数码品类，避免资源浪费在无关内容上。"
+      "info_brief": "福特因仪表盘黑屏隐患召回4151辆汽车，涉及2019款Mustang等车型。",
+      "opportunity_insight": "汽车电子故障频发，推动车载显示及安全系统升级需求，利好相关3C配件市场。",
+      "procurement_insight": "关注车载显示模组供应商，提前布局高可靠性仪表盘组件，与车企合作开发防黑屏方案。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
+      "category_id": "smart-watch",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "电竞键盘"
+        "智能手表"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡曝光引发玩家期待，可提前布局预售和捆绑销售，抢占高端市场。",
-      "procurement_insight": "联系NVIDIA或AIC厂商，争取首批货源，并设计预售套餐（含电源、散热器），锁定高意向用户。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人。",
+      "opportunity_insight": "年轻创业者是智能手表创新应用的核心推动者，大会可挖掘合作机会。",
+      "procurement_insight": "赞助WAVES大会，展示智能手表在创业场景中的应用，与年轻创业者建立联系。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
+      "category_id": "smart-watch",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "电竞键盘"
+        "智能手表"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板需求旺盛，WIFI6E成差异化卖点，可吸引预算有限但追求新技术的用户。",
-      "procurement_insight": "采购该主板与中低端CPU、内存组合成套装，在618等大促期间主推，提升整机销量。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，定价48元。",
+      "opportunity_insight": "低价优质内容受市场欢迎，智能手表可引入类似独立游戏，吸引年轻用户。",
+      "procurement_insight": "与独立游戏开发商合作，为智能手表定制轻量级游戏，以低价策略促进下载。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
+      "category_id": "smart-watch",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "电竞键盘"
+        "智能手表"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者群体，拓展运动户外细分市场，提升品牌差异化竞争力。",
-      "procurement_insight": "建议提前与荣耀沟通联名款备货，重点在机车社区和运动平台推广，并搭配骑行配件促销。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器，拓展水陆空出行生态。",
+      "opportunity_insight": "低空经济消费端空白被填补，智能手表可作为飞行器控制终端，拓展户外场景。",
+      "procurement_insight": "与坦途科技合作开发智能手表控制水上飞行器的功能，推出户外运动联名款。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
+      "category_id": "smart-watch",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "电竞键盘"
+        "智能手表"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫和宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计融合豪华与性能，可带动车载智能设备需求增长。",
-      "procurement_insight": "关注理想L8上市后车载配件需求，如智能充电器、行车记录仪，提前与供应商合作推出适配产品。"
+      "info_brief": "ChinaJoy将设前沿科技展区，聚焦年轻用户和最新产品趋势。",
+      "opportunity_insight": "年轻用户是智能手表核心消费群，展会可展示新品、收集反馈，抢占市场先机。",
+      "procurement_insight": "策划ChinaJoy智能手表展区，联合品牌推出限定款，现场体验促进转化。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "",
+      "category_id": "smart-watch",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行��。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François...",
       "matched_keywords": [
-        "电竞键盘"
+        "智能手表"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件升级需求，如高算力芯片和传感器。",
-      "procurement_insight": "建议增加智能驾驶相关硬件库存，如激光雷达和AI芯片，并关注特斯拉FSD更新对配件市场的影响。"
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，儿童铁路票半价。",
+      "opportunity_insight": "算力成本降低将推动AI硬件普及，智能手表等设备可集成更强大AI功能，提升产品竞争力。",
+      "procurement_insight": "关注AI芯片和模组供应商，提前锁定低价算力资源，用于开发新一代AI智能手表。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳，暗示高端智能手表设计。",
-      "opportunity_insight": "高端科技与跑车结合，吸引奢华用户，可推动智能手表高端定制款，提升溢价。",
-      "procurement_insight": "与华为合作推出联名款手表，主打跑车设计元素，并限量发售制造稀缺感。"
+      "info_brief": "SpaceX即将上市，马斯克或成全球首位万亿富翁，美股太空股提前狂欢，市场关注度飙升。",
+      "opportunity_insight": "太空经济热潮带动相关消费电子需求，如卫星通信设备、太空主题智能手表等周边产品。",
+      "procurement_insight": "提前布局卫星通信模块采购，与SpaceX等企业合作推出联名智能手表，抢占太空主题市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂，引发关注。",
-      "opportunity_insight": "改装文化热度高，可推出户外探险风格智能手表，吸引硬核玩家和DIY爱好者。",
-      "procurement_insight": "与手工耿合作联名款手表，主打耐用和机甲风，并策划改装车展活动引流。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万，瞄准国产替代。",
+      "opportunity_insight": "船舶电动化加速，带动船用电子设备（如导航仪、监控系统）需求，国产替代市场空间大。",
+      "procurement_insight": "采购船用级电子元器件（如防水传感器、通信模块），与船舶企业合作开发定制化3C解决方案。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后热销。",
-      "opportunity_insight": "高端手机市场降价策略有效，可刺激销量，需关注苹果价格战对国产旗舰的冲击。",
-      "procurement_insight": "建议加大iPhone 17系列备货，并策划以旧换新补贴活动，抢占高端市场份额。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业将非核心采购、仓配等职能外包，推动生产性服务业发展。",
+      "opportunity_insight": "工业品采购外包趋势为3C数码企业提供B2B供应链服务机会，如智能仓储设备、工业级平板等。",
+      "procurement_insight": "开发工业级3C产品（如坚固平板、扫码枪），与工业品服务平台合作，切入企业采购外包市场。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将带动PC换机潮，尤其是老旧设备用户，利好硬件升级需求。",
-      "procurement_insight": "提前与PC厂商合作，推出预装Win11的促销套装，并主推SSD和内存升级配件。"
+      "info_brief": "周志峰将北京房产换成菜市口院子，由设计师切分为茶室、餐厅等空间，毗邻法源寺，体现城市院落生活趋势。",
+      "opportunity_insight": "城市院落改造需求增长，带动智能家居、安防设备等3C产品在高端住宅场景的渗透机会。",
+      "procurement_insight": "针对高端住宅项目，采购智能门锁、环境传感器等产品，与设计师合作推广场景化方案。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源编程工具降低开发门槛，可能吸引更多开发者加入小米生态，带动相关硬件销售。",
-      "procurement_insight": "关注小米开发者社区动态，备货小米笔记本和开发板，配合工具推广捆绑销售。"
+      "info_brief": "KTV行业推行无人化，减少服务人员以提升盈利，聚焦自动化设备。",
+      "opportunity_insight": "无人化KTV需要更多自助点歌、支付和监控设备，3C数码中智能终端和物联网设备需求上升。",
+      "procurement_insight": "开发KTV专用自助服务终端和智能音响系统，提供一站式无人化解决方案，抢占娱乐行业市场。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮可能分流3C数码消费预算，需警惕高端用户购买力转移。",
-      "procurement_insight": "针对汽车降价区域，加强数码产品分期免息和赠品策略，维持用户消费黏性。"
+      "info_brief": "美国银行预测，2030年服务器CPU市场规模将激增至1700亿美元以上，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，AI代理需求推动，3C数码中CPU相关配件和散热设备需求将大增。",
+      "procurement_insight": "提前备货高性能CPU及配套散热、电源产品，与英特尔、AMD等厂商加强合作，应对AI服务器需求。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，成本压力传导至产品。",
-      "opportunity_insight": "存储涨价影响苹果产品配置，可能降低用户购买意愿，国产存储替代机会显现。",
-      "procurement_insight": "增加国产存储品牌（如长江存储）的采购比例，推出高性价比存储产品组合促销。"
+      "info_brief": "招商证券完成换帅，朱江涛接任法定代表人及董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商换帅可能带来IT采购策略调整，3C数码设备更新需求或增加，尤其是高性能计算设备。",
+      "procurement_insight": "主动联系招商证券IT部门，提供服务器、网络设备等3C产品方案，争取新管理层采购订单。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "李佳琦直播卖奔驰，40台车秒售罄，显示直播带货在高端商品领域的潜力。",
-      "opportunity_insight": "直播带货模式可拓展至高端3C数码产品，如智能手表、笔记本等，提升品牌曝光和销量。",
-      "procurement_insight": "与头部主播合作，策划高端3C数码产品专场直播，利用秒杀机制刺激消费，提前备货确保库存。"
+      "info_brief": "IDC报告显示，蚂蚁数科在中国智能体平台私有化市场非云厂商中排名第一，市场总规模达17.5亿元。",
+      "opportunity_insight": "智能体平台私有化市场增长迅速，非云厂商如蚂蚁数科有独特机会，可关注AI硬件集成需求。",
+      "procurement_insight": "建议与蚂蚁数科等非云厂商合作，推出智能体专用3C设备，如边缘计算终端，抢占私有化市场先机。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "Win11/10正式版官方镜像(24H2)可直接下载，系统更新推动硬件需求。",
-      "opportunity_insight": "新系统版本可能带动PC硬件升级潮，如SSD、内存和处理器，增加3C数码配件销量。",
-      "procurement_insight": "提前采购兼容Win11/24H2的硬件，如高速SSD和DDR5内存，并推出系统升级促销套餐。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股回调风险加大，但长期需求支撑，可逢低吸纳相关产品。",
+      "procurement_insight": "建议减少对SK海力士和三星芯片的短期采购，等待市场调整后低价补货。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "快科技2025年度评奖，表彰优秀科技产品，提升行业关注度。",
-      "opportunity_insight": "评奖活动可引导消费者关注获奖3C数码产品，如智能手表和笔记本，增加购买意愿。",
-      "procurement_insight": "争取与评奖合作，推广获奖产品，并针对获奖品类加大采购量，设置专区促销。"
+      "info_brief": "味之素CEO警告关键原材料ABF定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF替代材料研发加速，可能降低高端芯片封装成本，利好相关产品。",
+      "procurement_insight": "关注ABF替代材料进展，与供应商合作测试新方案，提前布局降低成本。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "国产完全绕开ASML深紫外光刻路线，突破芯片制造技术瓶颈。",
-      "opportunity_insight": "国产芯片技术突破可能降低3C数码产品成本，如智能手表和电脑，增强供应链自主性。",
-      "procurement_insight": "关注国产芯片进展，优先采购相关产品，与国产芯片厂商合作，推出性价比高的3C数码设备。"
+      "info_brief": "欧洲央行管委内格尔表示已为7月保留所有选择，随时准备再次加息以应对通胀。",
+      "opportunity_insight": "加息预期可能抑制消费，但高端3C产品需求韧性较强。",
+      "procurement_insight": "提前锁定欧洲供应商价格，避免加息后成本上升，同时优化库存周转。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI暂停争议可能推动消费者对智能设备隐私和安全的关注，利好安全型3C产品。",
-      "procurement_insight": "采购强调数据安全的智能手表和笔记本，如加密存储和隐私保护功能，并宣传安全卖点。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好消费电子需求，欧洲市场购买力可能保持平稳。",
+      "procurement_insight": "可维持对欧洲市场的3C数码产品供应，关注德国等核心市场促销活动。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "高端市场持续扩容，华为品牌力强劲，带动智能穿戴等周边产品需求。",
-      "procurement_insight": "加大华为智能手表备货，捆绑Mate 80系列促销，提升客单价。"
+      "info_brief": "全球银行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求仍强劲，可关注低价位补货机会。",
+      "procurement_insight": "建议暂缓增加SK海力士和三星相关产品库存，等待回调后逢低采购，降低成本。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "iOS 27史诗级更新，中国果粉将获得安卓已有功能。",
-      "opportunity_insight": "iOS更新可能刺激iPhone换机潮，带动配件和智能穿戴升级需求。",
-      "procurement_insight": "提前备货iPhone配件及Apple Watch，配合更新节点做捆绑营销。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日从伦敦证交所退市。",
+      "opportunity_insight": "Flutter退市可能影响其资本运作，但博彩行业与智能手表健康监测功能无直接关联，机会有限。",
+      "procurement_insight": "保持观望，无需调整采购策略，但可监测其是否转向亚洲市场，影响智能手表支付安全需求。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米高端机型强化影像卖点，可能吸引摄影爱好者，带动智能手表联动。",
-      "procurement_insight": "备货小米17T Pro及配套手表，突出徕卡影像与手表协同功能。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人。",
+      "opportunity_insight": "三只羊公司管理层变动，可能调整业务方向，其大数据能力或为智能手表用户行为分析提供合作机会。",
+      "procurement_insight": "关注三只羊大数据新动向，探索数据合作，用于优化智能手表用户画像和精准营销。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "AOC新品高刷电竞显示器上市，售价2499元。",
-      "opportunity_insight": "电竞显示器价格下探，刺激游戏玩家换屏需求，带动外设品类增长。",
-      "procurement_insight": "采购AOC新品，搭配电竞鼠标键盘组合促销，抢占中端市场。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工精心裁剪盗取，反映品牌符号在海外的高价值认同。",
+      "opportunity_insight": "品牌符号在海外市场具有高溢价，可开发定制化品牌配件或联名产品，满足用户归属感需求。",
+      "procurement_insight": "建议与比亚迪等品牌合作，推出官方授权3C配件（如智能手表表带），强化品牌符号营销。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力。",
-      "opportunity_insight": "英伟达CEO励志言论提升品牌好感，可能带动GPU及游戏硬件需求。",
-      "procurement_insight": "借势宣传英伟达显卡，联合游戏本品牌做“努力”主题促销活动。"
+      "info_brief": "氢能公交年亏6.7亿仍持续投入，存在停运和骗补问题，经济模式存疑。",
+      "opportunity_insight": "氢能公交亏损但政策驱动，3C数码中车载智能设备（如监控、导航）有替换升级机会。",
+      "procurement_insight": "关注氢能公交试点城市，推广车载智能终端和电池管理系统，提供节能型3C配件以降低成本。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "旧显卡内存暴涨，因含黄金等贵金属，回收价值提升。",
-      "opportunity_insight": "显卡回收市场热度上升，可带动二手交易和翻新业务，需关注回收渠道和价格波动。",
-      "procurement_insight": "建议与回收商合作，推出以旧换新活动，回收旧显卡并翻新销售，同时监控内存价格走势。"
+      "info_brief": "杭州小龙虾降价超50%，中青规格每斤12元，大青每斤16元。",
+      "opportunity_insight": "小龙虾价格大幅下降，消费者餐饮支出减少，可能释放部分预算用于3C数码产品购买。",
+      "procurement_insight": "借势推出“夏日数码补贴”活动，将智能手表与小龙虾消费场景关联，如运动监测功能促销。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "AMD新规范下放600系主板，华硕微星发布BIOS，性能提升4%。",
-      "opportunity_insight": "主板性能升级刺激用户换机需求，可带动600系主板及配套CPU销售。",
-      "procurement_insight": "提前备货支持新BIOS的主板，联合厂商宣传性能提升，并推出捆绑CPU套餐促销。"
+      "info_brief": "中央网信办开设“涉AI应用乱象举报专区”，整治14类问题。",
+      "opportunity_insight": "AI监管趋严，合规AI应用产品将获信任优势，智能手表AI助手功能需确保合规以抢占市场。",
+      "procurement_insight": "优先采购通过AI安全认证的智能手表，与供应商合作优化AI语音助手内容审核，强化合规宣传。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀降至54元，性价比突出。",
-      "opportunity_insight": "节日礼品需求旺盛，低价剃须刀可吸引预算敏感消费者，提升销量和品牌曝光。",
-      "procurement_insight": "加大飞科剃须刀采购量，设置父亲节专题页面，搭配其他礼品组合销售，并限时秒杀引流。"
+      "info_brief": "沪深两市成交额超3万亿，市场资金活跃。",
+      "opportunity_insight": "市场资金充裕，消费者购买力增强，利好3C数码产品消费升级，高端智能手表需求可能提升。",
+      "procurement_insight": "加大高端智能手表备货，联合品牌推出分期免息活动，吸引资金活跃期消费者升级换代。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习。",
-      "opportunity_insight": "汽车行业加速迭代，可能推动车载电子设备需求增长，如智能座舱和传感器。",
-      "procurement_insight": "关注车载3C配件市场，提前布局车规级存储和显示产品，与车企合作开发定制方案。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工领涨，通信设备跌幅居前。",
+      "opportunity_insight": "市场避险情绪升温，贵金属概念股走强，智能手表可集成黄金投资功能。",
+      "procurement_insight": "关注贵金属行情，采购支持黄金交易提醒的智能手表，与券商合作推广理财功能。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订开启。",
-      "opportunity_insight": "新车发布带动汽车后市场，如车载充电器、行车记录仪等配件需求。",
-      "procurement_insight": "针对比亚迪车主推出专属配件套装，联合车友会推广，并利用盲订期进行预售优惠。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可换AI算力。",
+      "opportunity_insight": "AI算力消费化趋势，智能手表等设备可集成AI功能，提升用户粘性。",
+      "procurement_insight": "采购支持AI算力兑换的智能手表，与银行合作推出联名产品，绑定消费权益。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水以29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "低价护发产品吸引价格敏感用户，可结合3C数码用户健康生活需求，拓展关联品类。",
-      "procurement_insight": "建议与洗护品牌合作，在数码配件订单中附赠试用装，提升用户粘性。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，由国资和民企接盘。",
+      "opportunity_insight": "文化娱乐行业调整，3C数码可借势IP联名，但需关注合作方稳定性。",
+      "procurement_insight": "暂缓与华谊兄弟的IP联名合作，转向与稳定国资背景企业探索文创数码产品。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持大胆姿势调整，吸引收藏和二次元用户。",
-      "opportunity_insight": "二次元周边市场增长迅速，可瞄准年轻数码用户，拓展手办等衍生品销售。",
-      "procurement_insight": "与IP授权商合作，在数码产品页面捆绑销售限量手办，提升客单价。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，支持BaaS电池租用，起价13.58万元。",
+      "opportunity_insight": "新能源车降价刺激消费，智能手表作为车联网配件需求增长，可拓展车载互联功能。",
+      "procurement_insight": "采购支持车机互联的智能手表，与蔚来等车企联合营销，推出购车赠表或套餐优惠。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "福特在美召回4151辆汽车，因仪表盘启动后可能黑屏存安全隐患",
+      "url": "https://36kr.com/newsflashes/3849852484834564?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "",
+      "summary": "据美国国家公路交通安全管理局（NHTSA）6月12日披露，福特汽车公司正在召回部分2019款Ford Mustang、Lincoln Nautilus及Lincoln Navigator车型，共计4151辆。上述车辆此前已依据19V076号召回令进行过维修，但维修存在缺陷。车辆启动时，仪表盘组件可能无法正常工作并显示黑屏，导致车速、安全系统警告等关键安全信息无法显示，增加碰撞风险。（界面）",
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获炸鸡金奖，引发食品安全讨论。",
-      "opportunity_insight": "食品安全话题热度高，可借势推广智能厨房设备，如空气炸锅或油温监测器。",
-      "procurement_insight": "联合厨房电器品牌推出健康烹饪套装，结合内容营销强调科技控油。"
+      "info_brief": "福特因仪表盘黑屏隐患召回4151辆汽车，涉及2019款Mustang等车型。",
+      "opportunity_insight": "汽车电子仪表盘故障凸显车载显示可靠性需求，智能手表等可穿戴设备可作安全备份。",
+      "procurement_insight": "关注车载显示供应商技术升级，备货高可靠性智能手表，与车企合作推广安全辅助方案。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
+      "category_id": "surveillance",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
-        "智能手表"
+        "无线免流监控"
       ],
-      "info_brief": "RTX 50 Super系列四款显卡全曝光，其中一款配置特殊，性能升级。",
-      "opportunity_insight": "高端显卡需求旺盛，新系列发布将带动游戏和AI用户换机潮，抢占首发红利。",
-      "procurement_insight": "提前与英伟达确认供货，预售锁定核心用户，搭配高刷显示器或电源套餐。"
+      "info_brief": "WAVES活动将在番禺举办，聚焦36岁以下创业者和投资人，设有AI集市和圆桌讨论。",
+      "opportunity_insight": "年轻创业者和投资人聚集，对AI和科技产品兴趣浓厚，是推广3C新品（如AI硬件、智能设备）的精准场景。",
+      "procurement_insight": "在WAVES现场设体验区，展示AI耳机、智能穿戴等新品，提供优惠券引导线上购买，吸引年轻用户。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
+      "category_id": "surveillance",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "智能手表"
+        "无线免流监控"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板市场广阔，WIFI6E功能吸引预算有限但追求新技术的DIY用户。",
-      "procurement_insight": "与技嘉合作首发促销，捆绑CPU或内存套装，突出无线升级卖点。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，售价48元，反映国产单机游戏市场困境。",
+      "opportunity_insight": "低价优质独立游戏受热捧，表明用户对高性价比游戏内容需求旺盛，可带动游戏外设（如手柄、键盘）销售。",
+      "procurement_insight": "针对独立游戏玩家，推出平价游戏外设组合，如入门级手柄+键盘，配合Steam促销活动，提升销量。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
+      "category_id": "surveillance",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "智能手表"
+        "无线免流监控"
       ],
-      "info_brief": "荣耀李健签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名机车文化吸引年轻男性用户，可拓展运动手表细分市场，提升品牌潮流感。",
-      "procurement_insight": "提前与荣耀沟通联名款独家首发，并策划机车主题营销活动，吸引垂直圈层用户。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，切入低空经济消费端，拓展水陆空出行生态。",
+      "opportunity_insight": "低空经济消费端空白被填补，水上飞行器作为新兴户外科技产品，有望带动相关3C配件（如防水相机、GPS设备）需求。",
+      "procurement_insight": "关注水上飞行器配套3C产品，如运动相机、防水手机壳，与坦途科技合作推出捆绑销售，抢占户外科技市场。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
+      "category_id": "surveillance",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "智能手表"
+        "无线免流监控"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV用户对智能手表需求高，可结合车载生态推广手表，提升车机互联体验。",
-      "procurement_insight": "与理想汽车合作，推出购车送手表或手表控车功能，强化车表联动促销。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技融合，吸引年轻用户。",
+      "opportunity_insight": "展会聚集年轻科技爱好者，是推广3C新品（如VR、游戏外设）的绝佳场景，能直接触达核心消费群。",
+      "procurement_insight": "联合参展品牌推出ChinaJoy限定套装，如游戏耳机+手柄，线上同步直播促销，引流年轻用户。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "",
+      "category_id": "surveillance",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "智能手表"
+        "无线免流监控"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "自动驾驶技术受关注，可推广支持车联网的智能手表，满足科技爱好者需求。",
-      "procurement_insight": "联合蔚来等车企，推广手表作为驾驶辅助终端，并策划FSD相关话题营销。"
+      "info_brief": "算力价格持续下降，百万Token仅需几元；OpenAI考虑大幅降价；儿童铁路票享5折优惠。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码产品中AI功能集成需求激增，如智能音箱、PC等，市场空间扩大。",
+      "procurement_insight": "提前布局AI算力相关3C产品，如搭载AI芯片的笔记本，与供应商协商降价，抢占性价比市场。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳。",
-      "opportunity_insight": "华为系高端车型引发关注，可能带动智能座舱、车联网设备等3C配件热销。",
-      "procurement_insight": "与华为系车企合作，推出车载智能设备套装，如无线充电、HUD，抢占高端市场。"
+      "info_brief": "SpaceX将于6月12日纳斯达克上市，马斯克或成全球首位万亿富翁，太空股提前狂欢。",
+      "opportunity_insight": "太空经济升温，带动卫星通信、航天电子元器件需求，可提前布局相关供应链。",
+      "procurement_insight": "与航天级芯片、传感器供应商合作，推出高可靠性3C数码产品，满足太空探索设备需求。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂。",
-      "opportunity_insight": "改装文化流行，激发个性化汽车配件需求，如大尺寸轮毂、LED灯带、外挂设备。",
-      "procurement_insight": "引入改装风格3C配件，如户外电源、车载投影仪，联合手工耿进行联名推广。"
+      "info_brief": "力普司获数千万元融资，专注船舶综合电力推进系统，计划用于港口拖轮、海工船等场景。",
+      "opportunity_insight": "船舶电动化趋势明确，可布局船用电池、电机控制器等核心部件，抢占新兴市场。",
+      "procurement_insight": "与力普司等企业合作，供应高可靠性电池模组和充电设备，推动船舶3C数码配件标准化。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量突破3232万，降价1000元后热销。",
-      "opportunity_insight": "高端手机市场降价策略有效，苹果品牌力强，可借势促销提升份额。",
-      "procurement_insight": "加大iPhone 17系列备货，与苹果协商降价补贴，主推高性价比机型。"
+      "info_brief": "中国制造业向智能化、绿色化转型，企业将非核心采购、仓配等职能外包给专业服务商。",
+      "opportunity_insight": "工业用品B2B电商平台需求旺盛，可拓展MRO（维护、修理、运营）品类，提供一站式采购服务。",
+      "procurement_insight": "建立工业品采销专区，与MRO供应商合作，推出智能仓储管理系统，降低企业采购成本。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将刺激PC换机需求，尤其是老旧设备用户。",
-      "procurement_insight": "提前采购支持Windows 11的PC配件，联合品牌推广升级促销活动。"
+      "info_brief": "周志峰将北京房产换成菜市口院子，由设计师改造为茶室、餐厅等多功能空间，毗邻法源寺。",
+      "opportunity_insight": "高端定制化家居改造需求增长，可切入智能家居集成方案，如智能照明、安防系统，提升空间体验。",
+      "procurement_insight": "与高端设计公司合作，提供3C数码智能家居套装，如智能窗帘、环境传感器，打造样板间推广。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可带动小米硬件及周边产品销售。",
-      "procurement_insight": "关注小米开发者社区需求，备货相关编程设备及配件，联合推广。"
+      "info_brief": "KTV行业推行无人化模式，通过减少服务人员来提升盈利能力。",
+      "opportunity_insight": "无人化KTV降低人力成本，对自助点歌、支付等3C数码设备需求增加。",
+      "procurement_insight": "推广自助点歌机、智能支付终端等设备，与KTV连锁品牌合作，提供无人化解决方案。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "豪华车降价潮冲击市场，但非3C品类，需关注消费者购买力转移。",
-      "procurement_insight": "非3C品类，无直接采销建议，可监测用户消费偏好变化。"
+      "info_brief": "美国银行预测，2030年服务器CPU市场规模将激增至1700亿美元以上，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI是核心驱动力，利好英特尔、AMD等厂商。",
+      "procurement_insight": "提前布局服务器CPU库存，重点采购英特尔、AMD及Arm架构产品，应对AI需求激增。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "苹果因存储涨价，屏幕缩水，成本压力传导至产品。",
-      "opportunity_insight": "存储涨价影响苹果产品配置，消费者或转向性价比更高的安卓机型。",
-      "procurement_insight": "增加安卓高端机备货，尤其是大存储机型，抢占苹果潜在用户。"
+      "info_brief": "招商证券完成换帅，朱江涛接任法定代表人、董事长，公司注册资本约87亿人民币。",
+      "opportunity_insight": "券商换帅可能带来IT采购策略调整，3C数码供应商可关注新管理层动向。",
+      "procurement_insight": "主动联系招商证券新管理层，推介服务器、办公设备等3C产品，争取采购订单。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台车秒售罄，显示直播带货潜力巨大。",
-      "opportunity_insight": "直播带货模式可拓展至高价3C数码产品，如高端电脑、相机等，提升销量和品牌曝光。",
-      "procurement_insight": "与头部主播合作，策划3C数码产品专场直播，重点推广高客单价新品，并准备限量优惠券。"
+      "info_brief": "IDC报告显示，2025年中国智能体平台私有化市场规模17.5亿元，蚂蚁数科位列非云厂商第一。",
+      "opportunity_insight": "智能体私有化市场增长迅速，非云厂商有差异化机会，可关注企业级AI部署需求。",
+      "procurement_insight": "加强与蚂蚁数科等非云厂商合作，引入智能体开发平台，满足企业私有化部署需求。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "微软发布Win11/10正式版官方镜像（24H2），用户可直接下载更新。",
-      "opportunity_insight": "系统更新带动硬件升级需求，尤其是支持新系统的电脑和配件，市场机会显著。",
-      "procurement_insight": "提前备货兼容Win11/24H2的电脑和固态硬盘，联合微软进行系统升级促销活动。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆，收紧新交易规模。",
+      "opportunity_insight": "芯片股短期承压，但长期技术需求支撑，可逢低布局相关产品库存。",
+      "procurement_insight": "减少对SK海力士和三星的依赖，增加对其他芯片供应商的采购比例，如台积电或国产替代。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "快科技启动2025年度评奖，涵盖科技产品评选，影响消费者购买决策。",
-      "opportunity_insight": "评奖结果可引导消费趋势，获奖产品将获高关注度，带动销量增长。",
-      "procurement_insight": "关注评奖动态，提前与获奖品牌合作，推出“年度推荐”专区，并加大库存备货。"
+      "info_brief": "味之素CEO警告关键原材料ABF定价过高，可能迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF替代材料研发加速，可能带来新供应商机会，降低芯片封装成本。",
+      "procurement_insight": "关注ABF替代材料进展，提前与潜在供应商接触，评估替代品性能，分散采购风险。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻路线，实现芯片制造技术突破。",
-      "opportunity_insight": "国产芯片技术突破将降低依赖，推动本土3C数码产品供应链自主化，成本优势显现。",
-      "procurement_insight": "评估国产芯片供应商，优先采购其产品用于中低端电脑和智能设备，降低采购成本。"
+      "info_brief": "欧洲央行管委内格尔表示已为7月保留所有选择，随时准备再次加息以应对通胀。",
+      "opportunity_insight": "加息预期可能抑制消费电子需求，但高端产品需求韧性较强。",
+      "procurement_insight": "建议控制欧洲市场库存水平，优先采购高性价比或高端3C产品，以应对潜在需求波动。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发行业对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI监管趋严可能影响AI硬件需求，但安全合规产品将成新增长点，如加密设备。",
-      "procurement_insight": "关注AI政策动态，增加安全芯片和隐私保护硬件的采购，并推出AI安全解决方案。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好欧洲消费电子需求，可能带动3C产品出口增长。",
+      "procurement_insight": "可适当增加欧洲市场3C产品备货，关注德国等核心市场消费趋势，优化供应链成本。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "华为Mate 80系列销量突破649万台，助力华为国内市场份额登顶。",
-      "opportunity_insight": "高端市场强势回归，华为份额登顶显示国产旗舰需求旺盛，可借势推广相关配件。",
-      "procurement_insight": "增加华为Mate 80系列保护壳、充电器等配件备货，并策划捆绑促销活动。"
+      "info_brief": "全球银行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求强劲，可关注回调后的低位建仓机会。",
+      "procurement_insight": "建议减少对SK海力士和三星相关产品的库存，等待市场回调后低价采购，并关注替代供应商。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "iOS 27系统迎来史诗级更新，中国果粉将获得类似安卓的实用功能。",
-      "opportunity_insight": "iOS重大更新可能刺激老用户换机，iPhone销量有望提升，需关注新功能适配配件。",
-      "procurement_insight": "提前备货iPhone 17系列及兼容iOS 27的配件，并准备以旧换新营销方案。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日从伦敦证交所退市。",
+      "opportunity_insight": "海外市场波动，可能影响跨境3C消费，但国内需求稳定，需关注汇率变化。",
+      "procurement_insight": "监控汇率风险，调整进口3C产品采购节奏，优先国内供应链，确保价格竞争力。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "小米17T Pro搭载五倍徕卡长焦，评测称其为家族收官真香机。",
-      "opportunity_insight": "徕卡长焦成差异化卖点，中高端市场竞争力强，可吸引摄影爱好者换机。",
-      "procurement_insight": "加大小米17T Pro采购量，主推摄影场景，搭配存储卡和手机云台销售。"
+      "info_brief": "三只羊大数据公司变更负责人，由杜刚接任法定代表人。",
+      "opportunity_insight": "管理层变动可能带来业务调整，大数据服务需求稳定，为3C数据合作提供机会。",
+      "procurement_insight": "关注三只羊新动向，探索大数据合作，如用户行为分析，优化3C产品推荐和库存管理。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "AOC推出2499元高刷电竞显示器新品，主打性价比市场。",
-      "opportunity_insight": "高刷显示器价格下探至2500元以内，电竞玩家升级需求旺盛，市场空间大。",
-      "procurement_insight": "首批采购500台试销，重点推广高刷和低延迟特性，搭配游戏外设组合促销。"
+      "info_brief": "比亚迪泰国工厂桶装水BYD标签被小刀裁剪盗走，员工发现后调整摆放角度防窃。",
+      "opportunity_insight": "品牌标识在海外市场具有高价值，可开发防伪标签或定制化包装产品，满足企业品牌保护需求。",
+      "procurement_insight": "与标签供应商合作推出防篡改标签，针对海外工厂推广，提升3C数码产品包装安全附加值。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "黄仁勋分享成功经验：任何事都付出100%努力，包括扫厕所洗碗。",
-      "opportunity_insight": "励志故事提升英伟达品牌好感度，可借势推广其GPU产品，吸引科技爱好者。",
-      "procurement_insight": "策划英伟达显卡主题营销，结合黄仁勋故事做内容传播，带动高端显卡销售。"
+      "info_brief": "氢能公交年亏6.7亿仍持续投入，存在停运和骗补问题，运营模式存疑。",
+      "opportunity_insight": "氢能公交亏损严重，但政策驱动下仍有市场，3C数码可关注车载电子设备需求。",
+      "procurement_insight": "谨慎评估氢能公交客户，优先提供车载监控、导航等3C设备，避免长期账期风险。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因含黄金等贵金属。",
-      "opportunity_insight": "旧显卡回收市场升温，可挖掘二手显卡翻新或拆解贵金属的增值机会。",
-      "procurement_insight": "关注二手显卡回收渠道，评估与回收商合作推出以旧换新活动，刺激新卡销售。"
+      "info_brief": "杭州小龙虾价格降超50%，产地轮换致货源充足，出口量增长。",
+      "opportunity_insight": "食品价格下降释放消费力，可能转移至3C数码，带动中低端产品销量。",
+      "procurement_insight": "针对价格敏感用户，推出性价比3C产品促销，如入门级耳机、充电器，利用消费转移提升销量。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "主板性能提升可吸引现有用户升级，带动600系主板及配套CPU销量。",
-      "procurement_insight": "联合华硕微星等品牌，针对600系主板用户推送BIOS更新通知，并捆绑促销CPU。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容等问题。",
+      "opportunity_insight": "AI监管趋严，合规AI硬件和软件产品需求增长，如安全芯片、内容审核工具。",
+      "procurement_insight": "优先采购合规AI设备，如带内容过滤功能的智能音箱，并合作推广安全AI应用，抢占合规市场。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "飞科电动剃须刀父亲节促销，到手价54元。",
-      "opportunity_insight": "低价剃须刀契合父亲节送礼需求，可快速冲量并带动3C配件销售。",
-      "procurement_insight": "备货飞科剃须刀，设置父亲节专题页面，搭配充电宝等配件组合促销。"
+      "info_brief": "沪深两市成交额突破3万亿元，市场活跃度显著提升。",
+      "opportunity_insight": "市场资金充裕，消费者购买力增强，利好3C数码产品消费升级，高端品类需求可能上升。",
+      "procurement_insight": "加大高端3C产品备货，如旗舰手机、游戏本，并策划促销活动吸引资金流入，提升客单价。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "日产将研发周期缩短至2年，强调向中国学习以提升竞争力。",
-      "opportunity_insight": "汽车行业加速迭代，可能带动车载3C电子配件需求增长。",
-      "procurement_insight": "关注日产新车型发布节奏，提前布局车载充电器、行车记录仪等适配配件采购。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工板块领涨，通信设备板块跌幅居前。",
+      "opportunity_insight": "市场波动中，航天军工板块走强，可能带动军用电子设备采购需求。",
+      "procurement_insight": "关注军工电子供应链，采购高可靠性元器件，如传感器、通信模块，应对潜在订单。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订同步开启。",
-      "opportunity_insight": "新车漆吸引眼球，盲订期可联动3C数码配件，如车载手机支架等。",
-      "procurement_insight": "与比亚迪合作，推出海豹08专属车载配件套装，在盲订页面交叉推广。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力。",
+      "opportunity_insight": "AI算力消费化趋势明显，可推动高性能计算设备及AI配件销售。",
+      "procurement_insight": "与银行合作，推出AI算力相关硬件套餐，如显卡、服务器，吸引科技用户。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "低价护发产品吸引价格敏感用户，可结合京东个护品类促销，提升洗护类目销量。",
-      "procurement_insight": "关注该品牌供应链，评估是否引入京东自营，利用低价策略引流并搭配护发工具销售。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，公司由国资和民企共同持股。",
+      "opportunity_insight": "文化创意产业调整，可能释放办公设备及数字内容制作硬件需求。",
+      "procurement_insight": "关注新股东采购需求，提供办公电脑、投影仪等设备，拓展企业级客户。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持大胆姿势调整，面向收藏市场。",
-      "opportunity_insight": "二次元及手办市场持续增长，高还原度人偶可吸引核心粉丝，拓展3C数码周边品类。",
-      "procurement_insight": "评估与版权方合作，引入限量版手办，结合游戏硬件（如显卡）进行捆绑促销。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，BaaS方案13.58万元起，开启全国交付。",
+      "opportunity_insight": "新能源车市场增长带动车载电子需求，可布局车载充电、智能座舱等配件。",
+      "procurement_insight": "与新能源车企合作，采购车载电子配件，如充电桩、车载娱乐系统，抢占增量市场。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "福特在美召回4151辆汽车，因仪表盘启动后可能黑屏存安全隐患",
+      "url": "https://36kr.com/newsflashes/3849852484834564?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "",
+      "summary": "据美国国家公路交通安全管理局（NHTSA）6月12日披露，福特汽车公司正在召回部分2019款Ford Mustang、Lincoln Nautilus及Lincoln Navigator车型，共计4151辆。上述车辆此前已依据19V076号召回令进行过维修，但维修存在缺陷。车辆启动时，仪表盘组件可能无法正常工作并显示黑屏，导致车速、安全系统警告等关键安全信息无法显示，增加碰撞风险。（界面）",
       "matched_keywords": [
         "无线免流监控"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获炸鸡金奖，引发食品安全讨论。",
-      "opportunity_insight": "话题性事件可借势营销，但需谨慎关联，避免负面联想，可转向推广厨房清洁电器。",
-      "procurement_insight": "不直接关联，但可策划“健康厨房”专题，推广空气炸锅、吸油烟机等产品，强调清洁技术。"
+      "info_brief": "福特因仪表盘黑屏隐患召回4151辆汽车，涉及2019款Mustang等车型。",
+      "opportunity_insight": "汽车电子仪表盘故障暴露供应链质量风险，可推动车载显示及安全系统替代方案。",
+      "procurement_insight": "关注车载显示供应商，评估其产品可靠性，为潜在汽车电子配件采购做准备。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "speaker",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯��没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVE...",
       "matched_keywords": [
-        "无线免流监控"
+        "艺术音箱"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款配置特殊，性能或成亮点。",
-      "opportunity_insight": "新一代显卡发布前热度高，可提前布局预售，吸引游戏玩家和创作者升级需求。",
-      "procurement_insight": "与NVIDIA及AIC厂商沟通，争取首发货源，制定预售方案，搭配高刷新率显示器促销。"
+      "info_brief": "WAVES大会将在番禺举办，聚焦36岁以下创业者和投资人，设AI集市。",
+      "opportunity_insight": "年轻创业者聚集，AI集市展示前沿科技，是推广智能硬件和吸引新用户的好机会。",
+      "procurement_insight": "在AI集市设展位，展示智能家居、可穿戴设备，提供现场折扣，并收集年轻用户偏好数据指导选品。"
     },
     {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "speaker",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
       "matched_keywords": [
-        "无线免流监控"
+        "艺术音箱"
       ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线功能。",
-      "opportunity_insight": "入门级主板需求稳定，WIFI6E是差异化卖点，适合家庭和办公用户，可带动CPU和内存销售。",
-      "procurement_insight": "评估与技嘉合作，引入该主板作为DIY套装核心，搭配AMD入门CPU和DDR5内存进行组合促销。"
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，国产单机面临困境。",
+      "opportunity_insight": "独立游戏市场有爆发潜力，但国产单机缺乏支持，可借机推广游戏硬件如手柄、主机。",
+      "procurement_insight": "联合国产独立游戏开发商，推出游戏+硬件套餐，如手柄或键盘，提升游戏设备销量并支持本土内容。"
     },
     {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "speaker",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
       "matched_keywords": [
-        "无线免流监控"
+        "艺术音箱"
       ],
-      "info_brief": "荣耀签约张雪机车车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名款手表可吸引机车爱好者与粉丝群体，拓展运动穿戴细分市场，提升品牌差异化。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，规划专属页面推广，结合机车社群进行精准营销。"
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展低空经济消费端。",
+      "opportunity_insight": "低空经济消费市场空白，水上飞行器开辟新场景，带动户外科技产品需求，潜力巨大。",
+      "procurement_insight": "关注水上飞行器配件市场，如防水相机、便携电源，与坦途科技合作推出捆绑销售，吸引户外爱好者。"
     },
     {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "speaker",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
       "matched_keywords": [
-        "无线免流监控"
+        "艺术音箱"
       ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫和宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计创新可能带动车载电子配件需求，如智能后视镜、充电设备。",
-      "procurement_insight": "关注理想L8上市后用户反馈，提前储备车载3C配件库存，与汽车后市场品牌合作促销。"
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦数字娱乐与科技趋势。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广新品和测试市场反应的绝佳平台，尤其适合VR/AR设备。",
+      "procurement_insight": "联合参展商推出ChinaJoy专属优惠套装，重点展示VR/AR、游戏外设，并收集用户反馈优化选品。"
     },
     {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-23",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "",
+      "category_id": "speaker",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
       "matched_keywords": [
-        "无线免流监控"
+        "艺术音箱"
       ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件需求，如高算力芯片、传感器，利好相关3C产品。",
-      "procurement_insight": "加强智能驾驶相关芯片和传感器采购，与供应商锁定产能，应对车企技术升级需求。"
+      "info_brief": "算力价格大幅下降，百万Token仅需几块钱，OpenAI考虑降价。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码产品中AI功能集成需求激增，市场机会巨大。",
+      "procurement_insight": "提前布局AI算力相关硬件，如高性能显卡、服务器，与供应商谈判锁定低价，抢占市场先机。"
     },
     {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳了。",
-      "opportunity_insight": "科技与豪车结合吸引高端用户，可带动智能车载设备和高端数码配件销售。",
-      "procurement_insight": "与华为合作推出联名智能配件，如车载HUD和无线充电器，瞄准高端市场。"
+      "info_brief": "SpaceX即将上市，马斯克或成万亿富翁；钉钉换帅，陈宇森接任CEO。",
+      "opportunity_insight": "太空经济升温，带动相关3C产品需求；钉钉换帅可能推动企业级硬件升级。",
+      "procurement_insight": "关注卫星通信设备采购机会，与钉钉合作开发智能办公硬件，如会议系统，抢占企业市场。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂。",
-      "opportunity_insight": "改装文化流行，激发个性化汽车配件需求，如大尺寸轮毂和电子改装件。",
-      "procurement_insight": "引入改装风格3C配件，如LED灯带和车载音响，联合手工耿推广定制方案。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，半年订单超5000万。",
+      "opportunity_insight": "船舶电动化趋势明确，国产替代需求旺盛，高端推进系统市场空间广阔。",
+      "procurement_insight": "采购部门可提前布局船舶电子元器件和电池系统，与力普司等初创企业合作，锁定供应链。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机市场降价策略有效，苹果品牌力仍强，可借势促销提升销量。",
-      "procurement_insight": "加大iPhone 17系列备货，联合苹果推出限时降价活动，抢占高端市场份额。"
+      "info_brief": "中国制造业向智能化、绿色化转型，非核心职能外包给专业服务商。",
+      "opportunity_insight": "工业用品采购数字化需求激增，MRO（维护、维修、运营）服务市场潜力大。",
+      "procurement_insight": "建立工业品B2B平台，整合智能仓储和供应链服务，与制造企业合作，提供一站式采购方案。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将刺激PC换机需求，带动硬件升级，尤其是内存和固态硬盘。",
-      "procurement_insight": "提前备货高性能内存和SSD，与PC厂商合作推广Win11兼容设备，抢占升级潮。"
+      "info_brief": "周志峰将北京房产改造为“浮生别院”文化空间，融合茶室、花园等。",
+      "opportunity_insight": "城市文化空间需求增长，智能家居和影音设备可提升体验，形成差异化卖点。",
+      "procurement_insight": "采购智能照明、音响和安防设备，与高端文化空间合作，提供定制化解决方案，拓展B端市场。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可带动小米相关硬件和云服务需求增长。",
-      "procurement_insight": "关注小米生态链产品，增加开发者工具周边配件采购，如高性能笔记本和显示器。"
+      "info_brief": "KTV推行无人化模式，减少服务人员以提升盈利能力，行业趋势显现。",
+      "opportunity_insight": "无人化KTV降低人力成本，带动自助点歌、支付等智能设备需求，3C数码市场机会增加。",
+      "procurement_insight": "推广自助终端、智能音响及物联网设备给KTV运营商，提供无人化改造整体解决方案。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "路虎揽胜极光L大幅降价至17.98万，近90万神车价格腰斩。",
-      "opportunity_insight": "汽车降价潮可能带动车载电子设备需求，如行车记录仪和智能座舱配件。",
-      "procurement_insight": "与汽车后市场合作，采购车载充电器、导航设备等，捆绑促销提升销量。"
+      "info_brief": "美国银行预测，服务器CPU市场规模将从2025年350亿美元激增至2030年超1700亿美元，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI成核心驱动力，3C数码需加强高性能CPU及配套硬件储备。",
+      "procurement_insight": "加大英特尔、AMD及Arm架构CPU采购，与供应商签订长期协议，确保AI服务器供应链稳定。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "苹果因存储涨价，新iPhone屏幕缩水，成本压力传导至产品。",
-      "opportunity_insight": "存储涨价影响苹果产品配置，消费者可能转向性价比更高的安卓旗舰。",
-      "procurement_insight": "增加安卓高端机型备货，如小米、三星，同时采购高性价比存储产品应对涨价。"
+      "info_brief": "招商证券完成工商变更，朱江涛接任法定代表人、董事长，霍达卸任。",
+      "opportunity_insight": "券商高层变动可能带来IT采购策略调整，金融行业数字化转型加速，3C数码设备需求稳定。",
+      "procurement_insight": "主动联系招商证券新管理层，提供金融级服务器、网络设备方案，争取IT基础设施升级订单。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "李佳琦直播销售奔驰，40台车秒售罄，显示直播电商对高客单价商品的强大带货能力。",
-      "opportunity_insight": "直播渠道可突破3C数码高客单价瓶颈，如高端笔记本、游戏主机等，需探索与头部主播合作模式。",
-      "procurement_insight": "与头部主播合作，策划3C数码高客单价产品专场，如旗舰手机、游戏本，利用直播秒杀提升销量。"
+      "info_brief": "IDC报告显示，2025年中国智能体平台私有化市场规模17.5亿元，蚂蚁数科位列非云厂商第一。",
+      "opportunity_insight": "智能体私有化市场增长迅速，非云厂商表现突出，预示企业级AI部署需求旺盛，3C数码可拓展相关硬件集成。",
+      "procurement_insight": "关注蚂蚁数科等非云厂商的智能体硬件需求，提前布局服务器、边缘计算设备采购，抢占企业AI部署先机。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "微软发布Win11/10 24H2正式版官方镜像，用户可直接下载安装。",
-      "opportunity_insight": "新系统版本发布将带动PC硬件升级需求，尤其是内存、SSD和处理器，可提前备货相关配件。",
-      "procurement_insight": "联合PC品牌商推出预装24H2的新机型，并促销内存、SSD等升级配件，抓住系统更新换机潮。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星及台积电等亚洲芯片股的做多杠杆。",
+      "opportunity_insight": "芯片股杠杆受限，短期波动加剧，但长期需求仍强劲，可逢低吸纳。",
+      "procurement_insight": "建议减少对相关芯片的短期采购，等待市场稳定后，再按需补货。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "快科技举办2025年度评奖，表彰年度优秀科技产品和技术创新。",
-      "opportunity_insight": "评奖结果可引导消费者购买决策，获奖产品有望成为爆款，需关注榜单提前布局。",
-      "procurement_insight": "跟踪评奖结果，优先采购获奖3C数码产品，并策划专题促销活动，借势营销提升销量。"
+      "info_brief": "味之素CEO警告ABF关键材料定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF材料涨价可能推高芯片封装成本，但替代材料研发或带来新供应链机会。",
+      "procurement_insight": "关注ABF替代材料进展，提前与供应商沟通备选方案，降低单一材料依赖风险。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现芯片制造自主化突破。",
-      "opportunity_insight": "国产芯片技术突破将降低对进口设备依赖，推动国产芯片成本下降，利好国产3C产品供应链。",
-      "procurement_insight": "关注国产芯片进展，与相关厂商合作开发高性价比3C产品，如国产芯片手机、电脑，抢占市场。"
+      "info_brief": "欧洲央行管委内格尔称已为7月保留所有选择，随时准备加息应对通胀。",
+      "opportunity_insight": "加息预期可能抑制消费，但短期需求仍存，需关注汇率波动对进口成本的影响。",
+      "procurement_insight": "建议锁定欧元区订单汇率，避免加息后成本上升，同时控制库存周转率。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，担忧AI发展过快带来潜在风险。",
-      "opportunity_insight": "AI监管趋严可能影响AI硬件需求，但短期利好安全合规的AI产品，如智能家居、办公设备。",
-      "procurement_insight": "采购符合安全标准的AI硬件，如智能音箱、AI摄像头，并强调隐私保护功能，应对监管趋势。"
+      "info_brief": "德国5月CPI终值同比增2.6%，环比降0.2%，符合预期，通胀压力温和。",
+      "opportunity_insight": "欧洲通胀稳定，消费信心可能回升，利好3C数码产品需求，尤其是中高端品类。",
+      "procurement_insight": "可适度增加欧洲市场畅销的3C产品备货，如智能设备配件，提前布局旺季。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，助华为国内市场份额登顶。",
-      "opportunity_insight": "高端市场强势回归，华为旗舰机需求旺盛，带动3C整体销量增长。",
-      "procurement_insight": "加大华为Mate 80系列备货，联合品牌推出以旧换新补贴，抢占高端份额。"
+      "info_brief": "全球银行限制对冲基金对SK海力士、三星等亚洲芯片股的杠杆押注，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期回调风险增加，可能带来低价建仓机会，需关注市场情绪变化。",
+      "procurement_insight": "建议暂缓追加SK海力士、三星相关产品库存，观察回调幅度后择机采购。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "iOS 27史诗级更新，新增多项功能，缩小与安卓差距。",
-      "opportunity_insight": "苹果系统升级刺激换机需求，果粉购买意愿增强，利好iPhone销量。",
-      "procurement_insight": "提前备货iPhone新品，策划系统升级促销活动，捆绑配件销售提升客单价。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日从伦敦证交所退市。",
+      "opportunity_insight": "国际资本流动变化，可能影响相关科技股，但3C数码行业受直接冲击小，可关注替代投资机会。",
+      "procurement_insight": "保持现有供应链稳定，无需调整采购策略，但可关注市场波动，适时采购低价元器件或库存。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，定位家族收官真香机。",
-      "opportunity_insight": "徕卡影像加持，中高端市场竞争力强，吸引摄影爱好者换机。",
-      "procurement_insight": "主推小米17T Pro影像卖点，联合平台直播评测，设置专属优惠券促转化。"
+      "info_brief": "三只羊大数据公司变更负责人，由杜刚接任。",
+      "opportunity_insight": "公司管理层变动可能调整业务方向，大数据服务与电商结合，或带来新合作机会。",
+      "procurement_insight": "关注三只羊后续动态，探索大数据合作，优化用户画像和精准营销，提升3C数码品类转化率。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "AOC新品高刷电竞显示器上市，售价2499元。",
-      "opportunity_insight": "电竞显示器需求持续增长，高性价比新品吸引游戏玩家和装机用户。",
-      "procurement_insight": "上架AOC新品并突出高刷参数，搭配电竞外设组合销售，参与平台满减活动。"
+      "info_brief": "比亚迪泰国工厂桶装水BYD标签被员工剪走，反映品牌认同感强。",
+      "opportunity_insight": "品牌符号在海外市场具有高价值，可开发官方品牌周边产品，满足员工和粉丝需求。",
+      "procurement_insight": "建议采购部门与品牌合作，推出限量版品牌标识商品，如贴纸、徽章，作为员工福利或促销赠品。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "黄仁勋分享成功经历：扫厕所洗碗，强调付出100%努力。",
-      "opportunity_insight": "励志故事提升品牌好感度，间接带动英伟达相关产品关注度。",
-      "procurement_insight": "借势黄仁勋话题，推广英伟达显卡及AI产品，策划“努力成就”主题促销。"
+      "info_brief": "氢能公交年亏6.7亿仍持续投入，存在停运、骗补问题，经济逻辑矛盾。",
+      "opportunity_insight": "氢能公交亏损严重，但政策驱动下仍有市场，3C数码可关注其车载电子设备需求。",
+      "procurement_insight": "谨慎评估氢能公交客户信用，聚焦车载监控、导航等电子设备供应，避免大额垫资风险。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "内存价格暴涨带动旧显卡回收价值提升，因显卡含黄金等贵金属。",
-      "opportunity_insight": "旧显卡回收市场热度上升，可推出以旧换新活动，吸引用户升级显卡，带动新品销售。",
-      "procurement_insight": "联合回收平台推出显卡以旧换新补贴，重点推广RTX 40系列，并加强贵金属回收宣传。"
+      "info_brief": "杭州小龙虾价格降超50%，中青每斤12元，大青每斤16元。",
+      "opportunity_insight": "食品价格下降释放消费力，用户可能增加非必需消费，如数码产品，尤其夏季便携设备。",
+      "procurement_insight": "推出“夏日数码节”活动，结合小龙虾热点，促销便携音箱、蓝牙耳机等，利用价格敏感度提升销量。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "AMD将新规范下放至600系主板，华硕微星发布BIOS更新，性能提升4%。",
-      "opportunity_insight": "600系主板性能升级，可刺激现有用户升级CPU，同时吸引新装机用户选择性价比平台。",
-      "procurement_insight": "备货支持新BIOS的600系主板，与AMD联合促销，搭配锐龙7000系列CPU捆绑销售。"
+      "info_brief": "中央网信办开设AI应用乱象举报专区，整治14类问题。",
+      "opportunity_insight": "监管趋严推动AI行业规范化，合规AI硬件和软件产品将获市场信任，需求增长。",
+      "procurement_insight": "优先采购通过安全认证的AI设备，如智能音箱、AI PC，并加强产品合规宣传，提升用户信赖。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "飞科电动剃须刀父亲节促销，到手价仅54元，主打性价比。",
-      "opportunity_insight": "父亲节礼品需求旺盛，低价剃须刀可吸引预算有限用户，提升品类渗透率。",
-      "procurement_insight": "加大飞科剃须刀采购量，设置父亲节专题页面，搭配其他男士礼品组合销售。"
+      "info_brief": "沪深两市成交额突破3万亿元，市场交易活跃。",
+      "opportunity_insight": "市场资金充裕，投资者信心增强，利好3C数码消费升级，高端产品需求可能上升。",
+      "procurement_insight": "增加高端3C产品备货，如旗舰手机、高性能电脑，配合金融主题营销活动，吸引资金充裕用户。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "日产将研发周期砍半至2年，社长强调向中国学习，加速电动化转型。",
-      "opportunity_insight": "传统车企加速追赶，中国供应链和电动技术优势凸显，可拓展车载电子配件合作。",
-      "procurement_insight": "关注日产新车型电子配件需求，提前布局车规级存储和传感器供应链，争取订单。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工板块领涨，通信设备、半导体板块跌幅居前。",
+      "opportunity_insight": "市场波动中，航天军工和贵金属板块走强，可能带动相关电子元器件和通信设备需求分化。",
+      "procurement_insight": "优先采购航天军工级电子元器件，关注贵金属在电子材料中的应用，谨慎调整通信设备库存。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "比亚迪海豹08曜石黑配色亮相，采用百万级同款车漆，盲订同步开启。",
-      "opportunity_insight": "高端车漆配色吸引个性化用户，可带动汽车后市场改色膜、车衣等配件销售。",
-      "procurement_insight": "备货比亚迪海豹专用改色膜和车衣，联合汽车美容品牌推出盲订专属套餐。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力额度。",
+      "opportunity_insight": "AI算力消费化趋势明显，推动高性能计算设备和AI终端需求增长，为3C数码创造新品类。",
+      "procurement_insight": "采购AI算力相关硬件如GPU服务器和边缘计算设备，与银行合作开发AI终端产品，抢占金融科技市场。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水以29.9元促销，主打控油养发功效。",
-      "opportunity_insight": "低价位洗护产品在3C数码品类中关联度低，但可借势健康生活趋势，拓展个护周边品类。",
-      "procurement_insight": "建议关注个护小家电如吹风机、按摩梳的捆绑销售，或引入同类低价洗护品测试市场。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，由国资和民企共同持股。",
+      "opportunity_insight": "文化产业资本重组，可能释放数字内容制作和虚拟现实设备需求，为3C数码带来新机会。",
+      "procurement_insight": "关注文化创意产业数字化转型，采购VR/AR设备和内容制作工具，与新兴股东合作拓展市场。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势摆放，面向收藏爱好者。",
-      "opportunity_insight": "二次元及游戏周边市场增长迅速，高精度人偶可吸引核心粉丝，带动3C配件如展示柜销售。",
-      "procurement_insight": "可评估与游戏IP联名的人偶或手办，搭配电竞外设如键盘、鼠标垫进行组合促销。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，支持BaaS电池租用，同步开启全国交付。",
+      "opportunity_insight": "新能源车市场持续扩张，带动车载智能硬件需求增长，为3C数码产品提供新应用场景。",
+      "procurement_insight": "布局车载充电器、智能后视镜等配件，与车企合作定制化产品，抢占新能源车后市场。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "福特在美召回4151辆汽车，因仪表盘启动后可能黑屏存安全隐患",
+      "url": "https://36kr.com/newsflashes/3849852484834564?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "",
+      "summary": "据美国国家公路交通安全管理局（NHTSA）6月12日披露，福特汽车公司正在召回部分2019款Ford Mustang、Lincoln Nautilus及Lincoln Navigator车型，共计4151辆。上述车辆此前已依据19V076号召回令进行过维修，但维修存在缺陷。车辆启动时，仪表盘组件可能无法正常工作并显示黑屏，导致车速、安全系统警告等关键安全信息无法显示，增加碰撞风险。（界面）",
       "matched_keywords": [
         "艺术音箱"
       ],
-      "info_brief": "日本炸鸡店一锅油反复用66年，获金奖，强调传统工艺与独特风味。",
-      "opportunity_insight": "食品行业传统工艺故事引发关注，但3C数码领域可借鉴“经典耐用”概念，推广长寿产品。",
-      "procurement_insight": "建议推广耐用型3C产品如机械键盘、高端耳机，强调品质与长期价值，吸引注重口碑的消费者。"
+      "info_brief": "福特因仪表盘黑屏隐患召回4151辆汽车，涉及2019款Mustang、Nautilus及Navigator。",
+      "opportunity_insight": "汽车电子仪表盘故障频发，推动车载显示技术升级，为3C数码供应商提供车规级屏幕和传感器新市场。",
+      "procurement_insight": "关注车载显示和传感器供应商，优先采购高可靠性车规级产品，与车企合作开发防黑屏解决方案。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
-      "publish_date": "2026-06-12",
-      "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
-      "matched_keywords": [
-        "艺术音箱"
-      ],
-      "info_brief": "RTX 50 Super系列四款显卡全曝光，其中一款配置特殊，引发市场期待。",
-      "opportunity_insight": "新一代显卡发布前，高端玩家和矿工需求旺盛，可提前布局预售和捆绑销售，抢占市场份额。",
-      "procurement_insight": "建议与NVIDIA确认供货时间，提前备货高端型号，并推出搭配电源、散热器的套装优惠。"
-    },
-    {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-12",
-      "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
-      "matched_keywords": [
-        "艺术音箱"
-      ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比与无线连接。",
-      "opportunity_insight": "入门级主板市场广阔，WIFI6E功能可吸引预算有限但追求新技术的用户，提升装机率。",
-      "procurement_insight": "建议采购该主板并搭配中低端CPU、内存条组成套装，针对学生和办公用户进行促销。"
-    },
-    {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
-      "matched_keywords": [
-        "艺术音箱"
-      ],
-      "info_brief": "荣耀李健官宣签约张雪机车两位车手，联名款智能手表将发售。",
-      "opportunity_insight": "跨界联名手表吸引机车爱好者，拓展运动户外细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "提前与荣耀沟通联名款备货，策划机车主题营销活动，捆绑销售骑行配件。"
-    },
-    {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
-      "matched_keywords": [
-        "艺术音箱"
-      ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫与宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8设计创新，可带动车载电子配件需求增长。",
-      "procurement_insight": "关注理想L8上市后车载充电、智能后视镜等配件需求，提前备货并推出套餐。"
-    },
-    {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "speaker",
-      "summary": "",
-      "matched_keywords": [
-        "艺术音箱"
-      ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "FSD技术竞争加剧，推动智能驾驶硬件升级，如高算力芯片和传感器。",
-      "procurement_insight": "增加智能驾驶相关3C产品采购，如行车记录仪和雷达，配合技术热点推广。"
-    },
-    {
-      "title": "华为系造了一台科技法拉利：余承东被惊艳了",
-      "url": "https://news.mydrivers.com/1/1128/1128768.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-12",
+      "publish_date": "2026-06-11",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。 今年盛夏，WAVES...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "华为系造了一台科技法拉利，余承东被惊艳。",
-      "opportunity_insight": "华为系高端科技汽车引发关注，可带动智能座舱和车载数码产品需求，如智能后视镜。",
-      "procurement_insight": "与华为系车企合作，推出定制车载数码套装，如智能后视镜和无线充电板，抢占高端市场。"
+      "info_brief": "WAVES活动今年在番禺举办，聚焦36岁以下创业者和投资人，强调创新交流。",
+      "opportunity_insight": "年轻创业者聚集地，是推广3C数码创新产品、建立品牌认知的绝佳场景，能激发消费兴趣。",
+      "procurement_insight": "赞助或参与WAVES活动，设置产品体验区，展示智能穿戴、AI设备等，现场提供优惠码促进转化。"
     },
     {
-      "title": "手工耿又整新活！理想i6改装成末日机甲 配备100多英寸轮毂",
-      "url": "https://news.mydrivers.com/1/1128/1128730.htm",
-      "source": "快科技",
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "magnetic-accessories",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论...",
+      "matched_keywords": [
+        "磁吸配件"
+      ],
+      "info_brief": "日本独立游戏《梦幻魔法公主》12天销量超20万份，售价48元，凸显国产单机困境。",
+      "opportunity_insight": "低价优质独立游戏市场潜力大，但国产单机面临开发成本高、盈利难问题，需探索新商业模式。",
+      "procurement_insight": "关注独立游戏硬件需求，如高性能游戏本、手柄等，与游戏发行商合作捆绑销售，提升配件销量。"
+    },
+    {
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "magnetic-accessories",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺...",
+      "matched_keywords": [
+        "磁吸配件"
+      ],
+      "info_brief": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行生态。",
+      "opportunity_insight": "低空经济消费端产品空白被填补，水上飞行器作为新品类，有望带动相关智能硬件和配件需求。",
+      "procurement_insight": "评估与坦途科技合作，引入水上飞行器及配套充电、导航设备，开拓户外运动数码新品类。"
+    },
+    {
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "magnetic-accessories",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future...",
+      "matched_keywords": [
+        "磁吸配件"
+      ],
+      "info_brief": "ChinaJoy将设Vision Future前沿科技展区，聚焦科技与数字娱乐融合。",
+      "opportunity_insight": "展会吸引年轻科技爱好者，是推广3C数码新品、展示前沿技术的绝佳平台，能带动消费热潮。",
+      "procurement_insight": "策划参展或合作，重点展示VR/AR、游戏外设等产品，联合品牌推出展会专属优惠，提升销量。"
+    },
+    {
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-11",
+      "category": "媒体新闻",
+      "category_id": "magnetic-accessories",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François ...",
+      "matched_keywords": [
+        "磁吸配件"
+      ],
+      "info_brief": "算力价格大幅下降，OpenAI考虑降价，百万Token仅需几块钱。",
+      "opportunity_insight": "算力成本降低将推动AI应用普及，3C数码产品中AI功能集成需求激增，市场机会巨大。",
+      "procurement_insight": "关注AI算力芯片及边缘计算设备供应商，提前布局高性价比AI终端产品线，抢占市场先机。"
+    },
+    {
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SP...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "手工耿将理想i6改装成末日机甲，配备100多英寸轮毂。",
-      "opportunity_insight": "个性化改装文化兴起，带动改装配件和创意数码产品需求，如大屏显示和智能灯光。",
-      "procurement_insight": "引入创意改装配件，如可定制LED灯带和车载大屏，与手工耿合作推广，吸引改装爱好者。"
+      "info_brief": "SpaceX上市在即，马斯克或成万亿富翁；SK海力士设备供应商要求涨价，半导体供应链紧张。",
+      "opportunity_insight": "太空经济升温，带动卫星通信和半导体需求；涨价潮下，国产替代机会凸显。",
+      "procurement_insight": "建议提前锁定半导体库存，并采购卫星通信模块（如天线、芯片），与国产供应商建立长期合作。"
     },
     {
-      "title": "苹果降价1000元又卖爆了！iPhone 17系列国内销量破3232万",
-      "url": "https://news.mydrivers.com/1/1128/1128456.htm",
-      "source": "快科技",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。 力普司2025年7月成立于连云港，聚焦...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "苹果iPhone 17系列国内销量破3232万，降价1000元后销售火爆。",
-      "opportunity_insight": "高端手机市场对价格敏感，降价策略可显著刺激销量，需关注苹果后续促销节奏。",
-      "procurement_insight": "加大iPhone 17系列备货，与苹果协商降价期延长，同步推出配件捆绑促销提升客单价。"
+      "info_brief": "力普司获数千万元融资，研发船舶综合电力推进系统，目标国产替代，半年订单超5000万。",
+      "opportunity_insight": "船舶电动化市场潜力大，可布局船用电子设备，如导航系统、电池管理模块，满足国产化需求。",
+      "procurement_insight": "建议采购部门关注船舶电子配件，如高精度GPS和储能系统，与力普司合作开发定制化产品。"
     },
     {
-      "title": "惠及所有PC！微软宣布Windows 11重大改进 速度至少提升30%",
-      "url": "https://news.mydrivers.com/1/1128/1128524.htm",
-      "source": "快科技",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "微软宣布Windows 11重大改进，速度提升至少30%，惠及所有PC。",
-      "opportunity_insight": "系统性能提升将刺激PC换机需求，尤其老旧设备用户可能升级，带动硬件销售。",
-      "procurement_insight": "提前备货高性能PC配件（如SSD、内存），联合品牌商推出升级套餐，抢占换机潮。"
+      "info_brief": "中国制造业转向智能化、绿色化，企业外包非核心职能，推动生产性服务业发展。",
+      "opportunity_insight": "工业用品采购数字化需求上升，可拓展B2B平台，提供智能仓储和供应链协同服务。",
+      "procurement_insight": "建议与工业用品平台合作，推出智能采购系统，集成自动化设备和物联网传感器，提升效率。"
     },
     {
-      "title": "小米MiMo Code发布并开源：界面全汉化",
-      "url": "https://news.mydrivers.com/1/1128/1128723.htm",
-      "source": "快科技",
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "url": "https://36kr.com/p/3849664394204419?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。 院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。 国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "小米MiMo Code发布并开源，界面全汉化，面向开发者。",
-      "opportunity_insight": "开源工具吸引开发者生态，可能带动小米硬件（如笔记本、平板）在编程场景的销量。",
-      "procurement_insight": "与小米合作推广MiMo Code适配设备，采购高性能开发用笔记本，捆绑软件预装促销。"
+      "info_brief": "周志峰改造北京菜市口院子，融合茶室、餐厅等空间，毗邻法源寺，体现高端生活美学。",
+      "opportunity_insight": "高端家居和智能设备需求增长，可针对庭院改造场景，推广智能照明、安防和影音系统。",
+      "procurement_insight": "建议采购智能家居套装（如智能灯控、户外摄像头），与设计师合作，提供定制化3C解决方案。"
     },
     {
-      "title": "近90万的神车！路虎揽胜极光L跌至17.98万",
-      "url": "https://news.mydrivers.com/1/1128/1128746.htm",
-      "source": "快科技",
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.tmtpost.com/8025407.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "为更多人，先减少人",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "路虎揽胜极光L跌至17.98万，近90万神车大幅降价。",
-      "opportunity_insight": "汽车降价潮或影响消费者预算分配，可能减少3C数码高端产品支出，需警惕需求转移。",
-      "procurement_insight": "关注用户消费力变化，增加中低价位3C产品备货，推出以旧换新或分期优惠稳住客群。"
+      "info_brief": "KTV行业推行无人化模式，通过减少服务人员来提升盈利能力。",
+      "opportunity_insight": "无人化KTV降低人力成本，对自助点歌、支付和监控设备需求增加，推动3C数码产品在娱乐场景的应用。",
+      "procurement_insight": "推广自助点歌系统、智能支付终端和安防摄像头给KTV运营商，提供无人化解决方案以提升销量。"
     },
     {
-      "title": "苹果也扛不住存储涨价！屏幕缩水",
-      "url": "https://news.mydrivers.com/1/1128/1128725.htm",
-      "source": "快科技",
+      "title": "美国银行：到2030年，服务器CPU市场规模料激增4倍至超1700亿美元",
+      "url": "https://36kr.com/newsflashes/3849773678892033?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "美国银行全球研究部分析师维韦克·阿利亚（Vivek Arya）最新预测，服务器CPU的总潜在市场规模（TAM）将从2025年的350亿美元激增4倍至2030年的1700亿美元以上。这远超该行此前对2030年服务器CPU市场规模1250亿美元的预测。Arya在报告中写道：“我们认为，代理式AI的崛起是一个强大的需求加速器，它不仅扩大了CPU的市场机遇，也为英特尔、AMD以及基于Arm架构的挑战...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "苹果因存储涨价扛不住，屏幕缩水以控制成本。",
-      "opportunity_insight": "存储芯片涨价传导至终端，苹果降配或影响用户体验，竞品可借机抢占高端市场。",
-      "procurement_insight": "囤积存储芯片库存以对冲涨价，同时采购高性价比安卓旗舰机型，突出存储和屏幕优势。"
+      "info_brief": "美国银行预测，服务器CPU市场规模到2030年将激增至1700亿美元以上，受代理式AI驱动。",
+      "opportunity_insight": "服务器CPU市场爆发式增长，代理式AI成为关键驱动力，CPU需求远超预期，利好英特尔、AMD等厂商。",
+      "procurement_insight": "增加服务器CPU库存，特别是支持AI工作负载的高端型号，与英特尔、AMD加强合作，抢占市场先机。"
     },
     {
-      "title": "李佳琦直播卖奔驰：40台秒售罄",
-      "url": "https://news.mydrivers.com/1/1128/1128735.htm",
-      "source": "快科技",
+      "title": "招商证券换帅完成工商变更",
+      "url": "https://36kr.com/newsflashes/3849775117538567?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有限公司、深圳市集盛投资发展有限公司、香港中央结算（代理人）有限公司等共同持股。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "李佳琦直播销售奔驰汽车，40台秒售罄，显示直播带货向高客单价商品拓展。",
-      "opportunity_insight": "高客单价直播带货模式验证，3C数码可尝试与汽车等品类联动，提升品牌溢价和用户信任。",
-      "procurement_insight": "探索与高端品牌合作直播，引入限量版数码产品，利用直播秒杀模式刺激高价值商品销售。"
+      "info_brief": "招商证券完成工商变更，朱江涛接替霍达任法定代表人、董事长。",
+      "opportunity_insight": "券商高层变动可能带来IT采购策略调整，金融行业数字化转型持续，对3C数码设备和服务需求稳定。",
+      "procurement_insight": "主动联系招商证券新管理层，推介高性能计算和网络安全设备，争取金融IT升级订单。"
     },
     {
-      "title": "直接下载：Win11/10正式版官方镜像！(24H2)",
-      "url": "https://news.mydrivers.com/1/440/440540.htm",
-      "source": "快科技",
+      "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
+      "url": "https://36kr.com/newsflashes/3849776074314752?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "微软发布Win11/10 24H2正式版官方镜像，用户可免费直接下载。",
-      "opportunity_insight": "新系统发布带动硬件升级需求，尤其是CPU、内存和SSD，可提前备货适配产品。",
-      "procurement_insight": "联合品牌推出Win11/10 24H2优化机型，采购高性能SSD和内存，策划系统升级促销活动。"
+      "info_brief": "IDC报告显示，2025年中国智能体平台私有化市场规模17.5亿元，蚂蚁数科位列非云厂商第一。",
+      "opportunity_insight": "智能体平台私有化市场增长迅速，非云厂商如蚂蚁数科表现突出，预示企业级AI部署需求旺盛，可拓展相关硬件和解决方案。",
+      "procurement_insight": "关注蚂蚁数科等非云厂商的智能体平台合作机会，提前布局服务器和AI加速卡采购，满足私有化部署需求。"
     },
     {
-      "title": "快科技2025年度评奖！",
-      "url": "https://www.mydrivers.com/zhuanti/2025jiang/index.html",
-      "source": "快科技",
+      "title": "华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆",
+      "url": "https://36kr.com/newsflashes/3849778096198656?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "据知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "快科技2025年度评奖启动，评选年度优秀科技产品。",
-      "opportunity_insight": "评奖活动提升产品曝光度，获奖产品可带动销量，需关注评选趋势提前布局。",
-      "procurement_insight": "筛选潜力产品参与评奖，采购获奖热门品类（如游戏本、耳机），并策划专题推广。"
+      "info_brief": "华尔街大行限制对冲基金对SK海力士、三星及台积电等亚洲芯片股的做多杠杆。",
+      "opportunity_insight": "芯片股短期承压，但台积电等龙头长期价值不变，可逢低布局相关供应链。",
+      "procurement_insight": "减少对台积电等高价芯片的紧急采购，利用回调期谈判长期合同，锁定优惠价格。"
     },
     {
-      "title": "国产完全绕开ASML深紫外光刻路线",
-      "url": "https://news.mydrivers.com/1/1128/1128236.htm",
-      "source": "快科技",
+      "title": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品",
+      "url": "https://36kr.com/newsflashes/3849779202249732?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "味之素首席执行官：关键原材料定价过高或迫使芯片制造商转向替代产品。味之素增层薄膜 （ABF）是高端芯片制造封装领域的关键材料。（新浪财经）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "国产厂商成功绕开ASML深紫外光刻技术，实现自主光刻路线突破。",
-      "opportunity_insight": "国产芯片制造能力提升，利好国产CPU、GPU等核心部件，推动3C数码自主化。",
-      "procurement_insight": "关注国产芯片厂商动态，优先采购国产光刻技术相关产品，如国产SSD和主板，降低供应链风险。"
+      "info_brief": "味之素CEO警告关键原材料ABF定价过高，或迫使芯片制造商转向替代产品。",
+      "opportunity_insight": "ABF替代材料研发加速，可能催生新供应商和成本优化机会，利好封装产业链。",
+      "procurement_insight": "评估ABF替代材料供应商，小批量测试兼容性，分散采购风险以应对涨价。"
     },
     {
-      "title": "Anthropic：呼吁全球暂停AI研究",
-      "url": "https://news.mydrivers.com/1/1127/1127456.htm",
-      "source": "快科技",
+      "title": "欧洲央行管委内格尔：已为7月保留所有选择，随时准备再次作出回应",
+      "url": "https://36kr.com/newsflashes/3849786260116739?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "欧洲央行管委内格尔表示，即使战争迅速结束，本周的加息也是必要的；冲击是强烈且持久的，不能简单地忽视这个冲击。已为7月保留了所有选择，一旦需要，央行将随时准备再次作出回应；由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。（财联社）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "Anthropic呼吁全球暂停AI研究，引发对AI安全与伦理的讨论。",
-      "opportunity_insight": "AI监管趋严可能影响AI硬件需求，但安全合规产品将成新增长点。",
-      "procurement_insight": "采购支持AI安全功能的硬件（如加密芯片），与AI软件厂商合作推出合规解决方案，抢占先机。"
+      "info_brief": "欧洲央行管委内格尔暗示7月可能加息，因高能源价格间接影响持续。",
+      "opportunity_insight": "加息预期可能抑制消费，但能源成本上升推动芯片封装材料需求，如ABF基板。",
+      "procurement_insight": "关注ABF基板供应商动态，提前锁定产能，应对芯片封装材料涨价风险。"
     },
     {
-      "title": "Mate 80系列卖爆了！销量破649万台 华为国内份额登顶",
-      "url": "https://news.mydrivers.com/1/1128/1128429.htm",
-      "source": "快科技",
+      "title": "德国5月CPI终值同比增长2.6%，符合预期",
+      "url": "https://36kr.com/newsflashes/3849786461574400?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "德国5月CPI终值环比下降0.2%，预期下降0.2%；同比增长2.6%，预期增长2.6%。（界面）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "华为Mate 80系列销量破649万台，国内市场份额登顶。",
-      "opportunity_insight": "高端手机市场强劲复苏，华为品牌力带动配件需求，磁吸充电壳、保护膜等周边产品销量有望同步增长。",
-      "procurement_insight": "加大华为Mate 80系列磁吸配件备货，与品牌方合作推出专属套装，抢占高端用户换机红利期。"
+      "info_brief": "德国5月CPI终值同比增长2.6%，符合预期，环比下降0.2%。",
+      "opportunity_insight": "通胀稳定利好欧洲消费电子市场，可能提振3C产品需求，尤其是高端品类。",
+      "procurement_insight": "可适度增加对欧洲市场的3C数码产品备货，优先布局德国等核心市场的高端机型。"
     },
     {
-      "title": "iOS 27史诗级更新！中国果粉不用羡慕安卓了",
-      "url": "https://news.mydrivers.com/1/1128/1128164.htm",
-      "source": "快科技",
+      "title": "全球多家银行遏制对冲基金部分杠杆押注",
+      "url": "https://36kr.com/newsflashes/3849790900131075?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "据报道，全球多家银行正限制对冲基金对SK海力士和三星电子等亚洲芯片制造商的杠杆押注，因这些股票今年已经暴涨，引发对可能出现回调的担忧。知情人士称，花旗集团、摩根大通和高盛集团等机构已提高对冲基金通过掉期做多SK海力士和三星电子的融资成本。据悉，银行在新交易的规模和对象方面的把控也有所收紧。（界面）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "iOS 27系统更新，新增功能让中国用户不再羡慕安卓。",
-      "opportunity_insight": "苹果系统升级激发存量用户换机或配件升级需求，如快充头、数据线等，利好3C配件品类。",
-      "procurement_insight": "提前备货MFi认证配件，针对iOS 27新功能（如自定义界面）推出定制化手机壳、贴膜等促销活动。"
+      "info_brief": "全球银行限制对冲基金对SK海力士、三星等亚洲芯片股的杠杆押注，因股价暴涨引发回调担忧。",
+      "opportunity_insight": "芯片股短期回调风险增加，但长期需求强劲，可关注低位布局机会，尤其是存储芯片领域。",
+      "procurement_insight": "建议减少对SK海力士、三星等存储芯片的短期采购，观望回调后逢低锁定长期供应合同。"
     },
     {
-      "title": "五倍徕卡长焦！小米17T Pro全面评测：家族收官真香机",
-      "url": "https://news.mydrivers.com/1/1127/1127989.htm",
-      "source": "快科技",
+      "title": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市",
+      "url": "https://36kr.com/newsflashes/3849794955384072?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "爱尔兰博彩公司Flutter计划自8月3日起从伦敦证券交易所退市。（财联社）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "小米17T Pro评测：五倍徕卡长焦，家族收官真香机。",
-      "opportunity_insight": "小米旗舰机型热度高，长焦功能吸引摄影爱好者，带动三脚架、镜头滤镜等摄影配件需求。",
-      "procurement_insight": "联合小米开展以旧换新活动，主推摄影配件组合包，并利用评测内容进行精准营销。"
+      "info_brief": "爱尔兰博彩公司Flutter计划8月3日从伦敦证交所退市。",
+      "opportunity_insight": "海外市场波动可能影响资本流向，但博彩业与3C数码无直接关联，需关注整体经济情绪。",
+      "procurement_insight": "保持谨慎，监控汇率和供应链风险，确保海外3C数码进口成本稳定，避免过度囤货。"
     },
     {
-      "title": "2499元！AOC新品高刷电竞显示器上市",
-      "url": "https://news.mydrivers.com/1/1129/1129100.htm",
-      "source": "快科技",
+      "title": "三只羊大数据公司变更负责人",
+      "url": "https://36kr.com/newsflashes/3849800121750784?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，合肥三只羊大数据运营有限公司发生工商变更，汪芬庆卸任法定代表人、经理、董事，由杜刚接任法定代表人、董事。该公司成立于2023年6月，注册资本500万人民币，经营范围包括大数据服务、数据处理和存储支持服务、数据处理服务等，由三只羊（合肥）控股集团有限公司全资持股。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "AOC发布2499元高刷电竞显示器，主打性价比。",
-      "opportunity_insight": "中端电竞显示器价格下探，刺激游戏玩家升级需求，带动电竞椅、鼠标垫等周边产品。",
-      "procurement_insight": "与AOC合作首发优惠，捆绑销售电竞外设套装，并针对学生群体推出分期免息策略。"
+      "info_brief": "三只羊大数据公司变更负责人，杜刚接任法定代表人。",
+      "opportunity_insight": "公司管理层变动可能调整业务方向，大数据服务与3C数码数据需求相关，需关注合作机会。",
+      "procurement_insight": "主动联系新负责人，探索大数据分析在3C数码采购预测中的应用，优化库存管理。"
     },
     {
-      "title": "扫厕所、洗过碗！黄仁勋：我成功是任何事都付出100%的努力",
-      "url": "https://news.mydrivers.com/1/1129/1129099.htm",
-      "source": "快科技",
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "url": "https://36kr.com/p/3846882883963139?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "黄仁勋分享成功经历：扫厕所、洗碗，强调付出100%努力。",
-      "opportunity_insight": "励志故事提升英伟达品牌形象，间接带动GPU及AI相关硬件关注度，利好高端显卡销售。",
-      "procurement_insight": "借势宣传英伟达显卡产品，推出“努力就有回报”主题促销，搭配AI算力卡或游戏显卡套装。"
+      "info_brief": "比亚迪泰国工厂桶装水标签上的BYD Logo被员工裁剪收藏，反映品牌认同感强。",
+      "opportunity_insight": "品牌符号价值高，可开发官方品牌周边产品，如定制贴纸、徽章，满足员工和粉丝收藏需求。",
+      "procurement_insight": "建议采购部门与品牌合作，推出限量版3C配件（如手机壳、充电宝）印有BYD Logo，利用内部渠道推广。"
     },
     {
-      "title": "内存暴涨带飞旧显卡！别当废铁卖 里面真能炼出黄金",
-      "url": "https://news.mydrivers.com/1/1129/1129098.htm",
-      "source": "快科技",
+      "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+      "url": "https://www.tmtpost.com/8025379.html",
+      "source": "钛媒体",
       "sources": [
-        "快科技"
+        "钛媒体"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "年亏6.7亿还在砸钱买。没人算错账，只是算的不是同一本账。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "内存涨价带动旧显卡回收价值提升，因可提炼黄金。",
-      "opportunity_insight": "旧显卡回收市场热度上升，可拓展二手显卡回收与翻新业务，满足低成本装机需求。",
-      "procurement_insight": "联合回收平台推出旧显卡换新补贴活动，刺激用户升级换代，同时回收黄金资源。"
+      "info_brief": "氢能公交行业面临年亏6.7亿、停运和骗补问题，但仍有企业逆势投资。",
+      "opportunity_insight": "氢能公交经济性存疑，但政策驱动下部分企业持续投入，可能带动相关充电和监控设备需求。",
+      "procurement_insight": "谨慎评估氢能公交相关3C设备采购，关注政策补贴动态，优先布局充电桩和车载智能终端。"
     },
     {
-      "title": "AMD新规范下放600系主板！华硕微星齐发BIOS：性能提升4%",
-      "url": "https://news.mydrivers.com/1/1129/1129097.htm",
-      "source": "快科技",
+      "title": "杭州小龙虾降价超50%",
+      "url": "https://36kr.com/newsflashes/3849811024303113?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "进入6月，湖北潜江小龙虾供货量逐渐减少，在走访时发现，目前杭州市场上的小龙虾已经完成了产地轮换，江苏、安徽和浙江本地产的小龙虾增多，货源充足，小龙虾价格也大幅回落，不少市民直呼实现了“小龙虾自由”。目前中青规格小龙虾的批发价每斤12元，大青规格小龙虾每斤16元，跟今年二三月份刚上市时的价格相比，降幅均超过50%。此外，广阔的海外市场，为小龙虾打开了利润增长空间。今年，多地小龙虾出口量与货值双...",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "AMD下放新规范至600系主板，华硕微星发BIOS，性能提升4%。",
-      "opportunity_insight": "主板性能升级利好中端市场，可推动600系主板与AMD处理器捆绑销售，吸引升级用户。",
-      "procurement_insight": "提前备货支持新BIOS的600系主板，与AMD联合促销，突出性能提升卖点。"
+      "info_brief": "杭州小龙虾价格因产地轮换降超50%，中青规格每斤12元。",
+      "opportunity_insight": "食品价格波动影响消费预算，可能释放部分资金用于3C数码购买，但非直接关联。",
+      "procurement_insight": "利用消费者省钱心理，推出3C数码优惠券或捆绑销售，如买手机送配件，刺激消费转移。"
     },
     {
-      "title": "父亲节礼物：飞科电动剃须刀到手54元",
-      "url": "https://news.mydrivers.com/1/1129/1129043.htm",
-      "source": "快科技",
+      "title": "中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "url": "https://36kr.com/newsflashes/3849819407127559?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，为配合“清朗·整治AI应用乱象”专项行动，进一步规范AI服务和应用，促进行业健康有序发展，切实保障公民合法权益，中央网信办举报中心自2026年6月起开设“涉AI应用乱象举报专区”，专项受理公众举报。受理范围主要包括生成合成内容标识落实不到位、制作发布虚假不实和暴力低俗信息等14类问题。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "父亲节促销：飞科电动剃须刀售价54元，性价比高。",
-      "opportunity_insight": "节日礼品需求旺盛，低价剃须刀可吸引预算有限的消费者，带动3C配件销量。",
-      "procurement_insight": "加大飞科剃须刀采购量，设置父亲节专属页面，搭配充电宝等配件组合销售。"
+      "info_brief": "中央网信办开设涉AI应用乱象举报专区，整治生成合成内容等问题。",
+      "opportunity_insight": "AI监管趋严，合规AI硬件和软件需求增加，如内容审核设备、安全芯片等。",
+      "procurement_insight": "关注AI合规产品供应链，采购支持内容标识和安全的硬件，如AI服务器或加密模块，抢占政策红利。"
     },
     {
-      "title": "日产急了！研发周期砍半缩至2年 社长直言：必须向中国学习",
-      "url": "https://news.mydrivers.com/1/1129/1129096.htm",
-      "source": "快科技",
+      "title": "沪深两市成交额超3万亿",
+      "url": "https://36kr.com/newsflashes/3849827303773446?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，沪深两市成交额超3万亿。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "日产将研发周期缩短至2年，强调向中国学习以提升效率。",
-      "opportunity_insight": "汽车行业加速创新，车载电子配件需求增长，可布局车联网及智能驾驶相关3C产品。",
-      "procurement_insight": "关注日产等车企新车型发布，提前对接车载充电器、行车记录仪等配件供应链。"
+      "info_brief": "沪深两市成交额突破3万亿元，市场活跃度显著提升。",
+      "opportunity_insight": "市场资金充裕，投资者信心增强，利好3C数码消费升级，高端产品需求可能上升。",
+      "procurement_insight": "建议加大高端3C数码产品备货，如高性能笔记本、旗舰手机，并策划促销活动吸引资金流入。"
     },
     {
-      "title": "百万级同款车漆！比亚迪海豹08曜石黑亮相：盲订同步开启",
-      "url": "https://news.mydrivers.com/1/1129/1129087.htm",
-      "source": "快科技",
+      "title": "A股三大指数集体收涨，招金黄金涨停",
+      "url": "https://36kr.com/newsflashes/3849841315566856?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.12%，深成指涨0.75%，创业板指涨0.5%；贵金属、航天军工、券商板块领涨，招金黄金涨停，华秦科技涨超7%，国金证券涨超6%，西部黄金涨超4%；通信设备、半导体、电信板块跌幅居前，联特科技跌超9%，三安光电跌超8%，中国电信跌超3%。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "比亚迪海豹08曜石黑亮相，百万级同款车漆，盲订开启。",
-      "opportunity_insight": "新车发布带动汽车后市场，高端车漆及定制配件需求上升，可拓展汽车电子精品。",
-      "procurement_insight": "与比亚迪合作推出专属车载配件套装，如智能后视镜、氛围灯，利用盲订热度引流。"
+      "info_brief": "A股三大指数收涨，贵金属、航天军工领涨，通信设备板块跌幅居前。",
+      "opportunity_insight": "市场波动中，通信设备板块下跌可能带来低价采购机会，但需谨慎评估行业风险。",
+      "procurement_insight": "关注通信设备供应商股价下跌后的库存清理，择机低价采购光模块等核心配件。"
     },
     {
-      "title": "控油养发：卡蓓诺夜间修护洗发水29.9元到手",
-      "url": "https://news.mydrivers.com/1/1129/1129041.htm",
-      "source": "快科技",
+      "title": "Kimi与一国有银行合作，全球首张AI原生信用卡开放预约",
+      "url": "https://36kr.com/newsflashes/3849847083193604?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，月之暗面Kimi今天宣布，全球首张AI原生信用卡Kimi信用卡正式开启预约，这是首张将AI服务纳入核心权益体系的实体信用卡，持卡人的每一笔消费可转化为AI算力额度，直接兑换Agent使用额度和高级功能等权益。据了解，Kimi已与一大型国有银行及国际卡组织进行合作，探索Token和信用卡积分相互流通的全新金融范式。消费积分可兑换算力额度，持卡人也可以优先内测最新模型。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "卡蓓诺夜间修护洗发水29.9元促销，主打控油养发功能。",
-      "opportunity_insight": "个护健康消费升级，低价高质产品易吸引价格敏感用户，可拓展3C周边健康品类。",
-      "procurement_insight": "关注个护与3C交叉品类，如智能洗护设备，可联合促销或引入新品牌。"
+      "info_brief": "Kimi与国有银行合作推出全球首张AI原生信用卡，消费可兑换AI算力。",
+      "opportunity_insight": "AI算力消费化趋势明显，推动高性能计算设备需求，如AI服务器配件和终端硬件。",
+      "procurement_insight": "增加AI相关配件采购，如GPU散热器、高速存储，与银行合作推广算力兑换硬件套餐。"
     },
     {
-      "title": "逼真人偶\"不知火舞\"亮相！大胆姿势随心所欲",
-      "url": "https://news.mydrivers.com/1/1129/1129086.htm",
-      "source": "快科技",
+      "title": "华谊兄弟退出名下文化创意产业公司",
+      "url": "https://36kr.com/newsflashes/3849847592588293?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，天眼查App显示，近日，深圳华谊兄弟文化创意产业有限公司发生工商变更，原股东ST华谊旗下华谊兄弟（天津）实景娱乐有限公司退出。该公司成立于2012年9月，注册资本3亿人民币，法定代表人为粟进军，经营范围包括从事坪山华谊兄弟文化城的开发建设等，现由深圳市坪山区城市建设投资有限公司、深圳市珠江投资发展有限公司共同持股。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "逼真人偶“不知火舞”亮相，支持多种姿势摆拍，主打动漫收藏市场。",
-      "opportunity_insight": "二次元经济火热，高精度人偶满足收藏和摆拍需求，可带动3C配件如展示架销售。",
-      "procurement_insight": "评估引入正版授权人偶，搭配3C周边如电竞桌搭，提升品类关联度。"
+      "info_brief": "华谊兄弟退出深圳文化创意产业公司，股东变更为地方投资公司。",
+      "opportunity_insight": "文化创意产业调整，可能释放数字内容设备需求，如VR/AR硬件，但短期影响有限。",
+      "procurement_insight": "暂不调整采购策略，关注文化城项目后续动态，评估是否需储备相关娱乐设备。"
     },
     {
-      "title": "日本炸鸡店一锅油反复用66年！拿下日本炸鸡金奖",
-      "url": "https://news.mydrivers.com/1/1129/1129085.htm",
-      "source": "快科技",
+      "title": "新乐道L60发布，售价19.28万元起",
+      "url": "https://36kr.com/newsflashes/3849849689265152?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "36氪获悉，6月11日，新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格，整车购买19.28万元起，采用BaaS电池租用方式购买，车价13.58万元起，并同步开启全国交付。",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "日本炸鸡店一锅油用66年获金奖，强调传统工艺和品质持久性。",
-      "opportunity_insight": "品质与传承故事吸引消费者，可类比3C产品耐用性，强化品牌信任营销。",
-      "procurement_insight": "借鉴故事营销，推广3C耐用品如主板、电源，突出长期稳定性能。"
+      "info_brief": "新乐道L60发布，售价19.28万元起，支持BaaS电池租用，同步开启交付。",
+      "opportunity_insight": "新能源汽车市场扩张，带动车载充电器、智能配件等3C产品需求，尤其BaaS模式增加用户基数。",
+      "procurement_insight": "采购车载充电器、手机支架等配件，与乐道合作推出专属套餐，利用交付期捆绑销售。"
     },
     {
-      "title": "RTX 50 Super四款全曝光：唯独一款最特殊",
-      "url": "https://news.mydrivers.com/1/1129/1129084.htm",
-      "source": "快科技",
+      "title": "福特在美召回4151辆汽车，因仪表盘启动后可能黑屏存安全隐患",
+      "url": "https://36kr.com/newsflashes/3849852484834564?f=rss",
+      "source": "36氪",
       "sources": [
-        "快科技"
+        "36氪"
       ],
       "publish_date": "2026-06-12",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "",
+      "summary": "据美国国家公路交通安全管理局（NHTSA）6月12日披露，福特汽车公司正在召回部分2019款Ford Mustang、Lincoln Nautilus及Lincoln Navigator车型，共计4151辆。上述车辆此前已依据19V076号召回令进行过维修，但维修存在缺陷。车辆启动时，仪表盘组件可能无法正常工作并显示黑屏，导致车速、安全系统警告等关键安全信息无法显示，增加碰撞风险。（界面）",
       "matched_keywords": [
         "磁吸配件"
       ],
-      "info_brief": "RTX 50 Super四款显卡全曝光，其中一款设计特殊，性能或差异化。",
-      "opportunity_insight": "新一代显卡发布前，高端玩家关注性能差异，可提前布局预售和定制机型。",
-      "procurement_insight": "与NVIDIA沟通首发合作，备货高端显卡，并推出配套散热、电源促销。"
-    },
-    {
-      "title": "技嘉推出入门级B840M FORCE WIFI6E主板",
-      "url": "https://news.mydrivers.com/1/1129/1129083.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-12",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "技嘉推出入门级B840M FORCE WIFI6E主板，主打性价比和无线连接。",
-      "opportunity_insight": "入门级主板需求稳定，WIFI6E成标配，可吸引预算有限但追求新技术的用户。",
-      "procurement_insight": "加大B840M备货，搭配CPU和内存套装销售，突出WIFI6E优势。"
-    },
-    {
-      "title": "荣耀李健官宣签约张雪机车两位车手:联名款智能手表将发售",
-      "url": "https://news.mydrivers.com/1/1129/1129091.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "荣耀签约张雪机车两位车手，将发售联名款智能手表。",
-      "opportunity_insight": "联名款智能手表可吸引机车爱好者和粉丝群体，拓展运动户外细分市场，提升品牌年轻化形象。",
-      "procurement_insight": "提前与荣耀沟通联名款备货量，针对机车用户推出专属促销，如购表送骑行配件。"
-    },
-    {
-      "title": "全新理想L8发布！奔驰GLS迈巴赫+宝马X5M合体 6月23日上市",
-      "url": "https://news.mydrivers.com/1/1129/1129090.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "全新理想L8发布，融合奔驰GLS迈巴赫和宝马X5M设计，6月23日上市。",
-      "opportunity_insight": "高端SUV市场热度高，理想L8定位豪华科技，可带动车载3C配件需求，如智能充电设备。",
-      "procurement_insight": "关注理想L8上市后车载配件需求，提前备货车载充电器、支架等，与理想合作推广。"
-    },
-    {
-      "title": "蔚来李斌：特斯拉FSD行业领先 迫不及待想尝试最新版",
-      "url": "https://news.mydrivers.com/1/1129/1129088.htm",
-      "source": "快科技",
-      "sources": [
-        "快科技"
-      ],
-      "publish_date": "2026-06-23",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "",
-      "matched_keywords": [
-        "磁吸配件"
-      ],
-      "info_brief": "蔚来李斌称特斯拉FSD行业领先，迫不及待想尝试最新版。",
-      "opportunity_insight": "自动驾驶技术竞争加剧，推动高算力芯片和传感器需求，利好3C数码配件升级。",
-      "procurement_insight": "关注自动驾驶相关硬件趋势，增加高性能计算设备和车载传感器库存，与蔚来等车企合作。"
+      "info_brief": "福特因仪表盘黑屏隐患召回4151辆汽车，涉及2019款Mustang等车型。",
+      "opportunity_insight": "汽车电子系统故障频发，推动车载显示和诊断设备需求增长，为3C配件市场带来机会。",
+      "procurement_insight": "关注车载显示屏及诊断工具供应商，提前备货相关配件，与汽车后市场渠道合作推广。"
     }
   ]
 };
