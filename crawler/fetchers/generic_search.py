@@ -131,10 +131,10 @@ class GenericSearchFetcher(BaseFetcher):
 
         url_targets = []
         if "{keyword}" in tpl:
-            # Combine all keywords with OR for a single search (much faster than per-keyword)
-            # e.g. "3D打印 OR 3D打印机 OR 增材制造"
-            combined_kw = " OR ".join(keywords)
-            url_targets.append((self.build_search_url(tpl, combined_kw), combined_kw))
+            # Search each keyword independently for better precision
+            # Cap at top 3 keywords to balance speed vs coverage
+            for kw in keywords[:3]:
+                url_targets.append((self.build_search_url(tpl, kw), kw))
         else:
             url_targets.append((tpl, ""))
 

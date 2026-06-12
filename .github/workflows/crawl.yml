@@ -32,11 +32,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 保存爬虫生成的数据文件
+          cp data/news.json /tmp/news.json
+          cp data/news.data.js /tmp/news.data.js
+          # 拉取远程最新代码（非数据文件的变更）
+          git fetch origin main
+          git reset --hard origin/main
+          # 恢复爬虫数据覆盖
+          cp /tmp/news.json data/news.json
+          cp /tmp/news.data.js data/news.data.js
           git add data/news.json data/news.data.js
           if git diff --cached --quiet; then
             echo "数据无变化，跳过提交"
           else
             git commit -m "auto: 更新资讯数据 $(date +'%Y-%m-%d %H:%M')"
-            git pull --rebase origin main
-            git push
+            git push origin main
           fi

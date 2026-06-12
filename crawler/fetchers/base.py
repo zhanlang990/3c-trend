@@ -25,8 +25,8 @@ class BaseFetcher:
     """Base class for source-specific fetchers."""
 
     timeout = 10
-    min_delay = 0.3
-    max_delay = 0.8
+    min_delay = 0.1
+    max_delay = 0.3
 
     def __init__(self, source_config):
         """source_config: dict from sources.json -> sources[]"""
