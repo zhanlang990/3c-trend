@@ -131,9 +131,7 @@ class GenericSearchFetcher(BaseFetcher):
 
         url_targets = []
         if "{keyword}" in tpl:
-            # Search each keyword independently for better precision
-            # Cap at top 3 keywords to balance speed vs coverage
-            for kw in keywords[:3]:
+            for kw in keywords[:3]:  # cap keywords to avoid heavy traffic
                 url_targets.append((self.build_search_url(tpl, kw), kw))
         else:
             url_targets.append((tpl, ""))

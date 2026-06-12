@@ -80,40 +80,39 @@ class SogouWeixinFetcher(BaseFetcher):
         seen_urls = set()
         cutoff = datetime.datetime.now() - datetime.timedelta(days=self.MAX_DAYS)
 
-        # Combine all keywords with OR for a single search
-        combined_kw = " OR ".join(keywords)
-        url = self.build_search_url(SOGOU_WEIXIN_URL, combined_kw)
-        try:
-            html = self.http_get(url, referer="https://weixin.sogou.com/")
-        except Exception as e:
-            log.debug("[sogou-weixin] http_get failed: %s", e)
-            return items
-
-        # Split HTML into result blocks by <div class="txt-box">
-        blocks = re.split(r'<div class="txt-box"', html)
-        if len(blocks) < 2:
-            log.debug("[sogou-weixin] no txt-box blocks found")
-            return items
-
-        for block in blocks[1:]:  # skip the part before first txt-box
+        for kw in keywords[:3]:
+            url = self.build_search_url(SOGOU_WEIXIN_URL, kw)
             try:
-                item = self._parse_block(block, combined_kw, url)
+                html = self.http_get(url, referer="https://weixin.sogou.com/")
             except Exception as e:
-                log.debug("[sogou-weixin] parse block error: %s", e)
-                continue
-            if not item or item["url"] in seen_urls:
+                log.debug("[sogou-weixin] http_get failed for %s: %s", kw, e)
                 continue
 
-            # Filter by date: only keep articles within MAX_DAYS
-            if item.get("_publish_dt"):
+            # Split HTML into result blocks by <div class="txt-box">
+            blocks = re.split(r'<div class="txt-box"', html)
+            if len(blocks) < 2:
+                log.debug("[sogou-weixin] no txt-box blocks found for kw=%s", kw)
+                continue
+
+            for block in blocks[1:]:  # skip the part before first txt-box
                 try:
-                    if item["_publish_dt"] < cutoff:
-                        continue
-                except (ValueError, TypeError):
-                    pass
+                    item = self._parse_block(block, kw, url)
+                except Exception as e:
+                    log.debug("[sogou-weixin] parse block error: %s", e)
+                    continue
+                if not item or item["url"] in seen_urls:
+                    continue
 
-            seen_urls.add(item["url"])
-            items.append(item)
+                # Filter by date: only keep articles within MAX_DAYS
+                if item.get("_publish_dt"):
+                    try:
+                        if item["_publish_dt"] < cutoff:
+                            continue
+                    except (ValueError, TypeError):
+                        pass
+
+                seen_urls.add(item["url"])
+                items.append(item)
 
         return items
 

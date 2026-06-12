@@ -4,13 +4,9 @@ Pipeline:
   1) load categories.json (multi-category config)
   2) load user feedback → adjust source/keyword priorities
   3) for each category, run safe_fetch() with category-specific keywords & sources
-  4) keyword filter -> recent filter -> dedup -> sort
+  4) keyword filter -> recent (7d) filter -> dedup -> sort
   5) generate procurement_insight
-  6) save daily results to data/daily/YYYY-MM-DD.json
-  7) merge recent 7 days from daily files → write data/news.json
-
-Incremental mode (default): only crawl yesterday's news.
-Full mode (--full): crawl last 7 days (for first run or recovery).
+  6) write data/news.json with category_id field
 
 Performance: concurrent fetching + batch DeepSeek API calls.
 """
@@ -18,9 +14,8 @@ import json
 import logging
 import os
 import sys
-import glob
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timedelta
+from datetime import datetime
 
 CURDIR = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(CURDIR)
@@ -43,15 +38,9 @@ LOG_PATH = os.path.join(CURDIR, "run.log")
 DATA_PATH = os.path.join(ROOT, "data", "news.json")
 SAMPLE_PATH = os.path.join(ROOT, "data", "news.sample.json")
 CATEGORIES_PATH = os.path.join(ROOT, "data", "categories.json")
-DAILY_DIR = os.path.join(ROOT, "data", "daily")
-
-# How many days to keep in daily storage
-DAILY_RETENTION_DAYS = 30
-# How many days to merge for the 7-day view
-MERGE_DAYS = 7
 
 # Concurrency settings
-MAX_FETCH_WORKERS = 10  # Parallel fetcher threads (network-bound)
+MAX_FETCH_WORKERS = 6   # Parallel fetcher threads (network-bound)
 MAX_DEEPSEEK_WORKERS = 3  # Parallel DeepSeek API threads (rate-limited)
 
 
