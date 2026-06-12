@@ -163,7 +163,9 @@ def run():
         cat_id = cat.get("id", "")
         cat_name = cat.get("name", "")
         keywords = cat.get("keywords", [])
-        sources = [s for s in cat.get("sources", []) if s.get("enabled", True)]
+        # Use ALL enabled sources from sources.json for every category
+        sources = [{"id": s["id"], "name": s["name"], "type": s.get("type", "search"), "enabled": True}
+                   for s in source_lookup.values() if s.get("enabled", True)]
 
         if not keywords or not sources:
             log.info("Skipping category '%s' (no keywords or sources)", cat_name)
