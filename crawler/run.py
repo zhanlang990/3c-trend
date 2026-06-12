@@ -260,29 +260,9 @@ def run():
         cat_items = filter_quality(cat_items)
         n_qual = len(cat_items)
         cat_items_recent = filter_recent(cat_items, days=7)
-        # Fallback: if too few recent items (< 10), supplement with keyword-matched
-        # items that have no date (they are still relevant, just undated)
-        MIN_ITEMS_THRESHOLD = 10
+        # Strict: only keep items with valid date within 7 days, no undated fallback
         n_recent = len(cat_items_recent)
-        if len(cat_items_recent) >= MIN_ITEMS_THRESHOLD:
-            # Enough recent items — use them exclusively
-            cat_items = cat_items_recent
-        else:
-            # Too few recent items — supplement with keyword-matched undated items
-            kw_matched_undated = [
-                it for it in cat_items
-                if it.get("matched_keywords") and not it.get("_publish_dt")
-            ]
-            # Assign today's date to undated items so they can be displayed
-            for it in kw_matched_undated:
-                it["_publish_dt"] = datetime.now()
-            # Merge: recent items first, then undated keyword-matched items
-            seen_urls = {it.get("url") for it in cat_items_recent}
-            supplement = [it for it in kw_matched_undated if it.get("url") not in seen_urls]
-            cat_items = cat_items_recent + supplement
-            if n_recent < MIN_ITEMS_THRESHOLD:
-                log.warning("Category '%s': only %d recent items, supplemented with %d keyword-matched undated items",
-                           cat_name, n_recent, len(supplement))
+        cat_items = cat_items_recent
         cat_items = dedup_by_title(cat_items)
         n_dedup = len(cat_items)
         log.info("Category '%s' pipeline: raw=%d → keywords=%d → quality=%d → recent=%d → dedup=%d",
