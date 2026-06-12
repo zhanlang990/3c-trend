@@ -1,10 +1,8 @@
 name: 每日资讯爬取
 
 on:
-  # 每天早上8点(北京时间)自动运行
   schedule:
-    - cron: '0 0 * * *'  # UTC 0:00 = 北京时间 8:00
-  # 支持手动点击运行
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -23,20 +21,22 @@ jobs:
           python-version: '3.11'
 
       - name: 安装依赖
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml 2>/dev/null || true
+        run: pip install requests beautifulsoup4 lxml 2>/dev/null || true
 
       - name: 运行爬虫
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python crawler/run.py
 
-      - name: 上传爬取数据
-        uses: actions/upload-artifact@v4
-        with:
-          name: news-data
-          path: |
-            data/news.json
-            data/news.data.js
-          retention-days: 1
+      - name: 提交并推送数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.data.js
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "auto: 更新资讯数据 $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push
+          fi
