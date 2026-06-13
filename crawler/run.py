@@ -107,9 +107,10 @@ def _create_fetcher(sconf, source_lookup, keywords=None):
 
     Strategy (priority order):
     1. If source has rss_url -> use RSSFetcher (direct article links)
-    2. If source has list_url or url -> use HtmlListFetcher (parse page)
-    3. If source has search_url -> use GenericSearchFetcher
-    4. Fallback: use GenericSearchFetcher with source url
+    2. If source has list_url or html mode -> use HtmlListFetcher (parse page)
+    3. If source has custom fetcher class -> use it
+    4. Fallback: use GenericSearchFetcher (Sogou news search)
+       HTML scraping of homepages is unreliable, so search is preferred.
     """
     sconf = _enrich_source_config(sconf, source_lookup)
     src_id = sconf.get("id", "")
@@ -121,17 +122,14 @@ def _create_fetcher(sconf, source_lookup, keywords=None):
     # Priority 1: RSS feed (best quality - direct article links with dates)
     if rss_url or fetch_mode == "rss":
         fetcher = RSSFetcher(sconf)
-    # Priority 2: Explicit list_url or html mode
+    # Priority 2: Explicit list_url or html mode (specific list page, not homepage)
     elif list_url or fetch_mode == "html":
         fetcher = HtmlListFetcher(sconf)
-    # Priority 3: Source has its own website URL - scrape it as HTML
-    elif source_url and fetch_mode != "search":
-        sconf["list_url"] = source_url
-        fetcher = HtmlListFetcher(sconf)
-    # Priority 4: Custom fetcher class
+    # Priority 3: Custom fetcher class (sina, netease, etc.)
     elif src_id in FETCHER_CLASSES:
         fetcher = FETCHER_CLASSES[src_id](sconf)
-    # Fallback: generic search
+    # Fallback: GenericSearchFetcher (Sogou news search)
+    # HTML scraping of homepages is unreliable; search is more robust
     else:
         fetcher = GenericSearchFetcher(sconf)
     return fetcher, sconf
@@ -202,12 +200,18 @@ def run():
 
         # De-duplicate fetchers by actual search URL to avoid hitting
         # the same search engine 50+ times with identical queries.
+        # Also skip GenericSearchFetcher sources since Sogou News returns 403;
+        # keyword-matched results will come from Sogou WeChat search below.
         seen_search_urls = set()
         fetch_tasks = []
         for sconf in cat_sources:
             if not sconf.get("enabled", True):
                 continue
             fetcher, enriched = _create_fetcher(sconf, source_lookup, keywords)
+            # Skip GenericSearchFetcher: Sogou News is 403, results come from
+            # Sogou WeChat search (added below) instead
+            if isinstance(fetcher, GenericSearchFetcher):
+                continue
             search_url = enriched.get("search_url", "") or enriched.get("rss_url", "") or enriched.get("url", "")
             if search_url in seen_search_urls and "sogou.com" in search_url:
                 continue  # skip duplicate sogou search
@@ -242,6 +246,50 @@ def run():
         n_raw = len(cat_items)
         cat_items = filter_by_keywords(cat_items, keywords)
         n_kw = len(cat_items)
+
+        # --- Sogou WeChat search: always run for each category ---
+        # This is the primary source of keyword-matched results, especially for
+        # niche categories (UV打印, CNC, AIPC) where RSS feeds don't cover.
+        # Sogou WeChat returns articles from WeChat public accounts that match
+        # the category keywords, providing high-quality targeted results.
+        # Note: Sogou may rate-limit; retries with backoff help mitigate this.
+        import time as _time
+        _time.sleep(3)  # delay before searching to avoid rate limiting
+        wx_total = 0
+        for kw in keywords[:3]:  # search top 3 keywords for better coverage
+            for attempt in range(2):  # retry once on failure
+                try:
+                    wx_fetcher = SogouWeixinFetcher({
+                        "name": f"搜狗微信-{cat_name}",
+                        "id": f"sogou-weixin-{cat_id}",
+                    })
+                    wx_items = wx_fetcher.safe_fetch([kw])
+                    if wx_items:
+                        source_names_with_data.add("搜狗微信")
+                        for it in wx_items:
+                            if not it.get("match_score"):
+                                it["match_score"] = 3
+                            if not it.get("matched_keywords"):
+                                it["matched_keywords"] = [kw]
+                            # Use account name as source for attribution
+                            if not it.get("source") or it.get("source") in ("搜狗微信",):
+                                it["source"] = it.get("account") or "搜狗微信"
+                        cat_items.extend(wx_items)
+                        wx_total += len(wx_items)
+                        log.info("Category '%s': Sogou WeChat '%s' got %d items",
+                                 cat_name, kw, len(wx_items))
+                        break  # success, no retry needed
+                    elif attempt == 0:
+                        log.info("Category '%s': Sogou WeChat '%s' got 0 items, retrying...",
+                                 cat_name, kw)
+                        _time.sleep(5)  # wait longer before retry
+                except Exception as e:
+                    log.warning("Sogou WeChat search error for %s/%s: %s", cat_name, kw, e)
+                    if attempt == 0:
+                        _time.sleep(5)
+        if wx_total > 0:
+            log.info("Category '%s': Sogou WeChat total %d items", cat_name, wx_total)
+
         cat_items = filter_quality(cat_items)
         n_qual = len(cat_items)
         cat_items_recent = filter_recent(cat_items, days=7)

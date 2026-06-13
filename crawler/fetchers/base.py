@@ -24,7 +24,7 @@ log = logging.getLogger("fetcher")
 class BaseFetcher:
     """Base class for source-specific fetchers."""
 
-    timeout = 10
+    timeout = 15
     min_delay = 0.3
     max_delay = 0.8
 

@@ -12,7 +12,8 @@ from fetchers.html_list_fetcher import HtmlListFetcher
 
 
 # Mapping: source id (in categories.json) -> Fetcher class
-# Priority: specific fetcher > RSS > HTML list > GenericSearch (Bing)
+# Only sources with working RSS feeds use RSSFetcher.
+# Sources without RSS use GenericSearchFetcher (Sogou news search) via fallback.
 FETCHER_CLASSES = {
     "sina": SinaFetcher,
     "netease": NeteaseFetcher,
@@ -21,31 +22,16 @@ FETCHER_CLASSES = {
     "sohu": SohuFetcher,
     "aipu": BrandFetcher,
     "sogou-weixin": SogouWeixinFetcher,
-    # Sources with RSS feeds — use RSSFetcher for higher quality data
+    # Sources with working official RSS feeds
     "ithome": RSSFetcher,
     "36kr": RSSFetcher,
     "leiphone": RSSFetcher,
-    "qbitai": RSSFetcher,
     "ifanr": RSSFetcher,
     "tmtpost": RSSFetcher,
-    "theverge": RSSFetcher,
     "engadget": RSSFetcher,
-    "huxiu": RSSFetcher,
-    "geekpark": RSSFetcher,
-    "pingwest": RSSFetcher,
-    "cnbeta": RSSFetcher,
-    "mydrivers": RSSFetcher,
-    "dgtle": RSSFetcher,
-    "leikeji": RSSFetcher,
+    "cnet": RSSFetcher,
     "arstechnica": RSSFetcher,
     "techcrunch": RSSFetcher,
     "wired": RSSFetcher,
-    "cnet": RSSFetcher,
     "tomshardware": RSSFetcher,
-    # Remaining sources use GenericSearchFetcher (Bing search fallback)
-    "zol": GenericSearchFetcher,
-    "pconline": GenericSearchFetcher,
-    "chinairn": GenericSearchFetcher,
-    "cls": GenericSearchFetcher,
-    "sina-finance": GenericSearchFetcher,
 }

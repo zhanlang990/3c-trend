@@ -90,7 +90,7 @@ class SogouWeixinFetcher(BaseFetcher):
 
             # Extra delay between keyword searches to avoid rate limiting
             import time
-            time.sleep(1.0)
+            time.sleep(2.0)
 
             # Split HTML into result blocks by <div class="txt-box">
             blocks = re.split(r'<div class="txt-box"', html)
