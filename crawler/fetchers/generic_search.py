@@ -25,6 +25,67 @@ _A_TAG = re.compile(
 )
 
 
+# Domain-to-name mapping for common Chinese tech media
+_DOMAIN_NAME_MAP = {
+    "ithome.com": "IT之家",
+    "36kr.com": "36氪",
+    "huxiu.com": "虎嗅",
+    "tmtpost.com": "钛媒体",
+    "ifanr.com": "爱范儿",
+    "leiphone.com": "雷峰网",
+    "pingwest.com": "品玩",
+    "geekpark.net": "极客公园",
+    "cnbeta.com": "cnBeta",
+    "mydrivers.com": "快科技",
+    "pconline.com.cn": "太平洋科技",
+    "zol.com.cn": "中关村在线",
+    "163.com": "网易",
+    "sohu.com": "搜狐",
+    "sina.com.cn": "新浪",
+    "jiemian.com": "界面新闻",
+    "leikeji.com": "雷科技",
+    "dgtle.com": "数码尾巴",
+    "feng.com": "威锋网",
+    "cls.cn": "财联社",
+    "dsb.cn": "电商报",
+    "ebrun.com": "亿邦动力",
+    "qbitai.com": "量子位",
+    "jiqizhixin.com": "机器之心",
+    "laoyaoba.com": "集微网",
+    "elecfans.com": "电子发烧友",
+    "c114.com.cn": "C114通信网",
+    "theverge.com": "The Verge",
+    "techcrunch.com": "TechCrunch",
+    "engadget.com": "Engadget",
+    "cnet.com": "CNET",
+    "wired.com": "Wired",
+    "arstechnica.com": "Ars Technica",
+    "pcpop.com": "泡泡网",
+    "chinanews.com.cn": "中国新闻网",
+}
+
+
+def _extract_source_from_url(url):
+    """Extract a human-friendly source name from a URL domain."""
+    try:
+        from urllib.parse import urlparse
+        netloc = urlparse(url).netloc.lower().replace("www.", "")
+        # Check exact match first
+        if netloc in _DOMAIN_NAME_MAP:
+            return _DOMAIN_NAME_MAP[netloc]
+        # Check partial match (e.g. tech.163.com → 163.com → 网易)
+        for domain, name in _DOMAIN_NAME_MAP.items():
+            if netloc.endswith(domain) or domain in netloc:
+                return name
+        # Fallback: use domain without TLD suffix
+        parts = netloc.split(".")
+        if len(parts) >= 2:
+            return parts[-2] if parts[-2] not in ("com", "cn", "net", "org") else netloc
+        return netloc
+    except Exception:
+        return ""
+
+
 # Default search URL templates for known source ids
 # Updated 2026-06: Bing search no longer returns results via HTTP (JS-rendered).
 # Switched to Sogou News search which reliably returns article titles via plain HTTP.
@@ -170,12 +231,18 @@ class GenericSearchFetcher(BaseFetcher):
                 ctx_text = clean_text(ctx)
                 dt = parse_date(ctx_text)
 
+                # Determine source name: prefer configured name, but for
+      # aggregated search (sogou news), extract from result URL domain
+                item_source = self.config.get("name", "")
+                if "sogou.com/news" in tpl or "news.sogou.com" in tpl:
+                    item_source = _extract_source_from_url(full) or item_source
+
                 seen_urls.add(full)
                 items.append({
                     "title": title,
                     "url": full,
                     "summary": "",
-                    "source": self.config.get("name", ""),
+                    "source": item_source,
                     "_publish_dt": dt,
                     "_search_keyword": search_kw,
                 })

@@ -105,51 +105,33 @@ def _create_fetcher(sconf, source_lookup, keywords=None):
     """Create the appropriate fetcher for a source config.
     Returns (fetcher_instance, sconf) tuple.
 
-    When keywords are provided and the source has an rss_url,
-    automatically construct a Bing site: search URL so that
-    RSS-configured sources can also participate in keyword-based
-    fetching instead of only returning the full-site RSS feed.
+    Strategy (priority order):
+    1. If source has rss_url -> use RSSFetcher (direct article links)
+    2. If source has list_url or url -> use HtmlListFetcher (parse page)
+    3. If source has search_url -> use GenericSearchFetcher
+    4. Fallback: use GenericSearchFetcher with source url
     """
     sconf = _enrich_source_config(sconf, source_lookup)
     src_id = sconf.get("id", "")
     fetch_mode = sconf.get("fetch_mode", "")
     rss_url = sconf.get("rss_url", "")
     list_url = sconf.get("list_url", "")
+    source_url = sconf.get("url", "")
 
-    keywords = keywords or []
-
-    # --- When keywords are present, prefer keyword search over RSS full-feed ---
-    # RSS feeds return the entire site's latest articles (unrelated to our keywords),
-    # so we should use Bing keyword search instead when we have specific keywords.
-    if keywords and rss_url and not sconf.get("search_url"):
-        # Check if DEFAULT_SEARCH_URLS already has a search template for this source
-        if src_id in DEFAULT_SEARCH_URLS:
-            sconf["search_url"] = DEFAULT_SEARCH_URLS[src_id]
-            sconf["_using_search_fallback"] = True
-        else:
-            # Build a Bing domain+keyword search URL (same style as DEFAULT_SEARCH_URLS)
-            from urllib.parse import urlparse
-            try:
-                primary_url = sconf.get("url", "")
-                if primary_url:
-                    domain = urlparse(primary_url).netloc.replace("www.", "")
-                else:
-                    domain = urlparse(rss_url).netloc.replace("www.", "")
-                if domain:
-                    search_url = f"https://cn.bing.com/search?q={domain}+{{keyword}}"
-                    sconf["search_url"] = search_url
-                    sconf["_using_search_fallback"] = True
-            except Exception:
-                pass  # fallback to original RSS fetch below
-
-    if sconf.get("search_url") or fetch_mode == "search":
-        fetcher = GenericSearchFetcher(sconf)
-    elif rss_url or fetch_mode == "rss":
+    # Priority 1: RSS feed (best quality - direct article links with dates)
+    if rss_url or fetch_mode == "rss":
         fetcher = RSSFetcher(sconf)
+    # Priority 2: Explicit list_url or html mode
     elif list_url or fetch_mode == "html":
         fetcher = HtmlListFetcher(sconf)
+    # Priority 3: Source has its own website URL - scrape it as HTML
+    elif source_url and fetch_mode != "search":
+        sconf["list_url"] = source_url
+        fetcher = HtmlListFetcher(sconf)
+    # Priority 4: Custom fetcher class
     elif src_id in FETCHER_CLASSES:
         fetcher = FETCHER_CLASSES[src_id](sconf)
+    # Fallback: generic search
     else:
         fetcher = GenericSearchFetcher(sconf)
     return fetcher, sconf
@@ -209,45 +191,50 @@ def run():
 
         cat_items = []
 
-        # --- Sequential fetching to avoid anti-crawl rate limiting ---
-        # Sogou is the primary search engine (Bing no longer works via plain HTTP).
-        # We fetch sequentially with delays to avoid being rate-limited.
-
+        # --- Fetch from category-configured sources (51 sources mode) ---
         import time
+        cat_sources = cat.get("sources", [])
+        if not cat_sources:
+            cat_sources = [{"id": s["id"], "name": s["name"], "type": "search", "enabled": True}
+                           for s in source_lookup.values() if s.get("enabled", True)]
 
-        # Source 1: Sogou WeChat search (most reliable, high quality articles)
-        sogou_wx_conf = {"id": "sogou-weixin", "name": "搜狗微信", "type": "search"}
-        sogou_wx_fetcher = SogouWeixinFetcher(sogou_wx_conf)
-        try:
-            wx_items = sogou_wx_fetcher.safe_fetch(keywords) or []
-        except Exception as e:
-            log.warning("Fetch error for 搜狗微信: %s", e)
-            wx_items = []
-        if wx_items:
-            source_names_with_data.add("搜狗微信")
-            for it in wx_items:
-                if not it.get("source"):
-                    it["source"] = "搜狗微信"
-        cat_items.extend(wx_items)
+        log.info("Category '%s': %d sources configured", cat_name, len(cat_sources))
 
-        # Delay between sources to avoid rate limiting
-        time.sleep(1.5)
+        # De-duplicate fetchers by actual search URL to avoid hitting
+        # the same search engine 50+ times with identical queries.
+        seen_search_urls = set()
+        fetch_tasks = []
+        for sconf in cat_sources:
+            if not sconf.get("enabled", True):
+                continue
+            fetcher, enriched = _create_fetcher(sconf, source_lookup, keywords)
+            search_url = enriched.get("search_url", "") or enriched.get("rss_url", "") or enriched.get("url", "")
+            if search_url in seen_search_urls and "sogou.com" in search_url:
+                continue  # skip duplicate sogou search
+            seen_search_urls.add(search_url)
+            fetch_tasks.append((fetcher, enriched))
 
-        # Source 2: Sogou News search
-        sogou_news_conf = {"id": "sogou-news", "name": "搜狗新闻", "type": "search",
-                           "search_url": "https://news.sogou.com/news?query={keyword}"}
-        sogou_news_fetcher = GenericSearchFetcher(sogou_news_conf)
-        try:
-            news_items = sogou_news_fetcher.safe_fetch(keywords) or []
-        except Exception as e:
-            log.warning("Fetch error for 搜狗新闻: %s", e)
-            news_items = []
-        if news_items:
-            source_names_with_data.add("搜狗新闻")
-            for it in news_items:
-                if not it.get("source"):
-                    it["source"] = "搜狗新闻"
-        cat_items.extend(news_items)
+        log.info("Category '%s': %d unique fetch tasks after dedup", cat_name, len(fetch_tasks))
+
+        with ThreadPoolExecutor(max_workers=MAX_FETCH_WORKERS) as executor:
+            futures = []
+            for fetcher, enriched in fetch_tasks:
+                future = executor.submit(_fetch_source, fetcher, enriched, keywords, cat_sources)
+                futures.append(future)
+
+            for future in as_completed(futures):
+                try:
+                    sconf_raw, items = future.result()
+                    src_name = sconf_raw.get("name", "")
+                    if items:
+                        source_names_with_data.add(src_name)
+                        for it in items:
+                     # Use account name (for WeChat articles) or extracted source name
+                            if not it.get("source") or it.get("source") in ("搜狗微信", "搜狗新闻", "今日头条", "360新闻"):
+                                it["source"] = it.get("account") or src_name
+                    cat_items.extend(items)
+                except Exception as e:
+                    log.warning("Fetch future error: %s", e)
 
         log.info("Category '%s': %d raw items", cat_name, len(cat_items))
 

@@ -13,38 +13,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -55,14 +37,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -75,6 +255,66 @@
         {
           "id": "leikeji",
           "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -99,6 +339,252 @@
       ],
       "sources": [
         {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
           "id": "ithome",
           "name": "IT之家",
           "type": "search",
@@ -111,32 +597,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -162,6 +666,252 @@
       ],
       "sources": [
         {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
           "id": "ithome",
           "name": "IT之家",
           "type": "search",
@@ -174,32 +924,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -226,38 +994,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -268,14 +1018,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -288,6 +1236,66 @@
         {
           "id": "leikeji",
           "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -312,38 +1320,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -354,14 +1344,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -378,14 +1566,62 @@
           "enabled": true
         },
         {
-          "id": "theverge",
-          "name": "TheVerge",
+          "id": "ithome",
+          "name": "IT之家",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "engadget",
-          "name": "Engadget",
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -411,38 +1647,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -453,26 +1671,14 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "ifanr",
-          "name": "爱范儿",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "leikeji",
-          "name": "雷科技",
+          "id": "pingwest",
+          "name": "品玩",
           "type": "search",
           "enabled": true
         },
@@ -483,14 +1689,152 @@
           "enabled": true
         },
         {
-          "id": "sspai",
-          "name": "少数派",
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
           "type": "search",
           "enabled": true
         },
         {
           "id": "theverge",
-          "name": "TheVerge",
+          "name": "The Verge",
           "type": "search",
           "enabled": true
         },
@@ -508,7 +1852,103 @@
         },
         {
           "id": "tomshardware",
-          "name": "TomsHardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -533,38 +1973,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -575,14 +1997,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -599,14 +2219,62 @@
           "enabled": true
         },
         {
-          "id": "theverge",
-          "name": "TheVerge",
+          "id": "ithome",
+          "name": "IT之家",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "engadget",
-          "name": "Engadget",
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -632,6 +2300,252 @@
       ],
       "sources": [
         {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
           "id": "ithome",
           "name": "IT之家",
           "type": "search",
@@ -644,32 +2558,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -695,38 +2627,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -737,14 +2651,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -757,6 +2869,66 @@
         {
           "id": "leikeji",
           "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -782,38 +2954,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -824,14 +2978,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -844,6 +3196,66 @@
         {
           "id": "leikeji",
           "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ithome",
+          "name": "IT之家",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -870,38 +3282,20 @@
       ],
       "sources": [
         {
-          "id": "ithome",
-          "name": "IT之家",
+          "id": "netease-tech",
+          "name": "网易科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "zol",
-          "name": "中关村在线",
+          "id": "jiemian",
+          "name": "界面新闻",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "cnbeta",
-          "name": "cnBeta",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sohu",
-          "name": "搜狐",
-          "type": "search",
-          "enabled": true
-        },
-        {
-          "id": "sina",
-          "name": "新浪",
+          "id": "huxiu",
+          "name": "虎嗅",
           "type": "search",
           "enabled": true
         },
@@ -912,14 +3306,212 @@
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "tmtpost",
+          "name": "钛媒体",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
           "type": "search",
           "enabled": true
         },
@@ -936,14 +3528,62 @@
           "enabled": true
         },
         {
-          "id": "theverge",
-          "name": "TheVerge",
+          "id": "ithome",
+          "name": "IT之家",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "engadget",
-          "name": "Engadget",
+          "id": "zol",
+          "name": "中关村在线",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnbeta",
+          "name": "cnBeta",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-tech",
+          "name": "新浪科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sohu-tech",
+          "name": "搜狐科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -960,15 +3600,262 @@
       "name": "监控摄像",
       "icon": "📹",
       "keywords": [
-        "无线免流监控",
-        "无线免流摄像",
+        "监控摄像",
+        "摄像头",
+        "监控摄像头",
+        "无线监控",
         "太阳能监控",
-        "太阳能摄像",
         "智能监控",
         "安防摄像",
         "家用监控"
       ],
       "sources": [
+        {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
         {
           "id": "ithome",
           "name": "IT之家",
@@ -982,32 +3869,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "cls",
+          "name": "财联社",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "sina-finance",
+          "name": "新浪财经",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pchouse",
+          "name": "太平洋电脑网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "china",
+          "name": "中国新闻网科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -1024,14 +3929,260 @@
       "name": "音箱",
       "icon": "🔊",
       "keywords": [
-        "艺术音箱",
-        "AI智能音箱",
+        "音箱",
+        "音响",
         "蓝牙音箱",
-        "智能家居音箱",
+        "智能音箱",
         "HiFi音箱",
         "桌面音箱"
       ],
       "sources": [
+        {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
         {
           "id": "ithome",
           "name": "IT之家",
@@ -1045,56 +4196,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "36kr",
-          "name": "36氪",
+          "id": "cls",
+          "name": "财联社",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "sina-finance",
+          "name": "新浪财经",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pchouse",
+          "name": "太平洋电脑网",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "ifanr",
-          "name": "爱范儿",
+          "id": "china",
+          "name": "中国新闻网科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "leikeji",
-          "name": "雷科技",
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }
@@ -1111,6 +4256,7 @@
       "name": "磁吸配件",
       "icon": "🧲",
       "keywords": [
+        "磁吸",
         "磁吸配件",
         "磁吸充电",
         "MagSafe",
@@ -1119,6 +4265,252 @@
         "磁吸车载"
       ],
       "sources": [
+        {
+          "id": "netease-tech",
+          "name": "网易科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiemian",
+          "name": "界面新闻",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "huxiu",
+          "name": "虎嗅",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "36kr",
+          "name": "36氪",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tmtpost",
+          "name": "钛媒体",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pingwest",
+          "name": "品玩",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "geekpark",
+          "name": "极客公园",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dsb",
+          "name": "电商报",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ebrun",
+          "name": "亿邦动力",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "txws",
+          "name": "天下网商",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leiphone",
+          "name": "雷峰网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "aiera",
+          "name": "新智元",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "mydrivers",
+          "name": "快科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pconline",
+          "name": "太平洋科技",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "pcpop",
+          "name": "泡泡网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "dgtle",
+          "name": "数码尾巴",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "feng",
+          "name": "威锋网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "laoyaoba",
+          "name": "集微网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "semiinsights",
+          "name": "半导体行业观察",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "xinzhidx",
+          "name": "芯东西",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eefocus",
+          "name": "与非网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "elecfans",
+          "name": "电子发烧友网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "21ic",
+          "name": "21ic电子网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eeworld",
+          "name": "EEWorld",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "eet-china",
+          "name": "EE Times China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ednchina",
+          "name": "EDN China",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ofweek-ee",
+          "name": "OFweek电子工程网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "c114",
+          "name": "C114通信网",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "icsmart",
+          "name": "芯智讯",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "theverge",
+          "name": "The Verge",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "engadget",
+          "name": "Engadget",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "cnet",
+          "name": "CNET",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "tomshardware",
+          "name": "Tom's Hardware",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "arstechnica",
+          "name": "Ars Technica",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "wired",
+          "name": "Wired",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "verge-ai",
+          "name": "The Verge AI",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "ifanr",
+          "name": "爱范儿",
+          "type": "search",
+          "enabled": true
+        },
+        {
+          "id": "leikeji",
+          "name": "雷科技",
+          "type": "search",
+          "enabled": true
+        },
         {
           "id": "ithome",
           "name": "IT之家",
@@ -1132,56 +4524,50 @@
           "enabled": true
         },
         {
-          "id": "pconline",
-          "name": "太平洋电脑",
-          "type": "search",
-          "enabled": true
-        },
-        {
           "id": "cnbeta",
           "name": "cnBeta",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sohu",
-          "name": "搜狐",
+          "id": "sina-tech",
+          "name": "新浪科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sina",
-          "name": "新浪",
+          "id": "sohu-tech",
+          "name": "搜狐科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "36kr",
-          "name": "36氪",
+          "id": "cls",
+          "name": "财联社",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "bing-news",
-          "name": "必应新闻",
+          "id": "sina-finance",
+          "name": "新浪财经",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "sogou-weixin",
-          "name": "搜狗微信",
+          "id": "pchouse",
+          "name": "太平洋电脑网",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "ifanr",
-          "name": "爱范儿",
+          "id": "china",
+          "name": "中国新闻网科技",
           "type": "search",
           "enabled": true
         },
         {
-          "id": "leikeji",
-          "name": "雷科技",
+          "id": "aipu",
+          "name": "爱普",
           "type": "search",
           "enabled": true
         }

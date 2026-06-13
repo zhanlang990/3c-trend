@@ -169,7 +169,7 @@ class SogouWeixinFetcher(BaseFetcher):
             "date": date_str,
             "_publish_dt": dt_obj,
             "summary": summary,
-            "source": self.name,
+            "source": account or self.name,
             "account": account,
             "matched_keywords": [keyword],
         }
