@@ -4,22 +4,12 @@
   var DATA_URL = "./data/news.json";
   var CATEGORIES_URL = "./data/categories.json";
 
-  // Stopwords (Chinese common words) to filter out from keyword stats
-  var STOPWORDS = {
-    "我们": 1, "你们": 1, "他们": 1, "什么": 1, "怎么": 1, "为什么": 1,
-    "以及": 1, "通过": 1, "可以": 1, "已经": 1, "正在": 1, "成为": 1,
-    "进入": 1, "增长": 1, "同比": 1, "环比": 1, "实现": 1, "用户": 1,
-    "提供": 1, "需求": 1, "数据": 1, "公司": 1, "企业": 1, "产品": 1,
-    "市场": 1, "行业": 1, "中国": 1, "国内": 1, "全国": 1, "国家": 1,
-    "包括": 1, "采用": 1, "支持": 1, "提升": 1, "继续": 1, "目前": 1,
-    "今年": 1, "今日": 1, "本次": 1, "本届": 1, "近日": 1, "日前": 1,
-    "记者": 1, "报道": 1, "报告": 1, "消息": 1, "显示": 1, "表示": 1
-  };
+  // Keyword stats no longer rendered on front-end (removed per user request)
 
   var FEEDBACK_KEY = "safebox_feedback_v1";
   var HIDDEN_KEY = "safebox_hidden_v1";
 
-  var CATEGORIES = ["公司财报", "行业报告", "媒体新闻", "招标信息"];
+  // Info types no longer rendered on front-end (removed per user request)
 
   var state = {
     all: [],
@@ -318,8 +308,6 @@
         state.category = "";
         var catItems = getItemsForCat(state.catId);
         renderFilter(uniqueSources(catItems));
-        renderKeywordFilter(computeTopKeywords(catItems, 20));
-        renderCategoryFilter(uniqueCategories(catItems));
         applyFilters();
       });
     });
@@ -551,8 +539,6 @@
     }
     initCategoryTabs();
     renderStats(data || {});
-    renderCategoryFilter(uniqueCategories(items));
-    renderKeywordFilter(computeTopKeywords(items, 20));
     renderFilter(uniqueSources(items));
     applyFilters();
     $search.addEventListener("input", function () {

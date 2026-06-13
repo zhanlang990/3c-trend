@@ -26,82 +26,77 @@ _A_TAG = re.compile(
 
 
 # Default search URL templates for known source ids
-# Updated 2026-06: verified all sources, use bing site: fallback for JS-rendered sites
+# Updated 2026-06: Bing search no longer returns results via HTTP (JS-rendered).
+# Switched to Sogou News search which reliably returns article titles via plain HTTP.
 DEFAULT_SEARCH_URLS = {
-    # --- General search engines (high reliability) ---
-    "bing": "https://cn.bing.com/search?q={keyword}",
-    "bing-news": "https://cn.bing.com/news/search?q={keyword}",
+    # --- Primary search engines (verified working 2026-06) ---
     "sogou-news": "https://news.sogou.com/news?query={keyword}",
     "sogou-weixin": "https://weixin.sogou.com/weixin?type=2&query={keyword}",
     # --- Direct search (verified working with dates 2026-06) ---
     "ifanr": "https://www.ifanr.com/?s={keyword}",
-    # --- Bing keyword search fallback (site: operator ignored by Bing in programmatic requests, verified 2026-06) ---
-    # Using "domain+keyword" format instead of "site:domain+keyword"
-    "ithome": "https://cn.bing.com/search?q=ithome.com+{keyword}",
-    "zol": "https://cn.bing.com/search?q=zol.com.cn+{keyword}",
-    "pconline": "https://cn.bing.com/search?q=pconline.com.cn+{keyword}",
-    "cnbeta": "https://cn.bing.com/search?q=cnbeta.com+{keyword}",
-    "geekpark": "https://cn.bing.com/search?q=geekpark.net+{keyword}",
-    "sohu": "https://cn.bing.com/search?q=sohu.com+{keyword}",
-    "sina": "https://cn.bing.com/search?q=sina.com.cn+{keyword}",
-    "36kr": "https://cn.bing.com/search?q=36kr.com+{keyword}",
-    "sspai": "https://cn.bing.com/search?q=sspai.com+{keyword}",
-    "chongdantou": "https://cn.bing.com/search?q=chongdantou.com+{keyword}",
-    "notebookcheck": "https://cn.bing.com/search?q=notebookcheck.net+{keyword}",
-    "feng": "https://cn.bing.com/search?q=feng.com+{keyword}",
-    "zealer": "https://cn.bing.com/search?q=zealer.com+{keyword}",
-    # --- Direct-search sites without dates on search page → Bing keyword fallback ---
-    # Use domain name with TLD for better precision
-    "leikeji": "https://cn.bing.com/search?q=雷科技+leikeji.com+{keyword}",
-    "theverge": "https://cn.bing.com/search?q=theverge.com+{keyword}",
-    "engadget": "https://cn.bing.com/search?q=engadget.com+{keyword}",
-    "cnet": "https://cn.bing.com/search?q=cnet.com+{keyword}",
-    "tomshardware": "https://cn.bing.com/search?q=tomshardware.com+{keyword}",
-    "androidauthority": "https://cn.bing.com/search?q=androidauthority.com+{keyword}",
-    # --- Legacy financial sources (Bing keyword fallback) ---
-    "cls": "https://cn.bing.com/search?q=cls.cn+{keyword}",
-    "sina-finance": "https://cn.bing.com/search?q=sina.com.cn+finance+{keyword}",
-    "netease": "https://cn.bing.com/search?q=163.com+{keyword}",
-    # --- Bing keyword fallback for sources without direct search ---
-    "netease-tech": "https://cn.bing.com/search?q=163.com+tech+{keyword}",
-    "jiemian": "https://cn.bing.com/search?q=jiemian.com+{keyword}",
-    "huxiu": "https://cn.bing.com/search?q=huxiu.com+{keyword}",
-    "tmtpost": "https://cn.bing.com/search?q=tmtpost.com+{keyword}",
-    "pingwest": "https://cn.bing.com/search?q=pingwest.com+{keyword}",
-    "dsb": "https://cn.bing.com/search?q=dsb.cn+{keyword}",
-    "ebrun": "https://cn.bing.com/search?q=ebrun.com+{keyword}",
-    "txws": "https://cn.bing.com/search?q=tianxiawangshang.com+{keyword}",
-    "leiphone": "https://cn.bing.com/search?q=leiphone.com+{keyword}",
-    "qbitai": "https://cn.bing.com/search?q=qbitai.com+{keyword}",
-    "jiqizhixin": "https://cn.bing.com/search?q=机器之心+jiqizhixin.com+{keyword}",
-    "aiera": "https://cn.bing.com/search?q=aiera.com.cn+{keyword}",
-    "mydrivers": "https://cn.bing.com/search?q=mydrivers.com+{keyword}",
-    "pcpop": "https://cn.bing.com/search?q=pcpop.com+{keyword}",
-    "dgtle": "https://cn.bing.com/search?q=dgtle.com+{keyword}",
-    "laoyaoba": "https://cn.bing.com/search?q=laoyaoba.com+{keyword}",
-    "semiinsights": "https://cn.bing.com/search?q=semiinsights.com+{keyword}",
-    "xinzhidx": "https://cn.bing.com/search?q=xinzhidx.com+{keyword}",
-    "eefocus": "https://cn.bing.com/search?q=eefocus.com+{keyword}",
-    "elecfans": "https://cn.bing.com/search?q=elecfans.com+{keyword}",
-    "21ic": "https://cn.bing.com/search?q=21ic.com+{keyword}",
-    "eeworld": "https://cn.bing.com/search?q=eeworld.com.cn+{keyword}",
-    "eet-china": "https://cn.bing.com/search?q=eet-china.com+{keyword}",
-    "ednchina": "https://cn.bing.com/search?q=ednchina.com+{keyword}",
-    "ofweek-ee": "https://cn.bing.com/search?q=ofweek.com+{keyword}",
-    "c114": "https://cn.bing.com/search?q=c114.com.cn+{keyword}",
-    "icsmart": "https://cn.bing.com/search?q=icsmart.cn+{keyword}",
-    "sina-tech": "https://cn.bing.com/search?q=sina.com.cn+tech+{keyword}",
-    "sohu-tech": "https://cn.bing.com/search?q=sohu.com+tech+{keyword}",
-    # --- Overseas sources (Bing keyword fallback) ---
-    "arstechnica": "https://cn.bing.com/search?q=arstechnica.com+{keyword}",
-    "techcrunch": "https://cn.bing.com/search?q=techcrunch.com+{keyword}",
-    "wired": "https://cn.bing.com/search?q=wired.com+{keyword}",
-    "verge-ai": "https://cn.bing.com/search?q=theverge.com+AI+{keyword}",
-    # --- Additional Bing keyword fallback ---
-    "pchouse": "https://cn.bing.com/search?q=pchouse.com.cn+{keyword}",
-    "china": "https://cn.bing.com/search?q=chinanews.com.cn+{keyword}",
-    "aipu": "https://cn.bing.com/search?q=aipu.com+{keyword}",
-    # --- Disabled (removed eastmoney - returns nav links, chinairn - returns ads) ---
+    # --- All other sources: use Sogou News search (plain keyword) ---
+    # Sogou News aggregates articles from all major media, so domain-specific
+    # search is unnecessary. Each source will contribute via Sogou's index.
+    "bing": "https://news.sogou.com/news?query={keyword}",
+    "bing-news": "https://news.sogou.com/news?query={keyword}",
+    "ithome": "https://news.sogou.com/news?query={keyword}",
+    "zol": "https://news.sogou.com/news?query={keyword}",
+    "pconline": "https://news.sogou.com/news?query={keyword}",
+    "cnbeta": "https://news.sogou.com/news?query={keyword}",
+    "geekpark": "https://news.sogou.com/news?query={keyword}",
+    "sohu": "https://news.sogou.com/news?query={keyword}",
+    "sina": "https://news.sogou.com/news?query={keyword}",
+   "36kr": "https://news.sogou.com/news?query={keyword}",
+    "sspai": "https://news.sogou.com/news?query={keyword}",
+    "chongdantou": "https://news.sogou.com/news?query={keyword}",
+    "notebookcheck": "https://news.sogou.com/news?query={keyword}",
+    "feng": "https://news.sogou.com/news?query={keyword}",
+    "zealer": "https://news.sogou.com/news?query={keyword}",
+    "leikeji": "https://news.sogou.com/news?query={keyword}",
+    "theverge": "https://news.sogou.com/news?query={keyword}",
+    "engadget": "https://news.sogou.com/news?query={keyword}",
+    "cnet": "https://news.sogou.com/news?query={keyword}",
+    "tomshardware": "https://news.sogou.com/news?query={keyword}",
+    "androidauthority": "https://news.sogou.com/news?query={keyword}",
+    "cls": "https://news.sogou.com/news?query={keyword}",
+    "sina-finance": "https://news.sogou.com/news?query={keyword}",
+    "netease": "https://news.sogou.com/news?query={keyword}",
+    "netease-tech": "https://news.sogou.com/news?query={keyword}",
+    "jiemian": "https://news.sogou.com/news?query={keyword}",
+    "huxiu": "https://news.sogou.com/news?query={keyword}",
+    "tmtpost": "https://news.sogou.com/news?query={keyword}",
+    "pingwest": "https://news.sogou.com/news?query={keyword}",
+    "dsb": "https://news.sogou.com/news?query={keyword}",
+    "ebrun": "https://news.sogou.com/news?query={keyword}",
+    "txws": "https://news.sogou.com/news?query={keyword}",
+    "leiphone": "https://news.sogou.com/news?query={keyword}",
+    "qbitai": "https://news.sogou.com/news?query={keyword}",
+    "jiqizhixin": "https://news.sogou.com/news?query={keyword}",
+    "aiera": "https://news.sogou.com/news?query={keyword}",
+    "mydrivers": "https://news.sogou.com/news?query={keyword}",
+    "pcpop": "https://news.sogou.com/news?query={keyword}",
+    "dgtle": "https://news.sogou.com/news?query={keyword}",
+    "laoyaoba": "https://news.sogou.com/news?query={keyword}",
+    "semiinsights": "https://news.sogou.com/news?query={keyword}",
+    "xinzhidx": "https://news.sogou.com/news?query={keyword}",
+    "eefocus": "https://news.sogou.com/news?query={keyword}",
+    "elecfans": "https://news.sogou.com/news?query={keyword}",
+    "21ic": "https://news.sogou.com/news?query={keyword}",
+    "eeworld": "https://news.sogou.com/news?query={keyword}",
+    "eet-china": "https://news.sogou.com/news?query={keyword}",
+    "ednchina": "https://news.sogou.com/news?query={keyword}",
+    "ofweek-ee": "https://news.sogou.com/news?query={keyword}",
+    "c114": "https://news.sogou.com/news?query={keyword}",
+    "icsmart": "https://news.sogou.com/news?query={keyword}",
+    "sina-tech": "https://news.sogou.com/news?query={keyword}",
+    "sohu-tech": "https://news.sogou.com/news?query={keyword}",
+    "arstechnica": "https://news.sogou.com/news?query={keyword}",
+    "techcrunch": "https://news.sogou.com/news?query={keyword}",
+    "wired": "https://news.sogou.com/news?query={keyword}",
+    "verge-ai": "https://news.sogou.com/news?query={keyword}",
+    "pchouse": "https://news.sogou.com/news?query={keyword}",
+    "china": "https://news.sogou.com/news?query={keyword}",
+    "aipu": "https://news.sogou.com/news?query={keyword}",
 }
 
 
@@ -131,7 +126,7 @@ class GenericSearchFetcher(BaseFetcher):
 
         url_targets = []
         if "{keyword}" in tpl:
-            for kw in keywords[:3]:  # cap keywords to avoid heavy traffic
+            for kw in keywords[:5]:  # search up to 5 keywords
                 url_targets.append((self.build_search_url(tpl, kw), kw))
         else:
             url_targets.append((tpl, ""))
@@ -141,6 +136,9 @@ class GenericSearchFetcher(BaseFetcher):
                 html = self.http_get(target)
             except Exception:
                 continue
+            # Extra delay between keyword searches to avoid rate limiting
+            import time
+            time.sleep(1.0)
             # find anchors
             for m in _A_TAG.finditer(html):
                 href, inner = m.group(1), m.group(2)

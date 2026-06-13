@@ -80,13 +80,17 @@ class SogouWeixinFetcher(BaseFetcher):
         seen_urls = set()
         cutoff = datetime.datetime.now() - datetime.timedelta(days=self.MAX_DAYS)
 
-        for kw in keywords[:3]:
+        for kw in keywords[:5]:
             url = self.build_search_url(SOGOU_WEIXIN_URL, kw)
             try:
                 html = self.http_get(url, referer="https://weixin.sogou.com/")
             except Exception as e:
                 log.debug("[sogou-weixin] http_get failed for %s: %s", kw, e)
                 continue
+
+            # Extra delay between keyword searches to avoid rate limiting
+            import time
+            time.sleep(1.0)
 
             # Split HTML into result blocks by <div class="txt-box">
             blocks = re.split(r'<div class="txt-box"', html)

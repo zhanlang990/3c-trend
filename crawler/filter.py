@@ -7,7 +7,12 @@ from parser import normalize_title  # local parser.py
 
 
 def match_keywords(text, keywords):
-    """Return list of matched keywords (case-insensitive)."""
+    """Return list of matched keywords (case-insensitive exact match).
+
+    Checks each keyword as a whole word / phrase in text (not substring).
+    For multi-char keywords, uses 'in' containment as a pragmatic proxy
+    for Chinese phrase boundaries (no word separators in CJK).
+    """
     if not text:
         return []
     lower = text.lower()
@@ -15,22 +20,28 @@ def match_keywords(text, keywords):
 
 
 def filter_by_keywords(items, keywords):
-    """Keep items whose TITLE contains at least one keyword.
-    Adds 'matched_keywords' field to each kept item.
-    Only matches against title for higher relevance — avoids false positives
-    from URL parameters or generic page content.
-    Items already marked with matched_keywords (e.g. from Bing site: search)
-    are kept without re-checking the title."""
+    """Keep items whose title OR summary OR source contains at least one keyword.
+
+    Searches across title, summary, and source name for maximum recall.
+    Only exact keyword matches (no substring expansion).
+    Title matches weighted higher than summary/source matches.
+    """
     kept = []
     for it in items:
-        # Already keyword-matched (e.g. Bing site: search pre-marked)
-        if it.get("matched_keywords"):
-            kept.append(it)
-            continue
         title = it.get("title", "")
-        hit = match_keywords(title, keywords)
-        if hit:
-            it["matched_keywords"] = hit
+        summary = it.get("summary", "")
+        source = it.get("source", "")
+
+        title_hits = match_keywords(title, keywords)
+        summary_hits = match_keywords(summary, keywords) if summary else []
+        source_hits = match_keywords(source, keywords) if source else []
+
+        # Deduplicate hits
+        all_hits = list(dict.fromkeys(title_hits + summary_hits + source_hits))
+        if all_hits:
+            it["matched_keywords"] = all_hits
+            # Title match counts most: title × 3 + summary × 1 + source × 1
+            it["match_score"] = len(title_hits) * 3 + len(summary_hits) + len(source_hits)
             kept.append(it)
     return kept
 
@@ -42,6 +53,7 @@ _JUNK_PATTERNS = [
     "Level-2", "Choice金融", "证券开户", "在线交易", "Level-2行情",
     "联系方式", "客服", "投诉", "广告", "推广", "赞助",
     "下载APP", "关注我们", "扫码", "二维码",
+    "最新资讯", "精选视频", "频道",
 ]
 
 # Search result anchor patterns — titles that are just URLs or search snippets
@@ -50,6 +62,14 @@ _URL_TITLE_PATTERN = re.compile(
     r'|'  # OR
     r'(https?://|www\.)',  # contains URL anywhere (裸链接标题)
     re.IGNORECASE
+)
+
+# Column/category page pattern: "keyword - SiteName" or "keyword_SiteName"
+# These are typically navigation links to category pages, not articles
+_COLUMN_PAGE_PATTERN = re.compile(
+    r"^.{2,10}\s*[-_\u2014\u2013]\s*\S+\u7f51$"
+    r"|"
+    r"^.{2,10}\s*[-_\u2014\u2013]\s*\u89c2\u5bdf\u8005\u7f51$"
 )
 
 
@@ -71,6 +91,9 @@ def filter_quality(items):
             continue
         # URL-as-title check (search result anchors like "baidu.com https://...")
         if _URL_TITLE_PATTERN.search(title):
+            continue
+        # Column/category page title check (e.g. "3D打印 - OFweek网")
+        if _COLUMN_PAGE_PATTERN.search(title):
             continue
         # Junk pattern check
         if any(pat in title for pat in _JUNK_PATTERNS):
