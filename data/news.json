@@ -1,61 +1,224 @@
 {
-  "generated_at": "2026-06-19 13:11:10",
-  "total": 34,
+  "generated_at": "2026-06-20 10:29:58",
+  "total": 73,
   "source_count": 12,
   "items": [
     {
-      "title": "3D打印的体面,被第一股亲手撕碎",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJV0YQOwLzYGQ71LyAIUP0L1VqXa8Fplpd9x7G6wYOcFJokLhFTNUd05acekj7j9eJY3IMxJQb3V4HXyUmWbDzr1TuUoT4B_D6mULKwRv9RINQftwCfokmQ7A_AsxTKe3IhHbXA0BVZZ_WwqR3SvMFgB9has9AR6HGETEPxv_5XwCAQjOB5CsdyoKkoxbakBWcP9yQnmWqzWqbvzHZXxeLdyg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=A6DCC417A0CAD44D787F2CE29B4D1F8979D3B4986A353D89",
-      "source": "亿欧网",
+      "title": "用3D打印自制的上下双面字体?!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd90IgDoLszEAyRSVztljcWdiRbLnmwSpQ0fhCAk49E6q4MvWdn9_wVkBia5N486YDrM_aKj_iLTig8pkdSo24JWLBBpZPqElTziPs6OKt2bE8YNGIkOOdkBENzYshkXgG5dcw1fMeTNM0V53FgDQ_LcFtDZY935oaqlWIwB6w99U8CYioxHkzTmA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "嘉立创3D打印视界",
       "sources": [
-        "亿欧网"
+        "嘉立创3D打印视界"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "这家消费级3D打印企业成立于2020年,短短6年估值已超过400亿元.据多家媒体报道,拓竹2024年营收约55亿至60亿元,净利润接...",
+      "summary": "一个3D模型正着看是上字换个角度看......哎,变下字了这其实是3D打印出来的双面字体 加工服务:嘉立创3D打印复刻材料:...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "拓竹2024年营收约55-60亿元，净利润可观，消费级3D打印企业估值超400亿元。",
-      "opportunity_insight": "消费级3D打印市场高速增长，龙头企业盈利能力强，表明大众需求爆发，是布局高性价比产品的良机。",
-      "procurement_insight": "优先引入拓竹等头部品牌，聚焦千元级易用机型，联合厂商推出京东专供套装，抢占家庭和创客市场。"
+      "info_brief": "用户用嘉立创3D打印服务自制双面字体模型，正反看呈现不同字。",
+      "opportunity_insight": "个性化定制和创意玩具市场增长，3D打印服务可满足小众、趣味性需求，吸引DIY爱好者。",
+      "procurement_insight": "引入嘉立创等3D打印服务商合作，推出创意模型定制专区，利用社交平台推广，提升用户粘性。"
     },
     {
-      "title": "借钱创业的深圳4人组,用一台3D打印机横扫全球",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVCel6PLuNxsD1LyAIUP0L1VqXa8Fplpd97K1iObQBbuO-DRwpqZo6wGJb2du0gQjaJzf7Wq-4j7kOT-u6xjLt4awWawDqZXo7byXLiMmLVek6XwBp50B9RoJt3Me8xCqbDwfDmv750ix0A1-lKdgbFSRyjLtSjKmn7Tvx_N5imlvQkgOTHP5n4_V01rfC82jNN_3me-5dzbFQ_LeJW-Rhtg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=A6DCDC90513525BC8781DC1D65F7E8A7880AB2B66A353D8C",
-      "source": "正解局",
+      "title": "Firestorm里程碑式突破-上舰3D打印无人机",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9qvMbY8U9RwEQzEn_ogYK9ZrRqj17aD0jFMWibDYXLM1Q6DS0OqLaeXYkr_E6N_5rjjI7MBWshF7aApXhZJHQAk-72Y_VgsNNqIyOLEuR-fjfUm5VHdj8Nap9LsiDAZsObC58MVadJ8q58QBr2FRti6Ug5GdhcWnoawYKq1uQUsqFW6cwuUnkdA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "看炸机",
       "sources": [
-        "正解局"
+        "看炸机"
       ],
-      "publish_date": "2026-06-13",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "但是一台桌面3D打印机动辄几万块钱,而且还要自己组装,操作起来也是堪比地狱级乐高一样繁琐.能不能把它做得既便宜又好...",
+      "summary": "Firestorm已实现里程碑式突破,在海上、在途中打印无人机和零件.这是xCell 3D打印机有史以来第一次海上制造演示,在埃塞克斯号...",
       "matched_keywords": [
-        "3D打印机"
+        "3D打印"
       ],
-      "info_brief": "深圳四人创业团队研发便宜易用的桌面3D打印机，解决传统产品价格高、组装难问题，目标全球市场。",
-      "opportunity_insight": "低价易用型3D打印机填补市场空白，可吸引教育、DIY用户，降低入门门槛，扩大用户基数。",
-      "procurement_insight": "主动联系该团队合作，争取首发或独家销售权；策划“开箱即用”主题促销，搭配耗材套餐提升客单价。"
+      "info_brief": "Firestorm在海上成功演示3D打印无人机和零件，实现里程碑式突破。",
+      "opportunity_insight": "军事和工业领域对快速制造和远程补给需求大，3D打印无人机可降低物流成本，提升响应速度。",
+      "procurement_insight": "关注军用和工业级3D打印技术，与Firestorm等企业合作，探索无人机零件供应链优化方案。"
     },
     {
-      "title": "cnc加工订单哪里找",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJV_2xoLFyVXIn1LyAIUP0L1VqXa8Fplpd95PrxuPpzF6qrkKNXaaNZnwJDie5msxEJ_3ze4z_f6az9oJW0tD9iSvXCv3wU6TkpXdTEIRztYbG-H3xwlSrLGssPSrK04RpULCDnSQOWzDvqb7C0ONUhKZYdOfanx73tGHwQ4D3eqXYrmVoGuYybpOD_S6mapCFan12edw7Oz7Q89kyxDwoXvg..&amp;type=2&amp;query=CNC%E5%8A%A0%E5%B7%A5&amp;token=A6DF217109637DE5D1D7844A39A2A148D18B5C9A6A353DF1",
-      "source": "青少年健康服务",
+      "title": "洛克希德&middot;马丁新型无人机原型采用3D打印方案",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9qvMbY8U9RwEQzEn_ogYK9ZrRqj17aD0jFMWibDYXLM1Q6DS0OqLaeY2pHVqKZqE9fGIjnC3PhB_Er12-ZmN042PAkEEOAsL3EXiNlOelYM2cF0clu6k4Zqn-mzm3uyffFPB17POwbN7TfNJ_C8vOtTNzp20X65cvI6dw0NzE__irCDCayYmfpA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "看炸机",
       "sources": [
-        "青少年健康服务"
+        "看炸机"
       ],
-      "publish_date": "2026-06-17",
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "这是一种可缩短建造周期的增材制造(3D 打印)解决方案.该工具将工程设计、结构分析、制造和质量验证整合到一个统一的数字环...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "洛克希德·马丁新型无人机原型采用3D打印方案，整合设计、制造和质量验证。",
+      "opportunity_insight": "高端制造业对增材制造需求增长，3D打印可缩短研发周期，降低原型成本，提升竞争力。",
+      "procurement_insight": "与航空航天企业合作，引入3D打印原型服务，为B端客户提供快速迭代解决方案，拓展高端市场。"
+    },
+    {
+      "title": "重磅官宣|全球3D打印龙头创想三维,正式入驻南京!双店7月启幕",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd94CuUXGT8YhBJb7IqK5nD2wrvRijrXlS4mw6GCNkiSQNrX8JxLi0Tyvs9gc1unJ0eXukxhkhobPsfZ9Kp2yer6D6lszbUpOdo91D1AKSqWUMZ4SR4Cf_nDDjwuoZIPaKam4IakBWG4yZmafe0kkDWBM9WgZSApXTFrj9TYTgtUj7Yl_Q5RRZQjg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "创想三维南京3D创意中心",
+      "sources": [
+        "创想三维南京3D创意中心"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "是全球消费级3D打印生态领创者,国家专精特新小巨人企业、GEI中国独角兽企业,全球3D打印机销售榜前列.十二年步履不停...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "全球3D打印龙头创想三维入驻南京，双店7月启幕，定位消费级市场。",
+      "opportunity_insight": "消费级3D打印市场快速扩张，线下体验店可降低用户门槛，推动家庭和教育场景普及。",
+      "procurement_insight": "与创想三维合作开设体验店，提供设备试用和培训，结合线上促销，抢占消费级市场份额。"
+    },
+    {
+      "title": "把热爱具象化|3D打印追星名牌定制",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9UTVPn3Y8SSlRtYuH_kEn40lawZPZB1HOMYsJo_vdrm4IW74nIDyeemTnzVOtiw_xM9vlStP3P4Rbw--aePjS1GHpPTCvFFG8sg9wXKqAuEAgprU-78bTO3mQ93RjrU8BWypcFdceaFrTvZ4tvdWbpMVZLijmsEviYa6t440MrxDm0CtGSSkZQQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "笔仙竹梦",
+      "sources": [
+        "笔仙竹梦"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "这款3D打印专属追星名牌,支持私人定制,把自担名字、心动歌词、专属暗号做成独属于你的追星小浪漫一、全程私人定制,小众不...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印追星名牌支持私人定制，满足粉丝个性化需求，主打小众浪漫。",
+      "opportunity_insight": "粉丝经济与个性化定制结合，3D打印可低成本生产小批量、高情感附加值产品，市场潜力大。",
+      "procurement_insight": "推出3D打印定制服务，与明星IP合作，开发追星周边，利用粉丝社群营销，提升复购率。"
+    },
+    {
+      "title": "AI配方+3D打印,每日营养补剂也可千人千方|未来AI+生活",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd90luQpZki_YEdoPL0nc6IDq6OFnpX5Ye088Wu9zT3kaQASCc8N6vinBI8qF_HgJhqdLHz7RlnIb4lUP32Dn7A4tvex-rzGm9Vu2ZydY06614d35DZYW9qehKQVykb5x8Mkz9fyhhYcXuMJUQ_epIbBChiC2XRWXXOWNjRXAlDPWBj3x9Nw6p-Fg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "蔚来资本",
+      "sources": [
+        "蔚来资本"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "一直以来,标准化营养补充剂存在着千人一方的核心痛点,如今在 AI 生成配方以及 3D 打印技术的加持下,每个消费者都有望实现...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "AI配方结合3D打印技术，实现每日营养补剂的个性化定制，解决标准化产品千人一方的痛点。",
+      "opportunity_insight": "个性化健康市场潜力巨大，3D打印营养品可切入高端定制赛道，满足消费者对精准营养的需求。",
+      "procurement_insight": "关注AI配方与3D打印结合的健康设备供应商，提前布局个性化营养品类，与健康品牌合作开发定制化产品线。"
+    },
+    {
+      "title": "普通人最关心:3D打印建房比砖混贵吗?造型都能定制吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9W0XdAaovFfvVgqpLBc_VNrTdjOiIbVDCuqI0ZDPnYPHqbpL84bY5uLCrNSJfXjCIOefbPhoGV6-LQ1U8rCMmnpq1y6_WJm5Rt1tZJua0jVpuWU6KEtMy65H9gO07BEEcRyBjeLYKigmoEEmmv4S5CKfiUXLNMjWIoxI5-o6AsothlgeRt7bSzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "中科智造科技",
+      "sources": [
+        "中科智造科技"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "打算回老家建房的朋友,十有八九都刷到过3D打印装配式建房.颜值高、工期快、冬天保温、施工现场干净,优点很多,但大家心里...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印建房成本与砖混对比，造型可定制，工期快、保温好，但消费者关心价格和实用性。",
+      "opportunity_insight": "建筑3D打印市场处于早期，成本下降后有望替代传统建房，满足农村和个性化住宅需求。",
+      "procurement_insight": "关注3D打印建筑设备供应商，评估成本优势，与建材商合作推出试点项目，积累用户反馈。"
+    },
+    {
+      "title": "比亚迪斥资近亿元布局金属3D打印量产领域,三维造物行业将迎来新突破",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9T7O0wYpLL60lh9nUb5ULihD5RVp298RJNPANWlvvCsGh_8HNHMscw38315Eaub2bZ48BsOy6iJ2wuCP3ug4Dp6r04YUz_QPlazsEO9QvLIEZZ9Y5_9zxn6IxyDYQQND5uHf249axe9N1gtuxhHZJ7FQjiV49W6cBYJ0MihxFHRe00NVofL2iDw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "一江两岸都市圈",
+      "sources": [
+        "一江两岸都市圈"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "近日,比亚迪宣布在惠州大亚湾投资8880万元,建设金属3D打印增材制造项目.与以往的小规模试验性产线不同,此次项目从规划到...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "比亚迪投资8880万元建设金属3D打印量产项目，布局增材制造领域，推动行业突破。",
+      "opportunity_insight": "金属3D打印在汽车制造中应用前景广阔，可降低零部件成本，提升供应链效率，吸引工业级客户。",
+      "procurement_insight": "与比亚迪等企业合作，引入金属3D打印零部件，优化汽车配件供应链，推动工业级3D打印设备销售。"
+    },
+    {
+      "title": "3D打印鞋会是下一代运动鞋吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOnPa7mqXFPoNl-3MsDGB8lqXa8Fplpd9qtfJDaxKDpxkKtdRNb9LtcVunAuOJbdN40qbGfsJH2Cix0Cop75iD5RKmYDNNtfVnzmCGNy7uKoqh9XPWiob8MLhatxtpj6AnVf_n3uM9Isxk7lTHJqOWXOJ46eNSPZPzE1kdvYKEMFTH6KpZn-gIRmcV2Ii0B5OMHPA0CpkxepAe0f8bRARvQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=ADC6BE3B96A8E971444210E8FAE3666445CDD02F6A366942",
+      "source": "未来制造日记",
+      "sources": [
+        "未来制造日记"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "第一章:从橡胶到碳板,人类为什么一直在重新发明一双鞋很多人第一次看到3D打印鞋的时候,都会产生同一个疑问?为什么它看起...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印鞋作为新一代运动鞋，引发行业关注，探讨其设计创新和材料优势。",
+      "opportunity_insight": "运动鞋市场对轻量化和个性化需求增长，3D打印鞋可提供定制化舒适体验，抢占高端运动装备市场。",
+      "procurement_insight": "引入3D打印鞋品牌，与运动品牌合作推出限量定制款，利用京东3D打印专区推广，吸引科技爱好者。"
+    },
+    {
+      "title": "陕西：前五月经济平稳向好 工业生产稳定增长",
+      "url": "https://36kr.com/newsflashes/3860916355601415?f=rss",
+      "source": "36氪",
+      "sources": [
+        "36氪"
+      ],
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "想找CNC加工订单 其实有不少好办法 咱们可以从线上 线下和主动营销三个方面入手 一步步来 肯定能找到合适的订单 先来说说线上渠...",
+      "summary": "6月18日，陕西省统计局发布前5月经济运行情况：前5月，全省工业生产稳定增长，投资结构不断优化，消费市场保持增长，经济运行延续平稳向好发展态势。全省规模以上工业增加值同比增长4.9%。重点行业支撑有力，煤炭开采和洗选业增加值同比增长11.9%，化学原料和化学制品制造业增加值同比增长10.9%，石油和天然气开采业增加值同比增长7.7%，铁路、船舶、航空航天和其他运输设备制造业增加值同比增长18...",
       "matched_keywords": [
-        "CNC加工"
+        "制造业"
       ],
-      "info_brief": "CNC加工订单可通过线上、线下和主动营销三种渠道获取，提供具体方法。",
-      "opportunity_insight": "CNC加工需求分散，线上平台和主动营销可挖掘中小批量订单，市场潜力大，适合拓展非标定制业务。",
-      "procurement_insight": "建议京东3C数码采销与CNC加工平台合作，引入定制化服务，同时优化供应商筛选，提升非标件供应效率。"
+      "info_brief": "陕西前5月规模以上工业增加值同比增长4.9%，铁路、船舶、航空航天等运输设备制造业增长18%以上。",
+      "opportunity_insight": "陕西航空航天及运输设备制造业高速增长，带动相关工业设备及配件需求，为3C数码工业级产品提供市场机会。",
+      "procurement_insight": "关注陕西航空航天产业链企业，增加工业级3C数码设备（如高精度传感器、工业电脑）的采购储备，并提前对接本地供应商。"
+    },
+    {
+      "title": "谷歌前 CEO 施密特执掌的火箭公司获 NASA 青睐，2028 年征战火星",
+      "url": "https://www.ithome.com/0/966/526.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "IT之家 6 月 20 日消息，据外媒 The Verge 今天（20 日）报道，由谷歌前 CEO 埃里克 · 施密特领导的火箭公司 Relativity Space，获选在 2028 年执行美国国家航空航天局（NASA）Aeolus 载荷的火星发射任务。 根据双方达成的新公私合作计划，Relativity Space 将负责提供航天器、运载火箭以及飞往火星途中的巡航阶段运营。抵达火星后，A...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "谷歌前CEO施密特的Relativity Space获NASA合同，2028年执行火星发射任务。",
+      "opportunity_insight": "商业航天加速，带动高性能计算和通信设备需求，3C数码品类可拓展航天应用市场。",
+      "procurement_insight": "布局航天级SSD和嵌入式系统，与Relativity Space建立合作，提供定制化存储方案。"
+    },
+    {
+      "title": "“NAS 型迷你主机”铭凡 N5 MAX 发售：锐龙 AI Max+ 395、配 64G RAM + 128G SSD 售 16999 元",
+      "url": "https://www.ithome.com/0/966/481.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "IT之家 6 月 20 日消息，铭凡（Minisforum）旗下 N5 MAX 迷你主机现已在京东发售，该机搭载 AMD Ryzen AI Max+ 395 处理器，匹配 64GB RAM 和 128GB 存储空间， 定价为 16999 元 。 这款主机可同时安装 5 块 M.2 固态硬盘（总计 40TB）和 5 块机械硬盘（总计 150TB），整体存储规模最高可达 190TB。同时设备提供...",
+      "matched_keywords": [
+        "NAS",
+        "硬盘"
+      ],
+      "info_brief": "铭凡N5 MAX迷你主机发售，搭载锐龙AI Max+ 395，支持190TB存储，售价16999元。",
+      "opportunity_insight": "高存储容量迷你主机满足NAS需求，吸引家庭和小型企业用户，市场潜力大。",
+      "procurement_insight": "联合铭凡推出促销活动，强调存储扩展性，吸引数据密集型用户，提升高端品类销量。"
     },
     {
       "title": "NASA要求诺斯罗普·格鲁曼停止月球HALO模块工作",
@@ -71,13 +234,211 @@
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "NASA暂停诺斯罗普·格鲁曼的月球HALO模块工作，员工被重新分配。",
-      "opportunity_insight": "月球项目延迟可能影响太空探索硬件需求，但3D打印、高可靠性电子元件等替代技术或迎来市场机会。",
-      "procurement_insight": "关注太空级电子元件供应商，提前储备高可靠性存储和计算模块，以应对潜在订单转移或技术替代需求。"
+      "info_brief": "NASA暂停诺斯罗普·格鲁曼月球HALO模块工作，员工重新分配至其他项目。",
+      "opportunity_insight": "航天项目调整可能释放高端电子元器件需求，为3C数码供应商带来新订单机会。",
+      "procurement_insight": "关注航天级存储和计算模块供应链，提前与诺斯罗普等厂商沟通备货需求。"
     },
     {
-      "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
-      "url": "https://www.ifanr.com/1669287?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "title": "挪威小学新学期全面禁止使用生成式 AI 工具",
+      "url": "https://www.ithome.com/0/966/512.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "IT之家 6 月 20 日消息，科技媒体 The Decoder 昨日（6 月 19 日）发布博文，报道称挪威宣布将于 8 月下旬新学期开始，为保护儿童的基础学习能力， 在小学（1-7 年级，6-13 岁）全面禁止使用生成式 AI 工具。 IT之家援引博文介绍，挪威首相约纳斯 · 加尔 · 斯特勒（Jonas Gahr Støre）表示，学校最重要的任务是让孩子们学会阅读、写作和数学， 而无...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "挪威小学新学期全面禁止使用生成式AI工具，保护儿童基础学习能力。",
+      "opportunity_insight": "教育领域AI限制可能推动传统学习设备需求，如平板和电子纸产品。",
+      "procurement_insight": "推广无AI功能的教育平板和电子书，针对北欧市场推出合规学习设备。"
+    },
+    {
+      "title": "AI 智能眼镜|一周热点新闻(25周)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9wRg-c72bziGy6L1IzdYDcNB683AMrEOkuVWFxCOXNYhXK0ReoDcGWVBJ5adhqir94WtvP-E68pdjVyU0vKWjvptqV3mZsjgDbwhbFn6gQBKJpqUivm4AaMydDPbyt7V91Xr176hFY7O3RtgN7_sVhO3A2KN3fYToACwuB1ESSF0NGbbB75bUeA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "peterwen",
+      "sources": [
+        "peterwen"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "过去一周(2026年6月13日6月20日),AI智能眼镜呈现三线并进格局:新品持续发布(Snap、XREAL)、底层平台持续升级(...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "AI智能眼镜一周热点：新品发布（Snap、XREAL）、底层平台升级，三线并进格局。",
+      "opportunity_insight": "新品密集发布，市场活跃，可借势促销，重点推广Snap和XREAL等品牌。",
+      "procurement_insight": "快速上架Snap和XREAL新品，搭配平台升级配件，推出捆绑套餐吸引尝鲜用户。"
+    },
+    {
+      "title": "Meta智能眼镜悄悄装上人脸识别,你被看见时,可能再无匿名可言",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9M9I9DHngUuqSMCO4GsB-mTXNS7h0nyWPL06nd_NNzgJI123anUb-chcgkijYrcfkld_sEhz2mEyzbvHjKtggSEaxwK1SwpDpI12AQTrAE21NvsBSx12p_9LIVd1DDOj43rp59b_t8sJn0oUNY64mXGhv0E2buk2v2eD-KNiu5uBhlgeRt7bSzA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "企业安防智库",
+      "sources": [
+        "企业安防智库"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "科技圈被一则消息点燃了隐忧:Meta正在为其智能眼镜悄然加入面部识别代码. 尽管官方强调该功能尚未上线,但技术就位的本...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "Meta智能眼镜悄然加入人脸识别代码，虽未上线但引发隐私匿名性担忧。",
+      "opportunity_insight": "人脸识别功能若上线将引发隐私危机，但可推动无识别功能眼镜的替代需求。",
+      "procurement_insight": "避免采购含人脸识别功能的眼镜，主推无识别或可关闭识别的型号，强化隐私保护卖点。"
+    },
+    {
+      "title": "依视路陆逊梯卡携手京东、宝视达,智能眼镜一站式配镜时代来了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9uBQI5D2g8uxIuINh9UcfxQIVJk8RVufNDAOPEJxfGLVRAN82i3wJ6LziAAD61oiHYAGbK-1QYMfkM9hv76val58zFLJgT6qmhRC-6qk0ukHqdVVXWbqF8xnCb5IkfIotjRLCugZ-FfKYjTyaPPRuJzjgIg3vPATlJZBgICq2WsjS-e4Yz84xMA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "春......",
+      "sources": [
+        "春......"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "618大促前夕,智能眼镜行业迎来一次重磅合作.全球领先的视力保健与眼镜科技企业依视路陆逊梯卡,宣布与京东、眼镜连锁品牌宝...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "依视路陆逊梯卡与京东、宝视达合作，推动智能眼镜一站式配镜服务，618大促前布局。",
+      "opportunity_insight": "配镜服务整合降低用户门槛，可吸引近视用户群体，扩大智能眼镜市场渗透率。",
+      "procurement_insight": "与依视路等品牌合作，推出配镜套餐，在京东平台设立专属配镜入口，提升转化。"
+    },
+    {
+      "title": "买前必看!实测5款网上很火的智能眼镜,到底谁能取代手机?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9xDCYZp_45Qws-9FCHWZgj95iK_c9d1M6B6A7Abc_c2NHZRKT6nPr2IeVNSrbl4KLPSn5Tihi3Pg82s1dAc46aYb6pCHDhJrcTj-CjY9osSNUAHfa_DgNvy9g93xk-Hr-t3gDZ6wcNssKNNixedaphWryjve_6LbYlZwtkQXeUZrm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "给李小姐的999封情书",
+      "sources": [
+        "给李小姐的999封情书"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "随着轻量化AR、AI技术快速落地,智能眼镜不再是小众科技玩具,逐渐成为替代手机、实现随身观影、移动办公、智能交互的新晋数...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "实测5款热门智能眼镜，探讨其替代手机的可能性，强调轻量化AR和AI技术落地。",
+      "opportunity_insight": "用户对替代手机的需求强烈，可聚焦办公和观影场景，打造差异化卖点。",
+      "procurement_insight": "引入测评中表现优异的品牌，主推移动办公和观影功能，通过内容营销吸引科技用户。"
+    },
+    {
+      "title": "社会观察|智能眼镜:未来科技还是偷拍神器",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9ZWieVEi9v_HLn3oWgCOBEAvHTUMmf0BuYyRTW7gPEl4AFbhH6X5Youdyf1lAWi-WDUrmqio6FkdDegqjgzJjYtOA5wxTvQUq8GdRz8yhUIziVqMvrOBCrm-SZVnwA_-rQyClGra8B7jZukOazLp6D9VeQGXqFHvWWe0-YORLaUk6Ebq8fk9diw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "潘溪晓渡",
+      "sources": [
+        "潘溪晓渡"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "在智能穿戴设备飞速普及的今天,越来越多黑科技走进普通人的日常生活.原本用来解放双手、提升工作与出行效率的AI智能眼镜,本...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "社会观察讨论智能眼镜作为未来科技与偷拍工具的双重性，引发隐私担忧。",
+      "opportunity_insight": "隐私问题成用户顾虑，可推出隐私保护功能产品，抢占安全信任市场。",
+      "procurement_insight": "采购带隐私指示灯或防偷拍认证的智能眼镜，并联合厂商宣传安全特性。"
+    },
+    {
+      "title": "我们要的智能眼镜,是能解决近视,散光,偏光,远视,弱视,眼疲劳功能性智能眼镜企业产品报告-20260619",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9AWaWA_pN7dkuCyYnmenm9Ibz1aIAA_NCDQczBIkIME8jNy-29VBz7AGrkbD2RFmQxEB9CruWSMIdpjm9GRZCzHgWT7eJrBMZS7hTaO7i8yo-ERfjx2dvw2EMPXRubO2GHopGkbQrH3gColHk_KvD2WzfLKMFrtJieml3lgq8E2UHpHkoPMgL3A..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "软科学",
+      "sources": [
+        "软科学"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "功能性智能眼镜企业产品报告生成时间:2026年6月19日 | 全文 9565字报告说明:本报告检索全球范围内已推出产品或处于研发阶段的...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "功能性智能眼镜企业报告，聚焦解决近视、散光等视力问题，2026年6月发布。",
+      "opportunity_insight": "视力矫正需求庞大，功能性智能眼镜可切入医疗级市场，差异化竞争。",
+      "procurement_insight": "与视力矫正技术厂商合作，采购集成验光功能的智能眼镜，开设健康专区。"
+    },
+    {
+      "title": "智能眼镜拍摄,到底是偷拍还是侵权,说说你的看法.",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9sCLLEzbrbFeJyZcw951oLo6YvyH3tdehkyXk2wgNhbNhHn8ED_-LYyS5CecM8_8b_bGDOe_Z1O60EicPq_zgtJxRRwi1d0j0TlqfOJ82KYIfYUAw7SAp7PsVuhB35FCyUsf4SdHeJHDNrlhSJFDG_3kFp_lAtwrXBQDxwt3OYCuq3X8EKMKOIA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "微小人物看天下",
+      "sources": [
+        "微小人物看天下"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "近期关于人工智能眼镜偷拍的报道非常显眼.据说有个空姐被人拍摄并上传某平台.引起各大媒体镜像报道.有人说,这个不是偷拍,...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "智能眼镜拍摄引发偷拍争议，空姐被拍事件引媒体关注，隐私问题成焦点。",
+      "opportunity_insight": "隐私争议可能抑制消费需求，但合规产品可借机突出安全卖点，差异化竞争。",
+      "procurement_insight": "优先采购带隐私保护功能（如指示灯、录制提示）的眼镜，并加强合规宣传。"
+    },
+    {
+      "title": "智能眼镜iPhone时刻?2026年最强智能眼镜深度测评",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9cTVFXmhxViMOAErEd2Xb2dQ6u07zecL3H-jLvI4RJQ7z3npM2ahMHzvXa6ry_Z3eu5YN-1DT0owTRIwzLVPPDUgP8R4--1s1tH2R_d7ir0ppteabcQYwLbdYR4WIL5J_5_xmLgXKL3J1JkNTgFZGypc-14-OjnvYtL6GpNF9X26AFV_3u-a3OQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "逗物语",
+      "sources": [
+        "逗物语"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "智能眼镜iPhone时刻?2026年最强智能眼镜深度测评2026年第一季度,全球智能眼镜市场出货量达到356.6万台,同比增长130.1%....",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "2026年Q1全球智能眼镜出货量356.6万台，同比增长130.1%，市场爆发。",
+      "opportunity_insight": "市场高速增长，iPhone时刻来临，需快速抢占头部品牌份额。",
+      "procurement_insight": "加大头部品牌采购量，提前锁定618库存，并策划促销活动拉动销量。"
+    },
+    {
+      "title": "智能眼镜,偷拍成灾",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd95OgJ9E1E5iIvGVOMZJrDkDklXLK5Zs_TnC9vEOhsZ_LVj5ny_HoEmA4Mqrtweft-sU4O-VdfZOudZx5_wh8FUmcPa9EUg_gbXJimLBc-NQj9kWdzlWGPvoQrg1lRYL3zsjcBTKUDO3_y1jcH3Ex0EQ4eEeWuTfVR2LBaiwI05-Y5eBgmN3LoYQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
+      "source": "电脑报少年派",
+      "sources": [
+        "电脑报少年派"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "智能眼镜的隐蔽性极强,对于本就难以发现和监管的偷拍行为,几乎是一款天然外挂.最近,有用户在乐奇Rokid智能眼镜的用户...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "智能眼镜因隐蔽性强，被用于偷拍，引发用户对乐奇Rokid等产品的隐私担忧。",
+      "opportunity_insight": "隐私安全成智能眼镜市场痛点，可推出具备防偷拍提示或隐私保护功能的产品，抢占差异化蓝海。",
+      "procurement_insight": "优先采购带物理遮挡或LED指示灯防偷拍设计的智能眼镜，联合厂商开发隐私安全认证，提升产品信任度。"
+    },
+    {
+      "title": "AI眼镜产业链:大模型正在重塑眼镜价值",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbc88pDgtRvVMNl-3MsDGB8lqXa8Fplpd9x6Ou1Lyer5_E0qY3SpEwKKnIgEhTK_H9plouPd6QTA401B-XijutqLfRUEJa7T8LV_Pw61gZNH8X8LEtuTxXIKOVodz46bli8mGaEu62i6X1jaxzTKL9ghYrNhSa8O-TRcHNh3iky9Cpw7nfLJl0K-4-UUVFcroKM8iJ8BYzUPKjotuuiAmOIg..&amp;type=2&amp;query=AI%E7%9C%BC%E9%95%9C&amp;token=ADCAE131053B78E1D6D382791DCBF3BED6FCCAA56A366A03",
+      "source": "窄门之神光",
+      "sources": [
+        "窄门之神光"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "2026年6月中旬,AI眼镜概念板块再次被推至热点.万得AI眼镜主题指数上周再度攀升近5%,近两个月涨幅达17.71%;全球消费者几...",
+      "matched_keywords": [
+        "AI眼镜"
+      ],
+      "info_brief": "AI眼镜产业链受大模型重塑，概念板块指数近两月涨17.71%，消费者关注度提升。",
+      "opportunity_insight": "大模型赋能眼镜价值，市场热度上升，可布局AI集成眼镜，抢占消费者心智。",
+      "procurement_insight": "加强与AI芯片和模型供应商合作，采购支持大模型功能的眼镜，提前锁定热门SKU。"
+    },
+    {
+      "title": "2026 最强智能眼镜发布,但「iPhone 时刻」还没到来",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbHTzdDQoH-lANl-3MsDGB8lqXa8Fplpd9gmS_VWC6kdlFDWs6DJjN2pMjhJTV9o652vWmmm9oNGIA4OwVQdHkP4ffniIMLf1FfU8pJ2DA8J4qjSDu8yDfzDip8fCyFRAOHguWq5_NjbYpRyhKREQhYv-szH2FuMDcDnq1--af6-1n4afIyZ2lQXJm3nww-uQ-3rkSz3w4vR9j3x9Nw6p-Fg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=ADCAFCE10C0D72D4DFD98B731484A187E00650B06A366A07",
       "source": "爱范儿",
       "sources": [
         "爱范儿"
@@ -85,17 +446,89 @@
       "publish_date": "2026-06-18",
       "category": "媒体新闻",
       "category_id": "ai-glasses",
-      "summary": "多年以后，当我戴上最新最潮的 Android XR 眼镜准备出门时，会回想起 2026 年 6 月 16 日的那一天。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary": "只保留两款智能眼镜的开发工作,Vision Pro 后续产品全部推迟或终止.相关产品的先后折戟,无疑给这个行业蒙上一层阴影,但拐点...",
       "matched_keywords": [
         "智能眼镜"
       ],
-      "info_brief": "2026年最强智能眼镜发布，但未达到“iPhone时刻”的颠覆性影响。",
-      "opportunity_insight": "智能眼镜市场潜力巨大，但需突破用户体验和生态瓶颈，可关注Android XR生态的早期布局机会。",
-      "procurement_insight": "建议提前与Android XR眼镜供应商接洽，小批量试销，同时储备兼容配件，抢占细分市场先机。"
+      "info_brief": "2026年最强智能眼镜发布，但行业拐点未至，Vision Pro后续产品推迟或终止。",
+      "opportunity_insight": "高端智能眼镜市场遇冷，但中低端产品仍有增长空间，需关注性价比和实用功能。",
+      "procurement_insight": "减少高端AR眼镜备货，优先采购轻量级、价格亲民的AI眼镜，如Snap或XREAL新品。"
+    },
+    {
+      "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+      "url": "https://www.ithome.com/0/966/513.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz AMOLED 面板（峰值亮度 3000 尼特），匹配 32MP 自拍摄像头。手机背面匹...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "8849推出Tank 5三防手机，配备投影仪和天玑9400e处理器，售价约6106元。",
+      "opportunity_insight": "三防手机细分市场有增长潜力，投影功能差异化，可吸引户外和工业用户。",
+      "procurement_insight": "小批量引入该机型，测试户外场景需求，搭配配件如支架和电池，提升转化。"
+    },
+    {
+      "title": "思特威推出面向 AI PC 与平板电脑的 5MP 图像传感器 SC522PC",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbvyougxGaaEgNl-3MsDGB8lqXa8Fplpd94pg5lzPadzxgcg1m1mgo6xIYCyIFkfuTY9QTI73b_FjjR9QGFS4z91FwbRKN_-nzRLa3e4POvHBmot5w3IsoXatuhNJi1YYXL8oLVRCWgeFoIhP8jh1FjXOF8IaWrXdPB3XIdYT9z1DqUo5bC8wIIEX49xyE8cpK2bUJc4EZ6vWE8RsmObDbtQ..&amp;type=2&amp;query=AI PC&amp;token=ADCC1E779BA5E47D494F1DE4860495E9491D3EC56A366A38",
+      "source": "笔吧评测室",
+      "sources": [
+        "笔吧评测室"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "本文转自:IT之家作者:汪淼CMOS 图像传感器供应商思特威今日宣布,全新推出面向 AI PC、平板电脑的 500 万像素 CMOS 图像传...",
+      "matched_keywords": [
+        "AI PC"
+      ],
+      "info_brief": "思特威推出面向AI PC和平板电脑的5MP图像传感器SC522PC，提升视觉感知能力。",
+      "opportunity_insight": "AI PC摄像头升级需求增长，5MP传感器可提升视频会议、人脸识别体验，推动配件市场。",
+      "procurement_insight": "关注思特威新品上市，评估与主流PC品牌合作，引入高分辨率摄像头模块，提升AI PC配件竞争力。"
+    },
+    {
+      "title": "2026年最佳游戏电视：最低输入延迟与最高画质",
+      "url": "https://www.cnet.com/tech/home-entertainment/best-gaming-tv/",
+      "source": "CNET",
+      "sources": [
+        "CNET"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "我们精选的2026年最佳游戏电视，以卓越画质和极低延迟助您获得竞争优势。",
+      "matched_keywords": [
+        "NPU"
+      ],
+      "info_brief": "2026年最佳游戏电视精选，强调最低输入延迟与最高画质，助力游戏竞争优势。",
+      "opportunity_insight": "游戏电视需求增长，低延迟和高画质是核心卖点，可联合品牌推广高端游戏场景。",
+      "procurement_insight": "优先引入支持HDMI 2.1和VRR的电视，与游戏主机捆绑促销，提升品类溢价。"
+    },
+    {
+      "title": "刚刚，Codex 大更新，你在电脑的操作正在成为 AI 经验包",
+      "url": "https://www.ifanr.com/1669204?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "sources": [
+        "爱范儿"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "人类操作软件的经验，正在变成 AI 技能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "matched_keywords": [
+        "电脑"
+      ],
+      "info_brief": "Codex大更新，将用户电脑操作转化为AI技能，推动AI应用普及。",
+      "opportunity_insight": "AI技能化趋势加速，可布局AI PC配件，如高性能显卡和内存，满足开发需求。",
+      "procurement_insight": "增加AI开发工具类PC配件库存，与软件商合作推出套装，吸引技术用户。"
     },
     {
       "title": "这台桌面AI电脑或许是养龙虾的最好选择?NVIDIA DGX Spark应用体验手记",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVIDt1qvHoMx31LyAIUP0L1VqXa8Fplpd9a3P0dyluN7Tpju_VZfKmBLjA2rMws-t671WwAWSmDjfkSfur5LakBr758jRKnhCixnVn6OMafpvhL-VYIqmJE-Rum10DWF4aSv-AVMS1gqM61aFxH8H0TcNlVDjzysjBYTg8dyXkJQ5rMi_62WYcgvcnsDKPRzYl1EGYPg-0yGhhWLv6O878UA..&amp;type=2&amp;query=AI%E7%94%B5%E8%84%91&amp;token=A6E215F5B2D9C65F6B6C3FF19B3D11EA6BE4FB506A353E76",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbOyyjRAV7DCINl-3MsDGB8lqXa8Fplpd93xmYs7SaA6xAX4b5l3s_2TqhFHEDbFxobpljoPg8WsiZBMNXfVnuUcaF8IH8kClUP95SSrI0CFjo9QSVsWey4aB34dPm4Kinki7DP697eqiFEZWRedmMPQXZKLrXoh9ywLjOeoFe37aAWPpFJXKLDz2UAfZtgkH46byzfWjcea5FkDr8IT4KYw..&amp;type=2&amp;query=AI%E7%94%B5%E8%84%91&amp;token=ADCC331F1E2363F9CDCB9962004CDF76CED961836A366A3B",
       "source": "Microcomputer",
       "sources": [
         "Microcomputer"
@@ -107,13 +540,13 @@
       "matched_keywords": [
         "AI电脑"
       ],
-      "info_brief": "NVIDIA DGX Spark桌面AI电脑体验，设计冷峻高贵，微缩数据中心灵魂，用于养龙虾等创新应用。",
-      "opportunity_insight": "桌面AI电脑跨界应用潜力大，如农业、科研等非传统领域，可拓展新客户群，提升品类价值。",
-      "procurement_insight": "引入NVIDIA DGX Spark等高端AI桌面设备，针对科研、教育行业推广，举办应用体验活动，挖掘垂直场景需求。"
+      "info_brief": "NVIDIA DGX Spark桌面AI电脑体验手记，强调其精密设计与数据中心级AI能力。",
+      "opportunity_insight": "桌面级AI电脑填补专业用户需求，如科研、养殖等垂直领域，高端市场潜力大。",
+      "procurement_insight": "引入NVIDIA DGX Spark，定位企业级用户，提供定制化AI解决方案，联合行业应用案例推广。"
     },
     {
       "title": "AI PC 蹭了两年热度,老黄看不下去了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVG-Zr7aJOufr1LyAIUP0L1VqXa8Fplpd9ytaxFVBSD6VYtZODLVvMxlddB-xdHWhMQnADV7IjRdEy3dWKefGUb21ceyWi4GrG-_TpTE0WpBUl84abgl45fIDoLfTEFQ0R5k0r5Qi6A7LIiBNNBbR5dVXew2zlcdrtpm_3QtDeFPaFthA0TXj4k63ESeaY9k8XY4N-mVXCp_Cfxjh3za6jWA..&amp;type=2&amp;query=AI PC&amp;token=A6E20178107A64FDC8CE9C5339D38DB8C9E9B1106A353E72",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbvyougxGaaEgNl-3MsDGB8lqXa8Fplpd9j-Boi_C8GtNvmbV0Be2Pmp7cexSgn-4zaeJ6YOrWuiyXXz_q-N_SI1snuYGpQymqlz9a7XAEH1X2BZDF8lCteiQjeGlfCw5A9-gO08kT6zsAuMIkmzV4gDo8Pyh448ZnQ6aK6H-WJhACgp9ET84S9ygfQeU8vLoRvFP-Yp3pKj3zAjcIGepUqA..&amp;type=2&amp;query=AI PC&amp;token=ADCC1E779BA5E47D494F1DE4860495E9491D3EC56A366A38",
       "source": "科技狐",
       "sources": [
         "科技狐"
@@ -125,63 +558,261 @@
       "matched_keywords": [
         "AI PC"
       ],
-      "info_brief": "AI PC概念被厂商炒作两年，但实际应用不足，引发行业质疑，NVIDIA老黄对此表示不满。",
-      "opportunity_insight": "AI PC市场泡沫风险，但真实需求待挖掘，需聚焦落地应用而非概念，差异化产品可抢占先机。",
-      "procurement_insight": "谨慎采购AI PC库存，优先选择有明确AI功能（如本地大模型）的机型，与厂商合作开发实用场景，避免过度营销。"
+      "info_brief": "评论指出AI PC概念炒作两年，实际应用不足，用户期待真正突破性功能。",
+      "opportunity_insight": "市场对AI PC期待值高但落地不足，差异化功能如本地AI推理、低延迟应用是破局关键。",
+      "procurement_insight": "筛选具备真实AI应用场景的PC产品，如本地大模型支持，避免纯概念炒作，强化用户教育。"
     },
     {
-      "title": "GPD BOX 迷你主机发布：英特尔酷睿 Ultra 7 356H 版 8400 元，X7 358H 版 8900 元",
-      "url": "https://www.ithome.com/0/966/353.htm",
+      "title": "AMD 锐龙 PRO 9965X3D 领衔：技嘉 AM5 主板新增支持五款商用桌面 CPU",
+      "url": "https://www.ithome.com/0/966/541.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 6 月 19 日消息，GPD BOX 迷你主机已于今日 10 点开启预售，7 月 30 日付尾款，搭载英特尔 Panther Lake 处理器，配备 32GB+1TB 存储，IT之家汇总价格如下： 酷睿 Ultra 7 356H： 8400 元 酷睿 Ultra X7 358H： 8900 元 酷睿 Ultra 7 356H 带 GPD G2 显卡坞： 10200 元 酷睿 Ult...",
+      "summary": "IT之家 6 月 20 日消息，AMD 本月初在 COMPUTEX 2026 展前推出了 AMD 锐龙 9 PRO 9965X3D 处理器与锐龙 AI PRO 400 系列处理器，并宣布搭载该 CPU 的商用台式机将于今年第 3 季度上市。 锐龙 9 PRO 9965X3D 是首批集成 3D V-Cache 的 MSDT 级商用处理器，相对于消费端锐龙 9 9950X3D 仅降低了加速频率（...",
       "matched_keywords": [
         "处理器"
       ],
-      "info_brief": "GPD BOX迷你主机发布，搭载英特尔Panther Lake处理器，酷睿Ultra 7 356H版8400元，X7 358H版8900元，7月30日付尾款。",
-      "opportunity_insight": "高端迷你主机市场细分机会，AI PC概念加持下，高性能便携设备需求增长，可吸引专业用户和发烧友。",
-      "procurement_insight": "关注GPD BOX预售数据，评估与竞品如Intel NUC的差异化，提前备货高端型号，联合品牌做AI应用场景营销。"
+      "info_brief": "AMD锐龙PRO 9965X3D等商用CPU获技嘉AM5主板支持，预计Q3上市。",
+      "opportunity_insight": "商用CPU集成3D V-Cache，提升多任务性能，企业升级需求将带动高端主板销售。",
+      "procurement_insight": "提前备货支持新CPU的AM5主板，与商用PC品牌合作，抢占企业采购窗口。"
     },
     {
-      "title": "江苏发放手机消费专项补贴：6000 元以上也补 10%，最高 1000 元",
-      "url": "https://www.ithome.com/0/966/347.htm",
+      "title": "安卓最强 2nm 芯片：高通骁龙 8 Elite Gen 6 Pro 曝测试类三星 HPB 散热方案，但效果不如 Exynos",
+      "url": "https://www.ithome.com/0/966/490.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 6 月 19 日消息，为持续提振大宗消费、抢抓暑期消费窗口期，江苏省商务厅于 6 月 18 日正式发布通告，启动“苏新消费 · 品质数码”专项促消费活动。 根据活动安排，本次补贴自 2026 年 6 月 18 日 18 时正式投放，补贴资金总量有限，实行先到先得、用完即止机制。 个人消费者在江苏省内参与活动的线上平台或线下实体商户，购买单件最终销售价格 6000 元及以上的手机，可...",
+      "category_id": "ai-pc",
+      "summary": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文， 报道称在骁龙 8 Elite Gen 6 Pro 芯片上，高通尝试类似三星 HPB 的散热技术，但实施后效果不如 Exynos 芯片。 IT之家注：HPB 全称为 Heat Path Block，是三星在 Exynos 2600 芯片中引入的散热技术，通过铜基散热块直接接触应用处理器（AP），利用...",
       "matched_keywords": [
-        "手机"
+        "处理器"
       ],
-      "info_brief": "江苏发放手机消费补贴，6000元以上手机补10%，最高1000元，先到先得。",
-      "opportunity_insight": "补贴刺激高端手机消费，短期将带动销量激增，需快速响应抢占市场份额。",
-      "procurement_insight": "提前备货6000元以上机型，与厂商协商补贴期专供价；加大江苏地区营销投放。"
+      "info_brief": "高通骁龙8 Elite Gen 6 Pro测试三星HPB散热方案，效果不如Exynos芯片。",
+      "opportunity_insight": "散热技术竞争加剧，影响芯片性能，手机厂商可能寻求替代散热方案。",
+      "procurement_insight": "关注散热配件如散热背夹和液冷壳，与芯片发布同步推广，满足游戏手机需求。"
     },
     {
-      "title": "消息称荣耀正密集起诉多家手机壳电商商标侵权，或涉及超 400 家公司",
-      "url": "https://www.ithome.com/0/966/346.htm",
+      "title": "“NAS 型迷你主机”铭凡 N5 MAX 发售：锐龙 AI Max+ 395、配 64G RAM + 128G SSD 售 16999 元",
+      "url": "https://www.ithome.com/0/966/481.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 6 月 20 日消息，铭凡（Minisforum）旗下 N5 MAX 迷你主机现已在京东发售，该机搭载 AMD Ryzen AI Max+ 395 处理器，匹配 64GB RAM 和 128GB 存储空间， 定价为 16999 元 。 这款主机可同时安装 5 块 M.2 固态硬盘（总计 40TB）和 5 块机械硬盘（总计 150TB），整体存储规模最高可达 190TB。同时设备提供...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "铭凡N5 MAX迷你主机发售，搭载锐龙AI Max+ 395处理器，64G RAM+128G SSD，售价16999元，支持190TB存储。",
+      "opportunity_insight": "高端NAS型迷你主机市场空白，满足AI数据存储需求，可吸引专业用户和中小企业，溢价空间大。",
+      "procurement_insight": "与铭凡合作首发推广，主推存储扩展优势，针对视频剪辑、AI训练用户定向营销，搭配大容量硬盘套餐。"
+    },
+    {
+      "title": "HMD Luma2 手机曝光：展锐 T7280 + 4GB RAM，将作为 M-Kopa X4 运营商定制机销售",
+      "url": "https://www.ithome.com/0/966/516.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 6 月 19 日消息，据财闻今日报道，日前，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超 400 家手机壳电商公司。 报道提到，具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面 大量使用“荣耀”二字或“Honor”标识 ，而这两个词是荣耀的注册商标，因此商家行为属于“品牌攀附”，侵犯了荣耀的商标权。 一位深圳手机壳电商林先生（化名）告诉财闻，...",
+      "summary": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖三种配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB LPDDR4X RAM，提供 128/...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "荣耀密集起诉超400家手机壳电商商标侵权，因其在商品标题和介绍中滥用“荣耀”或“Honor”标识。",
-      "opportunity_insight": "商标维权行动显示品牌对周边产品管控加强，可能推动正品授权手机壳市场增长，为京东引入官方合作品牌创造机会。",
-      "procurement_insight": "建议主动联系荣耀官方，争取独家授权手机壳合作，同时排查平台内侵权商品，引导商家合规以提升正品信任度。"
+      "info_brief": "HMD Luma2手机曝光：展锐T7280+4GB RAM，6.75英寸120Hz屏，作为运营商定制机销售。",
+      "opportunity_insight": "低端定制机市场仍有需求，展锐芯片成本优势明显，适合运营商渠道。",
+      "procurement_insight": "评估展锐芯片手机性价比，与运营商合作定制机采购；关注120Hz屏在低价位手机的普及机会。"
+    },
+    {
+      "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+      "url": "https://www.ithome.com/0/966/513.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz AMOLED 面板（峰值亮度 3000 尼特），匹配 32MP 自拍摄像头。手机背面匹...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "8849 Tank 5三防手机发布：配1080P投影仪、天玑9400e处理器，售价约6106元。",
+      "opportunity_insight": "三防手机细分市场增长，投影功能差异化，天玑9400e性能强劲，吸引户外和商务用户。",
+      "procurement_insight": "引入三防手机品类，重点采购带投影功能型号；与户外品牌合作推广，针对企业客户定制。"
+    },
+    {
+      "title": "为啥说AI手机芯片再牛,你刷抖音也用不上这算力?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9e8JuccojMnBVkSoNCRxHjaRVdIZjomxMZecm-jQd-0RiGlKiWPOsR7sPCSEgC7kAC9FIUxZNL4AclEY2iCBcF0oa2nCU7oxfr4mKySdlGrVxeakyDGstKtdE7MZcpw_AtDGlotd6pr1jBRM54U8s3yDcklv2k8rWTezAiGIE3vF6VKrzu_4XKA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "代码喵喵",
+      "sources": [
+        "代码喵喵"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "那么AI手机究竟会给体验带来什么变化呢?今天就带大家一起来聊聊这个话题.在谈论手机性能时,有一种误解是把芯片迭代与日常使...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "AI手机芯片算力在日常应用如刷抖音中未被充分利用，用户感知不强。",
+      "opportunity_insight": "芯片算力过剩，需聚焦实用AI功能（如拍照优化、语音助手）提升用户粘性。",
+      "procurement_insight": "采购侧重软件优化而非纯算力的机型，与厂商合作开发日常AI应用，避免硬件浪费。"
+    },
+    {
+      "title": "内存涨价逼停新手机,AI正在挤压消费电子产能",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd97sECKPWWeXcGARLhgivWsnEuz97848U2mHbpjnqyuyTGlCljWIjMBfsb0jVKAV4yBEXg3nB5YXLQlXy-G_9FvuvSvG8SZbhfuuoiyOmlHh99WLIABGDep7vZCWDcDuAs0sbyh1_mKWqSBKtV-0_mfJCrKdwCaFSLrFU7fckdcDlf_71bqkOtiw..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "旭裕科技",
+      "sources": [
+        "旭裕科技"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "厂商一边宣传AI手机,一边必须在模型能力、运行内存、功耗和售价之间重新取舍.七、这轮涨价不会永远持续存储芯片是典型的...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "内存涨价导致手机厂商在AI模型、内存、功耗和售价间取舍，AI挤压消费电子产能。",
+      "opportunity_insight": "内存涨价短期抑制AI手机出货，但长期存储芯片降价后，中低端AI手机市场将爆发。",
+      "procurement_insight": "提前与存储供应商锁定长期协议，对冲涨价风险；优先采购高性价比内存方案，控制成本。"
+    },
+    {
+      "title": "八部门17条新政落地:AI手机、人形机器人纳入国补,AI消费时代正式开启",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9n8AQyI9l96oafxTu_SvrAtErWuVDmy9k7zuax2PdQSSrpiQbjUMShnju45HMvgazqhrgtMbHL2JTduc5i3Nl9mklBBDAo48UaWXPAKhLJQfwelpEyOCse0Gb8Q_KRWUozv59F_3pxQUra2oJWD8lWMVTcpdDAHRi-jFtazTQsImrCDCayYmfpA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "万思达AI工具甄选",
+      "sources": [
+        "万思达AI工具甄选"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "八部门17条新政落地:AI手机、人形机器人纳入国补,AI消费时代正式开启 AI手机、智能电脑、智能穿戴、人形机器人全部纳...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "八部门新政将AI手机、人形机器人纳入国补，推动AI消费时代开启。",
+      "opportunity_insight": "国补政策刺激AI终端换机潮，3C数码品类迎来增量市场，需提前布局AI手机和智能设备供应链。",
+      "procurement_insight": "优先与支持AI功能的手机品牌合作，加大国补机型备货，并联合厂商推出补贴促销活动。"
+    },
+    {
+      "title": "小红书战略投资阅星曈 AI 手机副屏生态卡位",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9AzQGIwS3IYPL94s3ZkBtvHY_4DEjkvICPYFyLCunqQZ0U9BPQEtGQwNuS7e1XH7o8R-aJHS_C0j771C1PTiYiat_Wh1mfPyQuLhHKFXVzVt6y4FIyVWXdgrQGcg_zjh1op2oPIqDr2SlYGZCu_qtfHmPuuRqASW6hcKYOPHNhNKfxjh3za6jWA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "互联网战投笔记",
+      "sources": [
+        "互联网战投笔记"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "2026 年 4 月,AI 超便携电子纸品牌阅星曈(深圳小虎星曈科技有限公司)宣布完成天使轮至 A 轮共五轮融资, 累计金额超亿元人民币...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "小红书战略投资阅星曈，布局AI手机副屏生态，累计融资超亿元。",
+      "opportunity_insight": "AI手机副屏生态成新增长点，可拓展配件市场，吸引年轻用户群体。",
+      "procurement_insight": "引入阅星曈等副屏品牌，设立专属品类专区，并利用小红书流量进行联合营销。"
+    },
+    {
+      "title": "AI手机的隐形革命:当智能不再需要召唤",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9zY-8WTRc1_6wvHyLqzkTKFMtA1Sov6yEf1OTNhirhwOQjrXx7E-L-ghCUZVEyUMYFcPhT7OylXB5qnqMyzDtBJlHWXR7ljkouYwF2qoP3U7T3GHt_RX0r0nfqUkgmmFmANg4OamZ6WYHWZhUav3Qt04fiMz-h9IC-tcXepWHkhDI3OTRHYU2og..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "新途拾观",
+      "sources": [
+        "新途拾观"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "而这两种情绪的对撞,或许正是AI手机进入原生集成阶段后,我们每个人都开始面临的内心冲突.一、告别App时代:AI不再是一...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "AI手机进入原生集成阶段，AI不再需用户主动召唤，实现无缝智能体验。",
+      "opportunity_insight": "原生AI体验将成差异化卖点，推动用户换机潮，尤其吸引追求便捷的年轻群体。",
+      "procurement_insight": "与芯片厂商合作预装AI引擎，采购支持本地AI推理的机型，强化“无感智能”宣传。"
+    },
+    {
+      "title": "手机AI越做越隐身,普通人别再只盯聊天框:真正省时间的是这4个入口",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9ZWRLGXFdCX5SItW6rzaTCamzRZpdU6Gi3yDMeZnXZnfhPAzALE_-G2xwwGyuNVi16j7uq5wlzceQrxLOhZtr0VIZOnDOQyb1fzWjNLTWNjY75jUi1c7UQpczlPIoOxBpgVrUOXLJ-HgNnXhW63Ef3oGbPdsB7CM_lOu25HfBa6tFH6In5Ei3zg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "晚风记事吧",
+      "sources": [
+        "晚风记事吧"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "神评论:以前觉得AI手机是多一个聊天框,用久了才发现,真正值钱的是它少让我在相册、录音、文件和搜索之间来回搬东西.",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "AI手机核心价值在于减少用户操作，如相册、录音等场景的智能整合。",
+      "opportunity_insight": "用户痛点转向效率提升，AI手机需突出场景化功能，而非单纯聊天框。",
+      "procurement_insight": "采购时侧重AI功能实测，如智能搜索和文件管理，并在详情页强调省时卖点。"
+    },
+    {
+      "title": "AI智能体杀进消费级:你的下一台手机可能不叫「手机」",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9BWxxu_z9Fo5rq0xlVyjayKKsUKTNe-CDsLgOOKtF_O8iNNkKAymEmfZLMsuojHjAr0bs2JyHf7wTQ5YmdzaV-lKReVXaufFUqXe_pq9hbV_gVXbs9O0BVMA2RowxNNuKWs8a3dFlxF92uVKJDL-6OzQD7rMyFdOdi_JuFCzptRgtPujwwRB2Pw..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "屈高昶",
+      "sources": [
+        "屈高昶"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "2026年下半年都会发布新一代旗舰AI手机,核心卖点就是智能体任务拆解能力.智能眼镜:最有可能挑战手机地位的设备安蒙对智能眼...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "2026年下半年旗舰AI手机主打智能体任务拆解，智能眼镜或挑战手机地位。",
+      "opportunity_insight": "智能体功能将成高端手机核心卖点，智能眼镜开辟新穿戴品类，市场潜力大。",
+      "procurement_insight": "提前布局智能眼镜供应链，与AR厂商合作；采购支持多任务拆解的AI手机，抢占高端市场。"
+    },
+    {
+      "title": "重磅政策三连发!从AI手机到房屋数字身份证,关于数智发展,国家正在下一盘什么棋?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd9wM9PFp-VsICvtgK1415KizqKl01cFGFeryAJJ3LQ2eUqnluXhOjMGRsFM-H7oVpDAalwo7GyH5NaqBnVG_LvYz57JrLs8tpdsHuwZF8GsLreBZgwaPWJW6HKODs0enA4IQoTlGfDKlLD6pQEBmuxcY75PUfdOU8KmtZ7B-jMdmijotuuiAmOIg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "有数儿了",
+      "sources": [
+        "有数儿了"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "以后新款AI手机、AR眼镜、智能笔记本迭代速度变快,厂商会推出更多平价智能款,换新不用再等高价顶配.全屋智能、养老机器人...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "政策推动AI手机、AR眼镜等数智产品迭代加速，平价智能款将增多，全屋智能和养老机器人受关注。",
+      "opportunity_insight": "政策红利降低换新门槛，平价AI设备将扩大用户基数，全屋智能生态需求增长。",
+      "procurement_insight": "增加平价AI手机和AR眼镜采购量，联合智能家居品牌推出捆绑套餐，拓展家庭场景。"
+    },
+    {
+      "title": "加快推出新一代人工智能手机、智能电脑&hellip;&hellip;八部门发文促进人工智能+消费",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbBDEvS3bT4oANl-3MsDGB8lqXa8Fplpd93y1hqyus8S0OjgymmgfRh5GEu6Il7IdCbwqaVw4hKXuDjBLm8i30ne6CqbOD4RXYfydfUvVLbDDq2-drJqCzCO2tSJ_e7difuhfSrCsykn4mlQ7Trp9zUDGMya-gqNmLYTvrmZs1X0VKBMUxWDx2V-hbJ4TkOmem1YDIywqH2LVS6t2rFt2rnA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=ADCCAA0EECD2ED7440396B93F0DDFFA0403938946A366A53",
+      "source": "岁岁安澜梦",
+      "sources": [
+        "岁岁安澜梦"
+      ],
+      "publish_date": "2026-06-18",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "手机、AI 电脑.一句话,这次不是帮存量产品去库存,是推着整个消费电子行业,提前进入 AI 换代周期.这份文件是 6 月 18 日正式对...",
+      "matched_keywords": [
+        "AI手机"
+      ],
+      "info_brief": "八部门发文促进AI+消费，推动手机和电脑进入AI换代周期。",
+      "opportunity_insight": "政策加速AI终端换代，3C品类需提前备货，抢占换机需求高峰。",
+      "procurement_insight": "与头部厂商锁定AI电脑和手机订单，规划618后促销节奏，主推新品换代。"
     },
     {
       "title": "起猛了，看见 Gemini 上长了个手机",
@@ -197,13 +828,13 @@
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "Gemini集成手机，Android不再是重点，暗示AI驱动设备形态变革。",
-      "opportunity_insight": "AI原生设备趋势将重塑3C市场，需提前布局AI手机及周边生态产品。",
-      "procurement_insight": "与厂商合作开发AI手机专属配件，如高性能散热器；采购支持Gemini的智能穿戴设备。"
+      "info_brief": "Gemini集成至手机，Android地位可能弱化，AI成为新重点。",
+      "opportunity_insight": "AI原生手机趋势加速，Gemini集成将推动AI芯片和传感器需求，重塑手机生态。",
+      "procurement_insight": "优先采购支持Gemini或类似AI模型的手机芯片，与厂商合作开发AI功能手机，抢占市场先机。"
     },
     {
       "title": "AI 手机变局:智能服务进入 Agent 时代",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVIklA30nx4_71LyAIUP0L1VqXa8Fplpd9BKrFC9OuCkpCLJAM5FmUl5HIqhFAKphlamER_GIZmlhSLAgIZnQgBlg-M6EmCHcvaGOAg5wbGy2DJZsS757rlyCUIsrNKwzP6EQv4QQArKyY4kc6QxlIow5Cag8MyuqLSuRrXkmjhtN6O8Riou7kvzzC4KNHn9Ae4oc2emk_oPTRtmyIGw2VAg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=A6E26AA4157F60F9CDCA99573D9E72BDCD557B766A353E86",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbLfACQMKA4_YNl-3MsDGB8lqXa8Fplpd959KARaSTxtC_gw7I3W5NI02ARLbS-INVfLohv7XBNMaXilaQU7nJiY3Yz5EWzqoxZOpjdm-iZjqIA4NZhIojjSq_ZUADRksi7SfF84__dddDvB_q5i5SBIM_jn3Uf1gBrWm0jE5t3w1QBvvoVVP4e5fuMOmoVgp5jn7XprETCeGAFV_3u-a3OQ..&amp;type=2&amp;query=AI%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA&amp;token=ADCCBB060F3671E8DCDD88770BCC8B33DC06BAB66A366A56",
       "source": "通信世界",
       "sources": [
         "通信世界"
@@ -213,29 +844,29 @@
       "category_id": "ai-phone",
       "summary": "AI手机智能服务能力发展现状AI手机智能服务能力,是指智能手机在终端硬件算力、软件算法优化以及生态资源协同的支撑下,能够对...",
       "matched_keywords": [
-        "AI手机"
+        "AI智能手机"
       ],
-      "info_brief": "AI手机智能服务进入Agent时代，通过终端算力、算法优化和生态协同提供更主动的智能服务。",
-      "opportunity_insight": "Agent化AI手机将催生新硬件需求，如高性能芯片和传感器，同时带动智能配件生态发展，市场潜力巨大。",
-      "procurement_insight": "优先采购支持AI Agent的旗舰机型，并联合品牌推出智能配件套装，如AI耳机和摄像头，以抢占高端市场。"
+      "info_brief": "AI手机智能服务进入Agent时代，依赖终端算力、算法和生态协同。",
+      "opportunity_insight": "Agent化服务提升用户粘性，可推动高端机型销售和生态配件需求。",
+      "procurement_insight": "采购支持Agent功能的机型，并配套智能配件，如AI耳机和手表，打造生态闭环。"
     },
     {
-      "title": "绿联 25W 磁吸无线充电器发售：适配苹果 iPhone 12-17 系列，139 元",
-      "url": "https://www.ithome.com/0/966/361.htm",
-      "source": "IT之家",
+      "title": "华为手机玩机技巧:AI摄影大师完全指南",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbD5UJTS2lmd4Nl-3MsDGB8lqXa8Fplpd9fvQ6gHv4msLAWuavtCbtD6etTPLE0W8Ex67X5y0O45WoUduStAEyxXgt4e-6nQ6qD9Yai5tMcCsaUxgpsXhYbXFdHY2FKxJD-7PAWNB9Is95YRf43WVQxhgrXx45hC8ypsUrBzDK2PR3Tr5hman1Mwhls_j2Ho4sq2qtkbF-9guTJmCU1UgHwQ..&amp;type=2&amp;query=AI%E6%8B%8D%E7%85%A7%E6%89%8B%E6%9C%BA&amp;token=ADCCCF3DEAD5940D383F6D94E97715893997B6146A366A5A",
+      "source": "龙命牛羊运",
       "sources": [
-        "IT之家"
+        "龙命牛羊运"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-14",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 6 月 19 日消息，绿联新推出了一款 25W 的磁吸无线充电器，配 1.5m 长编织线，定价 139 元。 京东 绿联 25W 磁吸无线充电器 【25W 磁吸快充】 适用苹果 17promax 快充 iPhone16 手机 15 耳机桌面无线充电套装底座 magsafe 充电器适用苹果 12-17 系列 139 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大...",
+      "summary": "一、认识AI摄影大师:定义与华为特色(一)什么是AI摄影大师?AI摄影大师是华为手机相机中预置的一种拍照功能,可以智能识别拍...",
       "matched_keywords": [
-        "手机"
+        "AI拍照手机"
       ],
-      "info_brief": "绿联25W磁吸无线充电器发售，适配苹果iPhone 12-17系列，定价139元。",
-      "opportunity_insight": "苹果用户基数大，磁吸充电器需求稳定；25W快充为差异化卖点，可吸引升级用户。",
-      "procurement_insight": "与绿联谈判独家首发或优惠，主推iPhone 12-17系列用户；捆绑销售提升客单价。"
+      "info_brief": "华为手机AI摄影大师功能可智能识别场景并优化拍照，提升用户体验。",
+      "opportunity_insight": "AI摄影功能是华为手机差异化卖点，可吸引摄影爱好者，带动高端机型销量增长。",
+      "procurement_insight": "建议采购华为高端机型时，重点推广AI摄影功能，联合品牌开展线下体验活动，提升转化率。"
     },
     {
       "title": "早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣",
@@ -251,9 +882,9 @@
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "第20周全球手机销量同比降8%，华为逆势增长23%；ChatGPT推出定时任务功能。",
-      "opportunity_insight": "华为逆势增长显示高端市场韧性，可关注其供应链机会；AI功能普及将推动手机换机需求。",
-      "procurement_insight": "加强与华为合作，争取更多高端机型货源；引入支持AI功能的配件，如智能充电器。"
+      "info_brief": "全球手机销量第20周同比下降8%，华为逆势增长23%；追觅调整组织，ChatGPT推定时任务。",
+      "opportunity_insight": "华为增长表明高端市场韧性，AI功能成差异化关键；ChatGPT定时任务预示AI应用深化，可带动相关硬件需求。",
+      "procurement_insight": "关注华为供应链机会，增加高端机型备货；引入支持AI定时任务的智能设备，如智能音箱和路由器。"
     },
     {
       "title": "实测鸿蒙 7 开发者 Beta：AI 很强大，小艺很能干",
@@ -270,26 +901,44 @@
         "手机"
       ],
       "info_brief": "鸿蒙7开发者Beta实测：AI小艺能跨设备取文件、做旅游搭子，功能强大。",
-      "opportunity_insight": "鸿蒙AI功能提升用户体验，将带动华为设备及配件销售，尤其是跨设备协同产品。",
-      "procurement_insight": "增加华为鸿蒙设备库存，采购兼容跨设备功能的配件，如多口充电器。"
+      "opportunity_insight": "鸿蒙AI生态成熟，跨设备协同能力提升，可带动华为手机及配件销量。",
+      "procurement_insight": "增加鸿蒙设备库存，如手机和平板；采购支持跨设备协同的配件，如智能手表和耳机，捆绑销售。"
     },
     {
-      "title": "优派发布 VX27G26-2K-9 显示器：27 英寸 2K 面板，支持 340Hz 刷新率",
-      "url": "https://www.ithome.com/0/966/333.htm",
+      "title": "AI赋能教与学的关键要素:硬件与软件体系",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb4gP4wQdmPOoNl-3MsDGB8lqXa8Fplpd9QvXyNpo3wVIE8IWR6ZRb3La8fPR-4Jjo_k9LMTSEHY4ACRqUObHzwyPdX4IIMFccI7pd7jqFdW0LwcJ45UnDukGbis8e1rVW_xijDsxKkxZ7y9i4es4kjHhRrKnOhX2iSU4xGUxScLPssUpwVcwBnGIov_Jim2JBM8ugvEhfg-dAe0f8bRARvQ..&amp;type=2&amp;query=AI%E5%AD%A6%E4%B9%A0%E7%A1%AC%E4%BB%B6&amp;token=ADCD9B90FDC0801A2D287982FC6A0F452EA095186A366A7B",
+      "source": "HM4151",
+      "sources": [
+        "HM4151"
+      ],
+      "publish_date": "2026-06-16",
+      "category": "媒体新闻",
+      "category_id": "ai-learning",
+      "summary": "算法、平台与数据智能软件是AI赋能教与学的核心能力层,决定了硬件如何被有效利用以及学习如何被智能支持.(一)底层算法与模...",
+      "matched_keywords": [
+        "AI学习硬件"
+      ],
+      "info_brief": "AI赋能教与学需硬件与软件体系协同，算法、平台与数据智能软件是核心能力层。",
+      "opportunity_insight": "教育AI软件市场增长潜力大，京东可拓展智能学习平台、算法工具等软件品类，提升硬件附加值。",
+      "procurement_insight": "优先引入支持AI算法的教育软件，与硬件捆绑销售；与平台合作开发定制化学习方案，强化数据智能服务。"
+    },
+    {
+      "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+      "url": "https://www.ithome.com/0/966/513.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "IT之家 6 月 19 日消息，优派今日发布 VX27G26-2K-9 显示器，专为网吧电竞场景打造。其采用了三边微边框设计，带有五向摇杆按键和独立电源键，内置电源设计，配备了金属超薄底座，背面有独特的电竞“G”字型氛围灯。 IT之家从官方介绍获悉，VX27G26-2K-9 搭载了 27 英寸友达（AUO）Fast IPS 面板，色深为 10bit，可视角度为 178 度（水平和垂直），显示...",
+      "category_id": "4k-projector",
+      "summary": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz AMOLED 面板（峰值亮度 3000 尼特），匹配 32MP 自拍摄像头。手机背面匹...",
       "matched_keywords": [
-        "电竞"
+        "投影仪"
       ],
-      "info_brief": "优派发布VX27G26-2K-9显示器，27英寸2K 340Hz Fast IPS面板，专为网吧电竞场景设计。",
-      "opportunity_insight": "高刷新率电竞显示器需求旺盛，网吧场景升级带动2K 340Hz产品市场，可满足高端玩家需求。",
-      "procurement_insight": "加大优派这款显示器采购，针对网吧客户推出批量优惠，同时捆绑电竞键鼠套装，提升客单价。"
+      "info_brief": "8849推出Tank 5三防手机，配1080P 220流明投影仪，天玑9400e处理器，售价约6106元。",
+      "opportunity_insight": "三防手机融合投影功能，满足户外及商务场景需求，差异化竞争可吸引特定用户群体，市场潜力大。",
+      "procurement_insight": "建议引入该品类，主打户外探险和商务演示场景，联合品牌推广，设置专属页面提升转化。"
     },
     {
       "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
@@ -305,9 +954,9 @@
       "matched_keywords": [
         "电竞"
       ],
-      "info_brief": "爱玛发布黑翼品牌，专为年轻男性打造极速运动电动车，含电竞版、赛道版等，F1车手周冠宇助力。",
-      "opportunity_insight": "两轮电动车向电竞化、男性化细分市场拓展，与3C数码跨界融合，可吸引年轻男性用户群体。",
-      "procurement_insight": "关注爱玛黑翼电竞版与3C配件联动，如定制游戏手柄、耳机等，推出跨界套装促销，抢占男性消费心智。"
+      "info_brief": "爱玛发布黑翼品牌，专为年轻男性打造极速运动电动车，周冠宇助力，推出S360电竞版等三款车型。",
+      "opportunity_insight": "两轮电动车向电竞化、运动化转型，吸引年轻男性用户，可拓展3C数码配件与智能硬件联动市场。",
+      "procurement_insight": "关注爱玛黑翼合作机会，引入电竞外设如游戏手柄、智能头盔，打造骑行+游戏场景套装促销。"
     },
     {
       "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
@@ -323,9 +972,9 @@
       "matched_keywords": [
         "电竞"
       ],
-      "info_brief": "爱玛黑翼品牌发布会展示三款新车，定位城市探索玩家，强调“全速热爱”品牌主张，吸引潮流青年。",
-      "opportunity_insight": "电动车与潮流文化结合，创造新消费场景，可带动3C数码配件如智能头盔、运动相机等需求增长。",
-      "procurement_insight": "联合爱玛推出“骑行+数码”套餐，如搭配运动相机、蓝牙音箱，在京东平台设专属频道，提升关联销售。"
+      "info_brief": "爱玛黑翼在成都发布三款新车，定位城市探索玩家，周冠宇在线助力，强调“全速热爱”品牌主张。",
+      "opportunity_insight": "城市探索与潮流文化结合，带动户外科技配件需求，如运动相机、蓝牙音箱等，市场潜力大。",
+      "procurement_insight": "联合爱玛黑翼推出骑行配件包，包括手机支架、运动相机、无线耳机，在京东平台做主题营销。"
     },
     {
       "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
@@ -341,13 +990,140 @@
       "matched_keywords": [
         "外设"
       ],
-      "info_brief": "侵入式脑机接口公司芯生视界完成近亿元种子轮融资，用于医疗场景及人机交互技术研发。",
-      "opportunity_insight": "脑机接口技术成熟将颠覆人机交互，未来可应用于游戏外设、智能设备，开辟3C数码新赛道。",
-      "procurement_insight": "提前布局脑机接口相关外设供应链，关注芯生视界等初创公司，探索与游戏手柄、VR设备的技术合作。"
+      "info_brief": "芯生视界完成近亿元种子轮融资，研发侵入式脑机接口，用于医疗和未来人机交互。",
+      "opportunity_insight": "脑机接口技术加速，未来或颠覆人机交互方式，可提前布局脑控外设、AI Agent相关硬件。",
+      "procurement_insight": "关注脑机接口产业链，储备脑电传感器、神经接口芯片供应商，探索与游戏外设的跨界合作。"
+    },
+    {
+      "title": "华米 Amazfit Balance Ultra 智能手表发售：5 级钛合金材质、至高 30 天续航，4299 元",
+      "url": "https://www.ithome.com/0/966/505.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "IT之家 6 月 20 日消息，华米现已在京东上架 Amazfit Balance Ultra 智能手表，附带黑色 / 黑棕两款表带， 定价为 4299 元 。 京东 华米 Amazfit Balance Ultra 手表 4299 元 直达链接 该手表采用 5 级钛合金材质，正面配备一块 1.5 英寸 AMOLED 面板（峰值亮度 3000 尼特），匹配蓝宝石玻璃，同时内置了 LED 手电...",
+      "matched_keywords": [
+        "智能手表",
+        "手表"
+      ],
+      "info_brief": "华米Amazfit Balance Ultra智能手表发售，5级钛合金、30天续航，定价4299元。",
+      "opportunity_insight": "高端智能手表市场增长，钛合金材质和长续航是差异化卖点，可吸引商务和户外用户。",
+      "procurement_insight": "建议与华米合作首发推广，重点突出材质和续航优势，搭配高端表带配件提升客单价。"
+    },
+    {
+      "title": "儿子寄回来的智能手表,我不会用也不舍得扔,直到那天它突然震动不停&hellip;&hellip;",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9KXr07F22MmgvfioBD29xBShPT6SHrxN2J3NR464wtBKHLbtM4xUat7y0dxOqm-SMaiF_q95wVCznQIy6rNsSLPsM8wkJKVQOtIJxWGVxzARRNFzPGjddePvesTvEBGWMB746XthAUwzUXSxRAQurCCAkl6o9hX_nzCVQOaALWf15LU3lqtPw9g..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "多多趣论奇闻",
+      "sources": [
+        "多多趣论奇闻"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "可如今,我败给了一块巴掌大的智能手表.那是去年入秋,顺丰的小伙子扛来个盒子.儿子在南方大城市打工,三年没回家了,电话里...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "用户故事：儿子寄回智能手表，老人不会用，后因震动功能引发情感共鸣。",
+      "opportunity_insight": "智能手表在老年市场的易用性需求未被满足，健康监测和紧急联系功能有潜力。",
+      "procurement_insight": "引入针对老年人的简易操作手表，如大字体、一键呼叫功能，并配套使用教程。"
+    },
+    {
+      "title": "#AI智能手表分享 #客户真实反馈",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9jk5tetzAritA5U5rCYqxm0ULZ7oDv_zlCwH8u1-fbq2SYmY4Tbo8kMeUC_e7Kvd2vxWLSc_eqRfjfH46FAjQDN7UGWf8wXOaTsO5YeB771mihRp-sOQK2G7B8_ONNxwX2CdhM3BNtiNYvu6e3I2tzBnyD_ttS-vMPkWg7XZwVKpCy6umSSPEsg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "大奇 美业仪器设备号",
+      "sources": [
+        "大奇 美业仪器设备号"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "#AI智能手表分享#客户真实反馈做美业、开大健康美容院的一定要备上这款AI智能手表,搭配门店拓客、客户养护超适配!这块手表戴...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "AI智能手表分享：适用于美业和大健康门店，用于拓客和客户养护。",
+      "opportunity_insight": "B端市场（如美容院）对AI智能手表有定制化需求，可结合健康数据提升客户粘性。",
+      "procurement_insight": "与AI手表品牌合作开发行业定制版，提供门店管理功能，通过企业采购渠道推广。"
+    },
+    {
+      "title": "智能手表app下载通用版",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9AFoE3SoQxij_KJKeAA39ZIA7NDMShlcXHEmrvgGseScYdeij-qRQ8qJGyrIO2XM4jjUYCLlXPbweREtbV8beZerklQ07gAqU4VldwhLG_rWTrMCsvkswftQ0uwbMuQUvs5pir_iTzuCi-GUnUhupe1tQ3A8TzU3BRw9xVTuGXE7S-e4Yz84xMA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "辳村合作缴纳",
+      "sources": [
+        "辳村合作缴纳"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "想找智能手表的通用版APP 别急 下面这些应用兼容性强 功能全面 多数手表都能用 下载安装后简单配对就能上手 让你的手表秒变生活...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "智能手表通用版APP兼容性强，功能全面，多数手表可用，简单配对即可使用。",
+      "opportunity_insight": "通用APP需求旺盛，可拓展非品牌手表用户市场，提升配件生态丰富度。",
+      "procurement_insight": "引入或合作开发高兼容性APP，捆绑销售或作为赠品，吸引入门用户。"
+    },
+    {
+      "title": "数码产品保质期有多久?(四)智能手表篇:2年后还有电吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9HNdNS9G_Oyj4LUl4Mgzr9Yg2aGwNZDGWJsyDXnW8USKnVG6Hb__GjO4fLddKOrPw2_e-tXtwqIW_pHubtA74uaZXZsVyZ0xhhV210Svvb2FEmenoJksgj8hHhK3jBzJ3mjQKF_vZcfT0i8wJOu1XhWAajdS1e_V3_zFSK_UM_n55LU3lqtPw9g..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "年糕的数码资讯",
+      "sources": [
+        "年糕的数码资讯"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "智能手表换电池,现实吗?设备官方换电池第三方换电池可行性Apple Watch599-799元200-400元困难防水性能丧失Samsung ...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "智能手表电池寿命约2年，官方换电池价格高，第三方换电池存在防水失效风险。",
+      "opportunity_insight": "电池更换服务需求增长，可推出官方优惠换电或延长保修，提升用户粘性。",
+      "procurement_insight": "与品牌协商推出换电池补贴活动，或采购第三方电池配件，提供低价换电选项。"
+    },
+    {
+      "title": "儿童智能手表正在围猎孩子,你家娃中招了吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9K_0PZPkd0UXnZncoPAJODDHvQGLlnxUfusHNTPIYwDzErhDzcHhL1gN5z9UYyBcQIKFapXBXTcsfhIlfCdvhWoja4eXazu-Q1-2ScbPvSyR8IC2leotZr4iCC0sq1NG_JqbqdBUAGCzL2fbz-xJcia-anba-Bv8-iBGxbu_-KXjRtmyIGw2VAg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "花伴雨4363",
+      "sources": [
+        "花伴雨4363"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "儿童智能手表正在围猎孩子,你家娃中招了吗? 如今,儿童智能手表几乎成了小学生的标配.家长初衷很简单,依靠定位、通...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "儿童智能手表普及，家长初衷是定位和通话，但存在围猎孩子、过度社交等问题。",
+      "opportunity_insight": "家长对安全功能需求强，但担忧社交风险，可开发专注安全、限制社交的差异化产品。",
+      "procurement_insight": "采购主打定位、健康监测的儿童手表，减少社交功能，强调家长管控和隐私保护。"
+    },
+    {
+      "title": "Q1智能手表出货量排名:苹果、华为、小米全球三巨头",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd94cIWwbmmGeTqVFfyFrZy9QJ5S18rPngn1GE68YdVszGlMq-0VlISD59WgO_M3u3LKV_zUc_V3VUJPiOSyaL7kbGIy3dMmiUDjlYXYC9AcBQKqmlt37xMTCxGnkaFp4qpmCsDtQRCBwPey-bp75ps5kWZutT6dp6qR7fIg6ex55Df3q8uRDTfkw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
+      "source": "安兔兔",
+      "sources": [
+        "安兔兔"
+      ],
+      "publish_date": "2026-06-19",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "根据Counterpoint发布2026年第一季度全球智能手表出货量报告,全球市场保持稳步增长,同时品牌、区域市场呈现明显分化,行业整...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "Q1智能手表出货量排名：苹果、华为、小米全球前三，市场稳步增长。",
+      "opportunity_insight": "市场增长稳定，品牌集中度高，需关注华为和小米在健康监测功能的创新。",
+      "procurement_insight": "优先采购苹果新品，同步跟进华为和小米迭代产品，确保库存充足。"
     },
     {
       "title": "Q1全球智能手表份额出炉 | vivoXFold6全配色公布",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9H2NHsTh9hLQLewD68Kap0DNBLZLjGiV8TybBdvbqEirBf9h7K0m5Bo5SiZAyTjDV7a8SF8jmRHa58zqCCu7c0Ad6_6i7wzHvtJZ4BrQoVDmU-22G0NeqVVBLmGojGk1l30ucE7h_mJNVfbkjoHvfhWzyCl9FVXWs8khE5UIcjmmFW6cwuUnkdA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9PAIZ0WPbLJY3fhuEnqOFYuIXxQUqXGXrRCEm3Ps_Om3NOmj_W9jkUM6oD5bPo18BX8kngMQiboafXV8FNVEM_-yISjLKH5pb3DUsfOuDsyLencEVZY274e4pWXnnwOVupSFU6eVk6J4nsu3vBiaENNxxNqu9bsZVHtExYgS1U9HYl_Q5RRZQjg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
       "source": "小白测评",
       "sources": [
         "小白测评"
@@ -359,13 +1135,13 @@
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "Q1全球智能手表市场份额报告发布，vivo X Fold6配色公布，市场格局变化。",
-      "opportunity_insight": "市场份额数据揭示品牌竞争态势，vivo新配色或带动高端需求，可关注增长品牌和设计趋势。",
-      "procurement_insight": "优先采购市场份额上升品牌，如苹果、三星，并引入vivo X Fold6新配色，抢占高端市场。"
+      "info_brief": "Counterpoint报告Q1全球智能手表份额，苹果、华为、小米为前三。",
+      "opportunity_insight": "头部品牌主导市场，但区域分化明显，中低端市场仍有增长空间，可关注新兴品牌。",
+      "procurement_insight": "加强苹果、华为、小米旗舰机型备货，同时引入性价比品牌覆盖下沉市场。"
     },
     {
       "title": "儿童智能手表长大了,懂陪孩子玩,更懂大人烦",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9tnMd5aBbzDDD1UjaW52Bb08bZGeRQY1NW9xK4w62T5hCole4Dc5JE802bNbUlqEVwbtrZmT-UERAq7KZcb5yWzlxXtddaVD3M5t2v5E1lNneGRqixYPeaqJT872cg1Mu-UUCOLgF_AEflj9JcIDKZQJ_rPmaTbE20IWdkLEfKKryPfCoem7FzA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb-8NShclIVlYNl-3MsDGB8lqXa8Fplpd9ZFmKYYBz4UBE-I2RiemIrWsBcM1xshjXMAsNpAD-Y5iNwq2RqvvuCscVCarhK50X7x8qGtV7JNVRIihTooxKRkxqPPiG4xYQjw0xoICPb4Za1DAHXuVKuSVY8t8YOeqJJ6URDxAc0AEfK3gYF5dsA6XVt1tp4rNgxbEMsCJY6wdQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=ADD0A4B29DA2E27A4F491AE29478D84E4F436C906A366B00",
       "source": "质明时分",
       "sources": [
         "质明时分"
@@ -377,189 +1153,81 @@
       "matched_keywords": [
         "智能手表"
       ],
-      "info_brief": "儿童智能手表功能升级，具备长续航、社交互动等特性，满足家长和孩子需求。",
-      "opportunity_insight": "儿童市场增长快，功能创新如长续航和社交可提升用户粘性，抓住家庭消费升级机会。",
-      "procurement_insight": "引进长续航、社交功能强的儿童手表，如小天才，并针对家长痛点推出安全定位促销。"
+      "info_brief": "儿童智能手表功能升级，如关机五天定位、碰一碰加好友，更懂孩子和大人需求。",
+      "opportunity_insight": "高端儿童手表市场增长，长续航和社交功能吸引家长，可布局中高端产品线。",
+      "procurement_insight": "引入长续航、强定位的儿童手表，搭配社交功能，通过场景化营销吸引家庭用户。"
     },
     {
-      "title": "智能手表-蓝厂孪生兄弟,真只是品牌名区别",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9w719ZDv4c6YpAaCEWRq162-4lmfDsh2ijSvrmV2OTHx1ABGMtkLa1KtmjZ_J9B3JAlqgJEL5YK4mqPncoKAebWi-2clGZ5HcrvznWREojcQxX1Wep_RTeCcoBiJjz6FwQkgXF5KMv1IfGZgVm3P7BvcDYRzb69_YaC7NR78nG4lhWLv6O878UA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "飞扬的数码生活",
+      "title": "直播预告:拆解北美宠物摄像头VOC实战案例",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbppQ7W4UEvHANl-3MsDGB8lqXa8Fplpd9gC0FK8Uq64LWBWRfioAVh9OJ2STpT2EcD2nNw1-WeGjzidE8-vF5kgFMKXi5SaLMyllb3DYvZiIrkj8fLillXtsrxDH4Qu3hvvRtZ4_gHmyyHAuJSPw-spBKZT1eMrU6PQ5kx2HUoW1KryTZXFXCvX92BdPMgQsthJPeUYdaqIF535pjGOOjYg..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=ADD207A4734C0D95A1A6F40C7C1F17A9A19558A16A366B3B",
+      "source": "用户研究社",
       "sources": [
-        "飞扬的数码生活"
+        "用户研究社"
       ],
-      "publish_date": "2026-06-19",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "449元,相比某为系手表,这价格还不到5折!推开世界的门 (烟嗓女版)",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "蓝厂智能手表价格低至449元，与某为系手表功能相似，性价比突出。",
-      "opportunity_insight": "低价策略可抢占中低端市场，吸引价格敏感用户，与高端品牌形成差异化竞争。",
-      "procurement_insight": "采购蓝厂等性价比手表，如vivo，设置价格促销专区，对标华为系产品，吸引入门用户。"
-    },
-    {
-      "title": "智能手表你买了吗?为什么现在戴智能手表的人越来越多?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9ndJel1xw4Jj2ksNH5OtZ0VTJY3KCT3m261KtuFwpThSrzJSCaUaO1caoKI_Jq4UaufU2F_dlSQtFUwlSr09QvLE0GkLGiyNSvMi2VS04NYC-HwVb6A_H1RwhgB2SxGDJdDrTCsHkm_KsVBwpKBpPegNIp4rEjmiZ4RxLJWBlKloC2Qmj7RgGwQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "拾光成简",
-      "sources": [
-        "拾光成简"
-      ],
-      "publish_date": "2026-06-19",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "最近看到一个很火热的话题:在这个智能手机不离身的时代,为什么戴智能手表的人越来越多?&#55358;&#56596;给我第一直观感受很多可能也是一...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "智能手表佩戴人数增多，讨论其替代手机功能，提升便利性和健康监测需求。",
-      "opportunity_insight": "市场渗透率上升，用户需求从手机延伸，健康监测和便捷功能成核心驱动力。",
-      "procurement_insight": "增加智能手表库存，主推健康监测和独立通信功能，如eSIM，结合用户场景做场景化营销。"
-    },
-    {
-      "title": "大跌价!当初1799的PUMA智能手表!如今40多、独立 GPS+NFC + 安卓 8.0 开放式系统",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9XygoGIS2z03Zrhs3Jt7nGEdh9IMdQPJyIw76CZyPpk4HiB48Rf9IrG6W3EU09IHXVDWxmaRIeO_a5yHEXKUaGhdo7JqkD9SfDafRzM4j0b7PSS-T8HQ6SF2gPR_bvgahEWTknMwGB8oubzkiQ_6sd0zOp0eMvpmkQr_1nI4tDf5f_71bqkOtiw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "数码时光机",
-      "sources": [
-        "数码时光机"
-      ],
-      "publish_date": "2026-06-19",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "耐克、阿迪等运动品牌纷纷入局智能手表赛道.PUMA当时已经上线自家运动健身APP「PUMATRAC」,想打造品牌运动生态,把运...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "PUMA智能手表从1799元跌至40多元，独立GPS+NFC+安卓8.0系统，运动品牌纷纷入局智能手表赛道。",
-      "opportunity_insight": "运动品牌跨界智能手表，低价清仓带来市场教育机会，可吸引价格敏感用户，扩大品类渗透率。",
-      "procurement_insight": "关注运动品牌智能手表清仓货源，低价采购作为引流爆款，搭配运动配件捆绑销售，提升品类曝光。"
-    },
-    {
-      "title": "智能手表市场反弹势头延续,2026年智能手表真实体验榜,这五款闭眼入",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9wBZUR67s_Z2rKYzzmVojBqjxHi6Wn9w2z-IdnICoyWjQPCZdQmdSz66zbStMlfp7DOtfesSyvhb8nBzw2Q3p4XUOmdc0xxmWVWU3_hr5zH7Cvdr0sFl4oiyJ17eiNPD9ExIBl-M5UUFygx30nyCxin7r7z8krqe-rnQtVbPuM4ZFkDr8IT4KYw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "给李小姐的999封情书",
-      "sources": [
-        "给李小姐的999封情书"
-      ],
-      "publish_date": "2026-06-19",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "2026年智能手表市场彻底走出同质化疲软态势,整体反弹势头持续走高.随着技术迭代,各大品牌不再盲目堆砌功能,而是聚焦日常智...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "2026年智能手表市场反弹持续，品牌聚焦日常智能体验，五款闭眼入推荐，同质化疲软被打破。",
-      "opportunity_insight": "市场反弹显示用户需求升级，聚焦日常体验的差异化产品有增长空间，可抢占中高端市场。",
-      "procurement_insight": "优先采购主打日常智能体验的差异化手表，如长续航、健康监测精准款，加强场景化营销。"
-    },
-    {
-      "title": "Q1全球智能手表出货同比增4%:苹果增速断层领跑,华为表现抢眼",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9ALXmTMBX1e42_mJ_d4bvQoHhyE5loEhD6JiVK85LJ91Gh3wHgJHRno-i4jUwM-cfgmWgtdTZjPAnXygFJwm0i2JRPsbG9yjoVBmpcqg9_wYgjug-83RPOBZ0SYhZWaY4hTAfThQemo0inRrMA3xQud8XqT_fwiznNF-DAZGSTc2q3X8EKMKOIA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "智潮网",
-      "sources": [
-        "智潮网"
-      ],
-      "publish_date": "2026-06-19",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "Counterpoint最新一季度智能手表出货报告出炉,2026年Q1全球大盘同比小幅上涨4%,同时行业均价同步提升6%.在手机市场持续承...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "Q1全球智能手表出货同比增4%，苹果增速断层领跑，华为表现抢眼，行业均价同步提升6%。",
-      "opportunity_insight": "均价提升反映消费升级，苹果和华为高端市场强劲，可借势推广中高端国产品牌，提升利润空间。",
-      "procurement_insight": "加大华为等国产高端手表采购，与苹果形成互补，推出以旧换新活动，拉动均价提升。"
-    },
-    {
-      "title": "智能手表测心电图,真能防猝死吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9hSJCOWw5p8NE_SLQ9xY6wLxms_b3_aKtzuwEv1zS4quOAkcosmPHvK9Xyh7KchJZLMATeB6p0-u8n-kO_rrneg8luokFjhdO5GjXgVa556yah8C0TP5i8ibPlzF8jEpzEdzzPFrNx7UZzNKOE3voUdrJ_qw1FpC1ySmlxpmiApw89kyxDwoXvg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "FunClaw",
-      "sources": [
-        "FunClaw"
-      ],
-      "publish_date": "2026-06-18",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "智能手表通常戴在左手腕,测量时右手手指触碰表冠这一回路,记录的是肢体I导联的信号.而问题在于,许多与猝死相关的心电异...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "智能手表测心电图依赖肢体I导联，与猝死相关心电异常有差异，防猝死效果存疑。",
-      "opportunity_insight": "健康功能认知偏差带来科普需求，可借机推广专业级健康监测手表，建立用户信任。",
-      "procurement_insight": "采购具备医疗级认证的心电监测手表，联合健康科普内容营销，突出精准性，避免夸大宣传。"
-    },
-    {
-      "title": "集成PPG算法的智能手表可有效持续监测房颤负荷,或可替代心电图!北京安贞医院马长生等研究",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJVZYraxu_gXv71LyAIUP0L1VqXa8Fplpd9CJJT29UaSHATosWPzMB5mb_TgY9Syi51xe2TNlYOt9cK0DNPpER2pzhix0aDDMir9IVJxKpe1CyEyOG4xSVA25KKYUHwQuWnykE1N_oLoIBb5o4KRQkrpE7ZyXJJ0Ngq4AlV9_Or4LrL2-e_6OwDTnheP7k3QRpwDbStoYHO8JFS6t2rFt2rnA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=A6E624D2FC978B11252072BFDA0FE4C526E5267A6A353F3C",
-      "source": "中国循环杂志",
-      "sources": [
-        "中国循环杂志"
-      ],
-      "publish_date": "2026-06-17",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "集成PPG算法的智能手表还可有效持续监测房颤负荷,且与标准心电图监测的数据几乎一致.作者指出,PPG技术为持续监测房颤负...",
-      "matched_keywords": [
-        "智能手表"
-      ],
-      "info_brief": "集成PPG算法的智能手表可有效监测房颤负荷，与心电图数据一致，具医疗替代潜力。",
-      "opportunity_insight": "健康监测功能成差异化卖点，PPG技术可吸引医疗关注用户，拓展健康管理市场。",
-      "procurement_insight": "采购支持PPG算法的智能手表，如华为、佳明，强化健康功能宣传，与医疗品牌合作推广。"
-    },
-    {
-      "title": "边缘-云协同:智能摄像头分布式AI架构",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJV1FEeXzX1SCf1LyAIUP0L1VqXa8Fplpd9-lk1xfl_cqDDcryN8W_Gmoe_akMSFB1kWL1FnhuA_XIUoAo_adY2NsFihdp3tKpQRZf1OTL-GuT9trhE1c2f4uAP4K2ile4Zuo0Bx6ITlG20-6QPv8B-4gZBLcTJjT1Dn20ZGOESEU2LDwZkuRoqPGGZDjquot759I-phIWRxBhFkDr8IT4KYw..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=A6E75FDDC8A0BF2612144588EEC44FE1122B7D1C6A353F7A",
-      "source": "物联网架构师之路",
-      "sources": [
-        "物联网架构师之路"
-      ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "一、背景与需求❝智能摄像头系统已经从传统的监控录像升级为 智能事件感知系统.它不仅需要进行视频采集,还需能够实时感知环境...",
+      "summary": "同样买宠物摄像头,为什么用户买的不是同一个产品?连接、订阅、误报、投喂这些痛点背后,藏着哪些产品机会?一份 VOC 报告,...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "智能摄像头从监控升级为事件感知系统，采用边缘-云协同分布式AI架构实现实时环境感知。",
-      "opportunity_insight": "边缘计算摄像头需求爆发，分布式AI架构提升实时处理能力，适用于智慧家庭和工业场景。",
-      "procurement_insight": "引入边缘AI芯片供应商，采购支持本地推理的摄像头方案，推动与云平台集成以提升产品附加值。"
+      "info_brief": "宠物摄像头VOC案例揭示连接、订阅、误报、投喂等痛点，用户需求差异化明显。",
+      "opportunity_insight": "宠物摄像头市场存在细分机会，针对连接稳定性和智能投喂功能可开发差异化产品，提升用户粘性。",
+      "procurement_insight": "建议引入支持低延迟、高可靠连接和智能误报过滤的宠物摄像头，并探索订阅服务模式，优化供应链成本。"
     },
     {
-      "title": "结婚8年,老公在客厅装了个摄像头",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJV1FEeXzX1SCf1LyAIUP0L1VqXa8Fplpd9pzVLMnqm5w1Sxq7DW8b-ZDeqJn4SoeqpEMHLgTFvzABpDOt2dfgKriZA5yi7CduKHtgkRySxc2UpfGxRYovlYtmFQkSbTgohqcm0gf6vzC0XVRSLY0YujeSq_e5025wTcgPDHvKL24g7zkrammT4cvWuPyOXqddImrV0GrYHvG1OJBjQH7pCxQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=A6E75FDDC8A0BF2612144588EEC44FE1122B7D1C6A353F7A",
-      "source": "晚风情感驿站",
+      "title": "鼠标、声卡、摄像头这些小件,为什么最容易买错?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbppQ7W4UEvHANl-3MsDGB8lqXa8Fplpd9UpPoauHD05nR3o0AfNJb6Z6GPAutzRkx6yUacCJtuwAUHXC-tOzv6g3IdRyB1n7NGPBlLVRWF31bsVYzVHBACdPVUyDmB0aN9wYbNk6XNn5D_V8hCwhc0bziA5wXCibgDPgqTKM5YUP2Q0zHGwlfW61BHOTmgZvGyxSo0Wdwq4L0OK9DLfgmPA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=ADD207A4734C0D95A1A6F40C7C1F17A9A19558A16A366B3B",
+      "source": "检漏推荐官",
       "sources": [
-        "晚风情感驿站"
+        "检漏推荐官"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "对着那个摄像头说＂我回来了＂.后来的故事没有反转.她没离婚,他没道歉.她把摄像头留在天花板上,报了夜校学插花.中年人的...",
+      "summary": "最容易后悔的,往往不是大件很多人买数码设备,最谨慎的是手机电脑,最随手的是鼠标、声卡、摄像头、MP3、小支架.结果真正闲...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "丈夫在客厅装摄像头引发家庭矛盾，妻子未离婚但选择学习插花，反映隐私与监控的冲突。",
-      "opportunity_insight": "家庭摄像头隐私争议凸显用户对安全与信任的双重需求，推动隐私保护功能成为卖点。",
-      "procurement_insight": "采购带隐私遮蔽、声光报警等功能的摄像头，推广家庭监控伦理设计，提升用户信任度。"
+      "info_brief": "鼠标、声卡、摄像头等小件数码产品因用户随意购买而容易买错，导致后悔和闲置。",
+      "opportunity_insight": "小件数码购买决策轻但退货率高，用户需要更精准的推荐和试用体验，存在优化购物流程的机会。",
+      "procurement_insight": "推出小件数码“试用包”或搭配推荐工具，在商品页增加对比评测和场景指南，降低买错率，提升转化。"
     },
     {
-      "title": "有种苦恼叫摄像头坏了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8Ja-rry1gJV1FEeXzX1SCf1LyAIUP0L1VqXa8Fplpd9XRt1iUheyJhuFg6wMC-G3cVY3eAjmTVbzc8j5FCErtezQJ2wex-QDIFojrWza99rwfyTjg02gyUcD4SzbQqy0-xcYZl61v7TBa052R-mUnlWbL1wa1fyj8DJ26WxDQHTrnqj0lY5p8OHPHOuoncpjE0gZtkMTHxsq-g5X55POxSFW6cwuUnkdA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=A6E75FDDC8A0BF2612144588EEC44FE1122B7D1C6A353F7A",
-      "source": "弘姐姐",
+      "title": "L3:摄像头+毫米波雷达,L4:再加激光雷达",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbppQ7W4UEvHANl-3MsDGB8lqXa8Fplpd9uXWeoT-B-maJ7fxz2ZldrN_NDLi9wD35GTmUpqKWbqw7Ztgbr6OzzbrW_hqRkJuspAy5tFr7AKvx_NgTox0moShgx91yLlsR7NVEazIzAqAexAxjZlyuQHx2eGMW3NymILeunMmrDRQBgu5k7kWU-ppoI8P1mq60MHQTJHTHYyzf3q8uRDTfkw..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=ADD207A4734C0D95A1A6F40C7C1F17A9A19558A16A366B3B",
+      "source": "驰阳说车",
       "sources": [
-        "弘姐姐"
+        "驰阳说车"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "有种苦恼叫摄像头坏了想买新手机要下载云闪付,可是云闪付要绑定银行卡,也得人脸识别呀!啥都进行不了,真的苦笑不得....",
+      "summary": "L3级最低门槛为摄像头+毫米波雷达双融合;L4级还得再加激光雷达,实现三重冗余.这意味着今年突飞猛进的小鹏VLA2.0再牛也上不...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "用户摄像头坏了无法人脸识别，导致云闪付绑定银行卡等操作受阻，陷入数字困境。",
-      "opportunity_insight": "摄像头故障影响支付等核心功能，暴露设备依赖风险，推动多模态认证和备用方案需求。",
-      "procurement_insight": "采购支持指纹、密码等多模态认证的摄像头，开发故障自检和快速替换服务，降低用户断联风险。"
+      "info_brief": "L3级自动驾驶需摄像头+毫米波雷达，L4级再加激光雷达，小鹏VLA2.0未达L4。",
+      "opportunity_insight": "自动驾驶传感器升级趋势明确，毫米波雷达和激光雷达需求将随L4普及而爆发。",
+      "procurement_insight": "提前布局高性价比毫米波雷达和激光雷达供应商，关注L3/L4方案集成，为车载摄像头和雷达组合产品储备库存。"
+    },
+    {
+      "title": "100 路监控摄像头该如何分配交换机?需要核心交换机吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEbppQ7W4UEvHANl-3MsDGB8lqXa8Fplpd9mZJL9FXe5CJ0gkjRVqlA2RRLxUrxUOze52oGzahPl10J2ep3SJLCFgIxjkTcvqg-dhF-4fgOzRPugIRONvgOvWneUNermr5YgjggYQT-sbDNWieekJrbBBRGTzIg_N18OiZ1GOSCtO9arva-5KX6sd-5Bv9DzhOL0UoHqUecRzFAe0f8bRARvQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=ADD207A4734C0D95A1A6F40C7C1F17A9A19558A16A366B3B",
+      "source": "第一监控",
+      "sources": [
+        "第一监控"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "摄像头单台功率可达三四十瓦,避免高峰期供电不足掉线.三是别用普通家用/商用交换机代替安防专用款,监控是持续大流量,专用设...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "100路监控摄像头需专用交换机，避免高峰期供电不足，安防专用设备优于普通交换机。",
+      "opportunity_insight": "安防监控交换机市场增长，专用设备需求旺盛，可布局高功率PoE和稳定带宽产品。",
+      "procurement_insight": "优先采购支持PoE+供电和持续大流量传输的安防专用交换机，与摄像头捆绑销售，提升整体方案竞争力。"
     },
     {
       "title": "早报｜曝苹果明年推出带摄像头AirPods/DeepSeek完成500亿融资/曝微信支付「AI专属卡」最快本周上线",
@@ -575,9 +1243,45 @@
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "苹果计划推出带摄像头的AirPods，微信支付AI专属卡即将上线，电动车强制一键物理断电。",
-      "opportunity_insight": "带摄像头AirPods将推动智能穿戴与AI交互融合，微信AI卡预示支付场景创新，电动车断电政策利好安全配件。",
-      "procurement_insight": "提前布局带摄像头耳机供应链，关注AI支付硬件合作机会，备货电动车安全断电相关3C配件。"
+      "info_brief": "曝苹果明年推出带摄像头AirPods，DeepSeek完成500亿融资，微信支付AI专属卡最快本周上线。",
+      "opportunity_insight": "苹果带摄像头AirPods将推动智能穿戴新场景，AI支付卡和融资事件显示AI与硬件融合加速，市场潜力大。",
+      "procurement_insight": "提前布局AI音频配件供应链，关注苹果新品动态，同步引入支持AI支付的智能设备，抢占先发优势。"
+    },
+    {
+      "title": "HMD Luma2 手机曝光：展锐 T7280 + 4GB RAM，将作为 M-Kopa X4 运营商定制机销售",
+      "url": "https://www.ithome.com/0/966/516.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖三种配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB LPDDR4X RAM，提供 128/...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "HMD Luma2手机曝光，搭载展锐T7280+4GB RAM，作为M-Kopa X4运营商定制机销售，有3种配色和6.75英寸120Hz屏。",
+      "opportunity_insight": "运营商定制机市场有稳定需求，低端配置+高刷屏可吸引预算有限但追求流畅体验的用户，适合下沉市场。",
+      "procurement_insight": "关注展锐T7280芯片供应，与HMD洽谈合作引入类似定制机，主攻运营商渠道和低价位市场，提升销量。"
+    },
+    {
+      "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+      "url": "https://www.ithome.com/0/966/513.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-06-20",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz AMOLED 面板（峰值亮度 3000 尼特），匹配 32MP 自拍摄像头。手机背面匹...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "8849推出Tank 5三防手机，配1080P 220流明投影仪和天玑9400e处理器，售价约6106元，重715g。",
+      "opportunity_insight": "三防手机+投影仪功能差异化明显，针对户外、工程等专业用户，高单价带来高利润空间，市场小众但增长。",
+      "procurement_insight": "评估投影仪模块供应商，与8849合作引入类似产品，在京东户外或工具类目推广，突出耐用性和多功能性。"
     },
     {
       "title": "湖畔对谈2026：华为无障碍的“八年长征”",
@@ -593,30 +1297,27 @@
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "华为通过Be My Eyes等合作，推进无障碍技术八年，帮助视障人士通过摄像头获得实时视觉辅助。",
-      "opportunity_insight": "无障碍摄像头需求增长，AI视觉辅助技术可拓展至老年市场，形成差异化竞争优势。",
-      "procurement_insight": "采购支持AI视觉识别的摄像头模组，与无障碍软件商合作开发定制化产品，抢占公益与商用市场。"
+      "info_brief": "华为无障碍功能开发八年，通过Be My Eyes应用让视障人士获得志愿者实时视频帮助，解决日常难题。",
+      "opportunity_insight": "无障碍功能是社会责任和品牌差异化点，可吸引残障用户及公益机构，提升品牌形象和用户忠诚度。",
+      "procurement_insight": "与华为合作推广无障碍手机，在京东设立专区，联合公益组织营销，强调辅助功能，拓展细分市场。"
     },
     {
-      "title": "绿联 25W 磁吸无线充电器发售：适配苹果 iPhone 12-17 系列，139 元",
-      "url": "https://www.ithome.com/0/966/361.htm",
-      "source": "IT之家",
+      "title": "音响还可以评测1",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS226OF6giAEb2XPKGKrZjJQNl-3MsDGB8lqXa8Fplpd9QeJ5nmicvyioOVH5FGKfazloDz91ouJuBKExzGT3U3bRll03wPdaYkklyvMR4csYhHLQV7DKI_Yht7NozpzG_onjySU3-UIFbnWrcEnh_QnN9nckHTTbQUIPXjvwv9p4srVAj2Wr56RKVVx_464o7SOmmcBuZIiUkVHeVDTKutNS6t2rFt2rnA..&amp;type=2&amp;query=%E9%9F%B3%E5%93%8D&amp;token=ADD32396112F6CF6C1C7966D21432F2AC23FD2B66A366B6A",
+      "source": "静听雨落的小记",
       "sources": [
-        "IT之家"
+        "静听雨落的小记"
       ],
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-06-20",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "IT之家 6 月 19 日消息，绿联新推出了一款 25W 的磁吸无线充电器，配 1.5m 长编织线，定价 139 元。 京东 绿联 25W 磁吸无线充电器 【25W 磁吸快充】 适用苹果 17promax 快充 iPhone16 手机 15 耳机桌面无线充电套装底座 magsafe 充电器适用苹果 12-17 系列 139 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大...",
+      "category_id": "speaker",
+      "summary": "钏连主流音响全系实测评测(12寸主力款+套装深度测评)本次评测聚焦钏连市面主流专业音响设备,核心以爆款12寸专业舞台/KTV音...",
       "matched_keywords": [
-        "磁吸",
-        "无线充电",
-        "充电器",
-        "MagSafe"
+        "音响"
       ],
-      "info_brief": "绿联推出25W磁吸无线充电器，适配苹果iPhone 12-17系列，售价139元，配1.5米编织线。",
-      "opportunity_insight": "苹果用户基数大，25W快充需求增长，139元定价具竞争力，可抢占中端磁吸充电市场，提升品类渗透率。",
-      "procurement_insight": "建议与绿联合作首发促销，捆绑iPhone 17系列销售，并优化站内搜索词，突出“25W快充”和“适配iPhone 17”卖点。"
+      "info_brief": "钏连主流音响全系实测评测，聚焦12寸专业舞台/KTV音响爆款及套装深度评测。",
+      "opportunity_insight": "专业音响市场热度高，12寸爆款需求旺盛，可借评测热度推广相关产品，抢占KTV、舞台等场景份额。",
+      "procurement_insight": "建议加大12寸专业音响及套装采购，联合评测方推出限时优惠，强化场景化营销，提升转化率。"
     }
   ]
 }
