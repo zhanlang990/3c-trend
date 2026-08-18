@@ -1,102 +1,174 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-08-17 00:41:03",
-  "total": 54,
+  "generated_at": "2026-08-18 00:40:27",
+  "total": 69,
   "source_count": 10,
   "items": [
     {
-      "title": "原创|用3D打印实现中秋兔形礼盒包装设计",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9CmEIqLU067CEDijOvo-Ue0I86WTRBwLHs9oiWHF6K2Kuvs-_h8PriaqRcNtpTyOi_pbpYEce5Wfm17B2HFt-Q-WPr0VjE-vDyTqkXb-TEbVij-BV6C-4t5KQoiOoHVJ6kPFvRklI9O0hSEd8Yb2bpNhIcLyF3Ym4cU6YYnk31QZ5LU3lqtPw9g..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "晓设际",
+      "title": "机器人研发关节轻量化3D打印方案怎么选靠谱",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9Ye0dY1DkLB4Hn4xNj9BzQQ16erQLybWatMmuybZC6u8hFHZn8OogGAQqi2yY_4F94QCdhHmojJv7pHH6edLz6o4yJXzikSXxfn3uNXNN1GrbfYbGMu_D8FvjwLgxiIBZo6FUqz0OZGPhyMglTPIQO4qrRg8eAY2mVBc_AoM_FOAHpHkoPMgL3A..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "联众合3D打印",
       "sources": [
-        "晓设际"
+        "联众合3D打印"
       ],
-      "publish_date": "2026-08-17",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "自从接触了3D打印这项技术,便深深的爱上了它,试着做过自己的小盲盒,打印了一些小玩意,也思考着如何变现,挖掘它的实用价...",
+      "summary": "但传统方案要么开模成本高,迭代一次就要重开模具烧钱,要么用铝合金机加工,重量还是降不下去,连续碳纤维3D打印现在成了不...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "原创|用3D打印实现中秋兔形礼盒包装设计。",
+      "info_brief": "机器人研发关节轻量化3D打印方案怎么选靠谱。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "科技消费系列四:消费级3D打印:造物平权,创意生活-华泰证券",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9yQ0FUnEh0YjbGKZ3mT_AZzZrVcmVHrFxIp0_aKe_a9NIhMcXNPVJfADzPl_H2aJ1c9hURl1Yp1g8TOcIUTWw2ZDgx0LQlxcqe9mBht3cdU-_vIYEAMcXRh6INKDWZ4kEf_InetxZSRBmOYQ98zzIl1MVPsbB6fW6sKImU0eu7kn1AfaFW2DefQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "洞悉行业趋势",
+      "title": "Formnext Asia深圳3D打印展亮点大揭秘(附免费门票)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9-tP9Z8YfjRVizdLXR_bhh0eyLagSAN5efVrVLCxZshmI2yWNGW2zPNt7vjydA0v1Rk2xA_q9jddRWoJF1J1ZM_aVbLymzlZ08u78qh5efp0hErVBf_eFgJXl55yZJtBwh_xK3RvohkmdECWYvu9Vy6olYfhb2Bnt5isVj6Z_o5nP28temKTOwg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "西南展会通",
       "sources": [
-        "洞悉行业趋势"
+        "西南展会通"
       ],
-      "publish_date": "2026-08-17",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "报告指出,软硬件、AI、社区生态推动消费级 3D 打印爆发,中国企业成全球链主,2026-2030 年行业 CAGR 达 35.3%,2030 年规模或...",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "科技消费系列四:消费级3D打印:造物平权,创意生活-华泰证券。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
-      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
-    },
-    {
-      "title": "微米级DLP无支撑3D打印:陶瓷精密件FDM喷嘴",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9Oe2UMwSk2qPLjR5LIInImmk0G-x2BrPFOTNTLSkhLVoWdPWVo2687UQhqGyB0dt1p-wULiLDvLwESPPwUcrSV3GPGouJBdA6H18HpRaS_ROUSwJK2cdLLEZSJOIfHjH3fJI0TNlXaGnVgzoVtYZIyz0vVFa0YRO27L1aPEWC1WVQ_LeJW-Rhtg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "William刘义帛",
-      "sources": [
-        "William刘义帛"
-      ],
-      "publish_date": "2026-08-17",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "微米级下沉式无支撑3D打印技术,打印平台由上至下缓慢下沉,零件始终浸泡在陶瓷浆料内部,任意角度结构都无需辅助支撑.就像...",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "微米级DLP无支撑3D打印:陶瓷精密件FDM喷嘴。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "Formnext Asia深圳3D打印展核心亮点抢先剧透,8月26-28日参观门票免费预约!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9G-Mv4VuUZt_qGcfP6yYt0-g5aVka0wAJSg50mA8i1gxRHgjiAcWtz7Bdcm-xMLndxfhjaAOgV3uOOPlAlO9mzLM1gwlchih65gbTOLGjMY0-UAmLUn6C48RkIXRVSZnbBqYb58UcWpea95guI0Bo34rtgfSxBXlmEN1VUk3-xYENGbbB75bUeA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "展会门票网",
-      "sources": [
-        "展会门票网"
-      ],
-      "publish_date": "2026-08-17",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "3d-printing",
       "summary": "Formnext Asia深圳国际3D打印与增材制造展览会,作为德国法兰克福知名3D打印全球知名品牌Formnext在亚洲的核心盛会,将于...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "Formnext Asia深圳3D打印展核心亮点抢先剧透,8月26-28日参观门票免费预约!。",
+      "info_brief": "Formnext Asia深圳3D打印展亮点大揭秘(附免费门票)。",
       "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
       "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
     },
     {
-      "title": "打印案例丨氧化铝晶格3D打印:方形与圆形晶格均一次成形",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9zX0DRLUfZXmqBubOMHqjPEb203Sjwj0supT_oVkhe3Kl00oSOmwfXwmdXJsxT_jOYwRtq6XxIQchliZzXwTP3S2U_T4YD00TxwybIrcm6sl51Zg4dsYbW5k_B6nnqGyz3_T-gZUHVD2gaT6SS9g6E2zjDPheUZhBB7dvsJlHyOLzAjcIGepUqA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "奇遇科技ADTE",
+      "title": "3D打印定制,从文创到工业的小本创业路径",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9k-y_e1plNU2HE4DOig0I3jpW4ylgh4It_AzI4onpIg3Xs-DzbM9xnZEUoQn0j4naMsuI3wbWRhslSOVQRdQCZothkYdPdR_S4GqNjdgzIKXn4Knal0Yl1Y1aelcoeocufp4zWa9IWCHAcgkUZAkoMW693oQU0k-__uXEnzORtj3drgozfSg6bw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "招万利商机",
       "sources": [
-        "奇遇科技ADTE"
+        "招万利商机"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "3D打印为轻量化多孔陶瓷的定制化、小批量制造提供了更灵活的技术路径.往期精彩回顾:行业新知丨陶瓷型芯3D打印,怎么靠固含...",
+      "summary": "你的关注和点赞是小编持续更新的动力3D打印可能是2026年最容易被误解的创业方向.很多人觉得,3D打印创业=买一台打印机+接单...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "打印案例丨氧化铝晶格3D打印:方形与圆形晶格均一次成形。",
+      "info_brief": "3D打印定制,从文创到工业的小本创业路径。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "24小时可做3000双,假3D打印鞋是怎么生产出来的?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9thsxb2_aFSZzPrkuem9GUuzeWG8rvRsKRmfNckyAThX97igwCsKjgFqTNFWlIxNTNe4sE2641CumewJtmjyxRKvwgUGKcUEgFWdEyTKHzvK2BIZ9gxnLQjZHjQoZJaEU8s738Qe686WWoyLJbaEOIUAlIRBhrAg3gICbpI5oaLthlgeRt7bSzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "财金小新",
+      "sources": [
+        "财金小新"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "很多3D打印假鞋,其实是注塑的.随着3D打印鞋越来越火,市场上也出现了不少看起来像3D打印,实际上却是用传统模具做出来的鞋...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "24小时可做3000双,假3D打印鞋是怎么生产出来的?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "重新再学习3D打印(增材制造):起步、发展与创新,未来可期",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd94aAXxaIqMPgufrFIApAkSDHy9f7Rqvtg2t_lslxfdBPiR29E5eAYle7rkaNriyxCCulWs8qBBxcnJJu58XtUuxwGVNUFz-xMp14N_ujoUDLV4BYymH5-e9p2Mx7Nqbb-AN4xYLRIeC7QK5l3_Wh0FdT1l9_yoTBOfh8ecZuL0a2FW6cwuUnkdA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "安徽增材制造科技",
+      "sources": [
+        "安徽增材制造科技"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "重新再学习3D打印:起步、发展与创新,未来可期过去我和大多数人一样,把3D打印简单理解成酷炫的黑科技:是实验室里昂贵的金...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "重新再学习3D打印(增材制造):起步、发展与创新,未来可期。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "华泰 | 化工:3D打印延续高增,PLA迎新机遇",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9rS12TsGYoDpVGHzc8O-teRv-wU_j3aSrwRuSzGdk5DNrm-7qntNBqFKRSYgbhJCzJTneXjXoACjMVNanF0-lLcJl9irhtdIu-v8hCb4Q_kky3cOXVc1gfkyMCvXffD2rYZvY78hh-iQbX6_wakzgal5OtU0dqzkkKjnGTj3y7n7m0CtGSSkZQQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "华泰睿思",
+      "sources": [
+        "华泰睿思"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "点击查看研报原文核心观点伴随中国3D打印机企业产品力提升以及消费的普及,26H1我国3D打印设备产量与出口量保持高速增长....",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "华泰 | 化工:3D打印延续高增,PLA迎新机遇。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
+    },
+    {
+      "title": "直接3D打印形状记忆矫治器可省去牙&#55408;&#57111;模型,60分钟形状恢复率达96%(1) | No.12的茶余饭后",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9uuqkNAXAuyvsRetfyDpP6G-FJlYCsCW9fh3aj-nAbhU4VTs_3hAlvO238HpaWETlU_PEkwfq5dYqf9Z1kTpHu9hN-yhL5ajUvaPZfEkiSNU5qLNgNYDd8bNZ2JBzzCjgfyun4Awz_VctS_qrSQpkSMC2xUPGmwGTG3N-kC0EquItPujwwRB2Pw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "Forever Dr Proffit",
+      "sources": [
+        "Forever Dr Proffit"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "Advancements in Direct 3D-Printed Shape Memory Aligners: Current Innovations and Future Directions直接 3D 打印形状记忆矫治器的...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "直接3D打印形状记忆矫治器可省去牙&#55408;&#57111;模型,60分钟形状恢复率达96%(1) | No.12的茶余饭后。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "英伟达 H100 的 3D 打印冷板,做出来了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9YsCizrsiV9_0-pnTehSb3WPMyeq7UzCEeY6uMOMghIYwfyFH_u4FJ2B2rGJag27WqJODdVrtiT26MAAfRI_BdGNcVnGSH_yP4jpJ2aS6buhbtolkYVmVJRWLGqzJdn4pevoC-Cy0z2Xq09SZvfERBTO8EyGx0OMSkqoxwXYvhlXyPfCoem7FzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "增材一点通",
+      "sources": [
+        "增材一点通"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "工业级3D打印新锐企业叠序宇宙,其 COO 曲先生在亿欧专访中自述:面向 800W 以上精密微通道冷板,国产化率不到 20%,3D 打印...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "英伟达 H100 的 3D 打印冷板,做出来了。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "《和平精英》干了一件事,3D打印要变天了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9Y-JoP4QHSm2vvvW7JXCj3M7OFDjsDrCBtTwFMCzQnFBePAgC_4yG5et5cdGoJORiWIGUz7bMDN52Ceg_MFU1Jkt4u1o1S2YcNYRoFQVcPSvg0Ku_6-DwP8phBBbNFZDeXu4N-CrvTIlC_ti2Cxs5obCxb288HPm4Wo96O6LQqkVf_71bqkOtiw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
+      "source": "科技最前线",
+      "sources": [
+        "科技最前线"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "那时候,3D打印更多是一群工程师、设计师和极客的玩具,普通人很少接触.这股浪潮中,也诞生了不少经典案例.美国激光物...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "《和平精英》干了一件事,3D打印要变天了。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "TPE材料大厂杀入3D打印,TPU之外又多了一类软糯亲肤弹性软料",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9qrl0AvfxbhQE-we4aKmIz2iKV_-gav2rpGeSZEXKKmbSd3eYDxREMhDUg6Zbi568lku5H5sFaqJlLLXHEb6t13kbSW8wqibyli0maVkwbtJeYx5yVKfUcRZJTC_BD3jbyYhtEaaM2JP6la-oePBw69h4iUq9oT8oKttKWdmB94ruL0unUdKkuw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvKq9macSFZHLySqQN0poNFqXa8Fplpd9z4cNOXC_Fs8dt05kko7MAZRBHh08H17gPfgus7ApYfmlTCdfa5pekZYislWtMLUNYnsT1c4fBTWz8Zdfa8xiVtxJB_sfIvTGotYkn-2lGtBmxO06p3qPvqFwGZdIZH7Hd2H5E7YxkWAndKFA3Hi-DHZBrUlyJKEW17Ts2Pphbc2rCDCayYmfpA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=5BE6CBDEB06202D8575E0E1F319736B058B3952F6A83A7F8",
       "source": "南极熊3D打印",
       "sources": [
         "南极熊3D打印"
@@ -113,80 +185,8 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "2026年8月16日(周日)3D打印国内动态点评",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd95Qju6z5BWaTsz56luOor-ybzi0FFbMa5qlRzcpjN0XqpOJRgrOPIEZJnLSpwvQjOffX9YSCRA-6w-Ut3kQKJmPbSsrJ6AefujqQwXwpDUV-NHxZPDEdMqlpl0xfR9J2XD3Dkx9Dq_Hhfj0PKFvuRchBQccYBnMg8ycU6BkMC-nwY-UZGbO56rA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "安徽增材制造科技",
-      "sources": [
-        "安徽增材制造科技"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "#非金属3D打印 #海外布局 #政企协同#国产替代#航空航天制造 #医疗3D打印 #产业落地 #高端装备出海 #先进制造 #新材料",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "2026年8月16日(周日)3D打印国内动态点评。",
-      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
-      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
-    },
-    {
-      "title": "5天卖近1亿,拓竹被3D打印假牙的抢了一步",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9d6w6uEWjJ2fWtJ7eVyAGMQLnzZaZ9TotuPwQwrzFBjX7Z9GMeV0LCzvvzTsRm8c3sn4CUwTJN6v2wIq5v3eiWHLJlRusMcRgW-9xsZZp7p05HzEzWgt6pL0QNnmw4nRj5iY_nXQ-iMGbcTvF1lL1v2qoHcQMGkqjQCQOZIXqAojuL0unUdKkuw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "虎嗅APP",
-      "sources": [
-        "虎嗅APP"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "3D打印下一场现象级爆款争夺战打响了出品|虎嗅商业消费组作者|周月明编辑|苗正卿题图|黑格科技硬件100是虎嗅科技组推出...",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "5天卖近1亿,拓竹被3D打印假牙的抢了一步。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "【艺之匠】3D打印协同玻璃钢工艺开辟大型雕塑数字化智造新路径",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9JObf6yKSVKHSzvPacwAqdHszOsj6w8RtgAsqrT7P1yDyOVN47bApQOCICLPm7nIKFhkczrPQR9fo00orW_GV6nI5N8MFR2VbUiUeIxCX82qZMXadlPuUW0YwL9ksI6BBAuMc9g_Q2jcEpvw1-KeMrSUOyTJCZqsCjplI4AFW8z_vzHZXxeLdyg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "山东艺之匠三维打印有限公司",
-      "sources": [
-        "山东艺之匠三维打印有限公司"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "随着增材制造技术持续向文创雕塑领域渗透,3D打印与玻璃钢复合成型工艺以数字化流程重构雕塑生产链路,为大型景观雕塑、艺术...",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "【艺之匠】3D打印协同玻璃钢工艺开辟大型雕塑数字化智造新路径。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "总投资超10亿:航天科工二院3D打印中心(新昌)生产基地开工,浙江天雄工业",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHi5XAWx2SkwxyZ-W7ccS44VqXa8Fplpd9qrl0AvfxbhQE-we4aKmIz2iKV_-gav2rpGeSZEXKKmbSd3eYDxREMgT5XNtWgneLpSZcnxBBT_zZY73YjIR2KNVozaeqLa-GDQmeTYYLz3Dxk10QGpAZezxEknl3SApjr2hQ2xHK5AZyG1mky6TokwLQSL0LLDf5mUb80d7zCjdCy6umSSPEsg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=54418923851FCD8C8187D9B3CB6C282181BA5CA96A825667",
-      "source": "南极熊3D打印",
-      "sources": [
-        "南极熊3D打印"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "公司拥有成熟的3D打印产品设计、仿真、特种粉末材料研发、高端装备制造与检测能力,是一家以金属增材制造、特种材料加工、复...",
-      "matched_keywords": [
-        "3D打印"
-      ],
-      "info_brief": "总投资超10亿:航天科工二院3D打印中心(新昌)生产基地开工,浙江天雄工业。",
-      "opportunity_insight": "资本动作释放扩张信号，建议密切关注该品牌后续渠道与营销投入节奏。",
-      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
-    },
-    {
       "title": "种草消费级3D打印机,您心动了吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHe3fvp5_eka1yZ-W7ccS44VqXa8Fplpd97EfFmEJRv5ukmsNPKZOhsy6ya5OHyR8gEOg3RPZkIAADPQ3_M8V8B9ylNI6cZfXGumBTdc_N5JQqT78vCMYaTVGWz1oSP09YMPuASD9SNZQSesax9HxQUg5qmrO65l6oKlgXvZPJdyiYElrvqde5LiceVKa_wMBJtL3sY6_oQbMGX_iHL9MadA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=54419DAB8218CB8A8781DFB4CCA489EE87CC9DF66A82566B",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIdunsJfC_KA3LySqQN0poNFqXa8Fplpd98SSwmW9LaX9UzxrL1KTQciWHrGzr4hamAmp_QSncRrHaKCe2OirkrdYnU9SN_2Ea_LsBP4NFu7dqDI53E_5cwGfEKkwtOJCGiXMMY4XBQbN0azopECKF6M2EtbRIP2y4tEYhw5D6ZVx63Rm9B21E7o9MwovmP_ICTCjbc90pomv2CsG6-xMgzQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=5BE6DF2B5984E530B1B7E8F7D9464C20B168CED66A83A7FB",
       "source": "电器微刊",
       "sources": [
         "电器微刊"
@@ -203,44 +203,26 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴",
-      "url": "https://www.ithome.com/0/990/422.htm",
-      "source": "IT之家",
+      "title": "AI 存储产业迎来变革,游戏创业者开辟变现新路径",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9Ta1drtM6pYzxbSHADOlOqbDuw__aumzx9RmPYYOov4MDtIZbJxzQWQ3qlBho2pFAUsS1X0rZTFzRT2AIWmjoAEpXFBvsquBh141EjR1gbN2D0rkSWG5OgzUhCrvubpSwAar2o_WIwcuKuF-fQ7jDdGm9EowXpQ8F6b76kdBTME_y08OLTBhW0A..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
+      "source": "破界电报",
       "sources": [
-        "IT之家"
+        "破界电报"
       ],
       "publish_date": "2026-08-16",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "IT之家 8 月 17 日消息，有朝一日，球形“飞行机器人”（Aerobot）或许会成群结队地探索土星的卫星泰坦。NASA 认为，泰坦是太阳系中最接近地球的天体之一。 据IT之家了解，泰坦表面遍布由甲烷、乙烷等碳氢化合物形成的河流、湖泊和海洋，同时还拥有奇特的“喀斯特”地貌，包括地下天坑和洞穴。普通探测车很难在这样的地表环境中自由行动，但飞行器或许能够取得更好的效果。 因此，NASA 早期阶...",
+      "summary": "#懂淘(懂游宝) #AI存储行业 #游戏创业变现编辑 | 陶涛 责编 | 刘勇 审核 | 曹凯",
       "matched_keywords": [
-        "NAS"
+        "AI存储"
       ],
-      "info_brief": "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴。",
+      "info_brief": "AI 存储产业迎来变革,游戏创业者开辟变现新路径。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "IT早报 0817：知情人士回应追觅大家电解散传闻；DeepSeek-V4 系列今日起价格上调；鸿蒙智行问界儿童车官宣将上市；SK 海力士硬盘故障仅向用户原价退款...",
-      "url": "https://www.ithome.com/0/990/427.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 17 日星期一，今天的重要科技资讯有： 1. 知情人士回应“网传追觅大家电解散”：业务正常做 网传追觅大家电解散、供应商未结款将组团维权，还牵扯出裁员、卖私人飞机等传闻，相关话题登上热搜。接近追觅的知情人士称业务仍正常开展。>> 查看详情 2. DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍 深度求索更新了 DeepS...",
-      "matched_keywords": [
-        "硬盘"
-      ],
-      "info_brief": "IT早报 0817：知情人士回应追觅大家电解散传闻；DeepSeek-V4 系列今日起价格上调；鸿蒙智行问界儿童车官宣将上市；SK 海力士硬盘故障仅向用户原价退款...。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
       "title": "海外AI存储强,设备弱;国内AI赛道复盘拆解,国产替代是底层逻辑",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9szTgpfFrDS4xYDe6L4wi6vaPDWaTR_4eJERVE-6BrSSR2-MEpyPqYEcu-7gpM-6ncrUAqDQh7rLfsNV_m02Z_IwKu4W1wuff67DikCSaL4LRbEFH1K0ASVIAS68a35C8c6L9QrkqmFh-dASxEZyNBqBMc1XNXPNfwLijtcBebkASYTqT4eyLmA..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9MF1HPSZsf4m3GFZWCv-okUUssHk7BJgV2PA2iTUG9-uog9eUc3hG4uZiI6bzt11hbOADpQsxIZiyA1SLY3fP2ZTxMf22s_LP84DijRI2J_v62FzWYESSTr1AUgHV50-6W7QmDIC03PWue3IrWLJno6iCeIECOEoXwOIbNdjItss6Ebq8fk9diw..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
       "source": "金中投咨询",
       "sources": [
         "金中投咨询"
@@ -258,7 +240,7 @@ window.__NEWS_DATA__ = {
     },
     {
       "title": "美光砍掉消费业务,All in AI存储!这次到底是超级内存周期还是AI革命?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9j8FHCOHaKjK0-PX5jn9-JKd_FxsgVgJfijMxRGDCgK5VlLqjHzTS5dlyO9bQ7E4JJ53mXVqU77EzJu4B-29vUC0enq8GxoddOy6AReXcx0F7r3oPvkvW-olYILGD4PDn0PuVWKRjCZGD4ueiiQu_YI2kBoL5UsE_5MK0pUeIt_cY-UZGbO56rA..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9e9gUol_SIVcZY9huXCTT5GRfIMGHU5zt7QditmLCrW5bOj48qz7Kg8EGQ9tUM5ef_IXmljXd8UA5BFCowYNkUbvhwgOidGME8DLAr7dhFDRT0yqsIM9V2AIiyj9pmrg6_sqClkeEfKCyl_aaOp6ZMRglbAVimgRoCir7LRWS8CzP28temKTOwg..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
       "source": "60秒读半导消息",
       "sources": [
         "60秒读半导消息"
@@ -275,98 +257,80 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "8月14日晚.Ai存储赛道基本面和未来1年投资前景分析精粹.闪迪继续暴涨!Filcoin 预言中了存储需求却成了先烈!要不要跟进闪迪?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9JpOfjryowoidedg9bpH4JFnejTE1RkA2QocTM3fEruL2XOipYuIBKSC1lv63Fz_lr3dCB9sCNgCDJD6HNAY-ONapKGlza211WG1sCaVAs-jVnWqEBYTFu8w96ogggTysNAwo0t5vQYP6VqRG-A2HFH6qgyicrxTOjUaROQO9Vdf2CsG6-xMgzQ..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
-      "source": "老k的行情洞察",
+      "title": "AI存储需求引爆扩产,SK海力士拟将中国工厂NAND产能提高50%",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9YeTR8o1ab8dyJCEWOqDSEszVMtB-C9sa39SNIL7garXUwhjiCPqARO9nVzSWZWVxfi9phfKgc8OsCsLOa4oBIIh6cGWCq1PsZRpGS2Hf2YwVjNUKHaQeqzMpGpA0b74X9V7FujUhoGxYdqu-I7GAD8iGuyoEVpRJCg_9YY-cTSjyPfCoem7FzA..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
+      "source": "深圳中合",
       "sources": [
-        "老k的行情洞察"
+        "深圳中合"
+      ],
+      "publish_date": "2026-08-12",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "让SK海力士能同时兼顾当下迅猛的AI存储需求与长远的技术制高点.可以预见,随着大连二厂从图纸走向现实,SK海力士在企业级存...",
+      "matched_keywords": [
+        "AI存储"
+      ],
+      "info_brief": "AI存储需求引爆扩产,SK海力士拟将中国工厂NAND产能提高50%。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "AI存储牛市拐点将至?涨价潮大幅降温,但供需紧缺格局仍将延续两年",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9rMeA_tC7VzvcckZpvQ-YHgBHBHU6ZzFOPUADNEcf_rSP1wbLCLzldsLAnVMRj5QNnOKiCrnqU_GTvQe7ME-LlTkljEUUTQKyDgpkgZ3H-QEmoyIlGagqY7_p5ZBzpegjIA6Rb8ZOVr3HmFbY2PYLE4Ln2hRGaU_b-qe3sa_5dH5e0WC6Sbi7DA..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
+      "source": "周见大势",
+      "sources": [
+        "周见大势"
+      ],
+      "publish_date": "2026-08-11",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "市场对于本轮AI存储繁荣周期的持续性争议愈发激烈.综合多家华尔街权威投行最新研判,行业核心格局已然清晰:存储芯片大幅涨价...",
+      "matched_keywords": [
+        "AI存储"
+      ],
+      "info_brief": "AI存储牛市拐点将至?涨价潮大幅降温,但供需紧缺格局仍将延续两年。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "【行业分享】AI驱动存储超级周期 业绩暴涨却遭遇股价回调",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnImSxR8VYalAbLySqQN0poNFqXa8Fplpd9_xNBIw_yFqRXee48DGi4_pOMSfVCp69xhqYNi9b8ODbDn5VENgoszGd5EqIrDeCkr9-jbWKHUtRvv8CM81r1FY_8ctnAWPcSIwQSGAw3LWAZ-cSN_oNbjIR0jw4M1plYI6lwyBGm66owQxJ9J-T_cvz_QRvSqKT_f6GcGnPHV63P28temKTOwg..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=5BE99EFA13CFAF7AFAFDA2BC89DF88A2FBAF87906A83A884",
+      "source": "CPCA印制电路信息",
+      "sources": [
+        "CPCA印制电路信息"
+      ],
+      "publish_date": "2026-08-11",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "PC、手机存储份额持续收缩;铠侠超六成收入来自数据中心SSD,嵌入式闪存增速不足AI存储1/3;三星产能优先向服务器、HBM等算...",
+      "matched_keywords": [
+        "AI存储"
+      ],
+      "info_brief": "【行业分享】AI驱动存储超级周期 业绩暴涨却遭遇股价回调。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "家具化保险柜带动场景融合，可联合家装类目设置组合套装与样板间种草。"
+    },
+    {
+      "title": "2026年上半年中国智能眼镜市场销量同比大增85.5%",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIxGYtu_SMArrLySqQN0poNFqXa8Fplpd98SSwmW9LaX9UzxrL1KTQciWHrGzr4hamAmp_QSncRrHaKCe2OirkrSgD91cFqQz49gq_Zf8TgtwznALV2hoolyNQVjPe1zoYj7swZEMPC7VRtXhsX3ZYAhYkbaaBo886Lryj-9DoLyPRVui1MSZEOrgou6HMSwtoBIvKz4GL2anP28temKTOwg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=5BE9F80AC71A65AF302969685C104E9030552A416A83A895",
+      "source": "电器微刊",
+      "sources": [
+        "电器微刊"
       ],
       "publish_date": "2026-08-14",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "AI 需求驱动的物理存储硬件,则真正迎来了确定性的业绩爆发. 从技术盘面分析,该标的前期曾经历了一轮标准的头肩顶跌破形...",
+      "category_id": "ai-glasses",
+      "summary": "根据洛图科技(RUNTO)发布的数据显示,2026年上半年,中国智能眼镜市场的全渠道销量为90.9万台,同比增长85.5%;销售额为...",
       "matched_keywords": [
-        "AI存储"
+        "智能眼镜"
       ],
-      "info_brief": "8月14日晚.Ai存储赛道基本面和未来1年投资前景分析精粹.闪迪继续暴涨!Filcoin 预言中了存储需求却成了先烈!要不要跟进闪迪?。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "AI存储弹性最大的5个方向",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9PkQMXIPZ7IsieoYpR753XYllrsXb10gsSD6Y2AiZf7umLon0E7U9bprzOVeSpmzLYBqrocBYPLFKnx19xl86XmiqMOaDO1GInV0Wsgx47m8V5jBbERLPjFPaBtG5_PXcj5_f4DtnCBcIgFYsTH8iVouOfbhpWhmoLxQdB4KVKpHRtmyIGw2VAg..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
-      "source": "AI研投",
-      "sources": [
-        "AI研投"
-      ],
-      "publish_date": "2026-08-10",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "各位,今日AI研投继续更新研究观点.8/13中芯国际二季度业绩+闪迪投资者日同日落地,存储链将迎来年内最重要的＂景气验证周＂...",
-      "matched_keywords": [
-        "AI存储"
-      ],
-      "info_brief": "AI存储弹性最大的5个方向。",
-      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
-      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
-    },
-    {
-      "title": "存储盛会 | AI存储,驱动未来!9月22-23日,GMIF2026创新峰会亮点抢先看",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9wdbEgg2rCdX3dfOYEM1IwmI7S8QL-6x3d60Rxgw_8tDWyEsaoTDxlOTUNjFxrA2XYXS5qKcUENMYNAehHgKIQWLZcNF-WMommTuWHbcyYPnnYNN5b_pgJcUBgQzo7lT7I3ComvYj5UAEGXhHYzPdYNf9aRGmkq64yPv8SH0xDhUCn9lOoZLP2Q..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
-      "source": "半导体芯情",
-      "sources": [
-        "半导体芯情"
-      ],
-      "publish_date": "2026-08-10",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "AI存储正从后台的数据保存资源,升级为支撑Token生成、缓存、检索、调度与沉淀的关键底座.与此同时,AI负载正从云端数据中心...",
-      "matched_keywords": [
-        "AI存储"
-      ],
-      "info_brief": "存储盛会 | AI存储,驱动未来!9月22-23日,GMIF2026创新峰会亮点抢先看。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "AI存储见顶了?还是黄金回调?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHxSy0YUHhL2hyZ-W7ccS44VqXa8Fplpd9pYcO2TJD1GhLKFVIaWZOEspEhy8K-Or9BXy_EooaA41x8qvtawQq6gbnXphE1zE60zNgmnN8cgqj4Tsxbjb252c7GN5uMjHtLXC1PBKm8zl1Ks-btXPDupCTBWRO0HgccEyXwBRe5U9th9UryUbXDJeQSX4pZSnt_b8q4p8MMA6q3X8EKMKOIA..&amp;type=2&amp;query=AI%E5%AD%98%E5%82%A8&amp;token=544511A00C944707090C503A599D20910A8B741C6A8256F8",
-      "source": "精选图大全",
-      "sources": [
-        "精选图大全"
-      ],
-      "publish_date": "2026-08-10",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "闪迪财报炸裂,股价却大跌:SNDK到底是见顶了,还是AI存储的第二次上车机会?如果只看财报,闪迪这次几乎可以用两个字形容:...",
-      "matched_keywords": [
-        "AI存储"
-      ],
-      "info_brief": "AI存储见顶了?还是黄金回调?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "完成Modular收购，高通瞄准数据中心、基础设施、个人及工业AI",
-      "url": "https://www.leiphone.com/category/chips/f6iZg80ZvYz2BZmN.html",
-      "source": "雷峰网",
-      "sources": [
-        "雷峰网"
-      ],
-      "publish_date": "2026-08-13",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "要点： Modular的AI原生软件平台与高通技术公司的解决方案优势互补，加速推动从端到云的生成式与智能体AI技术落地。 高通技术公司与Modular携手打造领先的AI计算平台，可应用于数据中心、边缘基础设施、个人与工业AI等多个高增长领域。 Modular将继续秉持开放生态系统的使命，Mojo、MAX和Modular Cloud也将继续作为产品和品牌运营。 近日，高通技术公司（NASDAQ...",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "完成Modular收购，高通瞄准数据中心、基础设施、个人及工业AI。",
+      "info_brief": "2026年上半年中国智能眼镜市场销量同比大增85.5%。",
       "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
       "title": "AI眼镜的下一场竞争,讯飞已经抢跑了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHiCgBBUqMB6hyZ-W7ccS44VqXa8Fplpd9XoA06p9xSGgu6k6LX0cx0hI8ryTPPJuVFtuZPWDzGwm4tzsYvWFCK11--C6ydf69cSNtGpJbuBEkQpM1NBq3hOnOJ5_ulJA1sHlmg5Wf9R6Ob0I363ZxQOXP8ve3JH2l57vCIwpwDgIq-x2Yw4WDRJxkznqrctD7w30RbIyUS2Q89kyxDwoXvg..&amp;type=2&amp;query=AI%E7%9C%BC%E9%95%9C&amp;token=54456CBB71ED3E7E74722D472701F70C74358F296A825707",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnISXQyFT7dai3LySqQN0poNFqXa8Fplpd9-AUjDW0cSOvXo_qivCTK6jNd7kcOdaCarmMkNI21YdwpuEF-qHWkhK5pSjGPnWwlbJPbwMAbUhWl9RgW4GF66woc4DUPScpPVx-fz5FPqEXEqsZJTe9WApma14JidYr7WXa5Tf1ofui4f9vz1YJ5O2HugURELeKI8FH0apBld9gCYioxHkzTmA..&amp;type=2&amp;query=AI%E7%9C%BC%E9%95%9C&amp;token=5BE9E56E01DFBC6AEAECB0AD9B017D92EA135DAD6A83A891",
       "source": "雷科技",
       "sources": [
         "雷科技"
@@ -383,56 +347,111 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求",
-      "url": "https://www.ithome.com/0/990/408.htm",
-      "source": "IT之家",
+      "title": "玄景 M6 磁吸模块化 AI眼镜,告别整机迭代焦虑!能拍能显自由升级",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnISXQyFT7dai3LySqQN0poNFqXa8Fplpd9DEQkQBZw4G5daOTRSdishGtkdIKeEfP0Dh0J4b6mWObvJ36hRHJQ2xlNCdrve247u9hcJuB0ADWa2rSiJ7r0mwp4wiVQH4av2w9YInV2dn3A-1MiBlfihP37f-udSAcMR09gGIX_UrP2LQ8fHSooBptISZXF3NnrBaZwkc6tJW95Nu7CnoSqqg..&amp;type=2&amp;query=AI%E7%9C%BC%E9%95%9C&amp;token=5BE9E56E01DFBC6AEAECB0AD9B017D92EA135DAD6A83A891",
+      "source": "AI元素视野",
       "sources": [
-        "IT之家"
+        "AI元素视野"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-14",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 8 月 17 日消息，Linux 内核终于将时间戳计数器（TSC）设为 x86 处理器的硬性要求，而微软早在十多年前就已经开始将其作为兼容 Windows 系统中高精度计时的首选依据。 Linux 内核近期提交的一项修改，移除了剩余的配置逻辑，使 x86 内核无法在不支持 TSC 的情况下进行构建。这项提交名为“x86/cpu: Make CONFIG_X86_TSC uncond...",
+      "category_id": "ai-glasses",
+      "summary": "当大多数智能眼镜还在 整机绑定功能,玄景 MLVision 拿出了不一样的解法 玄景 M6 AI 显示拍照眼镜.磁吸模块化架构,基础...",
       "matched_keywords": [
-        "处理器"
+        "AI眼镜"
       ],
-      "info_brief": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "玄景 M6 磁吸模块化 AI眼镜,告别整机迭代焦虑!能拍能显自由升级。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器",
-      "url": "https://www.ithome.com/0/990/407.htm",
+      "title": "别让智能眼镜沦为偷拍工具",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIxGYtu_SMArrLySqQN0poNFqXa8Fplpd9KwPcC4rgoi3Fwfrzsc3HvLrubu7Yf8E4AZnS74LFJNEe1vhmxM-jEWZNJtsaV6OemS6zVIsfHdUPa8b6bXZTjte4XQGazHK0WljzxGUWtDnT5LfpO-RqY1ZjnwmRMMaHOHEt74i2dFFHGW-RZJtJ5TMMXkiAiOUbO1L6lpEMJmSq3X8EKMKOIA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=5BE9F80AC71A65AF302969685C104E9030552A416A83A895",
+      "source": "新京报",
+      "sources": [
+        "新京报"
+      ],
+      "publish_date": "2026-08-13",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "撰稿 / 张西流(职员)编辑 / 徐秋颖 校对 / 付春愔当前,智能眼镜正加速进入人们的生活.但据《工人日报》报道,在方便随时记录日...",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "别让智能眼镜沦为偷拍工具。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "智能眼镜成行走的隐形摄像头,技术便利不能偷走公共空间的安全感",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIxGYtu_SMArrLySqQN0poNFqXa8Fplpd9uH33mwiCKgTIyy6djzxpe28R2AjBq-yTd_KAbbxgKa0Us39GRdtkM8m5yOS5jxhEZgGKa1MizqA9cJBaHWQxMfBL96x3TBiK0qRxSuczjTGdjjVQIxNcPgnOsmN1pJgrlDG72XQ5VPxAa4qHBArEGk5RQbtHSxVAe6BPsXkoyDJe0WC6Sbi7DA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C&amp;token=5BE9F80AC71A65AF302969685C104E9030552A416A83A895",
+      "source": "检察日报正义网",
+      "sources": [
+        "检察日报正义网"
+      ],
+      "publish_date": "2026-08-13",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "摘要让智能眼镜摘掉行走的摄像头这顶帽子,回归它应有的技术价值,需要的不仅是道德呼吁,更要有从法律到生产标准的回应....",
+      "matched_keywords": [
+        "智能眼镜"
+      ],
+      "info_brief": "智能眼镜成行走的隐形摄像头,技术便利不能偷走公共空间的安全感。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "剑指苹果 MacBook Neo：联想 IdeaPad Vibe 笔记本规格曝光",
+      "url": "https://www.ithome.com/0/990/897.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 8 月 17 日消息，消息源 smashx_60 发文，透露 HMD Global 即将推出一款 HMD 2760 Flip 4G 翻盖机，该机提供黑色、青色和粉色三种选择，整体造型沿用诺基亚 2760 Flip，延续 2.8 英寸主屏、1.77 英寸外屏、500 万像素主摄。 该机最大的特色是运行基于安卓 13 Go 的“Icon OS 13”系统，作为参考，先前诺基亚 2760...",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 Windows Latest 今天（8 月 18 日）发布博文，分享了联想 IdeaPad Vibe 14 和 IdeaPad Vibe 15 两款笔记本的规格参数。 芯片方面，除了下文提及的 AMD 锐龙系列处理器外，联想还计划为 IdeaPad Vibe 笔记本推出高通骁龙系列芯片版本。 联想 IdeaPad Vibe 14 规格如下： 参数项 ...",
       "matched_keywords": [
+        "笔记本",
         "处理器"
       ],
-      "info_brief": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器。",
+      "info_brief": "剑指苹果 MacBook Neo：联想 IdeaPad Vibe 笔记本规格曝光。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "英特尔副总裁确认 Nova Lake 处理器平台率先登陆桌面端",
-      "url": "https://www.ithome.com/0/990/388.htm",
-      "source": "IT之家",
+      "title": "豆包“工作任务”升级，支持手机远程操控电脑",
+      "url": "https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html",
+      "source": "雷峰网",
       "sources": [
-        "IT之家"
+        "雷峰网"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 8 月 16 日消息，英特尔发烧友渠道业务副总裁罗伯特 · 哈洛克近日接受 Tom's Hardware 采访时透露， Nova Lake 平台将率先登陆桌面端 ， 而非服务器端 。 当问及英特尔如何应对 AMD 的 Venice 时，哈洛克表示：“我认为这对他们来说是很自然的反应，也非常合理。但从我们自己的路线图来讲，我现在有一个全新的核心，它将率先登陆桌面端。希望发烧友能够自己...",
+      "summary": "近日豆包发布产品更新，“工作任务”模式新增手机远程控制电脑功能。同一账号授权后，用户在手机端下达任务指令，可以由已连接的电脑端读取本地文件、操作软件完成执行，进度和结果实时回传手机，帮助用户在通勤、离开工位等各类场景中自动执行任务，提升效率。 今年6月豆包上线“工作任务”模式，AI 可在授权后直接操作本地电脑和浏览器。此次更新把操控任务扩展到手机端，支持关联多台电脑，可跨设备调取文件。豆包官...",
       "matched_keywords": [
-        "处理器"
+        "电脑"
       ],
-      "info_brief": "英特尔副总裁确认 Nova Lake 处理器平台率先登陆桌面端。",
+      "info_brief": "豆包“工作任务”升级，支持手机远程操控电脑。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "2026年办公用AI,电脑配置怎么选才不翻车?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIUJmUumtHAFjLySqQN0poNFqXa8Fplpd9Txttzzm6eHN87i1DNlAzLJW9vPwP9_ZfoOwBeSN2zXuJ6LSOGhTq1vZOfPUXlLEqVrwhCowP-3Ec00Oetyh9g0AAn-dozWY2oRaxOJ8xQAZgpXfg9Ue8z70N-7qqOK0bsTJczFEApH1Z5radnQJC5Fmma4UnPbzkqTTf5yS1_ygSYTqT4eyLmA..&amp;type=2&amp;query=AI%E7%94%B5%E8%84%91&amp;token=5BEAF19666BADB0E8F89D7C9FB74D1FE8F664CCF6A83A8C5",
+      "source": "道耘文娱",
+      "sources": [
+        "道耘文娱"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "很多人问我,现在办公用 AI,电脑到底该怎么配?其实不用买太顶级的,关键是看参数.这里有一份基于实测的参考清单,帮你避坑....",
+      "matched_keywords": [
+        "AI电脑"
+      ],
+      "info_brief": "2026年办公用AI,电脑配置怎么选才不翻车?。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
@@ -455,77 +474,113 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
     },
     {
-      "title": "广达与霍尼韦尔旗下 Quantinuum 达成合作，共同开发新一代量子计算机",
-      "url": "https://www.ithome.com/0/990/390.htm",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果",
+      "url": "https://www.ithome.com/0/990/862.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 8 月 16 日消息，广达电脑前日宣布与霍尼韦尔旗下量子计算企业 Quantinuum 达成合作， 双方未来将联合开发新一代量子计算机的硬件 。 IT之家了解到，广达将与 Quantinuum 共同研究量子计算系统，使其走向模块化扩展方向。两家公司的合作重点将放在工业设备和硬件生态，试图将日益复杂的量子处理器转化为真正可部署的系统。 当前阶段，量子处理器需要复杂的激光器、真空系统、...",
-      "matched_keywords": [
-        "电脑",
-        "处理器"
-      ],
-      "info_brief": "广达与霍尼韦尔旗下 Quantinuum 达成合作，共同开发新一代量子计算机。",
-      "opportunity_insight": "品类边界正在被重构，跨场景组合销售与生态联动成为新增长点。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "苹果 macOS 屏幕共享高危漏洞已遭黑客利用，攻击者可远程获取 Root 权限",
-      "url": "https://www.ithome.com/0/990/429.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 8 月 17 日消息，荷兰国家网络安全中心（NCSC-NL）8 月 12 日报告称，攻击者正在积极利用编号为 CVE-2026-65400 的 macOS 屏幕共享身份验证绕过漏洞，攻击 TCP 5900 端口暴露在互联网中的 Mac 电脑。在该机构收到的每一起相关事件中，攻击者都获得了 root 权限，并安装了门罗币（Monero）加密货币挖矿程序。 IT之家注意到，苹果已于 8...",
+      "summary": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册 Apple Beta 版软件计划 ，之后通过【设置】【通用】【软...",
       "matched_keywords": [
         "电脑"
       ],
-      "info_brief": "苹果 macOS 屏幕共享高危漏洞已遭黑客利用，攻击者可远程获取 Root 权限。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+      "info_brief": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元",
-      "url": "https://www.ithome.com/0/990/397.htm",
-      "source": "IT之家",
+      "title": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动",
+      "url": "https://www.leiphone.com/category/industrynews/oPaTgFaL1gq7bkRC.html",
+      "source": "雷峰网",
       "sources": [
-        "IT之家"
+        "雷峰网"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 8 月 16 日消息，雷克沙近日宣布推出 PexarBolt Ultra 扩展坞，该产品主打高端定位，拥有多个雷电 5 接口，还带有 5 英寸触屏、NVMe 扩展插槽，目前已在海外市场开启众筹。 据介绍，这款扩展坞配备 3 个雷电 5 接口，带宽可达 80Gbps， 支持向笔记本设备提供 140W 电力 ，并支持下行 15W 供电。搭载 DisplayPort 2.1 和 HDMI...",
+      "summary": "2026年8月12日，小米服务宣布：针对江苏8市、浙江全省、上海地区受台风影响造成损坏/故障的小米产品，提供免费检测、免费维修服务，风雨同舟，全力护航。 本次服务品类涵盖Xiaomi/REDMI手机、平板、笔记本、手环、手表、耳机等3C品类及全线智能家电产品，服务内容包括：免费检测、免费清洁、免费维修（针对受灾导致的进水故障）等。用户可通过小米服务小程序、热线950816及线下门店预约，服务...",
       "matched_keywords": [
         "笔记本"
       ],
-      "info_brief": "雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元。",
+      "info_brief": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起",
-      "url": "https://www.ithome.com/0/990/396.htm",
+      "title": "狂飙的AI，成了手机“斩杀线”上涨的新幌子？",
+      "url": "https://www.tmtpost.com/8101636.html",
+      "source": "钛媒体",
+      "sources": [
+        "钛媒体"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "AI手机狂热背后，厂商又找到了涨价的理由。",
+      "matched_keywords": [
+        "手机",
+        "AI手机"
+      ],
+      "info_brief": "狂飙的AI，成了手机“斩杀线”上涨的新幌子。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
+      "url": "https://www.ithome.com/0/990/871.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 8 月 16 日消息，开罗游戏（Kairosoft）现已在 Steam 平台上架暑期捆绑包。本次上架的捆绑包产品共有 16 款，国区售价 14.4 元起， 含开罗在 Steam 上架的 62 款游戏 ，IP 联动作除外。 作为参考，开罗游戏是一家位于日本东京的手机游戏、电脑游戏和游戏机游戏开发商，旗下作品大多是模拟经营类型，画面多为像素风格。 IT之家附各捆绑包详情如下： Vol....",
+      "category_id": "ai-phone",
+      "summary": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期延长至 5 年。在安卓 17 QPR...",
       "matched_keywords": [
-        "电脑"
+        "手机"
       ],
-      "info_brief": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "豆包“工作任务”升级，支持手机远程操控电脑",
+      "url": "https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "近日豆包发布产品更新，“工作任务”模式新增手机远程控制电脑功能。同一账号授权后，用户在手机端下达任务指令，可以由已连接的电脑端读取本地文件、操作软件完成执行，进度和结果实时回传手机，帮助用户在通勤、离开工位等各类场景中自动执行任务，提升效率。 今年6月豆包上线“工作任务”模式，AI 可在授权后直接操作本地电脑和浏览器。此次更新把操控任务扩展到手机端，支持关联多台电脑，可跨设备调取文件。豆包官...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "豆包“工作任务”升级，支持手机远程操控电脑。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "iQOO Neo11 至尊版手机官宣搭载新一代 Monster 超核引擎，支持《开放世界手游》60 帧 + 极高画质",
+      "url": "https://www.ithome.com/0/990/857.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 8 月 17 日消息，iQOO 官方今日继续预热 iQOO Neo11 至尊版手机，此次介绍了其游戏体验。 新机确认搭载新一代 Monster 超核引擎 ，支持《开放世界手游》60 帧 + 极高画质，宣称 1 小时边充边玩全程满帧。 新机还搭载全新 8K 冰穹 3D VC 散热， 均热性能提升 5% ，宣称“CPU 10 秒骤降 15℃”。 另外， iQOO Neo11 至尊版还通...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "iQOO Neo11 至尊版手机官宣搭载新一代 Monster 超核引擎，支持《开放世界手游》60 帧 + 极高画质。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
     },
     {
       "title": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
@@ -544,24 +599,6 @@ window.__NEWS_DATA__ = {
       "info_brief": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "AI手机,相关公司分类梳理(附名单)",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHuzzafCoYIZ1yZ-W7ccS44VqXa8Fplpd9BmFa2gcJvKY2tTMe9hU7JNsKP_4SPIRa7sA8j5YQk-O54WXgHOOluRHgbaAOxDzgexttj7pMZ16_rmJeBi-gIDNKe26qYiYJu2Ugdfa2DkYrtCWRYPVcR6a8qpo0_XlDO8GW9Tk74h8RJjT6JB1SqJlxTarLoGTjO05njiAVJGV5LU3lqtPw9g..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5447B14E27BF6C2C222478127B1FAB5922838CBC6A825757",
-      "source": "科技题材汇",
-      "sources": [
-        "科技题材汇"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "AI手机凭借端侧大模型落地,带动手机硬件升级迭代,呈现高算力、高散热、高存储、高清影像、强射频通信的升级特征,产业链涵盖...",
-      "matched_keywords": [
-        "AI手机"
-      ],
-      "info_brief": "AI手机,相关公司分类梳理(附名单)。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
@@ -583,7 +620,7 @@ window.__NEWS_DATA__ = {
     },
     {
       "title": "当AI走出屏幕:一部会动的手机,和荣耀的下一站",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHuzzafCoYIZ1yZ-W7ccS44VqXa8Fplpd9shOi1ptYIs-zB5tEzPUWDe58iKlDxbvdAqze8MndZRzsUTiT5vVJ7CAnWVLuxHVRQCOSpOwQCtoO_YmMUtEBcT-fEQ0intwSfNuBn4VWzvQKJHmS5wVNqF8KIbxOGmokkGO5tUX5qDfMEXr5N9F-668S9CYwEKpyUD8lT9B2e4WrCDCayYmfpA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5447B14E27BF6C2C222478127B1FAB5922838CBC6A825757",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnI4iMSBM3NQU3LySqQN0poNFqXa8Fplpd9CV7wg90N_IP_TGmVAX2s3BEUVoKT5pfuygyCbe3p1nYkW_qaAOPRGsoa9Zwnbt0V_6MkdFClt5vVM1aqzNFGUWAtwTlR70r-kq4nL1DYRrOu4FHUlG2wlYA8Q0BMtuA4IJ2TgMHhgncLu0VmQS7zvea4pbgB5pThCOP6OZu03WISYTqT4eyLmA..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5BEB368112CCAF79F9FCA0BD8C41EF0AFA98A5696A83A8D1",
       "source": "国际金融报",
       "sources": [
         "国际金融报"
@@ -601,7 +638,7 @@ window.__NEWS_DATA__ = {
     },
     {
       "title": "二代豆包AI手机发布,这次能卖得动吗?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHuzzafCoYIZ1yZ-W7ccS44VqXa8Fplpd9sQ0NJEaHubwxk2aXik8u5zaYV28Ne74s1O68uOjeiYqBEIeqZ6itQqMr3Gg_aARMpiWIo1DczVwbvLr_7Hb5p2aHwZbOBvrvB44auPA-B8gZQRaK67WHslsydYTNDpavuf9Psn9uVyP4NL7ShGVhcGB_O4u7l6s_IGMmycYwrfV5Nu7CnoSqqg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5447B14E27BF6C2C222478127B1FAB5922838CBC6A825757",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnI4iMSBM3NQU3LySqQN0poNFqXa8Fplpd9V0LJ6pFDp1ff_v8Im_aaxyVkeXO_mSZirdkVEH2nmWUXusDeeUMgQTbBLGAEv3rRqAEYxx625MDNBPyNI1SydjXqBRc9W043QE2caboYKZcDd4Uvpmq7vWIoe_iif2zyu2jIM5ajGwSG76d_NnMQx7tJ6DYJgPkrknDamJ9Y1lGjotuuiAmOIg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5BEB368112CCAF79F9FCA0BD8C41EF0AFA98A5696A83A8D1",
       "source": "三节课",
       "sources": [
         "三节课"
@@ -618,26 +655,8 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "AI已经会操作手机了,为什么还不能放心交给它?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHuzzafCoYIZ1yZ-W7ccS44VqXa8Fplpd9C7DzaJNMuNr7norNY3Z96EbmEFdDxlEEfcQnTGFuLdYDiegxMgjIpHPP2IIcGzFZNDctmax_grtTCsqRkpxVmvi7uom4YPvNJParL_L8_E_d6P1ERKVtM1LNJRk2twuYtVT3aaXIv4_kLZPtZI-heprO_2nQNMghiXgDJlxPrv95Nu7CnoSqqg..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5447B14E27BF6C2C222478127B1FAB5922838CBC6A825757",
-      "source": "ZOL中关村在线",
-      "sources": [
-        "ZOL中关村在线"
-      ],
-      "publish_date": "2026-08-11",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "AI手机应该是什么样?过去十几年,手机的使用方式一直没有太大变化.当你想干一件事,你需要下载好对应的App,然后手动操作....",
-      "matched_keywords": [
-        "AI手机"
-      ],
-      "info_brief": "AI已经会操作手机了,为什么还不能放心交给它?。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
       "title": "今年最期待的 AI 手机,要凉了?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHtbfnCpAT2ypyZ-W7ccS44VqXa8Fplpd98xpT0Hg5Rx6AjlQYikn22MgmVA92zflFVvm-moL1UE-wQvetydEL3z73etGxFdiJx_yIr-0AlHwsrHu9HmNyevamF63L8e0g-IwGHtQkNjlJl4zhlk0xdHNcVkb-K3d82TEItZCG-KZvdzVWHKXnUtvSslK5RgbwNq3i8k5eLbC00NVofL2iDw..&amp;type=2&amp;query=AI%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA&amp;token=5447C98D61FA296964653A573A10EDFB644EF9016A82575B",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIC_dPeMassO_LySqQN0poNFqXa8Fplpd9dnc4u8i7t_i9Z9UNGXgeG0kpn7_gPw5nCJdIPHrRGVHKU4kJMkVtHfSr5pX4HePdSW7CZg5xLP1Bp6WzOHBpHI3GS_L0-XNuoW_Uv5UQ-bCTSIZBTVsyXtmA-RzvcI6crJa9R6CW0A1EZWW55aTm9Vl52FsFnCtwyDXWO4rOiczP28temKTOwg..&amp;type=2&amp;query=AI%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA&amp;token=5BEB49500AD4B761E1E7B8A6940C72A1E2EBA0D06A83A8D5",
       "source": "爱范儿",
       "sources": [
         "爱范儿"
@@ -654,44 +673,80 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "AI手机这一年:一条路撞上了现实,另一条路开始长出来",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHuzzafCoYIZ1yZ-W7ccS44VqXa8Fplpd9qrRWTYX9T2qCrtw3twUeSeyB5oXa_0reQxF_8f0t6tpnzzgDsCQAquFXMfxBnKMAUauBvBX9bChDClMVSjVmSBeO9uS-ynq5bsxx7Nelv54GnX5jOZe7RUFamuS_P1O26oxAuGAL4ukldVZA7tknRjPri2RF76oBPL7cRxhAbJ36zvkPgoArRQ..&amp;type=2&amp;query=AI%E6%89%8B%E6%9C%BA&amp;token=5447B14E27BF6C2C222478127B1FAB5922838CBC6A825757",
-      "source": "21世纪经济报道",
-      "sources": [
-        "21世纪经济报道"
-      ],
-      "publish_date": "2026-08-10",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "没有人想到,一台没有召开正式发布会的技术预览机,会成为AI手机过去一年最具标志性的行业事件.2025年末,豆包手机1.0努...",
-      "matched_keywords": [
-        "AI手机"
-      ],
-      "info_brief": "AI手机这一年:一条路撞上了现实,另一条路开始长出来。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起",
-      "url": "https://www.ithome.com/0/990/396.htm",
+      "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
+      "url": "https://www.ithome.com/0/990/880.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 8 月 16 日消息，开罗游戏（Kairosoft）现已在 Steam 平台上架暑期捆绑包。本次上架的捆绑包产品共有 16 款，国区售价 14.4 元起， 含开罗在 Steam 上架的 62 款游戏 ，IP 联动作除外。 作为参考，开罗游戏是一家位于日本东京的手机游戏、电脑游戏和游戏机游戏开发商，旗下作品大多是模拟经营类型，画面多为像素风格。 IT之家附各捆绑包详情如下： Vol....",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员工提供约 8800 元人民币的短期签...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "苹果 iOS 27 改善跨平台互联，iPhone 17 等可直接回复安卓绿色气泡信息",
+      "url": "https://www.ithome.com/0/990/877.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 MacRumors 今天（8 月 18 日）发布博文，报道称在 iOS 27 系统中，iPhone 17 等兼容机型可以在“信息”（Messages）应用中， 直接回复来自安卓手机的绿色气泡消息，接收方会看到与原消息关联的聊天式回复。 IT之家注：在 iPhone 17 等机型上，绿色气泡通常代表来自安卓手机的消息。 操作方式与回复 iMessage...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "苹果 iOS 27 改善跨平台互联，iPhone 17 等可直接回复安卓绿色气泡信息。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
+      "title": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动",
+      "url": "https://www.leiphone.com/category/industrynews/oPaTgFaL1gq7bkRC.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "2026年8月12日，小米服务宣布：针对江苏8市、浙江全省、上海地区受台风影响造成损坏/故障的小米产品，提供免费检测、免费维修服务，风雨同舟，全力护航。 本次服务品类涵盖Xiaomi/REDMI手机、平板、笔记本、手环、手表、耳机等3C品类及全线智能家电产品，服务内容包括：免费检测、免费清洁、免费维修（针对受灾导致的进水故障）等。用户可通过小米服务小程序、热线950816及线下门店预约，服务...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代",
+      "url": "https://www.leiphone.com/category/private/aUhbF0DAHdEEWDDY.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "秒级前馈生成、Neural ODE 物理碰撞与真实抗噪建图，3DGS 正演变为机器人模仿学习的数字孪生工厂。 作者丨张 璐 编辑丨齐铖湧 在过去两年的 3DGS 研发浪潮中，我们经常看到这样的奇观：算法在论文里跑出了惊艳的 3D 渲染画面，但一拿到真实手机或机器人上，立刻卡成ppt甚至崩溃。 “能在实验室发论文”与“能在工业现场干活”之间，隔着一条残酷的工程鸿沟。 到了 CVPR 2026，...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
       "title": "嵌入式物联网AI就是修硬件吗?真实就业岗位大盘点",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHXIfOupTF22dyZ-W7ccS44VqXa8Fplpd96zjexJRwAdWpCDfWCZ9CU0bmNvIxHJMqQ8NyPNKwQxinn2Dbmx5NgBxWP4QWAdy-74owXU680yumHITdtA5P-SBBDJuHkeMMsQtR4Ly2KtmqHMBk6_Ljq9a5TGuJ7Jo4heCW4BAFUWvOGWbXFg1sXeC8c_hXA9MN0uYfrNt9funP28temKTOwg..&amp;type=2&amp;query=AI%E5%AD%A6%E4%B9%A0%E7%A1%AC%E4%BB%B6&amp;token=54487FE642D90B4B47411E751D47B1574754CE386A825775",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIE-Td6C-Z1frLySqQN0poNFqXa8Fplpd9aqPEU5Qew5qj7usVlM8JKdLgn49CmTobdcJZcWybMiSzu5x31Hl3ghx-mCn7o1zoolt9c6L-4QJwmvA_y7dlMCn1QiKMGEha1617b7Jomsk1Av_Wbqd1Evi8kyWMQ_G-DrfGS7MRaKNEsb8l4XRA6KueFJqtBznKZFUbRdeqc6LRtmyIGw2VAg..&amp;type=2&amp;query=AI%E5%AD%A6%E4%B9%A0%E7%A1%AC%E4%BB%B6&amp;token=5BEBDCF48C5131E465633C231DE5159C65AF0E786A83A8EF",
       "source": "思途科技在线",
       "sources": [
         "思途科技在线"
@@ -708,56 +763,20 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "新盟推出 98% 配列三模机械键盘 C101：可选猫耳键帽，299 元起",
-      "url": "https://www.ithome.com/0/990/384.htm",
+      "title": "谷歌为 Wear OS 引入“查找联系人”功能，LTE 手表机型可独立共享位置",
+      "url": "https://www.ithome.com/0/990/875.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "IT之家 8 月 16 日消息，新盟 (XINMENG) 本周推出了机械键盘新品 C101。其采用 98% 配列，支持三模连接， 可选猫耳版键帽 ， 另提供海盐汽泡、精灵奶昔外观选项 。 ▲ 猫耳版 ▲ 海盐汽泡（上） & 精灵奶昔（下） 这款键盘机身采用 PC + ABS 材质，外部环绕以高透光层；内部则 采用 Top 固定结构 ，1.2mm 单键开槽 PCB 支持轴体热插拔、集成下灯位 ...",
-      "matched_keywords": [
-        "机械键盘"
-      ],
-      "info_brief": "新盟推出 98% 配列三模机械键盘 C101：可选猫耳键帽，299 元起。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "三星首款 24.5 英寸 OLED 高刷面板被曝 Q4 登场，360/560Hz 刷新率",
-      "url": "https://www.ithome.com/0/990/403.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "IT之家 8 月 16 日消息，博板堂本周五曝光了三星显示 2026 年下半年 QD-OLED 面板新品规划。根据爆料，三星将在第三季度和第四季度分别推出两款面向电竞及专业场景的显示器面板新品。 第三季度，三星计划上市两款新品，IT之家总结如下： 其一为 27 英寸 QHD（2560×1440）分辨率、320Hz 刷新率的面板，确认支持 DisplayHDR True Black 但具体等级...",
-      "matched_keywords": [
-        "电竞"
-      ],
-      "info_brief": "三星首款 24.5 英寸 OLED 高刷面板被曝 Q4 登场，360/560Hz 刷新率。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "Apple Watch battery replacement: How much does it cost and is it worth it?",
-      "url": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
-      "source": "Engadget",
-      "sources": [
-        "Engadget"
-      ],
-      "publish_date": "2026-08-15",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
+      "summary": "IT之家 8 月 18 日消息，据外媒 AndroidAuthority 报道，谷歌现已悄悄为 Wear OS 系统引入全新“查找联系人（Find people）”功能，该功能主要提供一系列设置选项，便于用户向其他联系人共享自己的实时位置。 具体来看，相应界面提供的功能有限，用户无法在手表上打开地图查看其他人的位置，只是提供了一个入口，以便用户快速设置共享选项（不过其中大部分设置仍需要通过手...",
       "matched_keywords": [
-        "Apple Watch"
+        "手表"
       ],
-      "info_brief": "Apple Watch battery replacement: How much does it cost and is it worth it?。",
+      "info_brief": "谷歌为 Wear OS 引入“查找联系人”功能，LTE 手表机型可独立共享位置。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
@@ -798,70 +817,269 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "邻居走廊装摄像头正对自家大门?别慌!教你判断侵权 + 全套维权方案",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd9a6nqPLDOc5HNXSPHDhRzOoUMAu7B9pdYqrJyMl_VxaTAHh3P4WvFplwU83cP3wbfIFDfdE0hmUmrI_WcoO5sOwNiTBr9_ndB8F09o98KWs4dA1u6XBIh_XvUSALSdknnX4nJFIUhZaTiUYbhmpxEyKRod1VD6AA1J1AzOk4eJ4pr1dbZWbKUeQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "简法新语",
+      "title": "华为新品上市:3千元档最值得入手的智能手表",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd98JbEmY8_Qc5TQ_Dg1X0TR9cdorz2Yzp6KvpT9dRLXYdHUot1k6CFu-eTk_lPWoQ1IaYFbDCg1YQZVAMbyeX5D5DvyaRZclenEMquUUpGgaq8RC-w34_cS9ejoEaRFzbUA_krY5DUNP6WyQIEltoRSYEKg_X1t7P5gb8KXVjR5Xzf3q8uRDTfkw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "科技小柚",
       "sources": [
-        "简法新语"
+        "科技小柚"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "3千元价格挡位,买智能手表.你会选择 华为、苹果还是三星?如果你是安卓或者鸿蒙用户,想要一款性价比高的可以监测运动、健康...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "华为新品上市:3千元档最值得入手的智能手表。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "Pebble智能手表,被众筹光环影响了市场定位| 9&middot;100失败案例",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9O4s6U5cEwHOAHOj-HAMqdxyYr3vLTMsoYHI7CSOQMMMWoUgh8WM-DYVqiKIbSEnJ6TkjDMG5K6Ns5sRZIAJMQyHZEUWl7DVp1BxLscJz1NS1kNxf8Ewb41D31x0oJJ_JBZ-5gF3TkrwBkRWIIWK1k7Fm9ikzXIikln-gKFEWX_a54z_tGSZTqA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "科创群星",
+      "sources": [
+        "科创群星"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "那一年,智能手表还是一个被嘲笑的品类,苹果和谷歌都尚未入场.斯坦福辍学生埃里克&middot;米奇科夫斯基(Eric Migicovsky)带着一支...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "Pebble智能手表,被众筹光环影响了市场定位| 9&middot;100失败案例。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "199元全能智能表速评功能多到数不过来_1",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9pz6-4qpfZkZ_p_WzWHNODl1EXKbLZwmaqpXxg6itbNUCKxt87AQmI1d3lIOZQoNStkYIFvtz5l3aHV7qpBkgGt4kWcG0Vd1vWklsdi0C1sjjid_XZL6ZWnMH8OIkGTVEWKs-BTRei2qJ5AU-2tr9fW5Y0-aqUILZ4dfTF6hcOKD0OK9DLfgmPA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "吃饱就睡1595",
+      "sources": [
+        "吃饱就睡1595"
       ],
       "publish_date": "2026-08-17",
       "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "日常居住中,很多家庭都会遭遇一件糟心事:隔壁邻居在楼道公共区域私自加装监控摄像头,镜头直直对准自家入户门.家人进出、亲...",
+      "category_id": "smart-watch",
+      "summary": "199智能手表 短板品牌和长期耐用性待验证芯片性能不如大牌 亮点OLED高清屏加人造蓝宝石镜面接电话和打电话和同步联系人和通话...",
       "matched_keywords": [
-        "摄像头"
+        "智能手表"
       ],
-      "info_brief": "邻居走廊装摄像头正对自家大门?别慌!教你判断侵权 + 全套维权方案。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "199元全能智能表速评功能多到数不过来_1。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "373元到手!最便宜的eSim智能手表,荣耀手表4国补后真香!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9P17TL9TnlPoiPCxXskmqn00lo0UMMEY7kFNv9Ng_XN0r2SjTXiBnquTXip3xdgq3OOkv3_eGO20p8i8lkZecE90p9D4E9V3CYLMtF7zHt1WzBURekZz-Q4l5LJOQtZf8-wdEXWTUPHwKG4B1MuDOgV7fivZ-Vp2qbuQmpTfvb3Q6Ebq8fk9diw..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "飞扬的数码生活",
+      "sources": [
+        "飞扬的数码生活"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "之前写了好几款百元级智能手表,像vivo Watch 2、OPPO Watch EVA联名款,毕竟二手老旗舰虽然香,但电池衰减、成色参差不齐,...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "373元到手!最便宜的eSim智能手表,荣耀手表4国补后真香!。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "别把智能手表只当电子表,真正好玩的东西,厂商都偷偷塞进表盘里了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9L8W4BDzWdGQfIigBsVURTHRbvoLLiq5DBkvExNAUfmTdJEuF9E_PtfonwZsdw9jL2O0pHpMS7hbpObOjC8qPmeUxjEegBaRwnC9C_GOkF2AvbvwS8wVIaNBjX8u2JxyksdqtWETQnEeHa4Zye3V7Ptc08PMKVMVs-OnjtlP5OCxOJBjQH7pCxQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "软毛修勾62",
+      "sources": [
+        "软毛修勾62"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "很多人买智能手表,心态特别朴素:看时间、记步数、偶尔回个消息.结果几千块的东西,最后活成了一个高级闹钟.你以为厂商在卖...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "别把智能手表只当电子表,真正好玩的东西,厂商都偷偷塞进表盘里了。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "智能手表老说你深睡不够,别急着换表,这几招比盯分数更有用",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9L8W4BDzWdGQfIigBsVURTHRbvoLLiq5DBkvExNAUfmTdJEuF9E_PtRjogs8_lAb7KALL2IAy4Agl7hrB69ZvpZRKGu7QlYEtQoK4GKjE13K4FO82qjyfrdaSOCPOnGHeiEml-mxstjtxzrloWpSDBb1BMZvNU9AavEaHBmkGDqJj3x9Nw6p-Fg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "软毛修勾62",
+      "sources": [
+        "软毛修勾62"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "现在很多人最容易被智能手表教育的,不是步数,也不是心率,而是第二天一睁眼看到那句睡眠一般.明明睡了快8小时,结...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "智能手表老说你深睡不够,别急着换表,这几招比盯分数更有用。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "2026公认接近完美的5款智能手表,功能全面,8月重点考虑",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9Gz5-YZVhHWF6doITNJoX6EmvWvFIycFq6yzz_FoAcGLqqilOQ877YiZ-y1EvlcxHVgb-TWlzFKPqvn6Lixj7bUb33yFdnrrgx5EzCvBA3qqxVYDj6MNtTVZqqVJXuj4PjdKrSc4lgUCd_ZtUZJwviY9gegxKHWPHykJ-jxvim-hhWLv6O878UA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "阿毛小太阳",
+      "sources": [
+        "阿毛小太阳"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "在全球智能手表出货量中,苹果虽然是份额第一,但并不是统治地位.华为和小米也在这个市场拿到了不少份额,尤其是华为的智...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "2026公认接近完美的5款智能手表,功能全面,8月重点考虑。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "别再乱买智能手表了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9wzNeJKdRG9F7jOtsYU4vTGxrNAwQ_bbHXRpUoBMWu-Th0tvqqV8g0gZyyLl2eOCjVyBfsk8EayfMfhraAczy-QYubh7E2mNy0iPnkDW7nWu6XE49aSfppClYXSVlpR5vmQ2ebNGE_UBoBglWkvBDOXvXdJwBkwcCfWoirHcixLxj3x9Nw6p-Fg..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "中国新闻网",
+      "sources": [
+        "中国新闻网"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "38年老国货品牌研发的智能手表,这次功能全新升级,数量有限.▲点击图片跳转商品详情 这两年大家越来越注重身体健康.所以,...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "别再乱买智能手表了。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "老陈的Temu店:靠智能手表月入百万的避坑实录",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd9eY8nRBulLpe3YqJT4sMCd9EuULqZd_ZenxiJRnXVpC3K6YNGbzzJgOktB_7tV_y_5DIO7Fd1OujgSZFfa1vRCgMkODjL3AIdwEITsC54cfHTaGW4XDNwYnFLUnlrEN-DZ38osGDquE6LVsPyTxAv0p0fdJEUotRiug0D16yigi5e0WC6Sbi7DA..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "跨境电商通",
+      "sources": [
+        "跨境电商通"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "这个靠卖智能手表做到月入百万的卖家,差点因为一次标签错误被平台封店.从月入百万到差点封店的惊魂一刻老陈的仓库里堆满了某...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "老陈的Temu店:靠智能手表月入百万的避坑实录。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "国货老牌掀桌了!智能手表真没有必要买贵的",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIvZWSBKtCqAXLySqQN0poNFqXa8Fplpd93EE0CyP-uBKh5KaGbGTA_2lnPJ8uzklZXWySSJtQtkGUffu-j3VqyPb_-V-78gl9GADD7K4i-447rJBfW6xMWFLR9Qulu6bbRbA7aux-2DPGKgLWbd9adTU9wp-HGF3hU35ia4iwPmI00vfAc64rD2zNC3fsXG7LqmkFCMs1bpfm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&amp;token=5BEE748222FF9E4ACACD938CB45FE012CBEF25876A83A966",
+      "source": "南方都市报",
+      "sources": [
+        "南方都市报"
+      ],
+      "publish_date": "2026-08-16",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "而创维智能手表Watch A80采用220mAh大电池,充满电待机时间长,告别频繁充电!无论是出差旅行还是日常使用,都能为你提供持...",
+      "matched_keywords": [
+        "智能手表"
+      ],
+      "info_brief": "国货老牌掀桌了!智能手表真没有必要买贵的。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动",
+      "url": "https://www.leiphone.com/category/industrynews/oPaTgFaL1gq7bkRC.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "2026年8月12日，小米服务宣布：针对江苏8市、浙江全省、上海地区受台风影响造成损坏/故障的小米产品，提供免费检测、免费维修服务，风雨同舟，全力护航。 本次服务品类涵盖Xiaomi/REDMI手机、平板、笔记本、手环、手表、耳机等3C品类及全线智能家电产品，服务内容包括：免费检测、免费清洁、免费维修（针对受灾导致的进水故障）等。用户可通过小米服务小程序、热线950816及线下门店预约，服务...",
+      "matched_keywords": [
+        "手表",
+        "手环"
+      ],
+      "info_brief": "小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "苹果 watchOS 27.0 开发者预览版 Beta 6 发布",
+      "url": "https://www.ithome.com/0/990/864.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "【 点此直达升级教程 】 IT之家 8 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24R5353a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册 Apple Beta ...",
+      "matched_keywords": [
+        "Apple Watch"
+      ],
+      "info_brief": "苹果 watchOS 27.0 开发者预览版 Beta 6 发布。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "不用摄像头、百元硬件穿墙识别人体!GitHub爆火开源RuView,重新定义无隐私风险空间感知",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd98ylB7tksLBQ2gCmRT7uJyy89vfF9ut27Hys-cuagsbayD5TonCXavyLFOq1XvgOJcNcAU2HyrzXS6A9W9A-dXB1Wmm_7l2x5LgomVAgFMu8bvvzGTpf7hvUhmFu5hAn7tmcFgHYlCNXlDD9uQHK9Xj9bIWrIzrliALCp3WjWl_9e0WC6Sbi7DA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "Wa雨中豪杰",
+      "title": "美国一口气下架数百万件中国设备,摄像头、手表都被盯上,这事不只是安防真相",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9tLuCRQUOES2OxbecFz7GJMAQDX33ufGrftA4uZYhFbwzB9q72C3qyuEkxn4m3rB1uOCRq4AxKjP5SLKg4B3Gpzr1YxLJH_uVWLZ847MZAYnv3oRfYFnQtZy0KoL3lb9zAZsourt_lDZ0WRP7C3OGc79M2zLi26ZNFL9xfcOYAR9FkDr8IT4KYw..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "温茸居16",
       "sources": [
-        "Wa雨中豪杰"
+        "温茸居16"
       ],
-      "publish_date": "2026-08-17",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "导语监控摄像头布满全屋怕泄露隐私、老人独居穿戴监测设备嫌麻烦、仓库/地下室遮挡盲区无法巡检、灾后废墟搜救找不到生命信号&hellip;...",
+      "summary": "的设备,里面既有家用安防摄像头,也有部分智能手表.说白了,这不是一次单纯的品牌风波,而是一套从通信监管延伸到零售渠道的...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "不用摄像头、百元硬件穿墙识别人体!GitHub爆火开源RuView,重新定义无隐私风险空间感知。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "美国一口气下架数百万件中国设备,摄像头、手表都被盯上,这事不只是安防真相。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "铁路摄像头正对卧室?!可操控360度旋转,白天都要拉上窗帘!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd98Yfnymk8eoAP7MK9AbX4PWfJIZBcHS-YnqZAcspMcyZ9LSLRnD8IHR3Z5AeMjdzOaaqUnEX0ED6o9NBuLdWl2eI8eVl5WDg6yMtPCzPMSKxns5-xwrOVcru0IJmPrs56MBYtjjYYdrs78EkJaHw5UXa-9GxV1jL3ALD-kKdIMSU5eBgmN3LoYQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "农耕趣时刻",
+      "title": "高空抛物频发,小区能装摄像头吗?律师详解法律边界与操作指南",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9U9LXkD_CTMJeFD9Eg_qJfUMSbknJabqfSAXrUK_MANdepd1tL_J-LhSjgIMa8mb8QEApMciyDvntU6rKXjIu9BC8XYnQJ3FUNrUKjmyXRQtOUMrvG1rlmvaTyXaAqvca32Q40YcTjANauhnYJsRcvs66YpCTiRLDgEbfl8ikuu6TJmCU1UgHwQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "安徽智立律师事务所",
       "sources": [
-        "农耕趣时刻"
+        "安徽智立律师事务所"
       ],
-      "publish_date": "2026-08-17",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "距铁轨不足五米的民居,竟被铁路摄像头直对卧室,这到底咋回事?陕西汉中宁强县阳平关镇的周先生长期在外务工,其老家住宅距离...",
+      "summary": "然而,摄像头装在哪里?谁来装?会不会侵犯邻居隐私?拍摄到的画面能否作为证据?本文将从法律角度一一解析.一、高空抛物,法...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "铁路摄像头正对卧室?!可操控360度旋转,白天都要拉上窗帘!。",
+      "info_brief": "高空抛物频发,小区能装摄像头吗?律师详解法律边界与操作指南。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "适用戴尔惠普苹果电脑外置摄像头麦克风一体美颜网课超高清直播4k",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd9VBcvWwVSlxAEbQ3yEj62pYGbunJnD_RxcdWOB_WRElpPrF90wk5KiKLCo-1obezMOoRFDeLEi44MOYF84lo9i5_H12HM2A73awS_Pfoq9uqWU4uxMidxO3IDgMO7Qe1JN-0faqB6EjsCk_p-kOdADPMDjPGgdkykSjtwQnV1ELwCn9lOoZLP2Q..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "栀子好券助手",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9R9Jn4iBEx-mkb9_KnxONqWhRRmqqhktPYIwWAM-m-XLqkyU8HmXXa8qv6bKjSvipp9dTnirj6g72Yj2ExsIgtsWp4J8PkCzblDfPas4LtkLnCnxPoCfmzKo-SkN31-p9dM5Idejfjs2PnETlozWkABfowcaSAtkk3Ntt6K0bBePzAjcIGepUqA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "聚友话牡丹",
       "sources": [
-        "栀子好券助手"
+        "聚友话牡丹"
       ],
-      "publish_date": "2026-08-17",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "适用戴尔惠普苹果电脑外置摄像头麦克风一体美颜网课超高清直播4k￥58.00￥79.00已售 79点击这里咨询/下单电脑4K高清无需驱动摄...",
+      "summary": "适用戴尔惠普苹果电脑外置摄像头麦克风一体美颜网课超高清直播4k￥6.90￥29.00已售 13点击这里咨询/下单适用戴尔惠普苹果电脑外...",
       "matched_keywords": [
         "摄像头"
       ],
@@ -870,62 +1088,117 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "摄像头:前有美以定点清除伊朗领导人,后有俄利用针对乌克兰",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd9fAabgPxiB1uNt8Cf2AGs_rJi5m0Rio8nsoPq0ZkRAK1WMZYult7iVTMb90DEs_uo9wC0cHfpKA_jwzwRh3ywn14CyU2fOSRrlyb37IBh-cEEhSkaqsK5MAHf9Rtk4mDi3IVPOpIzoo5utrxtKwOP0ma8Y2MgSkvex7Az8czbTTa54z_tGSZTqA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "河南测评",
+      "title": "酒店房间有针孔摄像头?手机一招就能揪出,学会这几点保命又防骗",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9UsaY0zjsm2XHttSK4MbeMDez9YDNPWFJPA4Ydem1p2INIKk37MpdowxY7qiAw1PajiZlR_vcg3KtNXWqnzfIVNFZcadkQdOb3L--Q1PeNiGrmViRY0Y-8TbaHOHYMHlfVL94Hv8kK5ZMrJgC0SESXu0V4-zUKs--QlCguYiYznCFW6cwuUnkdA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "职场风向标",
       "sources": [
-        "河南测评"
+        "职场风向标"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-18",
       "category": "媒体新闻",
       "category_id": "surveillance",
-      "summary": "而是摄像头网络+通信系统+人工智能+其他情报来源形成的综合定位能力.一台摄像头只能看到一个局部场景,但当成千上万台摄...",
+      "summary": "还有一类摄像头不带红外补光,光靠相机看不出来.这种得换手电筒,专照镜头的反光.保持房间全黑,手电贴着眼睛这边照出去,斜...",
       "matched_keywords": [
         "摄像头"
       ],
-      "info_brief": "摄像头:前有美以定点清除伊朗领导人,后有俄利用针对乌克兰。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "一款400万高清摄像头Mipi接口模组",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd9fKkHSFsZXKjSdOrPsAujZ_TbBcC2zg-gjJrRph0vFe6pQXExo0EN5vf3kLn6SxHtplZloER73KMd0TcPPz0dpfQtFGuvOZ5WIfNefLJXhIyJa259HTe7XqJL8Lljq-T0RTvpEsdK1OA49tbB12hJ1K364iqpJrhRqGWkKIqz-mDy08OLTBhW0A..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "COMS模组影像",
-      "sources": [
-        "COMS模组影像"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "这款OV4689摄像头模组,400万像素搭配大广角镜头,MIPI标准接口,成像清晰稳定,体积小巧易嵌入设备.广泛应用于智能穿戴设备...",
-      "matched_keywords": [
-        "摄像头"
-      ],
-      "info_brief": "一款400万高清摄像头Mipi接口模组。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "摄像头面前的一幕刷屏全网:父母教给孩子的良知,藏在无人看见的地方",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDH4IP2QcThi3lyZ-W7ccS44VqXa8Fplpd9Ell3jqqGPJL8YiTMC7SB-kIhPH41VmizMzHFtqptJ--bcffLcp-0BapeWZjvTogZuWOysUKZ-jRRP5Tcd7vXQ1aIx2XdkbYmfbmlpQjTW67KcnUvWkItfzKgfOQACQsDCyeW85rE2CKD5lhiR5cZHAha77WKuFA6Vx2LyS6_5gwSYTqT4eyLmA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=544D88FFDA4193D2DFD887EDB8CEDBE6DFA2D8A96A82583F",
-      "source": "元知心语",
-      "sources": [
-        "元知心语"
-      ],
-      "publish_date": "2026-08-16",
-      "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "摄像头可以记录行为,却无法强迫一个人做出善良的选择.真正保护孩子的,从来不是监控、不是旁人的看管,而是长在内心的那一把...",
-      "matched_keywords": [
-        "摄像头"
-      ],
-      "info_brief": "摄像头面前的一幕刷屏全网:父母教给孩子的良知,藏在无人看见的地方。",
+      "info_brief": "酒店房间有针孔摄像头?手机一招就能揪出,学会这几点保命又防骗。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
+      "title": "一件T恤,让摄像头把你误认成动物",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9ETx0whW2AymKuyKBPkvS3xFm9zwlIFoDRIrvNRivzgAFCDawtXwExADVQ31HFC6c0XwDnvCi7VhjIqg5l4To_Hqkj-Wv8LmL0JJf43T3uyVVP_Y2do_U6BcFzkvqUG7SIH50q_Lzpc8UIukx3oNA5huXODo4fi2W9TQs2S_UoQFQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "轻创意",
+      "sources": [
+        "轻创意"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "你以为这只是一件花花绿绿的T恤?它真正想骗的,不是人,而是AI.意大利团队 Cap_able 做了一种特殊面料,把经过算法设计的图案...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "一件T恤,让摄像头把你误认成动物。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "指尖按住摄像头 60 秒,凭什么它能筛出房颤、还能开处方",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd93fb-kjuACOuH_CtyOkNK-YgucmkJmoQRe78e9t9PHv1mMU3UbScxOA7kgOinGnwPRdbBuW5zc1aK13sUAryis1A76NF9X-aq_L1WC8u0F7mqOi0_2EF8CGEuvmCLqnlWdMHhm6E13jHEw5r5NWPBdGY3DMSCn3KHHAwLjA7H4dyFW6cwuUnkdA..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "技术与边界",
+      "sources": [
+        "技术与边界"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "摄像头逐帧记录画面亮度,肉眼看起来可能只是一片红,但把每帧的平均亮度按时间排开,就会得到一条周期性起伏的波形.每个波峰...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "指尖按住摄像头 60 秒,凭什么它能筛出房颤、还能开处方。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "邻居装摄像头对着我家院子,能要求拆除吗?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9H6CaDgTR6eD_ICFMJo8Z25AvsS7VXK_AsBOEJYiFZjFXHxKlkyAzM5YSCpkxsbN8UJx0kJOuCKXf0RFe33uG1hxuja0-LJ7Bj1WTv1GHNA8g3raWeiGyIKrto1S3xO_x4x_rQsIvj9tQZw8RS_UJ4rzCJEA03u19-NXE4eJTDKL1AfaFW2DefQ..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "懂法小顾问",
+      "sources": [
+        "懂法小顾问"
+      ],
+      "publish_date": "2026-08-18",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "小刘家住一楼带院子,最近发现隔壁邻居在阳台外墙装了个摄像头,镜头正好对着小刘家院子.小刘觉得每天在院子里的活动都被拍下...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "邻居装摄像头对着我家院子,能要求拆除吗?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "摄像头模组不是Sensor 加镜头(1)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIV2zZcPMCgBrLySqQN0poNFqXa8Fplpd9mMuxG9fGRCIQftkUKlwRUAaw-2QVTMDi1OGO-RHRWy7xFQWhIN199Tqh-BQQk5QKAguIyqVCO7V6sYwW2SCw3Owoine9kl5wSt6wDobFJZnq0nEZuoaaSbt3k1ocrqDLMUx2-mMtScD63nTcbOB8o1uRHemHjd0zPbiM8xZf64fP28temKTOwg..&amp;type=2&amp;query=%E6%91%84%E5%83%8F%E5%A4%B4&amp;token=5BEFA6058C5131E363623D23E1D97DAC647EE72D6A83A99B",
+      "source": "台宏光学",
+      "sources": [
+        "台宏光学"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "从光线进入镜头,到最终形成画面,一次讲清摄像头模组的完整成像链路.第一次接触摄像头行业的人,往往会把摄像头理解成两个主...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "摄像头模组不是Sensor 加镜头(1)。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "LG 推出 xboom Power 系列旗舰派对音箱：自带一键 K 歌模式，格莱美获奖音乐人调校",
+      "url": "https://www.ithome.com/0/990/859.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-08-17",
+      "category": "媒体新闻",
+      "category_id": "speaker",
+      "summary": "IT之家 8 月 17 日消息，LG 电子今天（17 日）发布了 xboom Power 系列旗舰派对音箱，内置高功率音响、智能技术和“AI 卡拉 OK 大师”，全系采用 xboom 的“标志性”音效，并由多次获得格莱美奖的音乐人 will.i.am 参与调校，在保持声音清晰均衡的基础上强化低频冲击力，营造更适合派对的听感。 该系列包含 Power 9000、Power 7000 和 Pow...",
+      "matched_keywords": [
+        "音箱",
+        "音响"
+      ],
+      "info_brief": "LG 推出 xboom Power 系列旗舰派对音箱：自带一键 K 歌模式，格莱美获奖音乐人调校。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
       "title": "新品 | 小米蓝牙音箱磁吸版发布;雷蛇那伽梵蛇 V3 Pro 发布",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHIz97TKukGepyZ-W7ccS44VqXa8Fplpd9ha-1FliNekYQLmxk6P8Zg69RaoQJKfmw5zNaPf1oMjAZ0SVKR_ttP7bqjih3hgQS8grNPcvKy8EuU5ag4i-b6MwOJX4eBwQSdSqj6DppydL1bKFtcgok8-EZNaVIY54KrvbTQNlZqmAZ7Rcu7gfccAcEQwZSM_B48kbiQ-5FQwNS6t2rFt2rnA..&amp;type=2&amp;query=%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1&amp;token=544EAD0421BD6E2E23227A174924EF0B246B85B86A825870",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIlyo9H60YAWrLySqQN0poNFqXa8Fplpd9M97qPeGdVXIGnZNb1MgK0sITloEq4QBU0TzDD983O8CqzatuJO_abUG5CdVgvg2Dfl-Ni2O4u4HMXrCsdlbJhsE9sZVCj4QJmePZ9YuaqdCc7DPYBaH8fLqP4W1cqekz8HJKdVT_ziV3TNCYtcEGmLGQ-cK4fbkmnon5TU4jMyHs46dn8Efgxg..&amp;type=2&amp;query=%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1&amp;token=5BF0D39166B8DB0D8E88D4C90B20428D8EC8AD566A83A9CC",
       "source": "科技狐",
       "sources": [
         "科技狐"
@@ -943,7 +1216,7 @@ window.__NEWS_DATA__ = {
     },
     {
       "title": "132元,小米蓝牙音箱磁吸版众筹:95克重、能当手机支架",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7Zn45gw4TDHIz97TKukGepyZ-W7ccS44VqXa8Fplpd9lk9scqP--2CWL61x2ODbXaiqc-LJfzfJqnnEE2RzTn_qBPolnRUTZ05PQpRcnlLC6bPMuKoPo_I74qdN35cI-knnCmN47QMx9gTg6dp_V_1nkbre_pTfSan5zXaYvtTvoGTJuDnnokDVxTqEl9vFLPPTEDPT-M2qxvFtla4YhKXm0CtGSSkZQQ..&amp;type=2&amp;query=%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1&amp;token=544EAD0421BD6E2E23227A174924EF0B246B85B86A825870",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIlyo9H60YAWrLySqQN0poNFqXa8Fplpd9i36J6Ecr_G1G5ni8QTgA7ICSrSjsV2QzBFWRoM21MvFEars_8C2thxdawIR6BJhH4UxLhuPuC8jraYwpW1rXaFfgwi5WON5Pcc7eveJ4ojux2oyZFhjYsi7ebz8jH03ugc5p-U7zrKkkLrEESuG6ZOBcYlTJ6-whmN9D9rNoiFiTJmCU1UgHwQ..&amp;type=2&amp;query=%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1&amp;token=5BF0D39166B8DB0D8E88D4C90B20428D8EC8AD566A83A9CC",
       "source": "爱搞机",
       "sources": [
         "爱搞机"
@@ -960,22 +1233,22 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "比亚迪全新海鸥内饰曝光：大尺寸中控屏 + 无线充电面板，95kW 电机 + 可选激光雷达",
-      "url": "https://www.ithome.com/0/990/392.htm",
+      "title": "绿联海外发布 Nexode Pro 100W 四口氮化镓充电器：3C+1A，55 英镑",
+      "url": "https://www.ithome.com/0/990/855.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-08-16",
+      "publish_date": "2026-08-17",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "IT之家 8 月 16 日消息，汽车之家今日曝光了比亚迪全新海鸥测试车的内饰谍照。 新车座舱设计彻底推翻现款布局，采用倾斜式中央岛台，搭载更大尺寸的悬浮式中控屏，同时取消了独立的液晶仪表盘。 内饰方面，全新海鸥以蓝色调为主，座椅点缀红色饰条，渲染出海洋科技氛围与运动感。中控台采用倾斜式构造，配备更大尺寸的悬浮屏，下方布置了无线充电面板、部分实体按键以及贯通式大尺寸储物区。新车还换装了更为简洁...",
+      "summary": "IT之家 8 月 17 日消息，绿联今天在海外市场发布 Nexode Pro 100W 四口氮化镓充电器，新品采用较为紧凑的设计，配备彩色显示屏，售价 55.99 英镑 （IT之家注：现汇率约合 511.4 元人民币） 。 据介绍，这款充电器配备三个 USB-C 接口和一个 USB-A 接口， 总输出功率最高可达 100W 。C1、C2 口最高可输出 100W 电力，C3 口最高支持 65W...",
       "matched_keywords": [
-        "无线充电"
+        "充电器"
       ],
-      "info_brief": "比亚迪全新海鸥内饰曝光：大尺寸中控屏 + 无线充电面板，95kW 电机 + 可选激光雷达。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "绿联海外发布 Nexode Pro 100W 四口氮化镓充电器：3C+1A，55 英镑。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     }
   ]
 };
