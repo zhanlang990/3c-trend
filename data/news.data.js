@@ -1,45 +1,295 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-10-09 03:36:25",
-  "total": 17,
-  "source_count": 9,
+  "generated_at": "2026-10-10 03:14:55",
+  "total": 33,
+  "source_count": 10,
   "items": [
     {
-      "title": "至简动力冯宗宝：在间隙仅 0.5 毫米的真实场景下，实现机器人造机器人 | IROS 2026",
-      "url": "https://www.leiphone.com/category/private/xCu836z16KSzx2Co.html",
-      "source": "雷峰网",
+      "title": "河北省人民医院骨科3D打印技术成功实现复杂骨折的精准治疗",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZglgmX1lelHYuajlCLahYDzFqXa8Fplpd9mPC3s_YHw1R19ZPce7wUTubDgz6h8epkfs5aTLNSoSaD1Z7W6lGt3C-ccdBmup-JyLu8w0B-eIvrBsut64rkh74JPpB_VNe-oPWvUeqg0AlFSl78gr7u-3kLk8jhLtzht72waIF7cFIzBcC88V34aU68eWaqThnVp_cnxD7pmb85eBgmN3LoYQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=F0A36CE2C33FEF5744421E37F2D6CB0C44BA6D256AC9AB12",
+      "source": "河北省人民医院",
       "sources": [
-        "雷峰网"
+        "河北省人民医院"
       ],
-      "publish_date": "2026-10-08",
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "6月19日上午9时许,河北省人民医院骨科主任李文毅接过护士递来的手术刀,这一刻标志着我院3D打印精准医学中心从此进入临床应...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "河北省人民医院骨科3D打印技术成功实现复杂骨折的精准治疗。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "强生投资!医疗3D打印又进一步",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZglgmX1lelHYuajlCLahYDzFqXa8Fplpd9nodu6sO5x95jkLtxjmUoislwIgE-4xNkAghSG9_ba8pwtYx6sJraEcCD3vSDL-Asyh4IDsLQMogSqpLCGZGAdbqE5h1bDel4bkalTgnNlWTuUdM17xe4VG0l7a6bKw-Bt9zsNMDS9jAyGHc355XCQieyRFrkRiOhuRTAMWtfk8dhlgeRt7bSzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=F0A36CE2C33FEF5744421E37F2D6CB0C44BA6D256AC9AB12",
+      "source": "动脉网",
+      "sources": [
+        "动脉网"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "10月9日,国内3D打印制药头部企业三迭纪宣布与强生达成合作与许可协议,双方将联合开发新型口服药物,强生旗下风险投资机构...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "强生投资!医疗3D打印又进一步。",
+      "opportunity_insight": "资本动作释放扩张信号，建议密切关注该品牌后续渠道与营销投入节奏。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "爆火的3D打印机,为什么我劝你别跟乱风?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgy6RZCEI3dR6ajlCLahYDzFqXa8Fplpd9ViWI00645kqgi6mTXvJ5namRnMAkhm8f4Nue9d23U8wR6KJgQdqej3iaqM5E233vscfesGv2Lo8Jx93d1XxuAQTP0isCfBYEA8dTTPdiLzFTYEk8Zl9a33a5-qsxNj1M8rcEqPXZBVs-LFNcs2CAIdK19PmoXRwBgzR_ostYu1c89kyxDwoXvg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0%E6%9C%BA&amp;token=F0A38466D42FF84053550E27E298264354E9D1FC6AC9AB15",
+      "source": "果壳",
+      "sources": [
+        "果壳"
+      ],
+      "publish_date": "2026-10-03",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "再用3D打印机打出来,赶上小区里的跳蚤市集,自己出来摆摊,那一个个可爱的手办,我一个大人看着都走不动道儿.@果壳实拍更...",
+      "matched_keywords": [
+        "3D打印机"
+      ],
+      "info_brief": "爆火的3D打印机,为什么我劝你别跟乱风?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC 及数控机床技能公益培训活动",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9VHb_RDbkSRm9bHUfKuaq26rBF6_BLwcdarwS7sdpJarxmVZn9xUvtSOCS34XJEbrjqA_T8XfRLA5XDNly7c1D9yd54-8Oj14ffrcXO0uNa4hqGJb1C8W6R6R6DiuxD3nOCQNVoatppMP3miCyW99ShVs0AQjN8SsrwbwyGwzDLgtPujwwRB2Pw..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "智创孵化器",
+      "sources": [
+        "智创孵化器"
+      ],
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "具身智能从实验室走向真实工厂、迈向精密制造。 作者丨 邓哲敏 编辑丨 齐铖湧 你有没有想过，机器人也可以走进车间，亲手造出组装一台机器人所需要的零件？ 这听起来像个玩笑，实际却是具身智能最硬核的落地命题。机器人的关节、卡盘、精密结构件，无一不是靠 CNC（计算机数控）车床、铣床一道道加工出来的。如果机器人能自主照看这些机床，完成工件的抓取、上料、插入、取出与放置，那么机器人工业将被机器人自己...",
+      "summary": "近日,由南平市先进制造与工业设计公共服务平台主办的CNC及数控机床技能公益培训(10月5日-10月9日)圆满落下帷幕.本次公益...",
       "matched_keywords": [
-        "CNC",
-        "数控",
-        "机床"
+        "CNC"
       ],
-      "info_brief": "至简动力冯宗宝：在间隙仅 0.5 毫米的真实场景下，实现机器人造机器人 | IROS 2026。",
+      "info_brief": "CNC 及数控机床技能公益培训活动。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC上下料:机器人10分钟换型,桁架却要1天,协作机器人 vs 桁架机械手:CNC上下料选型一次讲透!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9ZWTcpeMXSrs_ROadmes0xgzPqCM4KrVVyZ8eQajp0BWjJCUwSxeMV5mGbyTrTUW3Mc78LfRdIA10WQOa-vyrnwxvpB9qrFejcPvpdPou3_VejcRH7HfJM6MLL8IVCF-OgzN02gSvSiC5-j0S2izmI4wbR0bIxJ2wnHQX7brRwEI6Ebq8fk9diw..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "机床上下料机器人",
+      "sources": [
+        "机床上下料机器人"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "协作机器人在CNC上下料的优势,核心就三句话:快换型、快落地、能并肩以材料里提到的小工协作机器人 HyperBots为例,它的...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC上下料:机器人10分钟换型,桁架却要1天,协作机器人 vs 桁架机械手:CNC上下料选型一次讲透!。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC数控车床手编:G90单一形状固定循环",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd91hQeLGSb5y7Sh2xOPdaKel7yQOovcmHrxjPv0C9s0BQ8VNFUq4AkzaNX3la4MKaE5Wpjji9vHOxQjf7s1qjkSHMx6y6VtHRidoaaJcb7uvVoN3GEuXOMdaQ3k5tSVS6IiiXd5FqP3vy8hBVSmqminXssGHFxGncGfWMH5-rekGTP28temKTOwg..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "学习平台网",
+      "sources": [
+        "学习平台网"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "所以程序可以简化,不用每行都写 G00/G01.#数控车 #CNC车床 #G代码 #G90 #数控编程 #机加工 #机械加工 #车床编程",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC数控车床手编:G90单一形状固定循环。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "入驻机床群数控群CNC群机加工群,深耕行业高效共赢",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9RYWy9ab5cccENmQuNQD61sKy2JQRKH18-E6UGd6blqWUKhJIhnfrFGZm1OJERZfu7fQLKubu6yP6CPxWe9jOE6EKMdxvRLeFEth6aUjlteRpgQFq-p6KHF10OiDwOJk3p6kb0eCv8ahV6eyDpa-veBKjupj_9-_Nnm5pTegsbvZS6t2rFt2rnA..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "文总轻创",
+      "sources": [
+        "文总轻创"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "整合机床群、数控群、CNC群、机加工群全域资源,打造纯粹、专业的制造业交流阵地,助力每一位从业者高效深耕行业. 平台覆盖...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "入驻机床群数控群CNC群机加工群,深耕行业高效共赢。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "数控群CNC群机床群机加工群!行业人脉资源精准对接",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9VPORf_Hz3aB50z8bsweZEZjGeBJT7QMS4KO6qdAeINxEwjX6cSlS-atAdE0sv2UWX8tc0D3XQBRmdPtA3O7HNrJw-NX4jVJgo4NNA6mYQrlXVvgfgmBPCIrDcStjaJyZXaFIv7E3ImDbIk2peZT771iipvSQw8hBXU7THG-93wD2CsG6-xMgzQ..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "机床群",
+      "sources": [
+        "机床群"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "专属数控群、CNC群、机床群、机加工群资源平台正式开放吸纳同行,汇聚全国工厂老板、操机师傅、编程技术员、设备商户等精准行...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "数控群CNC群机床群机加工群!行业人脉资源精准对接。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC加工中心全套G代码M代码运用解析",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd90iUdItkWgjuD_ykI7LM8exN9Y00zO28MnJ2UuDHau16HGX12wYsYjo_vb4PJZjtnrj3Y2YrcuOkDxZcCyBkmzg38by82gQey83ox2gjvaNDvcNjkj687Bmahz9d0gWX104VESfnAl9Y3q-jrWn_KpsL08Wdm2t06TzMigHbwuw2FW6cwuUnkdA..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "吹牛聊数控",
+      "sources": [
+        "吹牛聊数控"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "前言很多CNC新手、操机和编程师傅,网上找的G代码资料残缺不全,只罗列代码,不讲现场怎么实操.本篇整理加工中心全套G代码...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC加工中心全套G代码M代码运用解析。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC数控技术培训班开始招生啦!",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9_t28cZ0jEKTKz-681L9x2RVcCEDWU5GegNrlLs1msHfBKF-eYrp0518oz-x2UcRgcpt9uplDylLW_CzVZETAeqv6IMtow1Kthtsw254DLSekBTiiXRy454DrOLckedIiQ9G7yqPMc3MkuJt56VGm0R0AnzhN85QsGuX43Qez_dYNGbbB75bUeA..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "昆山人力资源市场",
+      "sources": [
+        "昆山人力资源市场"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "随着智能制造、精密模具、高端机械制造行业高速发展,CNC数控加工、编程技术人才缺口持续扩大,行业薪资待遇稳步提升,成为当...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC数控技术培训班开始招生啦!。",
       "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "微软调整 M365 家庭版 / 高级版云存储空间：每人 1TB 最高 6TB 改为全员共享 2TB",
-      "url": "https://www.ithome.com/1/010/787.htm",
-      "source": "IT之家",
+      "title": "CNC没有报警,程序也没出错,为什么加工出来的零件却不合格了?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9MhC9-Zn9zo-nMdsh94CGXuCM5IdAD3VSD1hxFHJCn_KfmtbrJuTaAva_eNj09wL3rSOZaF0rzsGvF4LR7eBxn2EyP_03b6TnEBgDNog5xtN2ewognDSOWusUmk__b-WTU8PG8IZcOP5tCrwP7cf2TvWoDSLE-DEXgXd_wEArIQx5Nu7CnoSqqg..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "枚达数采-数控机床设备数据采集",
       "sources": [
-        "IT之家"
+        "枚达数采-数控机床设备数据采集"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "上午10点,一家机加工车间里,一台CNC正在连续加工铝合金零件.机床运行平稳,主轴正常旋转,数控系统没有任何报警,设备顶...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC没有报警,程序也没出错,为什么加工出来的零件却不合格了?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC零件的价格已经出来了,为什么客户迟迟不敢点确认加工?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd99sKGhocSkBw0Qc-EBbSF53PGqFxizAEF4lGqSVPHppoX9YR3bIOpL0PWsE8ZppnWRLV2f3Ir0x_4_-3l67bo9Wz-R9qpS8ECp8fxd4pZm7N9dbfeqvsGqurLJBDpN-SbDwzLpqL9N0tx7ql7oVEZM_hVtbrtfhy4YzqmBwJtUKQC2Qmj7RgGwQ..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "枚达AI商业计划书",
+      "sources": [
+        "枚达AI商业计划书"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "上午10点,一位设备研发工程师把刚设计好的铝合金零件图纸上传到CNC在线加工平台.系统完成识别后,页面显示加工价格:268元/...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC零件的价格已经出来了,为什么客户迟迟不敢点确认加工?。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC必备切削知识点",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgtCqxufcC5TOajlCLahYDzFqXa8Fplpd9PsEFqHUTmUC5pd6kEHYmkZfiBiPpQvsDHYZntYWbezaMeUWPYSPYYEtPzR0MjoOADDI4A9QULDSDnZCqipPyOfs2XKmdCBXDbwDR7AW77ZHt22yqrSBEL4xl0dTPHq9cucluwbFbJFqKmDCvmPoxf9XGA4wRMFJl_JLZ7K9AKvf0OK9DLfgmPA..&amp;type=2&amp;query=CNC&amp;token=F0A519F39074BB040F165263AADAA27710CEB5C56AC9AB58",
+      "source": "艺而精",
+      "sources": [
+        "艺而精"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "记住这些,即使遇到没加工过的材料也能稳如老狗!#数控加工中心 #切削参数#CNC操作#CNC入门笔记",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC必备切削知识点。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "Ars Technica",
+      "sources": [
+        "Ars Technica"
       ],
       "publish_date": "2026-10-09",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "IT之家 10 月 9 日消息，科技媒体 NeoWin 昨日（10 月 8 日）发布博文， 报道称微软调整 Microsoft 365 家庭版（Family）和高级版（Premium）的 OneDrive 存储空间，由每人 1TB、合计最高 6TB，改为全体成员共享 2TB。 IT之家援引博文介绍，Microsoft 365 家庭版和高级版订阅此前可与最多 5 名成员共享，每位成员拥有 1T...",
+      "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
       "matched_keywords": [
-        "云存储"
+        "NAS"
       ],
-      "info_brief": "微软调整 M365 家庭版 / 高级版云存储空间：每人 1TB 最高 6TB 改为全员共享 2TB。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "info_brief": "NASA issues long-awaited call to industry for private space stations。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机",
+      "url": "https://www.tmtpost.com/8163422.html",
+      "source": "钛媒体",
+      "sources": [
+        "钛媒体"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "AI储存“含金量”待考。",
+      "matched_keywords": [
+        "AI存储"
+      ],
+      "info_brief": "获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机。",
+      "opportunity_insight": "资本动作释放扩张信号，建议密切关注该品牌后续渠道与营销投入节奏。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
+    },
+    {
+      "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
+      "url": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
+      "source": "Wired",
+      "sources": [
+        "Wired"
+      ],
+      "publish_date": "2026-10-09",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
@@ -61,149 +311,167 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "微软 Win11 测试电池状态小部件：集中查看笔记本和外设剩余电量 / 连接状态",
-      "url": "https://www.ithome.com/1/010/835.htm",
+      "title": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货",
+      "url": "https://www.ithome.com/1/011/270.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 10 月 9 日消息，科技媒体 NeoWin 昨日（10 月 8 日）发布博文，报道称在 Windows 11 Build 26340.9616 预览版中， 微软测试电池状态小部件，用于集中显示电脑及已连接外设的电池电量。 微软表示用户无需切换多个界面，分别打开蓝牙设置、系统设置或厂商专属应用，就能通过该小部件查看电脑及多个外设的剩余电量百分比和连接状态。 用户可通过“小部件面板 ...",
+      "summary": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本 。这一机型由 Retro Games 设计，由 PLAION REPLAI 制造和分销，2027 年 4 月 23 日开始发货。 800XL 复刻版集成全尺寸机械键盘，随附 THECXSTICK 摇杆控制器；内置 Atari BASIC 语言，用户可在该平台上进行复古编程。...",
       "matched_keywords": [
-        "笔记本",
         "电脑"
       ],
-      "info_brief": "微软 Win11 测试电池状态小部件：集中查看笔记本和外设剩余电量 / 连接状态。",
+      "info_brief": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器",
-      "url": "https://www.ithome.com/1/010/798.htm",
+      "title": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持",
+      "url": "https://www.ithome.com/1/011/206.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日爆料，iQOO Neo12 手机确认 10 月登场，安排了 9 月新旗舰都没有的 2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器 + 自研电竞芯片 Q3 。 该博主表示，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越...",
+      "summary": "IT之家 10 月 10 日消息，技嘉 (GIGABYTE) 昨日宣布，该企业率先为旗下英特尔 H610 / B760 芯片组主板 提供对英特尔预计于 2027 年初发布的下代 Socket FCLGA1700 处理器的支持 ，相关 UEFI (BIOS) 现已开放下载。 技嘉在其新闻稿中提到的处理器 即桌面版的 \"Raptor Lake Next\" ，这些产品与 \"Raptor Lake ...",
       "matched_keywords": [
         "处理器"
       ],
-      "info_brief": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器。",
+      "info_brief": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担",
-      "url": "https://www.tmtpost.com/8161695.html",
-      "source": "钛媒体",
+      "title": "集邦咨询：内存等成本压力上升，2027 全球笔记本价格恐继续上涨",
+      "url": "https://www.ithome.com/1/011/190.htm",
+      "source": "IT之家",
       "sources": [
-        "钛媒体"
+        "IT之家"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 10 月 10 日消息，市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁， 终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。 IT之家此前援引该机构报道，在 2026 年第 3 季度以建议零售价 900 美元 （IT之家注：现汇率约合 6,036 元人民币） 的主流笔记本...",
+      "matched_keywords": [
+        "笔记本"
+      ],
+      "info_brief": "集邦咨询：内存等成本压力上升，2027 全球笔记本价格恐继续上涨。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
+    },
+    {
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "url": "https://www.ithome.com/1/011/260.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。 IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用 骁龙 8E5 处理器 （第五代骁龙 8 至尊版）和 自研电竞芯片 Q3 ，性能定位会和 Ultra 形成梯度。 目前官方暂未公布有...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+    },
+    {
+      "title": "做了八年DSP，Credo怎么突然开始做光芯片了？",
+      "url": "https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
       ],
       "publish_date": "2026-10-09",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "华强北内存条涨300%，DRAM成本只涨30%，高额差价因渠道和概念炒起。",
+      "summary": "做了八年DSP（Digital Signal Processor，数字信号处理器）后，Credo Technology Group Holding Ltd（以下简称“Credo”）开始真正走进“光”里。 自去年10月首次推出ZeroFlap光模块产品线以来，Credo用一年时间把产品带宽从800G推向1.6T。一起扩张的，还有Credo在模块内部能够自己掌控的技术环节——最新一代全DSP模块...",
       "matched_keywords": [
-        "电脑"
+        "处理器"
       ],
-      "info_brief": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "做了八年DSP，Credo怎么突然开始做光芯片了。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元",
-      "url": "https://www.ithome.com/1/010/849.htm",
-      "source": "IT之家",
+      "title": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
+      "url": "https://www.tmtpost.com/8162833.html",
+      "source": "钛媒体",
       "sources": [
-        "IT之家"
+        "钛媒体"
       ],
       "publish_date": "2026-10-09",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 9 日消息，华为官网显示，华为上调了 nova 16 系列手机部分版本价格。 ▲ 此处 nova 16 SE 价格为 256GB 版本 华为 nova 16 SE（涨 200 元） 128GB：2499 元 → 2699 元 256GB：2699 元 → 2899 元 512GB：3199 元 → 3399 元 华为 nova 16（涨 400 元） 12GB+256GB...",
+      "summary": "回望手机行业五十年，每一代霸主都曾以为自己握住了终点。",
+      "matched_keywords": [
+        "AI手机",
+        "手机"
+      ],
+      "info_brief": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0",
+      "url": "https://www.ithome.com/1/011/227.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。 据介绍，这款新机搭载 行业首款 RGB 水冷散热技术 ，支持自定义 RGB 灯效；采用全新双环流道设计，水冷面积覆盖风道、芯片、电池等核心部件；采用 AI 服务器同款氟化液，全新双晶水冷微泵功耗 20mW，压力 130kPa。 风冷方面，这款新机采用驭风 5.0 新一代散...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元。",
-      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "info_brief": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
     },
     {
-      "title": "红魔 12 Pro+ 预热：号称行业首款 RGB 水冷手机",
-      "url": "https://www.ithome.com/1/010/822.htm",
+      "title": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等",
+      "url": "https://www.ithome.com/1/011/196.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 9 日消息，今天（9 日）上午，红魔游戏手机官微持续预热新品红魔 12 Pro+。根据介绍，该机将是 行业首款 RGB 水冷手机 。 稍晚些时候，红魔游戏手机产品总经理 @红魔姜超 详细介绍了该机的水冷系统升级。相比 11 Pro+，新机的水冷系统 面积更大、流道更厚 ，流道升级为上下双圈环流设计，全面覆盖整机热源。冷却液从微泵出发分成上下两路，上路覆盖 SOC，下路覆盖...",
+      "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 正式发布，一加手机官方今日官宣了 一加 16《凡人》动画联名礼盒 。 据介绍，一加 16 凡人动画联名礼盒包含金属剑阵磁吸手机支架（可旋转）、“青竹蜂云剑”金属卡针、“青竹蜂云剑”磁吸保护壳、透光明信片、可滑动冰箱贴。 IT之家附一加 16 手机目前已公开的主要参数如下： 第六代骁龙 8 超级至尊版，搭配...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "红魔 12 Pro+ 预热：号称行业首款 RGB 水冷手机。",
+      "info_brief": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
     },
     {
-      "title": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器",
-      "url": "https://www.ithome.com/1/010/798.htm",
-      "source": "IT之家",
+      "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+      "url": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
       "sources": [
-        "IT之家"
+        "爱范儿"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日爆料，iQOO Neo12 手机确认 10 月登场，安排了 9 月新旗舰都没有的 2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器 + 自研电竞芯片 Q3 。 该博主表示，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越...",
+      "summary": "· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担",
-      "url": "https://www.tmtpost.com/8161695.html",
-      "source": "钛媒体",
-      "sources": [
-        "钛媒体"
-      ],
-      "publish_date": "2026-10-09",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "华强北内存条涨300%，DRAM成本只涨30%，高额差价因渠道和概念炒起。",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流",
-      "url": "https://www.tmtpost.com/8161706.html",
-      "source": "钛媒体",
-      "sources": [
-        "钛媒体"
-      ],
-      "publish_date": "2026-10-09",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "一面是出货量持续收缩，一面是万元定价集体上探。",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "info_brief": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
     },
     {
       "title": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
@@ -224,94 +492,112 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "出租汽车无障碍运营服务国家标准发布，要求将基础手语沟通等纳入驾驶员技能培训",
-      "url": "https://www.ithome.com/1/010/840.htm",
-      "source": "IT之家",
+      "title": "还是别太期待国产Muse了",
+      "url": "https://www.tmtpost.com/8162951.html",
+      "source": "钛媒体",
       "sources": [
-        "IT之家"
+        "钛媒体"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 9 日消息，市场监管总局今日官宣批准发布《 出租汽车无障碍运营服务规范 》国家标准（GB/T 48311—2026），指导相关企业面向残疾人、老年人及其他有无障碍出行需求的群体，持续提升出租汽车运营服务质量。 在企业管理方面，该标准要求企业建立无障碍运营服务管理制度和应急预案， 将专用装置使用、基础手语沟通等纳入驾驶员技能培训内容。提供手机应用程序（App）、人工热线等多...",
+      "summary": "豆包手机的难题还在。",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "出租汽车无障碍运营服务国家标准发布，要求将基础手语沟通等纳入驾驶员技能培训。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "微软 Win11 测试电池状态小部件：集中查看笔记本和外设剩余电量 / 连接状态",
-      "url": "https://www.ithome.com/1/010/835.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-09",
-      "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "IT之家 10 月 9 日消息，科技媒体 NeoWin 昨日（10 月 8 日）发布博文，报道称在 Windows 11 Build 26340.9616 预览版中， 微软测试电池状态小部件，用于集中显示电脑及已连接外设的电池电量。 微软表示用户无需切换多个界面，分别打开蓝牙设置、系统设置或厂商专属应用，就能通过该小部件查看电脑及多个外设的剩余电量百分比和连接状态。 用户可通过“小部件面板 ...",
-      "matched_keywords": [
-        "外设"
-      ],
-      "info_brief": "微软 Win11 测试电池状态小部件：集中查看笔记本和外设剩余电量 / 连接状态。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "info_brief": "还是别太期待国产Muse了。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡",
-      "url": "https://www.ithome.com/1/010/796.htm",
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "url": "https://www.ithome.com/1/011/260.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。 IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用 骁龙 8E5 处理器 （第五代骁龙 8 至尊版）和 自研电竞芯片 Q3 ，性能定位会和 Ultra 形成梯度。 目前官方暂未公布有...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+    },
+    {
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "url": "https://www.ithome.com/1/011/260.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "IT之家 10 月 9 日消息，AX 电竞叛客 (AX GAMING) 现已正式推出 GeForce RTX 5070 秋序限定显卡。根据IT之家的检索，该型号在各电商平台的价格 普遍不低于 7000 元 。 这款显卡属于 AX 电竞叛客的 2026 四季限定系列，整体呈现白-紫渐变配色，装饰以桂花与星月轴心盖、枫叶造型 ARGB 侧灯，双层磁吸背板上以 UV 打印等工艺 塑造了雪璃 IP ...",
+      "summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。 IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用 骁龙 8E5 处理器 （第五代骁龙 8 至尊版）和 自研电竞芯片 Q3 ，性能定位会和 Ultra 形成梯度。 目前官方暂未公布有...",
       "matched_keywords": [
         "电竞"
       ],
-      "info_brief": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡。",
+      "info_brief": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+    },
+    {
+      "title": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货",
+      "url": "https://www.ithome.com/1/011/270.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-10",
+      "category": "媒体新闻",
+      "category_id": "gaming-peripherals",
+      "summary": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本 。这一机型由 Retro Games 设计，由 PLAION REPLAI 制造和分销，2027 年 4 月 23 日开始发货。 800XL 复刻版集成全尺寸机械键盘，随附 THECXSTICK 摇杆控制器；内置 Atari BASIC 语言，用户可在该平台上进行复古编程。...",
+      "matched_keywords": [
+        "机械键盘"
+      ],
+      "info_brief": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器",
-      "url": "https://www.ithome.com/1/010/798.htm",
-      "source": "IT之家",
+      "title": "近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会",
+      "url": "https://www.leiphone.com/category/industrynews/B15TR4XzQCYG9u7a.html",
+      "source": "雷峰网",
       "sources": [
-        "IT之家"
+        "雷峰网"
       ],
       "publish_date": "2026-10-09",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日爆料，iQOO Neo12 手机确认 10 月登场，安排了 9 月新旗舰都没有的 2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器 + 自研电竞芯片 Q3 。 该博主表示，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越...",
+      "summary": "中国品牌出海东南亚的命题正在发生变化。 近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。 天猫“一键轻出海”项目启动不到一年，截至2026年上半年末，已有近1万家天猫品牌商家加入，参与商家的成交额持续实现季度环比双位数...",
       "matched_keywords": [
         "电竞"
       ],
-      "info_brief": "曝 iQOO Neo12 手机本月登场：2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "info_brief": "近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会。",
+      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
+      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
     },
     {
-      "title": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡",
-      "url": "https://www.ithome.com/1/010/796.htm",
+      "title": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等",
+      "url": "https://www.ithome.com/1/011/196.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-09",
+      "publish_date": "2026-10-10",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "IT之家 10 月 9 日消息，AX 电竞叛客 (AX GAMING) 现已正式推出 GeForce RTX 5070 秋序限定显卡。根据IT之家的检索，该型号在各电商平台的价格 普遍不低于 7000 元 。 这款显卡属于 AX 电竞叛客的 2026 四季限定系列，整体呈现白-紫渐变配色，装饰以桂花与星月轴心盖、枫叶造型 ARGB 侧灯，双层磁吸背板上以 UV 打印等工艺 塑造了雪璃 IP ...",
+      "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 正式发布，一加手机官方今日官宣了 一加 16《凡人》动画联名礼盒 。 据介绍，一加 16 凡人动画联名礼盒包含金属剑阵磁吸手机支架（可旋转）、“青竹蜂云剑”金属卡针、“青竹蜂云剑”磁吸保护壳、透光明信片、可滑动冰箱贴。 IT之家附一加 16 手机目前已公开的主要参数如下： 第六代骁龙 8 超级至尊版，搭配...",
       "matched_keywords": [
         "磁吸"
       ],
-      "info_brief": "AX 电竞叛客正式推出 GeForce RTX 5070 秋序限定显卡。",
+      "info_brief": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
     }
   ]
 };
