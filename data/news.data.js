@@ -1,67 +1,156 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-10-30 03:27:30",
-  "total": 33,
+  "generated_at": "2026-10-31 03:13:10",
+  "total": 34,
   "source_count": 10,
   "items": [
     {
-      "title": "商场的黄金铺位，为什么换成了3D打印机？",
-      "url": "https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html",
-      "source": "雷峰网",
+      "title": "滴水测毒仅需5分钟!3D打印活体生物电子传感器,解锁水污染实时监测 [Angew. Chem.]",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9Q1qnY2GgNf5BrA9iiBy3ykbdQkAzzOdIT_v3R3ivgrWeTY3kdXwghBYxMjo4c5mqzFoYrK_R2WccXNeQ9qy4QNrOkWYDzSqNA-6-rjYzDKMaXMNCd6UIXUbrVBIpZ-O0RHsV_HWz37eq5En_j78_MeQgibG5bYlfEUVAbbv1We_vzHZXxeLdyg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "AI for Sensors",
       "sources": [
-        "雷峰网"
+        "AI for Sensors"
       ],
-      "publish_date": "2026-10-29",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。 在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。 这些门店给商场带来了新业态。许多小朋友在店里看一卷卷耗材被抽出细线，层层堆出微缩的建筑、玩具、书桌上...",
+      "summary": "到3D打印活体生物电极,最终实现环境污染物的快速实时监测.第一招:基因编程装上开关(分子级)研究人员对模式产电菌 希...",
       "matched_keywords": [
-        "3D打印",
-        "3D打印机"
+        "3D打印"
       ],
-      "info_brief": "商场的黄金铺位，为什么换成了3D打印机。",
+      "info_brief": "滴水测毒仅需5分钟!3D打印活体生物电子传感器,解锁水污染实时监测 [Angew. Chem.]。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "商业航天3D打印:从＂黑科技＂到＂供应链默认选项＂受益股全景图",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXOmsbDZUDkyWZ4YHbQDZR4lqXa8Fplpd9IpbLydKRrQX6zHyzsyHqBuai8TnV9xXgryxJmaFmPug6K557PE_gh3cK-3cmny7-MqseF7qrg4IaKRrWA0hE5EXwcQjvxpmPxUWa4O80eTB4-BTBO0kC72Nng3JXkMp1AnhcMxkI8uZlCthDCt8gcFzt0OF7QIZcQanQVIuBT3STJmCU1UgHwQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=C0AFA88519339FD5D7D188D1E267A4FFD82EB0496AE40BD7",
-      "source": "深耕而已",
+      "title": "一锣一亿,错过直播带货蓝海,如何用3D打印赚钱",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9vBHPtuPv-JGctMakr8lXL6047YEg55KYvgvVcA0I3nHIqq5xBR7Z36iK3lYdW8xH2hgNKKaCP_X4QwnTSTwlMuzy6gc1o0PwILIU6p1YtFgo0cSpf8mm1rNIxbk8SunlOFKnn8VtEtjXuRBkjGoOdlEV9IaLyZWNTvVffyjkCQRhlgeRt7bSzA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "3D打印产业布道者",
       "sources": [
-        "深耕而已"
+        "3D打印产业布道者"
       ],
-      "publish_date": "2026-10-30",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "商业航天制造需求全面升级,3D打印已成为实现批量多批次、快速迭代、减重降本与可靠性提升的关键技术支撑.我国航天3D打印市...",
+      "summary": "3D打印行业各大市场目前整个3D打印市场可分为3D打印原材料、3D打印机制造、3D打印服务、以及技术培训等板块.原材料生产和3...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "商业航天3D打印:从＂黑科技＂到＂供应链默认选项＂受益股全景图。",
+      "info_brief": "一锣一亿,错过直播带货蓝海,如何用3D打印赚钱。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "最高温度超200℃!网红3D打印笔暗藏烫伤风险",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXOmsbDZUDkyWZ4YHbQDZR4lqXa8Fplpd9BCwksvTYFjcyKbvQcRgIOyLQPctRnxH8c0QsuvFz6oQ-OTJYoS4E82ryChUPjdlKYarBW3KgwYQKlrexqc7rFZwnq2MU053_Ybrt14YOfYHxTEv8xw4CHolU11TW3gNSdnfy27LizbcykXy8kJJp_99K1_65_2X3zkT6tI-rNMXs46dn8Efgxg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=C0AFA88519339FD5D7D188D1E267A4FFD82EB0496AE40BD7",
-      "source": "石家庄教育发布",
+      "title": "中国教育装备展:创想三维打造教育领域3D打印综合解决方案",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9vBHPtuPv-JGctMakr8lXL6047YEg55KYvgvVcA0I3nHIqq5xBR7Z36axpgIM3Zl0BrIExfpQxQ4EjxXlVymHWLcHMqmSRnsay0KibavpSvcP3olNjLnGyGgr3xTNu_OlpM_QptrfxBmLWpW9RcI5EwUPLHk5LC98EY25S4yCVnbYl_Q5RRZQjg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "3D打印产业布道者",
       "sources": [
-        "石家庄教育发布"
+        "3D打印产业布道者"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印机是创想三维早期开发的教育专用机系列,现已成为创想三维在教育领域的经典机型.2019年-2020年,CT-300,CT-005频频出...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "中国教育装备展:创想三维打造教育领域3D打印综合解决方案。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "研究人员开发3D打印大脑降温植入物针对耐药性癫痫",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd95-sU0NL1-1b1gBnrT3-r5jkOz7Op8xzEEHi2Tfz44xSS-INbvNs596XLCi_wRXYmXD-pxhctQRaGR4UeMzTkjTJUwUi-AREQhvd6myByk2Bh0ncMR91hmI1V_uXitRazqVQuQrMp1dxouk2r3_ZWz_8RPasPjmAId44f7RPUAq9535pjGOOjYg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "正好3D打印网",
+      "sources": [
+        "正好3D打印网"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "德累斯顿(莱布尼茨聚合物研究所)、德累斯顿工业大学、谢菲尔德大学和利默里克大学的研究人员开发了一种 3D 打印硅胶植入物,...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "研究人员开发3D打印大脑降温植入物针对耐药性癫痫。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "【发现好模型】欢迎光临女巫旅馆!3D打印魔法万圣节树屋,把幽灵住客和紫色女巫帽一起搬上桌面",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd96b7nzG_KugIFFn0DD-sR4jYg5JsEIW6gFXVelGjEDDaCzuPIYC0huQ602onRpQ3Z_b-YsBCVOxonxXruX5NGVOPf0OFA-Udw5ommEiV3gNBn0lOW4_dKLFOsq7aHah2_ciYstTS3ajE0dGlm2s03nTZuVmp3MnVMBYIk8NzAeOpS6t2rFt2rnA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "3D打印与模型设计",
+      "sources": [
+        "3D打印与模型设计"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "高15cm的魔法树屋,紫色女巫帽、发光南瓜灯、友善小幽灵和蜿蜒石阶,一整套万圣节氛围直接拉满各位3D打印爱好者、宝爸宝妈们...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "【发现好模型】欢迎光临女巫旅馆!3D打印魔法万圣节树屋,把幽灵住客和紫色女巫帽一起搬上桌面。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "11月底,错过四川泸州等于错过3D打印行业一整年",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9_jAStU8ebWYB8rwlyiXvHvIEat4idDghs1vi5K1-rC3v4r5mxhmchlmcn1ZJBRNre1tveEpZ9al3KqxmY7nNSmB8i1G5ARiWX4tbXUr4HMTWJ7HDO4n5BPSH4I14beZB_hcw1DNvuCBhf6EfexjQwf6gjZO6HZGMwjSIKaLDLOZFkDr8IT4KYw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "AM易道",
+      "sources": [
+        "AM易道"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印业内一年一度的官方大会将于泸州召开.AM易道自制大会横板展示图片据悉,几乎全中国各个3D打印规模化应用领域的应用侧...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "11月底,错过四川泸州等于错过3D打印行业一整年。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "食品3D打印11家:谁在卖,谁在研,谁已停更",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9guJKZ1dWI6B06fpbBDWMYAe_AAUUTt-dXOJ8uRtu6mQBnZ-_iwlmD1KbD8VX3B4-OufOWv7VxBlTF5WNqRqiW0jfPQXV-V8e44rrTJWIZV8LzKU2lI4Oo_K1Qk0T0NKaIK255QWkpwnEB6TuyYNE8ixsW1W0ROKEmE7oMztZXa-rCDCayYmfpA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "AI硬见",
+      "sources": [
+        "AI硬见"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "但食品3D打印这一步走不通.图1:同一个市场,六家机构给出六个数字,最高与最低差近28倍把公开报告里中国市场的口径摆到一起...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "食品3D打印11家:谁在卖,谁在研,谁已停更。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "三江奔流&middot;山海同心⑭|跨越山海 3D打印铸就顶流从三重移植看闽宁协作的时代纵深",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd96EPTj-CqdPdW1nlFEsvUWjXQHFVxUT1jcZ7mssQ3qJn_NodgIUlodrYucJ0knP7TUOSXaD2AM9TlEG1AMkrfThTMsyEmA9RI7XFG9FVFCP1ZCNB82d0wXa-74uFaHwez7_XEn3BGUmsmhIIUvuqU_fCnQtL8-gmmGjQfdYh8ovoCn9lOoZLP2Q..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
+      "source": "泉州晚报",
+      "sources": [
+        "泉州晚报"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "科学合理地使用手机,能够为孩子的学习成长提供助力,但如果过度依赖手机,无节制地使用,会给孩子的成长发育带来不良影响....",
+      "summary": "一辆满载铸造3D打印设备的重型半挂车,从宁夏共享集团股份有限公司(以下简称共享集团)子公司大院驶出,由银川奔赴天津...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "最高温度超200℃!网红3D打印笔暗藏烫伤风险。",
+      "info_brief": "三江奔流&middot;山海同心⑭|跨越山海 3D打印铸就顶流从三重移植看闽宁协作的时代纵深。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "名单:140多家中国3D打印厂商大举出海,参展2026Formnext",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXOmsbDZUDkyWZ4YHbQDZR4lqXa8Fplpd9nNsAICH8Fz7GLBdVs_cctku1g3Cz17faX1L7mgYkW0_IaGTjGIOUiafKTBkRPQVT1eanN6w3sgoFVuEnb3hgxvkgWYbd1vhzlEBsULqBy8NQ1wQ9cIh4EfgstIHnNpIfKJBt6yVwWj7aqFyXbWN84o0nieW9gyxPVgpiOh8Wd9Gfxjh3za6jWA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=C0AFA88519339FD5D7D188D1E267A4FFD82EB0496AE40BD7",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrDUTL4Rv6aiqNcLIFxdKbBVqXa8Fplpd9mhw9VtNKqPrCbFcs-mQehOjsW7UwclHOro1rndjyytKjbAnlSZj7J3GOKyuG6uG284BXMXsWpFsyEXwIcf2A06O7LsNzsVi3QqXQSfLDitTvAwBemPGym7XQETBRmcGaBpwPBAC0wxYWqad8MPwCRVqKygEDAyrz_wErx_B5xIY6Ebq8fk9diw..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=CC42C68208B84BCFFAFCA4E0E20CA3B2FBCB323C6AE55991",
       "source": "南极熊3D打印",
       "sources": [
         "南极熊3D打印"
@@ -78,459 +167,384 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
     },
     {
-      "title": "3D打印落到车间能干什么?拆解3类真实场景,每一类都算清一笔账",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXOmsbDZUDkyWZ4YHbQDZR4lqXa8Fplpd9r93Bi2lukWl_O10KkLRMZU-Cs2T2hMje68WDA4FU7lqNUt5AxFGw0EZzHz6Jpv4AtaJR8V_zSf2_bEP_5mn1mfXxapfr64ygB90lCpudn6kfNC87Yg_kqEI9qOQxFaYbeYzSfuhMGKv9OEDKMlj5wuF7wuT4jTSLTGhztqOrsJn6zvkPgoArRQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=C0AFA88519339FD5D7D188D1E267A4FFD82EB0496AE40BD7",
-      "source": "WORLDVR",
+      "title": "用Redmi AX6神机让异地父母共享NAS ①",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9NtJGftkVtZayEbznfIccVhVFHXFvhkvPG1AJpJG-MAS2wtrrOOLx4eZJlao09fUtLzIrfvor-v_wtX3q2vO7GKxtvdxsSBSkXO7wIWTN-tbqSrHHMIyyIJUxAflookPkzqNiP655kuBORiL7kUb8i-p4LzRxs1M16SZWqUwQ2kIHpHkoPMgL3A..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "淘乐财富",
       "sources": [
-        "WORLDVR"
+        "淘乐财富"
       ],
-      "publish_date": "2026-10-29",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "硬核制造 &middot; 深度观察3D打印落到车间能干什么?拆解3类真实场景,每一类都算清一笔账应用案例 &middot; 成本拆解 &middot; 决策清单 | 阅读约 ...",
+      "category_id": "ai-nas",
+      "summary": "干脆把路由器换了,让他们直接连我家飞牛 NAS 看直播源.以后源挂了,我在自己家后台维护就行.为了打通异地网络,我上了 ...",
       "matched_keywords": [
-        "3D打印"
+        "NAS"
       ],
-      "info_brief": "3D打印落到车间能干什么?拆解3类真实场景,每一类都算清一笔账。",
-      "opportunity_insight": "品类边界正在被重构，跨场景组合销售与生态联动成为新增长点。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
-      "url": "https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html",
-      "source": "雷峰网",
-      "sources": [
-        "雷峰网"
-      ],
-      "publish_date": "2026-10-28",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "真正的挑战，是让模型保留有效信息、识别可靠证据，并适应新的任务。 作者丨 张 璐 编辑丨 马晓宁 在具身智能、自动驾驶和智慧医疗等场景中，模型需要处理的数据远不止图像、文本和语音。雷达、触觉、心电、医学影像及各类传感器数据，都可能成为预测和决策的依据。然而，不同模态之间既存在关联，也包含彼此无法替代的信息；现实数据还常常面临模态缺失、噪声干扰等问题。 如何在融合信息的同时保留模态差异？当不同...",
-      "matched_keywords": [
-        "CNC"
-      ],
-      "info_brief": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "CNC加工为什么贵?16个能直接用的降本技巧",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXLrdfshq7RYuZ4YHbQDZR4lqXa8Fplpd9TZX_kNQXjShdz8hAtH2xVW9STOMJ5H8SofRSYJZQ06vEacpz1ZvvRJVNjoxrLXhFHLuDKh-SQ6qjXpq23k2NWxJiMoramE2UqT4QSHGumq0mjboFS1UgR9kfQscxWN-Wdd4ZTBXOTnB23RxxyQ9hzXwUICcEXuJisUJpUgHBmR4HpHkoPMgL3A..&amp;type=2&amp;query=CNC%E5%8A%A0%E5%B7%A5&amp;token=C0B354315175D69D9196CE97AA72A8F191BD6BF46AE40C3F",
-      "source": "降本设计",
-      "sources": [
-        "降本设计"
-      ],
-      "publish_date": "2026-10-27",
-      "category": "媒体新闻",
-      "category_id": "cnc",
-      "summary": "看到CNC加工的常见情形:繁琐的装夹、堆积的废料、漫长的加工工时.作为工程师的您,想到的是什么?▲CNC加工干研发降本久...",
-      "matched_keywords": [
-        "CNC加工"
-      ],
-      "info_brief": "CNC加工为什么贵?16个能直接用的降本技巧。",
+      "info_brief": "用Redmi AX6神机让异地父母共享NAS ①。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "title": "群晖NAS自救解锁LOCK3D勒索病毒",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9JqCBGlJbPeUXhKLF_fIpYY2XQog9G0hZx6clWvX_ZIeUOtlBiy-iK2ahQvvNvvHYsDH55kH8JmaqMqBCdgUUJRdnrufLiV3imegn8-KiVrMl2MFxmA5CTumlU0xEOT6g5DK6alxS5-LyL0l_DbcwVEQi_Zz5FGGORHjMGhBj7M9FkDr8IT4KYw..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "云码酷",
+      "sources": [
+        "云码酷"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "群晖NAS遭遇LOCK3D勒索病毒?零赎金自救恢复全教程(含开源工具)很多家庭、工作室、小型企业都在用群晖NAS存储重要照片、...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "群晖NAS自救解锁LOCK3D勒索病毒。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "旧电脑变身AI NAS,不用重装系统",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9bmIHvbD2abph0R1ptc0p7rHZo_6M6YU-hSCycEPQn5-kOy6xmg-ke7Yppa6Q8xDwdL-RXTVdZwZxPAg9IpWQoLUSnHdIzb2yp8-PEjpEJ2i8kOZN5pO0qdqENxJ9FsoLgHuwIv5-_WCXbxV4hH7Af1bjJuaEs3rVEElPYwEIQzo5eBgmN3LoYQ..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "蚂蚁发现",
+      "sources": [
+        "蚂蚁发现"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "家里有一台闲置电脑、一台旧笔记本,或者一台吃灰的小主机,除了放着积灰,还能拿来做什么?很多人会想到 NAS.它可以集中存...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "旧电脑变身AI NAS,不用重装系统。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
       "source": "Ars Technica",
       "sources": [
         "Ars Technica"
       ],
-      "publish_date": "2026-10-29",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "SpaceX no longer needs NASA, and that's a problem for America's space agency。",
+      "info_brief": "Once again, NASA is asking for ideas to rescue Hubble from certain death。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "铁威马F4-213评测:双十一家用NAS,普通人",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9uWI8D94sR_eblZqMMoQriMH6aIS2JlOFFAs_YGcr-A01arwARda4kOkpEEX-MfVR-0jkCDDtDb4pOkG8NU07fjKilT_E3yvR-YV6gAEdNh0Mwky9I8f4Zplv1GPS0k3DeClTONQqPNLU0yXuz6aJ_3gHtXR1kg6E8ok3p42eZyajotuuiAmOIg..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "主机手机情报局",
+      "title": "&#55358;&#56816; 第一步:用 SSH 连到 NAS",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9m9GoOCvya2jFykDi5RH72PHjYwWN2gALzwxgUV-_eu_31GPIkkANV0Q7_lQsDkvvhkLNZObQQ7RroNT9yaZ21ob4HzSlv9WW2NFYKBlMKAU-GJqxj0KFbN6i3nonnbpValxrfzLWRSg6ldyxiHFKNXwbuZP2zPzn79jMgncfG1xe0WC6Sbi7DA..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "Tech探索者",
       "sources": [
-        "主机手机情报局"
+        "Tech探索者"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "铁威马双十一前甩出一台 F4-213,明显是冲着普通人来的.以前 NAS 总在拼性能怪兽,把想存照片的人全挡在门外.这次它直接换上...",
+      "summary": "NAS,让设置生效:rebootSSH 会断开.等 NAS 重新上线,先确认网页或 App 能访问,再合上笔记本盖子.过一两分钟后重新访问一...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "铁威马F4-213评测:双十一家用NAS,普通人。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
-    },
-    {
-      "title": "一夜之间,NAS 文件全变 .LOCK3D|群晖勒索潮处置与自救完全指南",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9ZmugDWCQTEedcR4DuegVo9rzfUH0DsdybK2sqpcoQERFgVMvrWmNMYEydHC_PVA6hKhcoTmX1RYEDgZ1uov6mpi1A2kKcnBKwnDh338Mb2rCgyE1RxUicqndxZZXDjg7adq6CMyVy-afo6A-Tdjy2mGsBN4MMkGyDYdhvMZhE-7Yl_Q5RRZQjg..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "维优数码",
-      "sources": [
-        "维优数码"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "NAS 风扇狂转,登进控制台发现磁盘可用空间归零;甚至有运行六年的老玩家,RAID 6 + 本地自动备份,主数据与本机备份被一锅端...",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "一夜之间,NAS 文件全变 .LOCK3D|群晖勒索潮处置与自救完全指南。",
+      "info_brief": "&#55358;&#56816; 第一步:用 SSH 连到 NAS。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "每日情报-NAS,网盘,数据",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9APJyIPrcSgM4aui_kLYQ-JDEX3c4FVJxkSrzPuorvsRsFnICb6NY83vn1uDCngOkBUFk81OEP_1HP1gqstY4rpDqnZ6dqTPDYs4T4jTGEs2sf7i3lUy-ElpeAj-OIv9Z04g7Ydtajwsf1YzG98ILko8LQ1mqIwIiG4i9As62YwHuL0unUdKkuw..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "SGQ天空",
+      "title": "群晖NAS升级内存",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9JHzH-NAgmwsNnUsvkEhvtsXt_PAMH_Ojv_O882p_U9D9WbHi_58IbAY8Kdjp435zg6I8Nbgcoikrtt8YVVMrTq2Cn3sqDhU_sYGILZp9Fpw0OCIBRvkzr5Y1rZqvyz9hY2wfE20eKGGQg4zhnm2cBHS61OeoDRMfYNnQkxt9NCNFH6In5Ei3zg..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "我跟你同学",
       "sources": [
-        "SGQ天空"
+        "我跟你同学"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "今天这波存储和数据圈的情报挺热闹,腾讯把网盘变成了 AI 的底座,群晖却连着踩了两个大坑.先看 NAS 这边.群晖最近被勒索软件...",
+      "summary": "群晖NAS1525+,二手市场捡漏拆机内存,升级内存至16G,运行流畅多了.D4ES03-8G内存,某东价格3625元.捡漏二手市场某鱼...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "每日情报-NAS,网盘,数据。",
+      "info_brief": "群晖NAS升级内存。",
+      "opportunity_insight": "价格竞争加剧，关注头部品牌促销节奏，适时调整引流款与利润款组合。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "NAS漏洞怎么防?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9uM_GgMhLKzmcl5mrJ5Jk4MnvDJ5S8kaquofafrS6o-9ZZEyI-D39pxSvNO_GtcfuQmcQ9xTKWjyji1wB-Oq1u6XfIrrUtt2gVunsJe2wYK-558N_IbnYmYB8zO_CSEoUbr3kZEWjf0uVW5r13BBwccweIsjrDczwRkW9cfRebwTs46dn8Efgxg..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "小白电脑技术",
+      "sources": [
+        "小白电脑技术"
+      ],
+      "publish_date": "2026-10-30",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "NAS一旦暴露公网,NAS安全就取决于目前有没有一个能打穿你的漏洞,而这件事咱们都控制不了.唯一一件事情咱们能做到的就...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "NAS漏洞怎么防?。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "NAS接管全屋智能,部署Home Assistant",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9gnFaPtFonLnx1mKHwWFic0B1Oz8gIxIDB17dILJZeo3dSbPllwjhPn0smC_dWsn9Oi7N9yFe56lDgm1LUM6fRsJD88HCBD4yNwO3XLU1_VX8H8e83G3E8cmfe24idnJ6rqgU0yithw3DO6XsQ_so94GxWTahCN0m6XARzAoE9PQ89kyxDwoXvg..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "消息使者",
+      "title": "NAS勒索事件:升级后为何仍会中招?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9JEh4OUb4ONgUmQj-gEeE96a8qodNiZ0dZAz8U9Ey2q969j7y4y4LMAviHIe-L3mQZ7Iibz1tSivZIAavwKQHpn0O6VfZV4rhDiqBNhCmGZ3Nmv9IND5rXhll16rAXIOQkwP1ttSqGFCkwaenNg7V2UhAwWhlKINSLPdh1jc3lVPs46dn8Efgxg..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "快传科技",
       "sources": [
-        "消息使者"
+        "快传科技"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "NAS 上,断网了灯照样开,不用多买盒子也不费电.NAS 上装它有两条路.想要一键安装插件就选虚拟机;想省资源、五分钟搞定,...",
+      "summary": "最近 NAS 圈这波勒索事件,企业真正应该关注的,不是争论到底是不是 0day,而是很多看起来已经做过的安全措施,可能并没有...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "NAS接管全屋智能,部署Home Assistant。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "群晖 NAS 安全防护,建议做好这6件事!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9e8Cf0LnUjhvurOVriGylE0iFBCLYrFrdN_FPf_W292JrUgATIT86Tk_zfU4YhwHJbk5cg9CcmE5YufzFip9Hcn4UkxwSLMx94RQu_49Fw6Qh2dKwnLMefqM45O9OuYgJ5n1vE7T8F6MaLUwj5Himz13cv4HsOSkQE5WAdcemvph6VKrzu_4XKA..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "降级消费研究员",
-      "sources": [
-        "降级消费研究员"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "最近 .L0CK3D 文件异常事件给不少 NAS 用户敲响了警钟.NAS 不只是存储设备,也需要做好安全防护.整理了6个关键措施:1️⃣ ...",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "群晖 NAS 安全防护,建议做好这6件事!。",
+      "info_brief": "NAS勒索事件:升级后为何仍会中招?。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "紧急!紧急!群晖NAS遭勒索病毒突袭 疑似未知0day在野利用",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9XOJw8Nh8Rbp1gVdbXM7K5DY3A5fwj2C4E5v6i4DPRUanYb6vk61lmUW-MHlNAiHMs8eRaQYa5RIUu_AQxuf8SNx6HAj0_4ux2WrNPVlExcpoLLiSCyKFDcgrwy_LNMgXsZVBLuulBeljEn-5Z6JwE9igou_7li2SyJ_psTCShrfS-e4Yz84xMA..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "波波弱电日志",
+      "title": "NAS 装了 RAID 就安全了?别忽略这件事,硬盘坏了也可能丢数据",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr9qjM1JMwCpSNcLIFxdKbBVqXa8Fplpd9IamtwxnHK2Ua5-8d0ToGKKSR_J8CfrJxTwcT8DkAA3x1OBFpA0VeoQvLTuk5f2NHyjHP1KyvWb5nXQS6tCPQFDG8rWLd-MLnl20czZUw4Ct6Z0ceuxzG_gF4oy5a6GBn4pgxmMMrvd1F3-X1PJ3llGi0kiL0optMMr2ZquS4MzVCy6umSSPEsg..&amp;type=2&amp;query=NAS&amp;token=CC49CF35AA15E863575E084D739446E8585AA4326AE55A47",
+      "source": "人间一日闲",
       "sources": [
-        "波波弱电日志"
+        "人间一日闲"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "━━ IT一线技术日志 ━━群晖NAS遭勒索病毒突袭疑似未知0day在野利用有人一夜痛失9TB,官网客服已瘫痪 等级:紧急,紧急!群...",
+      "summary": "NAS 数据安全NAS 装了 RAID 就安全了?别忽略这件事,硬盘坏了也可能丢数据RAID &ne; 备份 &middot; 3-2-1 原则 &middot; 飞牛 NAS 备份清单与避...",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "紧急!紧急!群晖NAS遭勒索病毒突袭 疑似未知0day在野利用。",
+      "info_brief": "NAS 装了 RAID 就安全了?别忽略这件事,硬盘坏了也可能丢数据。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "蹲NAS的小伙伴,记住你蹲的是限时立减!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9A0ycqSNT6N2cl3FdhSUMfU7h7yFpIyZC4z7GEOS_E9xNIFuF6YiA1-3ORMeShuQ8mSaJFwVckfPl7Y_KZMqNem-ebyoTkS6QL_g48dJ_YfabnNtsQwE2-G8y2mG41-aFfxMz64dCdWxgBnT9LdtSo2Xq4lTuOvVckeCfIucTsudr1dbZWbKUeQ..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "科技菜菜",
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "source": "Ars Technica",
       "sources": [
-        "科技菜菜"
+        "Ars Technica"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "今晚大促将启,有一个非常重要的信息,今天和大家同步下,不止是NAS,其他东西也可能用得上!那就是限时立减!当你某次打...",
+      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "蹲NAS的小伙伴,记住你蹲的是限时立减!。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
-    },
-    {
-      "title": "NAS玩家:从Docker到光明的未来",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXSP2MwSNm08-Z4YHbQDZR4lqXa8Fplpd9LgzARF_dK5GoSWZP-hv3WzW9WXGKQ06AD6746rQ6X4apQeQ7xveom6G3FCms_1HLhIzEQTHqUhuYvmXJi923-tF3KYXoJY1Kp5mvr2V2bLDp6ReM2VLWfeBIhDdFfy5Sm979v9DxWBahTcD2BuLYiomvZfl4jEYuxvCcx-TZbxoGX_iHL9MadA..&amp;type=2&amp;query=NAS&amp;token=C0B3C0C1496CCF84898FD68FB5128D7189D71FAD6AE40C4B",
-      "source": "入门垃圾佬",
-      "sources": [
-        "入门垃圾佬"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "我装了一台NAS,我听说docker很好,那是什么,我没听过,要不＂我就装一个试试.＂现在我列表里有 24 个容器,23 个绿灯常亮....",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "NAS玩家:从Docker到光明的未来。",
+      "info_brief": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱",
-      "url": "https://www.ithome.com/1/019/852.htm",
+      "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
+      "url": "https://www.ithome.com/1/020/434.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-30",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，企业 AI 支出持续攀升，随着主流 AI 厂商转向 token 计费模式，这项支出也变得越来越难以预测。对 PC OEM、ODM、芯片厂商、渠道伙伴和托管服务提供商而言，核心问题在于： AI 工作负载应该在哪里运行，PC 又将扮演什么角色。 据预测，AI PC 出货占比将在 2027 年达到 60%，本地 AI 的装机基础正通过换机周期逐步形成。 企业 AI...",
+      "summary": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售价为 4299 元起： 12GB+2...",
       "matched_keywords": [
-        "AI PC",
-        "电脑"
+        "处理器"
       ],
-      "info_brief": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
     },
     {
-      "title": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售",
-      "url": "https://www.ithome.com/1/019/881.htm",
+      "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
+      "url": "https://www.ithome.com/1/020/414.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-30",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，机械革命 (Mechrevo) 现已在电商平台上架新款旷世 16 游戏笔记本电脑。 其 基于英特尔酷睿 5 处理器 205H ， 搭配 NVIDIA GeForce RTX 3050 笔记本电脑 GPU (4GB GDDR6) ，拥有 16GB DDR4 SO-DIMM 内存、500GB PCIe Gen4 SSD 存储。 该型号机身 A 面为铝合金材质； ...",
+      "summary": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1999 元 256GB 版 2399...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元",
+      "url": "https://www.ithome.com/1/020/410.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 10 月 31 日消息，宏碁 (Acer) 现已开始销售掠夺者 · 战斧 9 Neo 游戏笔记本电脑的英特尔酷睿 i7-14650HX 处理器 + NVIDIA GeForce RTX 5070 笔记本电脑 GPU（12GB 显存）新配置。 这一款式拥有 16GB DDR5 内存和 1TB SSD 存储，焕新补贴后 到手价为 12,999 元 。 京东 宏碁 掠夺者 · 战斧 9N...",
       "matched_keywords": [
         "笔记本",
         "电脑",
         "处理器"
       ],
-      "info_brief": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "OPPO Find X10 手机全新配色“森绿”开售：天玑 9600M 处理器，5499 元起",
-      "url": "https://www.ithome.com/1/019/872.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息， OPPO Find X10 手机全新配色“森绿”今日 10:00 正式开售， 售价 5499 元起 ： 12GB+256GB：5499 元 12GB+512GB：5999 元 16GB+512GB：6499 元 京东 OPPO Find X10 12GB+256GB 森绿 5499 元 直达链接 OPPO Find X10 手机搭载联发科 天玑 9600M...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "OPPO Find X10 手机全新配色“森绿”开售：天玑 9600M 处理器，5499 元起。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "2030 年之前，我们可能再也买不到便宜的电脑了",
-      "url": "https://www.ifanr.com/1686326?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "sources": [
-        "爱范儿"
-      ],
-      "publish_date": "2026-10-28",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "啥时候是个头 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "matched_keywords": [
-        "电脑"
-      ],
-      "info_brief": "2030 年之前，我们可能再也买不到便宜的电脑了。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "微软优化 Win11 现代待机：电量 80% 以上少休眠、10% 以下快休眠",
-      "url": "https://www.ithome.com/1/019/875.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，科技媒体 NeoWin 昨日（10 月 29 日）发布博文，报道称面向 Windows 11 25H2/26H2 的 10 月可选更新 KB5127936 中，微软重点改进了自适应休眠机制，从而优化笔记本电脑的续航表现。 IT之家注：现代待机（Modern Standby）是微软为 Windows PC 设计的低功耗睡眠状态，类似智能手机设计，设备在“睡眠”...",
-      "matched_keywords": [
-        "笔记本",
-        "电脑"
-      ],
-      "info_brief": "微软优化 Win11 现代待机：电量 80% 以上少休眠、10% 以下快休眠。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "机械师曙光 PRO 整机“星舰白”配色发售：水冷 MoDT，低至 10499 元",
-      "url": "https://www.ithome.com/1/019/920.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，机械师 (MACHENIKE) 现已开始销售水冷 MoDT 整机曙光 PRO 的“星舰白”配色款式。 其基于英特尔酷睿 i9-14900HX 处理器。NVIDIA GeForce RTX 5060 Ti 款定价 11,999 元 ，部分区域国家补贴后低至 10,499 元； GeForce RTX 5070 款定价 14,999 元 ，部分区域国家补贴后低至...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "机械师曙光 PRO 整机“星舰白”配色发售：水冷 MoDT，低至 10499 元。",
+      "info_brief": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元。",
       "opportunity_insight": "政策补贴窗口打开，补贴合规SKU将获得流量倾斜，建议优先上架补贴目录商品。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "TUXEDO 推出 X7 358H + DDR5 迷你主机 Nano Pro - Gen15 - INTEL",
-      "url": "https://www.ithome.com/1/019/888.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，德国 Linux PC 制造商 TUXEDO 近日推出了 Nano Pro - Gen15 - INTEL 迷你主机。该型号基于酷睿 Ultra X7 处理器 358H，但 很罕见地使用了 DDR5 CSO-DIMM 内存模组 而不是官方支持的 LPDDR5X。 新款 Nano Pro 三维约 110×120×50 (mm)，拥有 1 个 M.2 2280/...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "TUXEDO 推出 X7 358H + DDR5 迷你主机 Nano Pro - Gen15 - INTEL。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "PC 市场疲软叠加供应链扰动：英特尔业绩指引不及预期，盘后股价暴跌 23%",
-      "url": "https://www.ithome.com/1/019/874.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 10 月 30 日消息，英特尔发出预警称，受个人电脑市场疲软、制造环节瓶颈以及巨额扩产支出影响，公司今年将出现现金净流出。 英特尔股价在盘后暴跌 23% 。 与诸多科技巨头一样，英特尔此前一直在大举投资芯片制造，但遭遇的供应链受阻问题削弱了其把握数据中心芯片需求增长红利的能力。与此同时，内存价格飙升推高了 PC 制造成本，进一步打击了终端需求。 英特尔警告称，这种需求疲软态势可能会...",
-      "matched_keywords": [
-        "电脑"
-      ],
-      "info_brief": "PC 市场疲软叠加供应链扰动：英特尔业绩指引不及预期，盘后股价暴跌 23%。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
-      "procurement_insight": "该品牌资本动作释放扩张信号，建议密切关注其后续渠道与营销投入节奏。"
-    },
-    {
-      "title": "瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？",
-      "url": "https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html",
-      "source": "雷峰网",
-      "sources": [
-        "雷峰网"
-      ],
-      "publish_date": "2026-10-29",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。 这种变化正为中国3C卖家带来新的市场机会。Shopee平台数据显示，2025年12月，电脑及配件类目销售额同比增长超50%，其中电...",
-      "matched_keywords": [
-        "电脑"
-      ],
-      "info_brief": "瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
       "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
     },
     {
-      "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
-      "url": "https://www.tmtpost.com/8186683.html",
-      "source": "钛媒体",
-      "sources": [
-        "钛媒体"
-      ],
-      "publish_date": "2026-10-29",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型 AI 智能体工作手机 Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
-      "matched_keywords": [
-        "手机",
-        "AI手机"
-      ],
-      "info_brief": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "李杰：一加 16 和一加 Ace 7 Pro 包揽 2026 年安卓手机首销销量冠军和亚军",
-      "url": "https://www.ithome.com/1/019/882.htm",
+      "title": "IT早报 1031：Apple 智能官宣入华；华为 Mate 60 Pro 处理器官方首次“揭秘”；《影之刃零》媒体评分超《黑神话：悟空》；小米 17 亿入股欣旺达动力...",
+      "url": "https://www.ithome.com/1/020/401.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "publish_date": "2026-10-30",
       "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不可挡。 一加 Ace 7 Pro 首销销量达到上一代 Ace 6 的 225%，实现大幅增长 一加 16 和一加 Ace 7 Pro 包揽了 2026 年安卓手机首销销量冠军和亚军 据IT之家此前报道，一加 16 手机于 10 月 12 日发布，首销 5699 元起，国补到...",
+      "category_id": "ai-pc",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 31 日星期六，今天的重要科技资讯有： 1. 苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 版开放测试 苹果宣布首批 Apple 智能功能将于 11 月 4 日起随 iOS 开发者 Beta 版在中国开放测试，12 月随 iOS 27.3 正式推送，并携手阿里巴巴将千问接入 Siri...",
       "matched_keywords": [
-        "手机"
+        "处理器"
       ],
-      "info_brief": "李杰：一加 16 和一加 Ace 7 Pro 包揽 2026 年安卓手机首销销量冠军和亚军。",
-      "opportunity_insight": "品类增长信号明确，建议提前锁定头部品牌坑位与促销资源，抢占增量窗口。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "工信部反诈专班提醒：小心二手手机变成诈骗“工具机”",
-      "url": "https://www.ithome.com/1/019/873.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 10 月 30 日消息，工信部反诈专班 29 日通过“信息通信行业反诈中心”公众号发文介绍，有不法分子在部分二手手机流入市场前 预先植入恶意程序 ，一旦消费者购买后插入手机卡、连接网络，就能在其毫无察觉的情况下远程操控设备， 发送短信、截取验证码、注册互联网账号，并利用这些账号实施诈骗 。 研究发现，这类涉案二手手机往往经过 BootLoader 解锁、系统固件篡改、ROM 级木马...",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "工信部反诈专班提醒：小心二手手机变成诈骗“工具机”。",
+      "info_brief": "IT早报 1031：Apple 智能官宣入华；华为 Mate 60 Pro 处理器官方首次“揭秘”；《影之刃零》媒体评分超《黑神话：悟空》；小米 17 亿入股欣旺达动力...。",
       "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "OPPO Find X10 手机全新配色“森绿”开售：天玑 9600M 处理器，5499 元起",
-      "url": "https://www.ithome.com/1/019/872.htm",
+      "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
+      "url": "https://www.ithome.com/1/020/418.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-30",
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。 京东 11.11 大促期间，活动价 3199 元； PLUS 会员下单立减 160.27 元； 领取 160 元优惠券： 点此领取 ； PLUS 会员 2 积分兑换 800-80 元优惠券：京东 App-我的-领超级补贴，10 /20 点开抢； 国家补贴立...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "小米 REDMI K100 手机首销：骁龙 8 至尊版、10000mAh 电池，限时特惠价 2999 元起",
+      "url": "https://www.ithome.com/1/020/436.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 30 日消息， OPPO Find X10 手机全新配色“森绿”今日 10:00 正式开售， 售价 5499 元起 ： 12GB+256GB：5499 元 12GB+512GB：5999 元 16GB+512GB：6499 元 京东 OPPO Find X10 12GB+256GB 森绿 5499 元 直达链接 OPPO Find X10 手机搭载联发科 天玑 9600M...",
+      "summary": "IT之家 10 月 31 日消息，小米 REDMI K100 手机今日首销， 双 11 限时特惠价 2999 元起 ： 12GB+256GB 版：建议零售价 3499 元，双 11 限时特惠 2999 元，国补价 2549.15 元 12GB+512GB 版：建议零售价 4099 元，双 11 限时特惠 3499 元，国补价 2999 元 16GB+512GB 版：建议零售价 4499 元，...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "OPPO Find X10 手机全新配色“森绿”开售：天玑 9600M 处理器，5499 元起。",
+      "info_brief": "小米 REDMI K100 手机首销：骁龙 8 至尊版、10000mAh 电池，限时特惠价 2999 元起。",
+      "opportunity_insight": "政策补贴窗口打开，补贴合规SKU将获得流量倾斜，建议优先上架补贴目录商品。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+    },
+    {
+      "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
+      "url": "https://www.ithome.com/1/020/434.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售价为 4299 元起： 12GB+2...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+    },
+    {
+      "title": "华为 Pura 90 Plus 手机开售：1 英寸主摄、首发麒麟 9025，焕新优惠价 5199 元起",
+      "url": "https://www.ithome.com/1/020/423.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 31 日消息，华为 Pura 90 Plus 手机将于今日 10:08 正式开售，双十一焕新季 10 月 28 日 - 11 月 30 日限时优惠至高 300 元， 焕新优惠价 5199 元起 ： 12GB+256GB 版 5499 元，焕新优惠价 5199 元 12GB+512GB 版 5999 元，焕新优惠价 5699 元 12GB+1TB 版 6999 元，焕新优惠...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "华为 Pura 90 Plus 手机开售：1 英寸主摄、首发麒麟 9025，焕新优惠价 5199 元起。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
+      "url": "https://www.ithome.com/1/020/418.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。 京东 11.11 大促期间，活动价 3199 元； PLUS 会员下单立减 160.27 元； 领取 160 元优惠券： 点此领取 ； PLUS 会员 2 积分兑换 800-80 元优惠券：京东 App-我的-领超级补贴，10 /20 点开抢； 国家补贴立...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
+      "url": "https://www.ithome.com/1/020/414.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1999 元 256GB 版 2399...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "无需安装：微软 Win11 预览版搜索联动安卓，直接串流操作手机应用",
+      "url": "https://www.ithome.com/1/020/442.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-10-31",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称 在 Windows 11 Build 26340.9843 等 Experimental 频道预览版中 ，微软正在测试 Windows Subsystem for Android 轻量替代方案。 IT之家注：Windows Subsystem for Android（WSA）...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "无需安装：微软 Win11 预览版搜索联动安卓，直接串流操作手机应用。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
@@ -551,58 +565,57 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌销量势能强劲，建议优先锁定主推坑位并加大同价位段SKU备货深度。"
     },
     {
-      "title": "微软优化 Win11 现代待机：电量 80% 以上少休眠、10% 以下快休眠",
-      "url": "https://www.ithome.com/1/019/875.htm",
+      "title": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验",
+      "url": "https://www.ithome.com/1/020/417.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-10-30",
+      "publish_date": "2026-10-31",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 10 月 30 日消息，科技媒体 NeoWin 昨日（10 月 29 日）发布博文，报道称面向 Windows 11 25H2/26H2 的 10 月可选更新 KB5127936 中，微软重点改进了自适应休眠机制，从而优化笔记本电脑的续航表现。 IT之家注：现代待机（Modern Standby）是微软为 Windows PC 设计的低功耗睡眠状态，类似智能手机设计，设备在“睡眠”...",
-      "matched_keywords": [
-        "手机",
-        "智能手机"
-      ],
-      "info_brief": "微软优化 Win11 现代待机：电量 80% 以上少休眠、10% 以下快休眠。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
-      "url": "https://www.ithome.com/1/019/891.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-10-30",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 10 月 30 日消息，小米澎湃 OS 官方宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型将从即日起开始陆续推送。 手机 Xiaomi 17 Max Xiaomi 17T Pro Xiaomi 17T REDMI K90 Max REDMI K90 至尊版 REDMI Turbo 5 Max REDMI Turbo 5 平板 REDMI K Pad 2 电视 小米电...",
+      "summary": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galaxy Fold 以来的三星折叠手机，视...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型。",
+      "info_brief": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "进击中的影石：攻击性强，血条太脆 ？",
+      "url": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-10-30",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "影石并不缺成功故事。 十一年前，年轻的影石以破局者的姿态，切入全景相机这片无人区，打了一场漂亮的仗。 它的成绩单也够耀眼，成立11年，影石相机全球累计出货量已经突破1000万台，其中470万台来自过去一年。在其最擅长的全景相机市场，2026年二季度的全球出货份额约73%。 手机影像从业者许衡评价：“影石能做到今天这个市场，核心是善于洞察一些被巨头遗忘的需求，并以此开拓成新市场。” 此后，影石...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "进击中的影石：攻击性强，血条太脆 。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
+    },
+    {
+      "title": "解读丨Misa 的全彩豪赌：卖不到千万台，Rokid 就输了",
+      "url": "https://www.leiphone.com/category/weiwu/FrjosYobsoHysRCW.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-10-30",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "提词器是原生应用，但依然不是杀手级应用 。 作者丨黄艳冰 编辑丨姚单 “ 眼镜的 iPhone 时刻来了 。” 10月27日，Rokid 创始人兼 CEO Misa 在 首款全彩 AI 眼镜 Rokid Color 亮相后， 抛出了这句话。 与市面上已有的全彩尝试相比， Rokid Color 讲的并非新故事，不同之处在于， 它在 55 克机身内保留了摄像头、扬声器等完整功能，没有为减重砍掉...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "解读丨Misa 的全彩豪赌：卖不到千万台，Rokid 就输了。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
-    },
-    {
-      "title": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？",
-      "url": "https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "sources": [
-        "爱范儿"
-      ],
-      "publish_date": "2026-10-28",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "游戏手机的下个世代，会有怎样的变化？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     }
   ]
