@@ -1,207 +1,584 @@
 /* Auto-loaded by index.html so the page works under file:// without a server. */
 window.__NEWS_DATA__ = {
-  "generated_at": "2026-11-20 04:49:52",
-  "total": 27,
+  "generated_at": "2026-11-22 03:59:07",
+  "total": 49,
   "source_count": 10,
   "items": [
     {
-      "title": "碳纤维托底,钛合金与3D打印正在重写假肢材料性能边界",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itgfkE88JCykMEcu3-j7Bdx2FqXa8Fplpd9VEw2a9dH4NoM3KV29f2fiP7LZa4AGWcMH4ZI2ATDezRgZluaR4yeF9jhR_8F3QrxR2wPdfN2HOEYkJJM1P-_wmTgKKYRMDxQIkSExXTtQ15PlT6ch8YViVGS6g3IPv92kWE5BwqM-F2tqVaUFdt3rEqeFjBB0uCuMxZTCg6alHJOJBjQH7pCxQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=A48C086313F4160E696F09C4BCBB22E96A4290766AFFCF19",
-      "source": "博思市场调查",
+      "title": "华南农业大学3D打印研学",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9_mdICD4ZmJZN2RhA8vKWhSI_fnPIza5EYxnMn2pyN1ngaD1aQoy1YwRjRFrR-fPwgeH9jIMbBjYasA4SxZUQxjA3KQMuZLSCVVmOo2-ooV2QtIu9UUxgQioKXh6QilG-c04khra0TdLJ1cZ7kExrzFXZp4vxOhF76XB5VS5uT4pFH6In5Ei3zg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "剑桥英语YLE及KET及PET资料分享",
       "sources": [
-        "博思市场调查"
+        "剑桥英语YLE及KET及PET资料分享"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
       "category_id": "3d-printing",
-      "summary": "3D打印使患者特异性几何与梯度晶格结构成为可能,假肢级聚酰胺、热塑性弹性体与高性能聚合物的可打印性,正在成为材料供应商...",
+      "summary": "老师讲解和参加活动免费,仅收取材料费,有想参加活动的可以关注联系.[转圈]来华农赏花,看牛师兄(第三教学楼前大草坪,早上...",
       "matched_keywords": [
         "3D打印"
       ],
-      "info_brief": "碳纤维托底,钛合金与3D打印正在重写假肢材料性能边界。",
+      "info_brief": "华南农业大学3D打印研学。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "CNC加工件为什么需要保护膜工厂避坑真相",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itgTln1mlLmhX4cu3-j7Bdx2FqXa8Fplpd9zwaDJFlS0m1yAFFcPs5s4VWEVKpmgx2aizU2UXqHGRnThOBuPxhEdrLT7l9vjhPH3YV04X9Sdon5OYRxDVw3w3reMO36av5iqBAV8MLILQOIlMm_rYcbyNEZKSqKxlhbmBgGWichTFRsBfz4w1NJ6v50oXe-yyb6CmKXCNSLL1g89kyxDwoXvg..&amp;type=2&amp;query=CNC%E5%8A%A0%E5%B7%A5&amp;token=A48E0F6E7397766D090C69A4D29A8CD10A06C45C6AFFCF79",
-      "source": "鑫图洲模切说",
+      "title": "2027年iPhone 20或采用3D打印中框;中国军团亮相Formnext 2026,展商突破145家;易加增材等企业集中发布新品|库周报",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9oUaMXAtmm2U4AmXixqgx5Pi-ZzkDI8_a_DEQ2C1s9WRUc6zE5bOReRPI_L981jScEUrIARy73MiCcswktBy1WuBYx3TKTxDZOrobK36IG893qXeYhKkzyEmGzrp7FJetfs-Rd4yR6HhqjVv5KQcGyN8OaXsoSZXYZac6Jibuo76TJmCU1UgHwQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "3D打印资源库",
       "sources": [
-        "鑫图洲模切说"
+        "3D打印资源库"
       ],
-      "publish_date": "2026-11-14",
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "2026年11月22日,以下是过去一周内3D打印行业发生的事情,包括大事件 、行业动态 、趣制造 、融资/并购 、新...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "2027年iPhone 20或采用3D打印中框;中国军团亮相Formnext 2026,展商突破145家;易加增材等企业集中发布新品|库周报。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "不能错过的设计分享&middot; 3D打印篇51",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9WWsikcO7hqJSD6QZsfstLD4Xi9AzjZaJbdbno3rnTQZXC1lhE1jtWvXHHOfJBtttkDvG53qjmsjqDCu3vY9oR99AnIBeuLmG3o3OyYOfLHI9fRvokVU0AkXWYJUntTgss1vxw3gVI9a1EaDg6BotnjxS309WBLo8no1gdFJelOo89kyxDwoXvg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "创创熊de异想世界",
+      "sources": [
+        "创创熊de异想世界"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "代价就是没法调尺寸,只能靠四个号硬选.你最心动的是哪件产品?#3D打印 #工业设计 #创创熊 #有熊则灵 #逢熊化吉 #创意",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "不能错过的设计分享&middot; 3D打印篇51。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "10月工业成绩单:机器人涨26%,3D打印涨85.9%",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9Px1TVQkivI50iLyjjMcKuEYVdw6TlXXXP3Ajd1jfzfuMTV8sHMhwAV-yTzRsDtX-oTHYfLAK3mOHNPZXswdhTpbmyzpHCwL8pBORnRfHvvGVrqcXhOYKg4wuwEC900HrAwKlYQvjqTEfjU7R4PZb9jaARNhqCnCI0u4zz7_Rsvj1AfaFW2DefQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "莫莉的书架",
+      "sources": [
+        "莫莉的书架"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D 打印设备产量涨了 85.9%,工业机器人涨了 26%,高技术制造业增速创下近五年最高.11 月 21 日晚上,中国政府网转发的这组 ...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "10月工业成绩单:机器人涨26%,3D打印涨85.9%。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "香港理工大学与南方科技大学合作开展:3D打印复合材料的嵌入式石墨烯电阻应变感知",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9GKEcSK1EtKNJJDIb-gRzitP9u5DIVuDgRrm-3DlDX09Q_WiNxZfDnOrHmqUdGxQkH10YzXNarRjX2bTgOoS43c5dosK6O1O5f2AXNIdbq6l0WlEmzRNlDvBD9Ml1F8pbbiFhjYJkPPcf6qYGyJfT6WqGf6AE_jBzbnxRURm5A6SrCDCayYmfpA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "复材打印",
+      "sources": [
+        "复材打印"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印复合材料的嵌入式石墨烯电阻应变感知1.论文信息题目:Totally-additive-manufacturing-functionalized carbon fiber-...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "香港理工大学与南方科技大学合作开展:3D打印复合材料的嵌入式石墨烯电阻应变感知。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "家具化保险柜带动场景融合，可联合家装类目设置组合套装与样板间种草。"
+    },
+    {
+      "title": "知识解读丨超高温陶瓷 3D 打印:工艺路线、成形难点与发展方向",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9PrAo2rVqy0ycv314Q2rEQEHcxh_REkxcE1FtXfAGxTMVuXXLeQG557a8Sbgp3rI5UkPby_t8wy1urOhOJ-EbdbSfSCWR0c2tI7bk-vGUXT76FU-9ihLjOAWQgfSPX08rOuh1jXBKZ9EVUOBgoqR0pVJ5lJ8XW5300cSpnW8m1x9535pjGOOjYg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "奇遇科技ADTE",
+      "sources": [
+        "奇遇科技ADTE"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印拓展超材料设计打印案例丨光固化3D打印氧化铝六边形孔阵列结构行业新知丨DLP 打印重构电极/电解质界面,质子陶瓷燃料电...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "知识解读丨超高温陶瓷 3D 打印:工艺路线、成形难点与发展方向。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "23岁,他靠3D打印持续上大分!早安~",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9y-GL-77oaYZY_yApQ9v-AHPphFRAnDbnTBigT78UcpsqEt3QePrHqYOynf1uK6g7aYkRid-N6CD5hK_y4pPzOobhqdMvRVZcE0HHBh0BXAdhOy7RPNAUmXV8zw5tOBLXFx2h2dQAKzqvt-hksoQ1pgtVa1Uh8hlVANT7YsEeEBd535pjGOOjYg..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "人民公安报",
+      "sources": [
+        "人民公安报"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "这是公安部新闻传媒第859次向您问早安早上好~各位小伙伴~夜已深一台3D打印机仍在低声嗡鸣一个年轻的身影正手执卡尺、眼凝毫厘...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "23岁,他靠3D打印持续上大分!早安~。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "3D打印船舶部件,离上船更近一步",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9Y1-V8oKDDQhjGoNkiCQQGW45xEA1dCVenXWOjx-uCL01qjuQh2XBFDtDPY6jnx4aKh8BVpUsk6e2GFUy6y2SRHyo6i8G5Phyk_0LKu4skDrN6hVc8W3FEYO0UBEhANc9XUSriEmfXfYVfwqkmBKoKrl1kHT-WOI-k4D7adOqLNINGbbB75bUeA..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "海事服务网CNSS",
+      "sources": [
+        "海事服务网CNSS"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "美国船级社(ABS)日前宣布与美国制造商Radian Forge达成合作,共同开发针对3D打印金属部件的新型认证方式.此举有望大幅加...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "3D打印船舶部件,离上船更近一步。",
+      "opportunity_insight": "合规门槛提升将加速行业出清，已获认证的品牌有望抢占份额真空。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "【艺之匠】3D打印的精度能达到多少?增材制造的极限究竟在哪里?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9Wt3Wj-7bjeMK1U4bPwO9mNsjsN4AIHWJzFgKDv_ctglDnNk2kf_xIC1OCWhqNq-336jjRjlvntQqXdrfmHNmziGyJMvxY8VvtKoWIbYNq6kAdoCQjP9l32GveIrDN5oiHYgbRkGoA9hpFtWyS3b3xLb6BQoO2e1YsQ0FzZ-9b44Cn9lOoZLP2Q..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "山东艺之匠三维打印有限公司",
+      "sources": [
+        "山东艺之匠三维打印有限公司"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "3D打印可以做到多高的精度?这项工艺的能力边界又在何处?单一的精度数值无法完整回答这个问题.增材制造的成型精度受工艺路...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "【艺之匠】3D打印的精度能达到多少?增材制造的极限究竟在哪里?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "南开大学AM:银微片+湿粘附水凝胶:3D打印制成无穿刺可拉伸心脏电极,实现心电监测与起搏",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0yas1N8ZbiMM6EbeTOT5uYFqXa8Fplpd9Cs4PUc-Uo0bszG_NRzlZScwU0mjqA1hKuN2DTLYyghtCgJIDljos5scv1e4vD2NdkeCjuMn7nxw4_GfM-wTEH2b9il3pnjD8kA3nDtjEfDfRJEsP_qFPKSWuQ0i70dRBUm9aEpwZaBpAvbn7SEU6LCLLOMSWnbuTINBXGJpywANAe0f8bRARvQ..&amp;type=2&amp;query=3D%E6%89%93%E5%8D%B0&amp;token=B279D7685563879CF8FE992CA28D5580F9A483FC6B02662B",
+      "source": "高分子科学前沿",
+      "sources": [
+        "高分子科学前沿"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "3d-printing",
+      "summary": "(图1a),并利用3D打印制备仿生网状电极(图1b),再与湿粘附水凝胶集成贴附心脏表面(图1c);该设计避免穿刺,使电极模量...",
+      "matched_keywords": [
+        "3D打印"
+      ],
+      "info_brief": "南开大学AM:银微片+湿粘附水凝胶:3D打印制成无穿刺可拉伸心脏电极,实现心电监测与起搏。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "cnc到底是干什么的?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03PqO93MqWuM6EbeTOT5uYFqXa8Fplpd9Xp5rmXC4II0aERKm2Te9-d9KK1h76ZudbrPzcRHIFCIC_IekBLC7Aa0CLRU1kAQWtEqD5OPTJRT3K3G8sti35F8fMIGis1sAHEb3H7kGJFupWpP8quUyttImbSITie1cZsR1C7PS1blexFS9WdNtuMTIJb_fyAN2sZYmReUSfIvwdVqCwyPdzA..&amp;type=2&amp;query=CNC&amp;token=B27B8095AC9B7E64010661D56114C07801E4AA9C6B026678",
+      "source": "匠工职业数控培训学校",
+      "sources": [
+        "匠工职业数控培训学校"
+      ],
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
       "category_id": "cnc",
-      "summary": "CNC加工全程喷洒切削液、冷却液裸工件表面容易残留水渍、液印风干后产生顽固印记,很难抛光清理 保护膜紧密贴合板面阻隔切削...",
+      "summary": "很多刚入行的朋友,经常听到 CNC,却还不清楚 CNC 到底是什么,一篇讲透!CNC 全称:Computer Numerical Control中文:计算机...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "cnc到底是干什么的?。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "准新机绮力重型855CNC模具机",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03PqO93MqWuM6EbeTOT5uYFqXa8Fplpd9YCFUO4IB1L12IO8U6g1fdRcIkm5CRFKNaBp1tH857ByOBUD2EjLDj1h_kOEkzYEya7_tZZWYB5qwUKy3kAWUbKUIDAbWRMIxw4hNFoR4Osue3OJscHfAi3PChbyndcliwgOpRp8zSQRDig8bH_FyLjy9hHB7p9vJTCXkmDIXwHiAFV_3u-a3OQ..&amp;type=2&amp;query=CNC&amp;token=B27B8095AC9B7E64010661D56114C07801E4AA9C6B026678",
+      "source": "龙泰模具廖15970107153",
+      "sources": [
+        "龙泰模具廖15970107153"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "准新机绮力重型855CNC模具机发那MFPlus系统,BBT40端鼻11kw主轴12000转,三轴45滚柱线轨X轴6滑块,12螺距 ,新机24万现在...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "准新机绮力重型855CNC模具机。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "【弥道俪精密】诚招CNC加工中心编程、加工中心数控车床操作工",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03PqO93MqWuM6EbeTOT5uYFqXa8Fplpd9VsgtI1MoGglbVmHSAca_Y4rFsCKrPK2X6mHs1mpJvWzw14RlsNtv3LwvuyG8bp1SNmV_YOv32CNHztUJ0nlznw3OMSc7gz4FVpfWacKvL5SK7dLN6s1nBqsdAMWdWlJImTKreI_WsDBGZaGNyds88DUc6YgkdYfH-2ujwMZSFTFhWLv6O878UA..&amp;type=2&amp;query=CNC&amp;token=B27B8095AC9B7E64010661D56114C07801E4AA9C6B026678",
+      "source": "桐乡人力网工作推荐",
+      "sources": [
+        "桐乡人力网工作推荐"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "10-30人五险|加班补助|餐补CNC加工中心编程11000-15000元/月加工中心数控车床操作工6000-8500元/月公司地址:桐乡市梧桐街道...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "【弥道俪精密】诚招CNC加工中心编程、加工中心数控车床操作工。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "CNC遇上AI:不是取代编程师傅,而是重构整套加工流程",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03PqO93MqWuM6EbeTOT5uYFqXa8Fplpd9iegwAdHRpM-qzG6Qh2Pbm6aeG6RJjpf6Q5VgH9qI2E0jvF_iCVdu8NX5tIDD9i1VfBBc7d9nifgV8u8jN5vs4ROxS_f-wsS0lNDX6Oer9xZw25kN2UU2xfzBy2_v_WlI-YqrbsEykpggoDIaHPtTSUTx7tA71HWbIAgsFrPuzUICn9lOoZLP2Q..&amp;type=2&amp;query=CNC&amp;token=B27B8095AC9B7E64010661D56114C07801E4AA9C6B026678",
+      "source": "顺势而为85235",
+      "sources": [
+        "顺势而为85235"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "干CNC这一行的,最近两年应该都被AI编程刷屏了.一边是网上各种宣传:AI一键生成刀路,以后不用CNC编程师;另一边不少师...",
+      "matched_keywords": [
+        "CNC"
+      ],
+      "info_brief": "CNC遇上AI:不是取代编程师傅,而是重构整套加工流程。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "靠谱的CNC加工排名前十推荐?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03Fo-E9QAsAE6EbeTOT5uYFqXa8Fplpd9tj8b3a2Ozn3mM_mUY2yxXhDFZ-Py9hSURZosH3gLTLA79xbJCsIGeRen7m9I3hJnDyz6qLT52169zOKyD9h4X3qCX2Px4PrCXTqG4zU_Nurc9r21wh_OMkgnHG3nH_AAtMiAsT1ENLfh9Nmbc4rQdI03OXT5eNkrSRYPDw-tRp9QL0Hr9Gyd3Q..&amp;type=2&amp;query=CNC%E5%8A%A0%E5%B7%A5&amp;token=B27BCB4D2510F4EF8A8CEB5FEA72B9B38B3DF2966B026687",
+      "source": "深圳市协和创新科技有限公司",
+      "sources": [
+        "深圳市协和创新科技有限公司"
+      ],
+      "publish_date": "2026-11-18",
+      "category": "媒体新闻",
+      "category_id": "cnc",
+      "summary": "靠谱的 CNC 加工排名前十推荐?采购问这句话时,往往默认排名前十就等于靠谱.行业共识是:排名衡量的是曝光...",
       "matched_keywords": [
         "CNC加工"
       ],
-      "info_brief": "CNC加工件为什么需要保护膜工厂避坑真相。",
+      "info_brief": "靠谱的CNC加工排名前十推荐?。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "source": "TechCrunch",
+      "title": "cnc加工中心需要掌握的全套知识",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE03Fo-E9QAsAE6EbeTOT5uYFqXa8Fplpd9bjV-YN2VzJXSdksncyS3yni11ul2Z4BKQKLGTm1B3LeOIb4X20fxN5QmEnySNv9XeTwCnbBA67IEoI4GyW5E-pdri-vBhkcZoDKw4-rkx64Ul0Eufr5XGCNQyBegx63Lhn6UubuWm7EzHt-rHn0QG4JiSmREVyvV8UI3Ax_Qj_Cfxjh3za6jWA..&amp;type=2&amp;query=CNC%E5%8A%A0%E5%B7%A5&amp;token=B27BCB4D2510F4EF8A8CEB5FEA72B9B38B3DF2966B026687",
+      "source": "专注数控编程静静",
       "sources": [
-        "TechCrunch"
+        "专注数控编程静静"
       ],
-      "publish_date": "2026-11-19",
+      "publish_date": "2026-11-16",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "category_id": "cnc",
+      "summary": "CNC加工全套知识(车间实操版&middot;一页速记) 适合CNC操机、调机、编程、工艺,从入门到精通整套框架,按模块整理,方便分段学...",
       "matched_keywords": [
-        "NAS"
+        "CNC加工"
       ],
-      "info_brief": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development。",
+      "info_brief": "cnc加工中心需要掌握的全套知识。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "一台不着急淘汰的NAS",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itg_fLGMCV3IsMcu3-j7Bdx2FqXa8Fplpd90HXat41za0vcjkGyjaZLprRYUbLCslpSp93pxyASeESsBZyLw2oiOCwj2OmG9rfLUJsv6aoDS3lTYClMk3UbCEyZvyLsJUCLja1cvrgayUfGJ0NIzn0hZgSwTc4R6Pbuyw9Y31aB-BjWhUZ8L3UaPnwB1PIMTkGHUbltKjYzGWM5eBgmN3LoYQ..&amp;type=2&amp;query=NAS&amp;token=A48E3F92B750B2A9CEC8AD6312EA13A6CE9A0DCB6AFFCF83",
-      "source": "微衡创新订阅号",
+      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "url": "https://www.ithome.com/1/030/524.htm",
+      "source": "IT之家",
       "sources": [
-        "微衡创新订阅号"
+        "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "1595了解创新动态,感知设计价值1Beelink ME Pro 模块化 NASBeelink ME Pro是一款模块化AI NAS,设计上把Framework笔记本的...",
+      "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT之家从原报道获悉， 其中一款产品 SSD 内置 NPU（神经网络引擎） 、 64GB 内存 ，带宽达到 130GB/s，支持直接在硬盘上运行 PyTorch、v...",
       "matched_keywords": [
-        "NAS"
+        "硬盘"
       ],
-      "info_brief": "一台不着急淘汰的NAS。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "NAS上部署FileBrowser共享家电使用手册",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itg_fLGMCV3IsMcu3-j7Bdx2FqXa8Fplpd9VKt3Sb0nRLs4BIPgmxKX5XRvlVloO_ZSWUyj1_-9nD--AeCYuZZ1HoZTUXZt4UJ5RaeCBvKMU37nbS_TYQZ3rgehdkhp-Goi0t7tWjaC82zRMJPa3e9uIyvqcf5GiC5ovdFh_qvAiE9OFNTrcYqStrDSbonGVaBaszFi0QLrUx889kyxDwoXvg..&amp;type=2&amp;query=NAS&amp;token=A48E3F92B750B2A9CEC8AD6312EA13A6CE9A0DCB6AFFCF83",
-      "source": "AI狗的技术骨头",
-      "sources": [
-        "AI狗的技术骨头"
-      ],
-      "publish_date": "2026-11-19",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "NAS 或 SSD 上存放家电手册的实际路径 - /mnt/local/shared/manuals:/srv # 配置与数据库持久化(放在当前目录下的 data 文件夹...",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "NAS上部署FileBrowser共享家电使用手册。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-      "source": "Ars Technica",
-      "sources": [
-        "Ars Technica"
-      ],
-      "publish_date": "2026-11-19",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "搭建NAS的初体验",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itg_fLGMCV3IsMcu3-j7Bdx2FqXa8Fplpd9VzBh2f1OvY4n0K8ydmimY72E2cfYQOx0e0XtMY1UBF0ee_60fDLeqF9vxF6mMcVuRgkC-QqQy7bMosSEu9OOxwnJV1lLYlPUBUNzH6LZgyW0Ct9YtguxcNq694DC6MMc5Q6Wb-0Qbglc8kJvooeLIkZxtHYLDnUdKRaZ-YdzsQwCYioxHkzTmA..&amp;type=2&amp;query=NAS&amp;token=A48E3F92B750B2A9CEC8AD6312EA13A6CE9A0DCB6AFFCF83",
-      "source": "池塘载瑞",
-      "sources": [
-        "池塘载瑞"
-      ],
-      "publish_date": "2026-11-19",
-      "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "用智能体刷机电视、刷智能音箱的,还有玩ESP32的,最实用的是搭建私有NAS系统.和AI详聊了,物理层面大概需要一块主板,最好...",
-      "matched_keywords": [
-        "NAS"
-      ],
-      "info_brief": "搭建NAS的初体验。",
+      "info_brief": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型。",
       "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch",
-      "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-spacecraft-crosses-milestones-distance-of-one-light-day-from-earth-49-years-after-launch-now-16-09-billion-miles-away-signal-takes-full-24-hours-to-travel-home",
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "source": "Wired",
+      "sources": [
+        "Wired"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "Hardware hacker builds open-source portable 3.5-inch floppy Wi-Fi NAS",
+      "url": "https://www.tomshardware.com/maker-stem/hardware-hacker-builds-open-source-portable-3-5-inch-floppy-wi-fi-nas-reads-and-shares-old-school-floppies-wirelessly-or-through-direct-connection",
       "source": "Tom's Hardware",
       "sources": [
         "Tom's Hardware"
       ],
-      "publish_date": "2026-11-18",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
       "category_id": "ai-nas",
-      "summary": "NASA anticipates that Voyager 1 will be the first human-made object to reach space beyond one light-day away from Earth on Wednesday.",
+      "summary": "Techie designs a portable Wi-Fi NAS to read and transfer digital camera floppy disks — device does double duty for easy floppy archival",
       "matched_keywords": [
         "NAS"
       ],
-      "info_brief": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch。",
+      "info_brief": "Hardware hacker builds open-source portable 3.5-inch floppy Wi-Fi NAS。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
-      "url": "https://www.ithome.com/1/029/826.htm",
-      "source": "IT之家",
+      "title": "NAS 用照片管理工具 Immich 吃掉多少硬盘?我把每一块占用都算了一遍",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0HvhIALsTb5w6EbeTOT5uYFqXa8Fplpd9ZttnLiU0KxmSTxAqIsPf4_-IFMUiI4gWnwA2zipBZNnf9pKhpqYUxNmdNIzfAGQGaZuQBQ90PzCC8wNB8hE8i3_lvfEoTXZGw5lFDBwC-JIU1i3WJ9u469f3IB4vYoNLT3pgYUtuEY3ZWzIs-2n5635VqyXdB6ucDqTfu80tbwarCDCayYmfpA..&amp;type=2&amp;query=NAS&amp;token=B27C035E8EB85C47232543F6428E362223A0FFA96B026693",
+      "source": "我跟你同学",
       "sources": [
-        "IT之家"
+        "我跟你同学"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，科技媒体 sammyguru 昨日（11 月 19 日）发布博文，通过挖掘 One UI 9.5 首个 Beta 测试版，发现了三星安卓笔记本的更多线索， 有望适配智能简报 Now Brief、主动建议功能 Now Nudge 等 AI 功能。 IT之家今天援引 Android Authority 媒体报道，在该 Beta 测试版中发现 origin14wi...",
+      "category_id": "ai-nas",
+      "summary": "NAS 用照片管理工具 Immich 吃掉多少硬盘?我把每一块占用都算了一遍栏目:【NAS折腾记】标签:#群晖 #Immich #存储空间 #缩略...",
       "matched_keywords": [
-        "笔记本"
+        "NAS"
       ],
-      "info_brief": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "info_brief": "NAS 用照片管理工具 Immich 吃掉多少硬盘?我把每一块占用都算了一遍。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "NAS 用照片管理工具 Immich 装好了,几万张照片怎么归拢成能用的相册",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0HvhIALsTb5w6EbeTOT5uYFqXa8Fplpd9ZttnLiU0KxmSTxAqIsPf4_-IFMUiI4gWnwA2zipBZNnf9pKhpqYUxAVFoa9sILZsLD8rvXX0zp2351HXeROV0lM3JXnZlrz-sw3k2jM9Wm00VSEv05mb6GZz-KWQFvhf28lUN89bhsmHGlE9uSrUo9Cq2xdoijvYUASMeD6AaWhFkDr8IT4KYw..&amp;type=2&amp;query=NAS&amp;token=B27C035E8EB85C47232543F6428E362223A0FFA96B026693",
+      "source": "我跟你同学",
+      "sources": [
+        "我跟你同学"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "NAS 用照片管理工具 Immich 装好了,几万张照片怎么归拢成能用的相册栏目:【NAS折腾记】标签:#群晖 #Immich #相册整理 #智能...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "NAS 用照片管理工具 Immich 装好了,几万张照片怎么归拢成能用的相册。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世",
-      "url": "https://www.ithome.com/1/029/794.htm",
-      "source": "IT之家",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "source": "Ars Technica",
       "sources": [
-        "IT之家"
+        "Ars Technica"
       ],
       "publish_date": "2026-11-20",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，Chiphell 消息人士 @zhangzhonghao 本月 16 日表示，AMD 的 \"Zen 6\" 微架构主流桌面级处理器 \"Olympic Ridge\" 要到“ COMPUTEX (2027) 以后才能看到了 ”，同时配套的主板芯片组也有一定程度的升级。 IT之家注意到，COMPUTEX 2027 将于明年 6 月 1~4 日举行。另一位消息人士 @...",
+      "category_id": "ai-nas",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
       "matched_keywords": [
-        "处理器"
+        "NAS"
       ],
-      "info_brief": "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世。",
+      "info_brief": "NASA’s new Moon plan is taking shape, but some big questions remain。",
       "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470",
-      "url": "https://www.ithome.com/1/029/831.htm",
+      "title": "NAS 后台两个洞:关 HTTP/2、停 OAuth 服务",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0HvhIALsTb5w6EbeTOT5uYFqXa8Fplpd9jiP9Jj1L2COuwRxUunRzZAv6ry-pun7boq4nA8W_jt2RK2tewUH0PUQ1pgSxxqjHKE4n_61H8_7xR6mhlK3wKz7NCbDR7pKMM5mw2TclNRM6vwTUapZWIt2QN1igH2r7gTK_JENy0vnOGcSXlZAzMxhgIpEuDWhr-zrg9LPyTTj1AfaFW2DefQ..&amp;type=2&amp;query=NAS&amp;token=B27C035E8EB85C47232543F6428E362223A0FFA96B026693",
+      "source": "小螳螂的AI课程",
+      "sources": [
+        "小螳螂的AI课程"
+      ],
+      "publish_date": "2026-11-20",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "看到的那一层,前面就是 nginx.这次的 CVE-2026-123007 出在 HTTP/2 的流量控制:发送窗口被推到允许上限之外...",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "NAS 后台两个洞:关 HTTP/2、停 OAuth 服务。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch"
+      ],
+      "publish_date": "2026-11-20",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "matched_keywords": [
+        "NAS"
+      ],
+      "info_brief": "California AG subpoenas Nvidia over worries about Huang’s ties with China。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度",
+      "url": "https://www.ithome.com/1/030/544.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "ai-nas",
+      "summary": "IT之家 11 月 22 日消息，据科技媒体 Phoronix 昨天报道，Linux 7.4-rc4 内核预计将在今天发布，本次更新将带来多项修复和性能提升，以及值得关注的 NVMe 命名空间性能优化。 IT之家从原报道获悉， Linux 7.4-rc4 内核将支持并行删除 NVMe 命名空间（NVMe Namespaces） 。作为参考，该功能可以将 NVMe 存储设备划分为多个逻辑隔离存...",
+      "matched_keywords": [
+        "存储设备"
+      ],
+      "info_brief": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "全球Meta一家独大，中国AI眼镜为何还在混战？",
+      "url": "https://www.tmtpost.com/8213674.html",
+      "source": "钛媒体",
+      "sources": [
+        "钛媒体"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "ai-glasses",
+      "summary": "中国AI眼镜，胜负未分。",
+      "matched_keywords": [
+        "AI眼镜"
+      ],
+      "info_brief": "全球Meta一家独大，中国AI眼镜为何还在混战。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
+    },
+    {
+      "title": "努比亚海外推出 PAD SE 平板：紫光展锐 T310 处理器、10.1 英寸屏幕，支持 4G",
+      "url": "https://www.ithome.com/1/030/553.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 11 月 22 日消息，努比亚现已在马来西亚市场推出 PAD SE 平板电脑。新品定位入门级，配备 10.1 英寸屏幕、紫光展锐 T310 处理器。 IT之家注意到，这款平板采用一块 10.1 英寸的 IPS 面板，分辨率为 1280*800。搭载紫光展锐 T310 四核处理器，最高主频 2.0GHz，并具备 PowerVR GE8300 GPU。该机拥有 4GB 内存，提供 12...",
+      "matched_keywords": [
+        "处理器",
+        "电脑"
+      ],
+      "info_brief": "努比亚海外推出 PAD SE 平板：紫光展锐 T310 处理器、10.1 英寸屏幕，支持 4G。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "url": "https://www.ithome.com/1/030/524.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT之家从原报道获悉， 其中一款产品 SSD 内置 NPU（神经网络引擎） 、 64GB 内存 ，带宽达到 130GB/s，支持直接在硬盘上运行 PyTorch、v...",
+      "matched_keywords": [
+        "NPU"
+      ],
+      "info_brief": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+    },
+    {
+      "title": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz",
+      "url": "https://www.ithome.com/1/030/522.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 11 月 22 日消息，据 TechPowerUp 11 月 22 日报道，OpenBenchmark 测试数据库中出现一颗 28 核英特尔 Nova Lake-S 处理器样品，报告频率为 5.2GHz。 测试记录中的处理器名称为“Intel 0000”，标识包含“NVL”，表明采用该配置的 Nova Lake-S 型号确实存在。 IT之家注意到，系统信息列出 28 个 CPU 核...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "第六代 AMD EPYC 处理器技术峰会在京举行",
+      "url": "https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
       "publish_date": "2026-11-20",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，德国 Linux PC 制造商 TUXEDO 当地时间昨日发布了 InfinityBook Pro 15 - Gen11 - AMD 笔记本电脑。 这一机型 基于 AMD 锐龙 AI 9 HX 470 处理器 ，配备 15.3\" 屏幕，内置 99Whr 电池，三维 342×240×20 (mm)，质量 1.75kg，不含增值税 / 进口税的起价约为 1,50...",
+      "summary": "重塑计算，领航 AI 时代：AMD 携手生态伙伴推动 Agentic AI 基础设施创新 2026年11月19日，中国北京——今日，以“重塑计算，领航 AI 时代”为主题的第六代 AMD EPYC 处理器技术峰会在北京中国大饭店举行，吸引1237位嘉宾参会。AMD 携手服务器系统厂商、软件与硬件生态合作伙伴及行业用户，围绕第六代 AMD EPYC 处理器（代号“Venice”）的产品布局、应...",
       "matched_keywords": [
-        "笔记本",
-        "电脑",
         "处理器"
       ],
-      "info_brief": "TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "info_brief": "第六代 AMD EPYC 处理器技术峰会在京举行。",
+      "opportunity_insight": "品类边界正在被重构，跨场景组合销售与生态联动成为新增长点。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+      "source": "Tom's Hardware",
+      "sources": [
+        "Tom's Hardware"
+      ],
+      "publish_date": "2026-11-20",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+      "matched_keywords": [
+        "NPU"
+      ],
+      "info_brief": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+    },
+    {
+      "title": "安卓又一阔屏新机来袭：DOOGEE Wide Core 亮相，6500mAh 电池、紫光展锐 T7250 处理器",
+      "url": "https://www.ithome.com/1/030/530.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "ai-pc",
+      "summary": "IT之家 11 月 22 日消息，据 DOOGEE 公众号最新消息，其除了 Note60 W 系列， 还将带来另一款阔屏新机 —— DOOGEE Wide Core 。 从官方配置表来看，这款新机与 Note60 W 几乎一致，仅在背板设计和配色选择上有所调整， 而后者外观十分接近华为 Pura X View 。 ▲ 图源：DOOGEE 公众号：DOOGEE Note60 W ▲ 图源：华为...",
+      "matched_keywords": [
+        "处理器"
+      ],
+      "info_brief": "安卓又一阔屏新机来袭：DOOGEE Wide Core 亮相，6500mAh 电池、紫光展锐 T7250 处理器。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
@@ -223,148 +600,111 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "One UI 9.5 Beta 1 暗藏三星笔电信息：采用高通骁龙 X Elite 芯片",
-      "url": "https://www.ithome.com/1/029/808.htm",
+      "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
+      "url": "https://www.ithome.com/1/030/523.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，根据外媒 Android Authority 当地时间 19 日报道，三星 One UI 操作系统 9.5 Beta 1 的代码中出现了 \"origin14wifi\" \"origin16wifi\" 两个设备代号，型号则分别是 \"XE940\" \"XE960\"， 应指向该品牌的 Android / Googlebook 笔记本电脑 。 报道指出，三星视频编辑器新...",
+      "category_id": "ai-phone",
+      "summary": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。 在考试过程中被发现利用智能终端的作弊案例 5 起...",
       "matched_keywords": [
-        "笔记本",
-        "电脑"
+        "手机",
+        "智能手机"
       ],
-      "info_brief": "One UI 9.5 Beta 1 暗藏三星笔电信息：采用高通骁龙 X Elite 芯片。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "6 位 PIN 码破解从 19 年缩至 20 天：部分微软 Win11 设备 TPM 防暴力破解机制被绕过",
-      "url": "https://www.ithome.com/1/029/789.htm",
+      "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
+      "url": "https://www.ithome.com/1/030/541.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，柏林工业大学研究团队公布 Hello Again 硬件安全研究， 指出攻击者若能拆开电脑并接触主板闪存与处理器之间的通信链路，能绕过 TPM 的错误尝试锁定机制，从而暴力反复猜测 Windows 11 系统的锁屏 PIN 密码。 在技术原理方面，部分电脑会将固件 TPM 的状态数据（包括 PIN 错误次数）保存在主板闪存中。系统原本借助一种名为重放保护单调计...",
+      "category_id": "ai-phone",
+      "summary": "IT之家 11 月 22 日消息，据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用市场 App Gallery 下载使用。 测试说明显示，本次测试为 UU 远程 HarmonyOS 版本的用户体验测试，面向 HarmonyOS 手机及平板用户，主要验证应用在真实设备和网络环境下的功能可用性、连接稳...",
       "matched_keywords": [
-        "电脑",
-        "处理器"
+        "手机"
       ],
-      "info_brief": "6 位 PIN 码破解从 19 年缩至 20 天：部分微软 Win11 设备 TPM 防暴力破解机制被绕过。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "荣耀 7 英寸大屏新机被曝年前发布，有望搭载 13500mAh± 电池",
-      "url": "https://www.ithome.com/1/029/827.htm",
+      "title": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起",
+      "url": "https://www.ithome.com/1/030/520.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日曝光荣耀多款新机最新进展，包含 7 英寸大屏、阔折叠、阔直板等机型。 据其爆料，荣耀新年前将推出 X 系列新机， 搭载 13500mAh± 巨容量电池 ，配备 6.96/7 英寸大屏，主打长续航；Power3 也在加速中，搭载一块 7 英寸新大屏 + 巨容量电池方案，处理器更强；阔折叠大概率在春节后，阔直板暂定 27 上半年。 IT之...",
+      "category_id": "ai-phone",
+      "summary": "IT之家 11 月 22 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。随着新机上市，华为官网也公布了该机维修备件价格。 ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro 先来看屏幕方面，O...",
       "matched_keywords": [
-        "处理器"
+        "手机"
       ],
-      "info_brief": "荣耀 7 英寸大屏新机被曝年前发布，有望搭载 13500mAh± 电池。",
+      "info_brief": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "GPU-Z 2.72.0 发布：可识别英伟达 RTX Spark、RTX 4090 Ti ES，新增 AMD 多显卡热点温度监控",
-      "url": "https://www.ithome.com/1/029/823.htm",
+      "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+      "url": "https://www.ithome.com/1/030/518.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 20 日消息，TechPowerUp 今日发布了 GPU-Z 2.72.0 版本更新，此次新增对 NVIDIA RTX Spark 处理器、GB203 版本 GeForce RTX 5070 以及尚未发布的 GeForce RTX 4090 Ti 工程样品的支持，同时扩展了对 AMD 和 Intel 多款图形产品的识别能力。 在 NVIDIA 产品方面，GPU-Z 2.7...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "GPU-Z 2.72.0 发布：可识别英伟达 RTX Spark、RTX 4090 Ti ES，新增 AMD 多显卡热点温度监控。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "三星手机换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权",
-      "url": "https://www.ithome.com/1/029/837.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 20 日消息，数码博主 @i冰宇宙 今天（11 月 20 日）发布微博，指出：“ 三星手机终于换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权 ”，并对比崔元俊和卢泰文的背景和以往行事风格。 IT之家此前报道，三星宣布调整核心业务管理架构，在联席 CEO 全永铉和卢泰文的领导下， 黄尚俊（Sang Joon Hwang）晋升为总裁，出任存储业务负责人； 崔元俊（Won...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 202...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "三星手机换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "摩托罗拉 Razr Flex 宽折叠手机渲染图曝光：绿 / 米色，内 6.9 英寸 / 外 5 英寸屏幕",
-      "url": "https://www.ithome.com/1/029/799.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-20",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 11 月 20 日消息，科技媒体 SammyGuru 昨日（11 月 19 日）发布博文，分享了一组渲染图， 展示了摩托罗拉 Razr Flex 外观，这款宽折叠手机上市后将会和苹果 iPhone Duo、 三星 Galaxy Z Fold8 等手机竞争。 颜色方面，从曝光的渲染图来看，摩托罗拉至少会推出绿色和米色两种颜色，但不排除上市后推出更多颜色的可能。两款配色的背板纹理各有特...",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "摩托罗拉 Razr Flex 宽折叠手机渲染图曝光：绿 / 米色，内 6.9 英寸 / 外 5 英寸屏幕。",
+      "info_brief": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
-      "url": "https://www.ithome.com/1/029/826.htm",
+      "title": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一",
+      "url": "https://www.ithome.com/1/030/513.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 20 日消息，科技媒体 sammyguru 昨日（11 月 19 日）发布博文，通过挖掘 One UI 9.5 首个 Beta 测试版，发现了三星安卓笔记本的更多线索， 有望适配智能简报 Now Brief、主动建议功能 Now Nudge 等 AI 功能。 IT之家今天援引 Android Authority 媒体报道，在该 Beta 测试版中发现 origin14wi...",
+      "summary": "IT之家 11 月 22 日消息，博主 @数码闲聊站 昨晚发文分享第三方渠道消息，OPPO Reno 17 销量超预期，发布当日预订量达前代产品 2.7 倍， 开售后销量超过同期所有安卓手机，拿下安卓单品第一 。 博主还补充数据： Reno 系列全球激活量已超 1.4 亿台 ，长期稳居同档位销量前列。 据IT之家此前报道， OPPO Reno 17 系列手机已于 11 月 20 日正式开售 ...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能。",
+      "info_brief": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
     },
     {
-      "title": "（更新）消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰",
-      "url": "https://www.ithome.com/1/029/787.htm",
-      "source": "IT之家",
+      "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+      "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
       "sources": [
-        "IT之家"
+        "爱范儿"
       ],
       "publish_date": "2026-11-20",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "11:41 更新： 博主 @数码闲聊站 更新爆料信息称：“ iQOO 16 R 量产机的平台好像有变化，同步升级了。” IT之家 11 月 20 日消息，博主 @数码闲聊站 今日爆料，vivo 春节前还有 vivo S70 系列、iQOO 16R 等机型登场，并曝光新机部分配置。 vivo S70 系列 ：64Mp 旗舰级长焦 + 全新影像外设 iQOO 16R ：中屏轻旗舰 + 骁龙 8 ...",
+      "summary": "在手机里打开了一个关于 AI 的「平行宇宙」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "（更新）消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰。",
+      "info_brief": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
@@ -387,112 +727,168 @@ window.__NEWS_DATA__ = {
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元",
-      "url": "https://www.ithome.com/1/029/836.htm",
+      "title": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键",
+      "url": "https://www.ithome.com/1/030/548.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 20 日消息，长安启源官方今日宣布为 Q06 新增一款“602 越享 +”版车型，官方指导价 13.99 万元，限时权益价仍为 13.59 万元，与原有的 602 越享型持平。 新车型的核心变化在于舒适配置的下放，在入门版基础上增配了前排座椅通风加热、50W 手机无线充电以及氛围灯三项功能。 602 越享型此前作为全系入门版本，虽然标配了感应后备厢、全车无钥匙进入等实用功...",
+      "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 该机与华为 Pura X View 一样，搭载了麒麟 9030...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "山灵 EH50 台式解码耳放一体机发售：双 CS4308P、6125mW@32Ω 输出功率，首发 1998 元",
-      "url": "https://www.ithome.com/1/029/835.htm",
-      "source": "IT之家",
+      "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
       "sources": [
-        "IT之家"
+        "爱范儿"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 20 日消息，山灵 EH50 台式解码耳放一体机于今日正式发布，首发定价为 1998 元，官方零售价 2098 元。 京东 山灵（SHANLING）EH50 台式解码耳放一体机 无损 HIFI 桌面解码耳放数字音频放大器三档增益大推力蓝牙 6.0 支持手机 APP 黑色 1997.5 元 直达链接 山灵 EH50 搭载两颗 Cirrus Logic 旗舰级八通道 DAC ...",
+      "summary": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "山灵 EH50 台式解码耳放一体机发售：双 CS4308P、6125mW@32Ω 输出功率，首发 1998 元。",
+      "info_brief": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "（更新）消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰",
-      "url": "https://www.ithome.com/1/029/787.htm",
+      "title": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
+      "url": "https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html",
+      "source": "雷峰网",
+      "sources": [
+        "雷峰网"
+      ],
+      "publish_date": "2026-11-20",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "近日，蚂蚁集团旗下AI助手灵光宣布开放生态再度扩容，新增企业微信、腾讯文档、腾讯会议、飞常准等7项外部连接能力。至此，灵光支持的外部服务及连接能力已从47项增加至54项，进一步拓展AI助手在个人生活、办公协作、差旅出行等场景中的服务边界。 此次新增能力进一步覆盖用户日常高频需求。在个人生活场景中，灵光新增相册连接能力，并通过快捷指令支持修改壁纸、备忘录等系统操作，推动AI与手机原生功能深度融...",
+      "matched_keywords": [
+        "手机"
+      ],
+      "info_brief": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务。",
+      "opportunity_insight": "品类边界正在被重构，跨场景组合销售与生态联动成为新增长点。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+    },
+    {
+      "title": "李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好",
+      "url": "https://www.ithome.com/1/030/534.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "11:41 更新： 博主 @数码闲聊站 更新爆料信息称：“ iQOO 16 R 量产机的平台好像有变化，同步升级了。” IT之家 11 月 20 日消息，博主 @数码闲聊站 今日爆料，vivo 春节前还有 vivo S70 系列、iQOO 16R 等机型登场，并曝光新机部分配置。 vivo S70 系列 ：64Mp 旗舰级长焦 + 全新影像外设 iQOO 16R ：中屏轻旗舰 + 骁龙 8 ...",
+      "category_id": "smart-watch",
+      "summary": "IT之家 11 月 22 日消息，华为史上最薄智能手表 —— 华为WATCH Air 将于 11 月 24 日 14:30 登场。该产品拥有 6.9 毫米机身，号称“薄，且强”。 11 月 20 日，华为终端 BG CTO 李小龙对这款新品进行了预热。他表示，这款表又轻又薄，佩戴舒适性非常好，尤其对男性穿西装衬衣非常友好， 不会和衬衣袖子干涉 。他还提到：“因为非常轻，运动时佩戴也非常稳定，...",
       "matched_keywords": [
-        "外设"
+        "智能手表",
+        "手表"
       ],
-      "info_brief": "（更新）消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰。",
+      "info_brief": "李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "华为 WATCH GT 6 发布 HarmonyOS 7.0.0.108 SP8 版本，表端支持微信来电接听和挂断",
+      "url": "https://www.ithome.com/1/030/527.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-22",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "IT之家 11 月 22 日消息，华为官方宣布，HUAWEI WATCH GT 6 系列手表推出鸿蒙 HarmonyOS 7.0.0.108 SP8 版本升级，开始分批推送给 6.1.0.117 SP6 / 6.1.0.118 SP10 / 7.0.0.107 SP7 / 7.0.0.107 SP10 / 7.0.0.107 SP13 版本上的用户。 IT之家附 HUAWEI WATCH G...",
+      "matched_keywords": [
+        "手表"
+      ],
+      "info_brief": "华为 WATCH GT 6 发布 HarmonyOS 7.0.0.108 SP8 版本，表端支持微信来电接听和挂断。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "sources": [
+        "TechCrunch"
+      ],
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "smart-watch",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "matched_keywords": [
+        "Apple Watch"
+      ],
+      "info_brief": "Startup sues Apple in India over tap-to-share contacts feature。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
-      "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
-      "source": "Engadget",
+      "title": "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI",
+      "url": "https://www.ithome.com/1/030/512.htm",
+      "source": "IT之家",
       "sources": [
-        "Engadget"
+        "IT之家"
       ],
-      "publish_date": "2026-11-19",
+      "publish_date": "2026-11-21",
+      "category": "媒体新闻",
+      "category_id": "surveillance",
+      "summary": "IT之家 11 月 22 日消息，特斯拉今日宣布在美国市场推出 FSD v15，目前已向早期体验计划（EAP）成员推送首批版本。官方宣称， 本次更新对安全关键场景的处理能力提升了 25 倍 。 IT之家了解到，本次更新还带来了“Tesla Reality View”全新可视化界面，车机屏幕上可显示摄像头画面叠加 FSD 行驶规划，支持全屏显示、地图或分屏视图，也可以选择使用安静模式。导航可以...",
+      "matched_keywords": [
+        "摄像头"
+      ],
+      "info_brief": "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
+      "url": "https://www.ithome.com/1/030/525.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-22",
       "category": "媒体新闻",
       "category_id": "speaker",
-      "summary": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
+      "summary": "IT之家 11 月 22 日消息，开源鸿蒙官网显示，来自深圳市因科美通信有限公司的 SL10 已通过 OpenHarmony 测评，搭载了 Hi3372GBCV100 芯片， 预装基于 OpenHarmony 5.1.0 Release 版本的轻量系统 。 参考IT之家此前报道，星闪联盟官网认证信息显示，这款设备为一款音箱设备，测试集显示，EACOME SL10 音箱通过了 SLE 射频一致...",
       "matched_keywords": [
-        "HomePod"
+        "音箱"
       ],
-      "info_brief": "Apple HomePod mini 2 review: A necessary, but underwhelming update。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统。",
+      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
+      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
     },
     {
-      "title": "长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元",
-      "url": "https://www.ithome.com/1/029/836.htm",
+      "title": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home",
+      "url": "https://www.ithome.com/1/030/515.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-20",
+      "publish_date": "2026-11-21",
       "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "IT之家 11 月 20 日消息，长安启源官方今日宣布为 Q06 新增一款“602 越享 +”版车型，官方指导价 13.99 万元，限时权益价仍为 13.59 万元，与原有的 602 越享型持平。 新车型的核心变化在于舒适配置的下放，在入门版基础上增配了前排座椅通风加热、50W 手机无线充电以及氛围灯三项功能。 602 越享型此前作为全系入门版本，虽然标配了感应后备厢、全车无钥匙进入等实用功...",
+      "category_id": "speaker",
+      "summary": "IT之家 11 月 22 日消息，谷歌近日在官网支持页面公布了智能家居应用程序 Nest 的最新动态。官方宣称， 独立版 Nest（App、网页端）将于 2027 年 1 月 15 日停止服务 ，相关功能将整合进 Google Home 应用。 IT之家注意到，谷歌还将在 2027 年 8 月 2 日停止智能音箱等设备的 Google 助理服务，届时 Google Home 和 Google...",
       "matched_keywords": [
-        "无线充电"
+        "音箱",
+        "智能音箱"
       ],
-      "info_brief": "长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "1299 元飞傲 UTWS17 无线蓝牙耳机功率放大器发售：搭载双 AK4333，配 OLED 显示屏与无触点无线充电仓",
-      "url": "https://www.ithome.com/1/029/828.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-20",
-      "category": "媒体新闻",
-      "category_id": "magnetic-accessories",
-      "summary": "IT之家 11 月 20 日消息，飞傲（FiiO）旗下真无线蓝牙耳挂 UTWS17 今日正式开售，官方零售价为 1299 元。 京东 飞傲真无损 HiFi 蓝牙耳挂 UTWS17 飞傲（FiiO）UTWS17 旗舰真无线蓝牙耳机功率放大器 运动跑步无线挂耳式 黑色 1299 元 直达链接 该产品定位为真无线蓝牙耳机功率放大器，采用可换线设计。开售期间，用户晒单可获赠 NEST-EDC 包。 ...",
-      "matched_keywords": [
-        "无线充电"
-      ],
-      "info_brief": "1299 元飞傲 UTWS17 无线蓝牙耳机功率放大器发售：搭载双 AK4333，配 OLED 显示屏与无触点无线充电仓。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     }
   ]
 };
