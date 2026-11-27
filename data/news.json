@@ -1,44 +1,25 @@
 {
-  "generated_at": "2026-11-26 05:53:37",
-  "total": 31,
+  "generated_at": "2026-11-27 05:51:25",
+  "total": 18,
   "source_count": 9,
   "items": [
     {
-      "title": "拓竹P3C发布：旗舰同源，多色多材料打印走向大众时代",
-      "url": "https://www.leiphone.com/category/industrynews/H4iZNCKzlaIQCei3.html",
-      "source": "雷峰网",
+      "title": "New delidding tool helps you bake your CPU in the oven to remove heatspreader",
+      "url": "https://www.tomshardware.com/pc-components/cooling/new-delidding-tool-helps-you-bake-your-cpu-in-the-oven-to-remove-heatspreader-delid-heat-mate-complements-delid-die-mate-reducing-mechanical-stress-on-the-cpu",
+      "source": "Tom's Hardware",
       "sources": [
-        "雷峰网"
-      ],
-      "publish_date": "2026-11-25",
-      "category": "媒体新闻",
-      "category_id": "3d-printing",
-      "summary": "2026 年 11 月 24 日，拓竹发布第三代3D打印机P3C，标准套装售价7,999元，首发限时优惠500元，叠加国补后到手价可达6374.2元。承袭拓竹H3C的能力突破，拓竹P3C搭载Swaptek™ 多头闪切系统、顶置一体化 AMS 3P 供料系统与可变线径挤出机三大核心技术，在保持消费级最软耗材 75A TPU 稳定打印、五色叠全彩等核心能力不变的前提下，把此前独属于旗舰级的多色多...",
-      "matched_keywords": [
-        "3D打印",
-        "3D打印机"
-      ],
-      "info_brief": "拓竹P3C发布：旗舰同源，多色多材料打印走向大众时代。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新",
-      "url": "https://www.ithome.com/1/032/662.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
+        "Tom's Hardware"
       ],
       "publish_date": "2026-11-26",
       "category": "媒体新闻",
-      "category_id": "ai-nas",
-      "summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。 此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能 。铠侠强烈建议用户更新固件。 对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0...",
+      "category_id": "cnc",
+      "summary": "Thermal Grizzly just released a CNC-machined CPU delidding tool designed to be placed in an oven after the IHS is loosened.",
       "matched_keywords": [
-        "硬盘"
+        "CNC"
       ],
-      "info_brief": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
+      "info_brief": "New delidding tool helps you bake your CPU in the oven to remove heatspreader。",
+      "opportunity_insight": "关注得力在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注得力动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
       "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
@@ -95,21 +76,21 @@
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "英特尔 \"Razor Lake AX\" 处理器样品实物曝光，重拾 MoP 封装",
-      "url": "https://www.ithome.com/1/032/605.htm",
+      "title": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
+      "url": "https://www.ithome.com/1/033/218.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-26",
+      "publish_date": "2026-11-27",
       "category": "媒体新闻",
       "category_id": "ai-pc",
-      "summary": "IT之家 11 月 26 日消息，闲鱼用户 @童心未泯的朙 此前上架了一款英特尔处理器。结合其物理设计和多位消息人士的表态， 这应该是 \"Razor Lake AX\" (RZL-AX) 芯片的样品 ，很可能不包含实际处理器硅片。 ▲ 图源：@童心未泯的朙 可以看到，\"Razor Lake AX\" 采用类似酷睿 Ultra 200V \"Lunar Lake\" 的 MoP 内存集成封装设计 ，处...",
+      "summary": "IT之家 11 月 27 日消息，科技媒体 BornCity 昨日（11 月 26 日）发布博文，报道称微软通过 Windows Update 更新通道， 面向部分运行 Windows 11 系统的英特尔迷你主机用户推送问题驱动更新，引发 Windows Defender 高风险警报。 IT之家援引博文介绍，微软面向部分英特尔 NUC 迷你主机产品，推送 1.0.0.38 版本 Intel ...",
       "matched_keywords": [
-        "处理器"
+        "电脑"
       ],
-      "info_brief": "英特尔 \"Razor Lake AX\" 处理器样品实物曝光，重拾 MoP 封装。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "info_brief": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
@@ -131,79 +112,6 @@
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头",
-      "url": "https://www.ithome.com/1/032/593.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 26 日消息，消息人士 @Evan Blass 昨日曝光了联想 (Lenovo) 的新款 Yoga Book 笔记本电脑。 这一设备采用双屏设计 ， 配套大型外部摄像头 。 ▲@Evan Blass 放出的原图仅有上图的左侧，为提升观感上图进行了镜像扩充 IT之家注意到，该设备后部的摄像头外观与联想 Magic Bay 磁吸触点生态中现有的一款 4K AI 智能摄像头较为...",
-      "matched_keywords": [
-        "笔记本",
-        "电脑"
-      ],
-      "info_brief": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
-    },
-    {
-      "title": "HMD Rise 手机曝光：6.52 寸 720P LCD 屏、4GB 内存",
-      "url": "https://www.ithome.com/1/032/738.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 26 日消息，X 平台消息人士 @smashx_60 今日发文曝光 HMD Rise 手机的详细参数，该机预计将在印度电商平台 Flipkart 发售。 IT之家注意到， 这款手机预计将搭载 6.52 寸 HD+ IPS LCD 屏幕 ，采用紫光展锐 SC9863a1 处理器，提供 4GB 内存和 64GB/128GB 存储空间。 同时， 该手机带有 1300 万像素后置...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "HMD Rise 手机曝光：6.52 寸 720P LCD 屏、4GB 内存。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "暴力熊推出 Delid Heat Mate：低风险 CPU 开盖工具，需配合烤箱使用",
-      "url": "https://www.ithome.com/1/032/736.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 26 日消息，暴力熊（Thermal Grizzly）现已推出 Delid Heat Mate 中央处理器开盖工具，支持 AMD AM5 和英特尔 LGA 1700、LGA 1851、LGA 1954 插槽的 CPU，号称可实现低风险开盖， 售价 23.28 美元 （IT之家注：现汇率约合 155.5 元人民币） 。 据介绍，传统的 CPU 开盖工具通过施加压力，强行分离...",
-      "matched_keywords": [
-        "处理器"
-      ],
-      "info_brief": "暴力熊推出 Delid Heat Mate：低风险 CPU 开盖工具，需配合烤箱使用。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "得力新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "《GTA 6》民间 PC 移植新突破：已能渲染游戏世界，帧率约 5~7 FPS",
-      "url": "https://www.ithome.com/1/032/600.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-pc",
-      "summary": "IT之家 11 月 26 日消息，科技媒体 tweaktown 昨日（11 月 25 日）发布博文， 报道称开源社区借助 AI 以及此前曝光的 XBOX 可执行文件，正在加速推进非官方 PC 移植《侠盗猎车手 VI》（GTA 6）游戏。 名为“Belobug”的项目近日宣布，已能在 Windows 11 电脑上启动并渲染《GTA 6》的开放世界，画面包含光照、纹理、行人、车辆、植被、水体和天...",
-      "matched_keywords": [
-        "电脑"
-      ],
-      "info_brief": "《GTA 6》民间 PC 移植新突破：已能渲染游戏世界，帧率约 5~7 FPS。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
       "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
       "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
       "source": "爱范儿",
@@ -218,6 +126,25 @@
         "电脑"
       ],
       "info_brief": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台。",
+      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
+      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+    },
+    {
+      "title": "联发科技：天玑旗舰智能手机芯片仍正常迭代，2027 年将按既定计划更新",
+      "url": "https://www.ithome.com/1/033/222.htm",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "publish_date": "2026-11-27",
+      "category": "媒体新闻",
+      "category_id": "ai-phone",
+      "summary": "IT之家 11 月 27 日消息，据台媒《电子时报》(DIGITIMES) 消息称，联发科技 (MediaTek) 针对近期流言回应称： 天玑系列的旗舰手机 SoC 新品开发未中断 ，2027 年仍会照原定计划推出旗舰手机 SoC。 在存储器等零组件成本暴涨的背景下，智能手机市场正面临数年未见的寒冬，出货量持续下行。与此同时，以联发科技天玑 9600 Pro 为代表的最新旗舰芯片升级至台积电...",
+      "matched_keywords": [
+        "手机",
+        "智能手机"
+      ],
+      "info_brief": "联发科技：天玑旗舰智能手机芯片仍正常迭代，2027 年将按既定计划更新。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
@@ -241,76 +168,22 @@
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "HMD Rise 手机曝光：6.52 寸 720P LCD 屏、4GB 内存",
-      "url": "https://www.ithome.com/1/032/738.htm",
-      "source": "IT之家",
+      "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+      "url": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
       "sources": [
-        "IT之家"
+        "爱范儿"
       ],
-      "publish_date": "2026-11-26",
+      "publish_date": "2026-11-27",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，X 平台消息人士 @smashx_60 今日发文曝光 HMD Rise 手机的详细参数，该机预计将在印度电商平台 Flipkart 发售。 IT之家注意到， 这款手机预计将搭载 6.52 寸 HD+ IPS LCD 屏幕 ，采用紫光展锐 SC9863a1 处理器，提供 4GB 内存和 64GB/128GB 存储空间。 同时， 该手机带有 1300 万像素后置...",
+      "summary": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运 · 小米中国区总裁王晓雁将分管生态链与大家电 · 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "HMD Rise 手机曝光：6.52 寸 720P LCD 屏、4GB 内存。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
-    },
-    {
-      "title": "TCL 华星秀全球首款万尼特真彩 HDR OLED 手机显示 (6.85\")：以 10% APL 达成 10000nits",
-      "url": "https://www.ithome.com/1/032/630.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，TCL 华星 (TCL CSOT) 在本月早些时候举行的 DTC2026 全球显示生态大会上展示 全球首款万尼特真彩 HDR OLED 手机显示 (6.85\") 。 IT之家了解到，该产品可在 10% 的 APL（平均图像电平）下实现 10000nits 峰值亮度， 为同规格最高 。 这一移动显示产品结合窄光谱深红材料、绿色 PSF（磷光敏化荧光）、最新一代...",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "TCL 华星秀全球首款万尼特真彩 HDR OLED 手机显示 (6.85\")：以 10% APL 达成 10000nits。",
-      "opportunity_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。",
-      "procurement_insight": "出海动向值得关注，跨境业务可借势品牌外溢效应同步推广国内中高端线。"
-    },
-    {
-      "title": "realme 真我 17 Pro 手机曝光：10000mAh 电池、65W 充电，天玑 7300 芯片",
-      "url": "https://www.ithome.com/1/032/597.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，消息源 Abhishek Yadav 昨日（11 月 25 日）在 X 平台发布推文，分享了一组图片，展示了 realme 真我 17 Pro 照片， 这款手机最大卖点是配备 10000mAh 容量电池，最高支持 65W 的 USB-C 快充。 外观方面，realme 17 Pro 沿用了上一代 realme 16 Pro 的设计，仍采用方形后置摄像头模组，...",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "realme 真我 17 Pro 手机曝光：10000mAh 电池、65W 充电，天玑 7300 芯片。",
+      "info_brief": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "小米三季报：手机开始高端化，汽车还没走出亏损",
-      "url": "https://www.tmtpost.com/8217508.html",
-      "source": "钛媒体",
-      "sources": [
-        "钛媒体"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "小米能不能在继续投入新业务的同时，让旧业务保持足够的造血能力？",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "小米三季报：手机开始高端化，汽车还没走出亏损。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "高端保险柜需求扩张，建议提升5000+价位段SKU深度并联动家装类目运营。"
+      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
     },
     {
       "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
@@ -349,24 +222,6 @@
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "消息称某厂首款阔直板手机突出影像体验，预估为 vivo 旗下",
-      "url": "https://www.ithome.com/1/032/592.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，数码博主 @数码闲聊站 昨日（11 月 25 日）发布博文，爆料称：“ 首款阔直板偏影像向定义，S 和 X 同步评估中”，预估指向 vivo 品牌。 该博主今天（11 月 26 日）还发布微博，表示：“独家信息，S 小迭代透露过是天玑 9 旗舰芯，目前测试 2nm 天玑 9600 Pro，有独家定制增强”。 IT之家此前报道， 某厂 2027 年大概率推出阔...",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "消息称某厂首款阔直板手机突出影像体验，预估为 vivo 旗下。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
       "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
       "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
       "source": "爱范儿",
@@ -385,184 +240,94 @@
       "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     },
     {
-      "title": "比亚迪腾势 Z9S 首发随行互连功能，微信内容无缝上车",
-      "url": "https://www.ithome.com/1/032/742.htm",
+      "title": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市",
+      "url": "https://www.ithome.com/1/033/203.htm",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
-      "publish_date": "2026-11-26",
+      "publish_date": "2026-11-27",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，比亚迪今日宣布，腾势 Z9S 首发随行互连 App，微信内容无缝上车，官方宣称“微信生态互联，车机手机打通；后排遥控，乘车新体验”。 官方海报显示，该功能支持微信内容流转、目的地服务接力、手机控车等，可以接收微信位置、手机地图、QQ 音乐、公众号、图片等。腾势 Z9S 首发随行互连功能， 其它车型后续通过 OTA 陆续实现 。 开启路径：车机-应用中心-随行...",
+      "summary": "IT之家 11 月 27 日消息，《科创板日报》今天（27 日）上午独家获悉，小米 AI 眼镜 2 代或将于 12 月中旬 与小米 18 标准版手机同步发布 ，并于当天上市开售。 据悉，小米 AI 眼镜 2 代包括 Q95 Pro、Q 95Pro 多色版本 (电致变色镜片版本，提供四档镜片调节)、Q95 显示版本。 IT之家注： 小米首款 AI 眼镜于去年 6 月发布 ，定价 1999 元起...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "比亚迪腾势 Z9S 首发随行互连功能，微信内容无缝上车。",
+      "info_brief": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
       "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
     },
     {
-      "title": "挑战杜比全景声：IAMF 2.0 发布，免版税的沉浸式音频新标准",
-      "url": "https://www.ithome.com/1/032/607.htm",
-      "source": "IT之家",
+      "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
+      "url": "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
+      "source": "雷峰网",
       "sources": [
-        "IT之家"
+        "雷峰网"
       ],
       "publish_date": "2026-11-26",
       "category": "媒体新闻",
       "category_id": "ai-phone",
-      "summary": "IT之家 11 月 26 日消息，开放媒体联盟（AOMedia）昨日（11 月 25 日）发布沉浸式音频标准 IAMF 2.0， 重点新增“基于对象的音频”等能力，推进开放、免版税的沉浸式音频标准，为行业提供杜比全景声之外的另一种选择。 定位方面，杜比全景声（Dolby Atmos）目前是最成熟的沉浸式音频生态之一，覆盖内容制作、流媒体平台、影院、电视、手机、耳机和游戏等多个环节。IAMF ...",
+      "summary": "去年，Humane关闭了AI Pin的消费者云服务。这款别在衣服上的AI设备一度被寄予厚望，用户只需开口，就能完成许多原本需要掏出手机才能做的事。AI Pin最终没能进入主流市场，却给后来者留下了一道产品定义题 ， 手机已经有了成熟的计算、通信和应用生态， 用户为什么还需要一件戴在身上的AI设备？ 11月25日，在深圳举行的第七届紫光展锐智能穿戴沙龙上，紫光展锐智能穿戴产品线总经理李彬重新提...",
       "matched_keywords": [
         "手机"
       ],
-      "info_brief": "挑战杜比全景声：IAMF 2.0 发布，免版税的沉浸式音频新标准。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "认证合规成消费决策核心因素，详情页应强化国标/3C资质曝光，淘汰非标低质SKU。"
+      "info_brief": "手表和眼镜，如何成为AI智能体的「随身感官」。",
+      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
+      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
-      "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign",
+      "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+      "url": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
       "source": "爱范儿",
       "sources": [
         "爱范儿"
       ],
-      "publish_date": "2026-11-24",
-      "category": "媒体新闻",
-      "category_id": "ai-phone",
-      "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒 · 韩国国家资格考试恢复统一收手机，考生还穿上了围裙 · 知乎参投基金间接入股 DeepSeek #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "matched_keywords": [
-        "手机"
-      ],
-      "info_brief": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "1999 元：技嘉推出 G27Q36 电竞显示器，27 英寸 2K 425Hz FastIPS 面板",
-      "url": "https://www.ithome.com/1/032/709.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
+      "publish_date": "2026-11-27",
       "category": "媒体新闻",
       "category_id": "gaming-peripherals",
-      "summary": "IT之家 11 月 26 日消息，技嘉现已推出 G27Q36 电竞显示器。新品采用 27 英寸 FastIPS 面板，分辨率为 QHD（2K），最高支持 425Hz 高刷， 售价 1999 元 。 据介绍，这款显示器的原生刷新率为 360Hz，可超频至 425Hz。分辨率为 2560*1440，覆盖 95% DCI-P3 色域，兼容英伟达 G-SYNC 功能，可减少画面撕裂现象。 同时，该显...",
+      "summary": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运 · 小米中国区总裁王晓雁将分管生态链与大家电 · 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "matched_keywords": [
         "电竞"
       ],
-      "info_brief": "1999 元：技嘉推出 G27Q36 电竞显示器，27 英寸 2K 425Hz FastIPS 面板。",
+      "info_brief": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记。",
       "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
+      "procurement_insight": "大促节点临近，建议提前锁定品牌坑位、配置满减券组合并备好低价引流款。"
     },
     {
-      "title": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器",
-      "url": "https://www.ithome.com/1/032/720.htm",
-      "source": "IT之家",
+      "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
+      "url": "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
+      "source": "雷峰网",
       "sources": [
-        "IT之家"
+        "雷峰网"
       ],
       "publish_date": "2026-11-26",
       "category": "媒体新闻",
-      "category_id": "gaming-peripherals",
-      "summary": "IT之家 11 月 26 日消息，据渠道消息源 @视讯堂 爆料，显示器品牌泰坦军团 (Titan Army) 在本月 22~23 日在四川成都举行的中国区电竞沙龙上宣布了多款新品的规划。 其中在 LCD 技术路线方面，泰坦军团计划推出一款代号暂定为 \"U255L ULTRA\" 的产品。其采用结合 IGZO 铟镓锌氧化物与 QD 量子点技术的 Ultra Fast IPS 面板， 在 24.5...",
-      "matched_keywords": [
-        "电竞"
-      ],
-      "info_brief": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "该品牌新品上市，建议跟进首发坑位与达人种草节奏，抢占新品红利期。"
-    },
-    {
-      "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
-      "url": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
-      "source": "Engadget",
-      "sources": [
-        "Engadget"
-      ],
-      "publish_date": "2026-11-25",
-      "category": "媒体新闻",
       "category_id": "smart-watch",
-      "summary": "Long drives call for every trick you can get. See how your Apple Watch and CarPlay team up to keep you on course and a little more alert behind the wheel.",
+      "summary": "去年，Humane关闭了AI Pin的消费者云服务。这款别在衣服上的AI设备一度被寄予厚望，用户只需开口，就能完成许多原本需要掏出手机才能做的事。AI Pin最终没能进入主流市场，却给后来者留下了一道产品定义题 ， 手机已经有了成熟的计算、通信和应用生态， 用户为什么还需要一件戴在身上的AI设备？ 11月25日，在深圳举行的第七届紫光展锐智能穿戴沙龙上，紫光展锐智能穿戴产品线总经理李彬重新提...",
       "matched_keywords": [
-        "Apple Watch"
+        "手表"
       ],
-      "info_brief": "This helpful Apple Watch feature works seamlessly with Apple CarPlay。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "You don't have to look at your Apple Watch to get the time",
-      "url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
-      "source": "Engadget",
-      "sources": [
-        "Engadget"
-      ],
-      "publish_date": "2026-11-25",
-      "category": "媒体新闻",
-      "category_id": "smart-watch",
-      "summary": "Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.",
-      "matched_keywords": [
-        "Apple Watch"
-      ],
-      "info_brief": "You don't have to look at your Apple Watch to get the time。",
-      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头",
-      "url": "https://www.ithome.com/1/032/593.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "IT之家 11 月 26 日消息，消息人士 @Evan Blass 昨日曝光了联想 (Lenovo) 的新款 Yoga Book 笔记本电脑。 这一设备采用双屏设计 ， 配套大型外部摄像头 。 ▲@Evan Blass 放出的原图仅有上图的左侧，为提升观感上图进行了镜像扩充 IT之家注意到，该设备后部的摄像头外观与联想 Magic Bay 磁吸触点生态中现有的一款 4K AI 智能摄像头较为...",
-      "matched_keywords": [
-        "摄像头"
-      ],
-      "info_brief": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头。",
+      "info_brief": "手表和眼镜，如何成为AI智能体的「随身感官」。",
       "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
       "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
     },
     {
-      "title": "realme 真我 17 Pro 手机曝光：10000mAh 电池、65W 充电，天玑 7300 芯片",
-      "url": "https://www.ithome.com/1/032/597.htm",
-      "source": "IT之家",
+      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+      "source": "Wired",
       "sources": [
-        "IT之家"
-      ],
-      "publish_date": "2026-11-26",
-      "category": "媒体新闻",
-      "category_id": "surveillance",
-      "summary": "IT之家 11 月 26 日消息，消息源 Abhishek Yadav 昨日（11 月 25 日）在 X 平台发布推文，分享了一组图片，展示了 realme 真我 17 Pro 照片， 这款手机最大卖点是配备 10000mAh 容量电池，最高支持 65W 的 USB-C 快充。 外观方面，realme 17 Pro 沿用了上一代 realme 16 Pro 的设计，仍采用方形后置摄像头模组，...",
-      "matched_keywords": [
-        "摄像头"
-      ],
-      "info_brief": "realme 真我 17 Pro 手机曝光：10000mAh 电池、65W 充电，天玑 7300 芯片。",
-      "opportunity_insight": "新品周期开启，首发流量红利可期，建议跟进品牌首发节奏与种草矩阵布局。",
-      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
-    },
-    {
-      "title": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头",
-      "url": "https://www.ithome.com/1/032/593.htm",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
+        "Wired"
       ],
       "publish_date": "2026-11-26",
       "category": "媒体新闻",
       "category_id": "magnetic-accessories",
-      "summary": "IT之家 11 月 26 日消息，消息人士 @Evan Blass 昨日曝光了联想 (Lenovo) 的新款 Yoga Book 笔记本电脑。 这一设备采用双屏设计 ， 配套大型外部摄像头 。 ▲@Evan Blass 放出的原图仅有上图的左侧，为提升观感上图进行了镜像扩充 IT之家注意到，该设备后部的摄像头外观与联想 Magic Bay 磁吸触点生态中现有的一款 4K AI 智能摄像头较为...",
+      "summary": "The slim, convenient magnetic wallets you’ll actually want to stick to the back of your iPhone.",
       "matched_keywords": [
-        "磁吸"
+        "MagSafe"
       ],
-      "info_brief": "联想新款 Yoga Book 曝光：双屏笔电，配套大型外部摄像头。",
-      "opportunity_insight": "智能化升级驱动品类结构变化，具备AI/IoT能力的SKU将吃到结构性红利。",
-      "procurement_insight": "智能化保险柜需求持续升温，建议增加指纹/智能锁SKU占比，匹配中高端家庭客群。"
+      "info_brief": "The Best MagSafe Wallets for Your Everyday Carry (2026)。",
+      "opportunity_insight": "关注该品牌在该品类的后续动态，评估其对价格带与流量节奏的边际影响。",
+      "procurement_insight": "持续关注该品牌动态，评估其对相关价格带与流量节奏的边际影响。"
     }
   ]
 }
